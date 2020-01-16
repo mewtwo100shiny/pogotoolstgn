@@ -2064,6 +2064,12 @@
             "lng": 1.328177,
             "name": "Als Morts En Defensa De Les Llibertats"
         },
+        "7c952f55a0ca436d8f5701cd584e3760.16": {
+            "guid": "7c952f55a0ca436d8f5701cd584e3760.16",
+            "lat": 41.150302,
+            "lng": 1.38891,
+            "name": "unknown"
+        },
         "7c9eb57d274746279d8c0d395bb4bc70.16": {
             "guid": "7c9eb57d274746279d8c0d395bb4bc70.16",
             "lat": 41.152889,
@@ -2351,6 +2357,12 @@
             "lat": 41.162368,
             "lng": 1.100001,
             "name": "Dr Manhattan"
+        },
+        "8d90e09f135547d6b4f5acfe240a1c6f.16": {
+            "guid": "8d90e09f135547d6b4f5acfe240a1c6f.16",
+            "lat": 41.069984,
+            "lng": 1.070527,
+            "name": "unknown"
         },
         "8dd5b29e153c405caa8f2fd19d886625.16": {
             "guid": "8dd5b29e153c405caa8f2fd19d886625.16",
@@ -3632,8 +3644,8 @@
         },
         "e0a6da4b6f564dcb974d172ac01c876b.16": {
             "guid": "e0a6da4b6f564dcb974d172ac01c876b.16",
-            "lat": 41.106106,
-            "lng": 1.245822,
+            "lat": 41.106359,
+            "lng": 1.248071,
             "name": "unknown"
         },
         "e0be68a779ae4a24b427fa0bc533079f.16": {
@@ -8536,8 +8548,8 @@
         },
         "43cb25ab6afb49f8b305d55bd702d122.16": {
             "guid": "43cb25ab6afb49f8b305d55bd702d122.16",
-            "lat": 41.117187,
-            "lng": 1.24078,
+            "lat": 41.117113,
+            "lng": 1.240351,
             "name": "Entrada Oeste Parc de la Ciutat"
         },
         "43ea318714aa4a3093b701c4bac7f2ca.16": {
@@ -9662,12 +9674,6 @@
             "lng": 1.210059,
             "name": "Cementiri Vilallonga del Camp"
         },
-        "52c80d1abe5a41beb3aab5c07cd5ba2f.16": {
-            "guid": "52c80d1abe5a41beb3aab5c07cd5ba2f.16",
-            "lat": 41.157284,
-            "lng": 1.102014,
-            "name": "Placa Pere Caselles 1911"
-        },
         "52d696abb2ca42c6a81390a6580e90d9.11": {
             "guid": "52d696abb2ca42c6a81390a6580e90d9.11",
             "lat": 41.14288,
@@ -10644,7 +10650,7 @@
             "guid": "61ea92692d1641dd9786e3eca42a5169.16",
             "lat": 41.152393,
             "lng": 1.383785,
-            "name": "unknown"
+            "name": "Cam\u00ed d'Altafulla a la Pobla"
         },
         "61eb7eac614c4ef0ba40c02bfa6d0df7.16": {
             "guid": "61eb7eac614c4ef0ba40c02bfa6d0df7.16",
@@ -11060,6 +11066,12 @@
             "lng": 1.217984,
             "name": "unknown"
         },
+        "68cb857e361542fab0b6da634ec3e9a0.16": {
+            "guid": "68cb857e361542fab0b6da634ec3e9a0.16",
+            "lat": 41.148703,
+            "lng": 1.390272,
+            "name": "unknown"
+        },
         "68eec01480844b11af98769046e215ec.16": {
             "guid": "68eec01480844b11af98769046e215ec.16",
             "lat": 41.073883,
@@ -11113,6 +11125,12 @@
             "lat": 41.143148,
             "lng": 1.400678,
             "name": "Escudo De Torredembarra "
+        },
+        "69f77beabace400088a4dae842598f6f.16": {
+            "guid": "69f77beabace400088a4dae842598f6f.16",
+            "lat": 41.153929,
+            "lng": 1.100644,
+            "name": "Mapa Reus Biblio"
         },
         "6a01d23c60cb40b689de4fe2709831d5.16": {
             "guid": "6a01d23c60cb40b689de4fe2709831d5.16",
@@ -11611,6 +11629,12 @@
             "lat": 41.155117,
             "lng": 1.11015,
             "name": "Bravium Theatre"
+        },
+        "713b44b4325d49cc91f169a4ec20fc67.16": {
+            "guid": "713b44b4325d49cc91f169a4ec20fc67.16",
+            "lat": 41.026406,
+            "lng": 0.925902,
+            "name": "unknown"
         },
         "7168ae543c8d48b0b9c38dd515138ebf.16": {
             "guid": "7168ae543c8d48b0b9c38dd515138ebf.16",
@@ -13363,6 +13387,12 @@
             "lat": 41.091921,
             "lng": 1.154545,
             "name": "Fuente De Gold River"
+        },
+        "8c94c89ec9a842b9af110e8639da8018.16": {
+            "guid": "8c94c89ec9a842b9af110e8639da8018.16",
+            "lat": 41.06452,
+            "lng": 1.080354,
+            "name": "unknown"
         },
         "8c9c1ea0ddeb4b5280a89465eb1f864e.16": {
             "guid": "8c9c1ea0ddeb4b5280a89465eb1f864e.16",
@@ -15986,6 +16016,12 @@
             "lng": 0.975816,
             "name": "Escut Torre Del Sol"
         },
+        "b47254c07d74450c818fd2fbc874694d.16": {
+            "guid": "b47254c07d74450c818fd2fbc874694d.16",
+            "lat": 41.149025,
+            "lng": 1.39043,
+            "name": "unknown"
+        },
         "b4a3387eeb1641cc8b30e4d46afd4a3b.16": {
             "guid": "b4a3387eeb1641cc8b30e4d46afd4a3b.16",
             "lat": 41.136101,
@@ -18374,6 +18410,12 @@
             "lng": 1.152493,
             "name": "Placa Poema"
         },
+        "dba4c8c245d247efb2595a4b28c66fa2.16": {
+            "guid": "dba4c8c245d247efb2595a4b28c66fa2.16",
+            "lat": 41.149833,
+            "lng": 1.389633,
+            "name": "unknown"
+        },
         "dbbb58578ece4e08abf61e57716cbe6a.16": {
             "guid": "dbbb58578ece4e08abf61e57716cbe6a.16",
             "lat": 41.083828,
@@ -19303,6 +19345,12 @@
             "lat": 41.078439,
             "lng": 1.184014,
             "name": "Fuentes Amarillas"
+        },
+        "e9bd7b5b7eee420eb5dc40d933089d77.16": {
+            "guid": "e9bd7b5b7eee420eb5dc40d933089d77.16",
+            "lat": 40.990289,
+            "lng": 0.917907,
+            "name": "unknown"
         },
         "e9c442a401404925b93b94ce83749b77.16": {
             "guid": "e9c442a401404925b93b94ce83749b77.16",
