@@ -966,6 +966,12 @@
             "lng": 0.929611,
             "name": "Vaixell Encallat"
         },
+        "38e7d805809f4c7aaaf2cf22a4ae21b5.16": {
+            "guid": "38e7d805809f4c7aaaf2cf22a4ae21b5.16",
+            "lat": 41.027532,
+            "lng": 0.922839,
+            "name": "unknown"
+        },
         "39182b86f37d4e6b87e846d5a6c5fa2f.16": {
             "guid": "39182b86f37d4e6b87e846d5a6c5fa2f.16",
             "lat": 41.144007,
@@ -8504,6 +8510,12 @@
             "lng": 1.257726,
             "name": "Flower Shop"
         },
+        "4335b1ab399a426996baa35e4f63674e.16": {
+            "guid": "4335b1ab399a426996baa35e4f63674e.16",
+            "lat": 41.005094,
+            "lng": 0.934983,
+            "name": "unknown"
+        },
         "434d7d1f5616441994e4b6837f034c99.16": {
             "guid": "434d7d1f5616441994e4b6837f034c99.16",
             "lat": 41.170483,
@@ -11070,7 +11082,7 @@
             "guid": "68cb857e361542fab0b6da634ec3e9a0.16",
             "lat": 41.148703,
             "lng": 1.390272,
-            "name": "unknown"
+            "name": "Graffiti pag\u00e8s"
         },
         "68eec01480844b11af98769046e215ec.16": {
             "guid": "68eec01480844b11af98769046e215ec.16",
@@ -11634,7 +11646,7 @@
             "guid": "713b44b4325d49cc91f169a4ec20fc67.16",
             "lat": 41.026406,
             "lng": 0.925902,
-            "name": "unknown"
+            "name": "Via Marina"
         },
         "7168ae543c8d48b0b9c38dd515138ebf.16": {
             "guid": "7168ae543c8d48b0b9c38dd515138ebf.16",
@@ -11725,6 +11737,12 @@
             "lat": 41.160751,
             "lng": 1.097636,
             "name": "Skull Lollipop"
+        },
+        "72dcb840733049a1bec37e4276ba1b97.16": {
+            "guid": "72dcb840733049a1bec37e4276ba1b97.16",
+            "lat": 41.108018,
+            "lng": 1.145948,
+            "name": "unknown"
         },
         "72e53a18e9ea4673a6bc3e9275a5976d.16": {
             "guid": "72e53a18e9ea4673a6bc3e9275a5976d.16",
@@ -12740,6 +12758,12 @@
             "lng": 1.240359,
             "name": "Arte Urbano"
         },
+        "832deea44d6e444eb6010cc9a3caed05.16": {
+            "guid": "832deea44d6e444eb6010cc9a3caed05.16",
+            "lat": 41.158541,
+            "lng": 1.101592,
+            "name": "unknown"
+        },
         "833daa78a8e344d085e669f6781ee3b3.16": {
             "guid": "833daa78a8e344d085e669f6781ee3b3.16",
             "lat": 40.998846,
@@ -13392,7 +13416,7 @@
             "guid": "8c94c89ec9a842b9af110e8639da8018.16",
             "lat": 41.06452,
             "lng": 1.080354,
-            "name": "unknown"
+            "name": "Fuente en el paseo"
         },
         "8c9c1ea0ddeb4b5280a89465eb1f864e.16": {
             "guid": "8c9c1ea0ddeb4b5280a89465eb1f864e.16",
@@ -16020,7 +16044,7 @@
             "guid": "b47254c07d74450c818fd2fbc874694d.16",
             "lat": 41.149025,
             "lng": 1.39043,
-            "name": "unknown"
+            "name": "Escudo e Iglesia de Torredembarra"
         },
         "b4a3387eeb1641cc8b30e4d46afd4a3b.16": {
             "guid": "b4a3387eeb1641cc8b30e4d46afd4a3b.16",
@@ -16795,6 +16819,12 @@
             "lat": 41.146163,
             "lng": 1.113885,
             "name": "Old towers"
+        },
+        "c156e40e81a94ea7b75052b6801a2065.16": {
+            "guid": "c156e40e81a94ea7b75052b6801a2065.16",
+            "lat": 41.026554,
+            "lng": 0.924306,
+            "name": "unknown"
         },
         "c16ff84786514969872b8d3bb426a8e9.16": {
             "guid": "c16ff84786514969872b8d3bb426a8e9.16",
@@ -18414,7 +18444,7 @@
             "guid": "dba4c8c245d247efb2595a4b28c66fa2.16",
             "lat": 41.149833,
             "lng": 1.389633,
-            "name": "unknown"
+            "name": "Graffiti Gallina y Conejo"
         },
         "dbbb58578ece4e08abf61e57716cbe6a.16": {
             "guid": "dbbb58578ece4e08abf61e57716cbe6a.16",
@@ -19350,7 +19380,7 @@
             "guid": "e9bd7b5b7eee420eb5dc40d933089d77.16",
             "lat": 40.990289,
             "lng": 0.917907,
-            "name": "unknown"
+            "name": "Emblema De Sant Roc"
         },
         "e9c442a401404925b93b94ce83749b77.16": {
             "guid": "e9c442a401404925b93b94ce83749b77.16",
@@ -19927,6 +19957,12 @@
             "lat": 41.14405,
             "lng": 1.112728,
             "name": "mirada ECU de la pobreza"
+        },
+        "f12fb0b95c934b3098c64b4a80e1e9b7.16": {
+            "guid": "f12fb0b95c934b3098c64b4a80e1e9b7.16",
+            "lat": 41.117753,
+            "lng": 1.213106,
+            "name": "unknown"
         },
         "f1592beaf9694a819604b9869b8fb11f.16": {
             "guid": "f1592beaf9694a819604b9869b8fb11f.16",
