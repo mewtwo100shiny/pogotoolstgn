@@ -82,7 +82,7 @@
             "guid": "0438ad97c0b14c59bcc1a58f09775a57.16",
             "lat": 41.131174,
             "lng": 1.200511,
-            "name": "untitled portal"
+            "name": "La Tagliatella Gavarres"
         },
         "046959bcc8f048e9a22e6b9383616552.16": {
             "guid": "046959bcc8f048e9a22e6b9383616552.16",
@@ -166,7 +166,7 @@
             "guid": "07b5c253960e425c8254c4fddfc9a809.16",
             "lat": 41.113915,
             "lng": 1.224166,
-            "name": "Almacn De Libros"
+            "name": "Almac\u00e9n De Libros"
         },
         "085ec3b00d3249c392ce15ad1a97e64c.16": {
             "guid": "085ec3b00d3249c392ce15ad1a97e64c.16",
@@ -305,6 +305,12 @@
             "lat": 41.143595,
             "lng": 1.099764,
             "name": "Esgl\u00e9sia de Miseric\u00f2rdia"
+        },
+        "13699b3085fb4b7ea6723777f032dc28.16": {
+            "guid": "13699b3085fb4b7ea6723777f032dc28.16",
+            "lat": 41.083999,
+            "lng": 1.182299,
+            "name": "unknown"
         },
         "13a6fadd051745238652ba7b531f85a3.16": {
             "guid": "13a6fadd051745238652ba7b531f85a3.16",
@@ -640,7 +646,7 @@
             "guid": "257478b382b24bf6898fc0ce1d8b69e4.16",
             "lat": 41.1176,
             "lng": 1.214222,
-            "name": "unknown"
+            "name": "Espai L\u00fadic Los Naranjos"
         },
         "25dfb858a5384fac88d030c6aedbdcd7.16": {
             "guid": "25dfb858a5384fac88d030c6aedbdcd7.16",
@@ -742,7 +748,7 @@
             "guid": "29b766d43c6b42a4adb81ea30d0ce8c6.16",
             "lat": 41.122408,
             "lng": 1.249568,
-            "name": "Universitat Rovira I Virgili"
+            "name": "Campus Catalunya de la Universitat Rovira i Virgili"
         },
         "29f3ce6b5501461595f71acfe326f3f7.16": {
             "guid": "29f3ce6b5501461595f71acfe326f3f7.16",
@@ -1120,7 +1126,7 @@
             "guid": "41d0a2108bd646109e10789f7d272dcd.16",
             "lat": 41.124047,
             "lng": 1.219146,
-            "name": "unknown"
+            "name": "Parc Riuclar - Pla\u00e7a Elena Regidor"
         },
         "425b209bd5d444b7bf429fc46a74afbc.16": {
             "guid": "425b209bd5d444b7bf429fc46a74afbc.16",
@@ -1468,7 +1474,7 @@
             "guid": "5be9d797db6a42ab8c56cf0c6c428fb7.16",
             "lat": 41.107301,
             "lng": 1.248677,
-            "name": "unknown"
+            "name": "Parc Infantil Del Port"
         },
         "5c5eef0429d94882981dc6b60f963701.16": {
             "guid": "5c5eef0429d94882981dc6b60f963701.16",
@@ -1714,7 +1720,7 @@
             "guid": "689e02d7298d45f7a43d466984398e0a.16",
             "lat": 41.122721,
             "lng": 1.249524,
-            "name": "unknown"
+            "name": "CRAI Campus Catalunya"
         },
         "68c86e246072429baffd92e86e1a13af.16": {
             "guid": "68c86e246072429baffd92e86e1a13af.16",
@@ -1744,7 +1750,7 @@
             "guid": "69ce91f7b43a4e088c8814c7b3e4758c.16",
             "lat": 41.117183,
             "lng": 1.204718,
-            "name": "Casal Cvic"
+            "name": "Casal C\u00edvic"
         },
         "6bc74a54906f4b7a91d0d4912135b995.16": {
             "guid": "6bc74a54906f4b7a91d0d4912135b995.16",
@@ -2260,7 +2266,7 @@
             "guid": "88e45568eca644c2890643c42a61d812.16",
             "lat": 41.12264,
             "lng": 1.234991,
-            "name": "Castell del Francol "
+            "name": "Castell del Francol\u00ed "
         },
         "88f58202c5154baa9ba6e131e50f7fac.16": {
             "guid": "88f58202c5154baa9ba6e131e50f7fac.16",
@@ -2410,7 +2416,7 @@
             "guid": "903b582aba4f43a9a490f7bc6b95dca7.16",
             "lat": 41.119069,
             "lng": 1.218519,
-            "name": "TGN - Torreforta, Esglsia"
+            "name": "TGN - Torreforta, Esgl\u00e8sia"
         },
         "9070fb0f0b1c433e8a91a89ccf79422d.16": {
             "guid": "9070fb0f0b1c433e8a91a89ccf79422d.16",
@@ -2452,7 +2458,7 @@
             "guid": "92a80fdd7111406eb40154c2df676f37.16",
             "lat": 41.11898,
             "lng": 1.245531,
-            "name": "Font de la Imperial"
+            "name": "Fuente de la Imperial Tarraco"
         },
         "93a98e9fa9a64d18802537099d6d63a6.16": {
             "guid": "93a98e9fa9a64d18802537099d6d63a6.16",
@@ -2906,9 +2912,9 @@
         },
         "afdad2e10de7403d9a09ad611bc61e6f.16": {
             "guid": "afdad2e10de7403d9a09ad611bc61e6f.16",
-            "lat": 41.113976,
-            "lng": 1.241688,
-            "name": "Casa Del Mar"
+            "lat": 41.113982,
+            "lng": 1.241566,
+            "name": "Casa del Mar"
         },
         "b02a676f86614298a6686605c093cbd0.16": {
             "guid": "b02a676f86614298a6686605c093cbd0.16",
@@ -3100,7 +3106,7 @@
             "guid": "bbeddec2732f4bedad3887c803af622c.16",
             "lat": 41.115963,
             "lng": 1.239671,
-            "name": "unknown"
+            "name": "Museu Nacional Arqueol\u00f2gic de Tarragona"
         },
         "bc101b59e45a428ab8f5715e7cc4e930.16": {
             "guid": "bc101b59e45a428ab8f5715e7cc4e930.16",
@@ -3652,7 +3658,7 @@
             "guid": "e0a6da4b6f564dcb974d172ac01c876b.16",
             "lat": 41.106359,
             "lng": 1.248071,
-            "name": "unknown"
+            "name": "Waves"
         },
         "e0be68a779ae4a24b427fa0bc533079f.16": {
             "guid": "e0be68a779ae4a24b427fa0bc533079f.16",
@@ -3868,13 +3874,13 @@
             "guid": "ed2c76f6fd264b118692d117ddd78049.16",
             "lat": 41.115953,
             "lng": 1.238475,
-            "name": "Necrpolis Paleocristiana"
+            "name": "Necr\u00f2polis Paleocristiana"
         },
         "ed34834a7c4449269d697aa044259711.16": {
             "guid": "ed34834a7c4449269d697aa044259711.16",
             "lat": 41.118239,
             "lng": 1.208235,
-            "name": "unknown"
+            "name": "Parque De Adultos"
         },
         "ee32b44af2634e3eb1d78dacd005c70d.16": {
             "guid": "ee32b44af2634e3eb1d78dacd005c70d.16",
@@ -3946,7 +3952,7 @@
             "guid": "f4792c98790349c7a8a379936b3e5610.16",
             "lat": 41.116537,
             "lng": 1.217568,
-            "name": "unknown"
+            "name": "La Carpa Musical"
         },
         "f50aa1ce5e8244a4bb25db375f0d0ffe.16": {
             "guid": "f50aa1ce5e8244a4bb25db375f0d0ffe.16",
@@ -5527,12 +5533,6 @@
             "lat": 41.121633,
             "lng": 1.203328,
             "name": "Campo de rugby"
-        },
-        "13699b3085fb4b7ea6723777f032dc28.16": {
-            "guid": "13699b3085fb4b7ea6723777f032dc28.16",
-            "lat": 41.083999,
-            "lng": 1.182299,
-            "name": "Fuente Hacienda"
         },
         "137681c1c53749d88f540619c93342b5.16": {
             "guid": "137681c1c53749d88f540619c93342b5.16",
@@ -8414,6 +8414,12 @@
             "lng": 1.113272,
             "name": "pintor fortuny"
         },
+        "415d606f3e1747bd9f6619790896d600.16": {
+            "guid": "415d606f3e1747bd9f6619790896d600.16",
+            "lat": 41.065158,
+            "lng": 1.055601,
+            "name": "man of color"
+        },
         "417c284d796a4c5d9f3c158d2e516e54.16": {
             "guid": "417c284d796a4c5d9f3c158d2e516e54.16",
             "lat": 40.990902,
@@ -8425,6 +8431,12 @@
             "lat": 41.081331,
             "lng": 1.135493,
             "name": "Rovira I Virgili Campus Extens Salou"
+        },
+        "41a854494fe1498a81621610fda494a2.16": {
+            "guid": "41a854494fe1498a81621610fda494a2.16",
+            "lat": 40.98125,
+            "lng": 0.906289,
+            "name": "unknown"
         },
         "41aa73fc61954a26a66113996d7ee871.16": {
             "guid": "41aa73fc61954a26a66113996d7ee871.16",
@@ -8514,7 +8526,7 @@
             "guid": "4335b1ab399a426996baa35e4f63674e.16",
             "lat": 41.005094,
             "lng": 0.934983,
-            "name": "unknown"
+            "name": "Ballena azul"
         },
         "434d7d1f5616441994e4b6837f034c99.16": {
             "guid": "434d7d1f5616441994e4b6837f034c99.16",
@@ -9535,6 +9547,12 @@
             "lat": 41.148043,
             "lng": 1.107907,
             "name": "Constelaci\u00f3n"
+        },
+        "510507b6330c4f47aac69557fcaeff25.16": {
+            "guid": "510507b6330c4f47aac69557fcaeff25.16",
+            "lat": 41.188793,
+            "lng": 1.206666,
+            "name": "unknown"
         },
         "5115886671a642eab71488dd8dfd721f.16": {
             "guid": "5115886671a642eab71488dd8dfd721f.16",
@@ -11742,7 +11760,7 @@
             "guid": "72dcb840733049a1bec37e4276ba1b97.16",
             "lat": 41.108018,
             "lng": 1.145948,
-            "name": "unknown"
+            "name": "Xiprer, Pou i Figuera"
         },
         "72e53a18e9ea4673a6bc3e9275a5976d.16": {
             "guid": "72e53a18e9ea4673a6bc3e9275a5976d.16",
@@ -12762,13 +12780,19 @@
             "guid": "832deea44d6e444eb6010cc9a3caed05.16",
             "lat": 41.158541,
             "lng": 1.101592,
-            "name": "unknown"
+            "name": "Graffiti Calle A"
         },
         "833daa78a8e344d085e669f6781ee3b3.16": {
             "guid": "833daa78a8e344d085e669f6781ee3b3.16",
             "lat": 40.998846,
             "lng": 0.921837,
             "name": "Fuente Del Llastres"
+        },
+        "8349659395ab488faeb98f5fbacdd9d6.16": {
+            "guid": "8349659395ab488faeb98f5fbacdd9d6.16",
+            "lat": 41.08446,
+            "lng": 1.181604,
+            "name": "Mesa de ping pong"
         },
         "8351670379894138ad235906cecb02b1.16": {
             "guid": "8351670379894138ad235906cecb02b1.16",
@@ -16040,6 +16064,12 @@
             "lng": 0.975816,
             "name": "Escut Torre Del Sol"
         },
+        "b4512af76b0246e1bf00ff537e542aba.16": {
+            "guid": "b4512af76b0246e1bf00ff537e542aba.16",
+            "lat": 41.13709,
+            "lng": 1.338128,
+            "name": "Porta de Tarragona"
+        },
         "b47254c07d74450c818fd2fbc874694d.16": {
             "guid": "b47254c07d74450c818fd2fbc874694d.16",
             "lat": 41.149025,
@@ -16824,7 +16854,7 @@
             "guid": "c156e40e81a94ea7b75052b6801a2065.16",
             "lat": 41.026554,
             "lng": 0.924306,
-            "name": "unknown"
+            "name": "Pista de petanca"
         },
         "c16ff84786514969872b8d3bb426a8e9.16": {
             "guid": "c16ff84786514969872b8d3bb426a8e9.16",
@@ -18133,6 +18163,12 @@
             "lat": 41.086739,
             "lng": 0.956131,
             "name": "Punto De Vista Mir\u00f3"
+        },
+        "d7439c8c6a7b4bdd8f7117fce435adba.16": {
+            "guid": "d7439c8c6a7b4bdd8f7117fce435adba.16",
+            "lat": 41.07408,
+            "lng": 1.135225,
+            "name": "unknown"
         },
         "d7553bb6317544af96d4efc6ac348c09.16": {
             "guid": "d7553bb6317544af96d4efc6ac348c09.16",
@@ -19962,7 +19998,7 @@
             "guid": "f12fb0b95c934b3098c64b4a80e1e9b7.16",
             "lat": 41.117753,
             "lng": 1.213106,
-            "name": "unknown"
+            "name": "Alma Flamenca"
         },
         "f1592beaf9694a819604b9869b8fb11f.16": {
             "guid": "f1592beaf9694a819604b9869b8fb11f.16",
@@ -20228,6 +20264,12 @@
             "lng": 1.262953,
             "name": "Cam\u00ed de la Cuixa"
         },
+        "f530fe18b02f4d9288c47f800d968fb5.16": {
+            "guid": "f530fe18b02f4d9288c47f800d968fb5.16",
+            "lat": 41.066027,
+            "lng": 1.08978,
+            "name": "unknown"
+        },
         "f5443b9ddf8b48ab85cac5067d7cb87c.16": {
             "guid": "f5443b9ddf8b48ab85cac5067d7cb87c.16",
             "lat": 41.141694,
@@ -20437,6 +20479,12 @@
             "lat": 41.121803,
             "lng": 1.206683,
             "name": "Pista de Atletismo"
+        },
+        "f73afd3e948645baa365d33dec0b7f5c.16": {
+            "guid": "f73afd3e948645baa365d33dec0b7f5c.16",
+            "lat": 41.007892,
+            "lng": 0.937803,
+            "name": "Centre cultural isl\u00e1mico Miami Platja."
         },
         "f73d1882b64a45e984eeed717aa34fd0.11": {
             "guid": "f73d1882b64a45e984eeed717aa34fd0.11",
