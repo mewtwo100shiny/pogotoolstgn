@@ -2922,6 +2922,12 @@
             "lng": 1.254431,
             "name": "unknown"
         },
+        "b0c3b42201844b39adf0297bce09c01c.16": {
+            "guid": "b0c3b42201844b39adf0297bce09c01c.16",
+            "lat": 41.122457,
+            "lng": 1.273488,
+            "name": "unknown"
+        },
         "b1232a92bdf741029163dbe3cf6c38a8.16": {
             "guid": "b1232a92bdf741029163dbe3cf6c38a8.16",
             "lat": 41.11715,
@@ -4742,6 +4748,12 @@
             "lng": 1.041078,
             "name": "Parque Para Perros En Vinyols"
         },
+        "07ced08f91454e499a50f980071001c0.16": {
+            "guid": "07ced08f91454e499a50f980071001c0.16",
+            "lat": 41.130095,
+            "lng": 1.129553,
+            "name": "Campo de futbol sala"
+        },
         "07d7c7f69b144b1dbdc6fcb0a68339a8.16": {
             "guid": "07d7c7f69b144b1dbdc6fcb0a68339a8.16",
             "lat": 41.071656,
@@ -5809,6 +5821,12 @@
             "lat": 40.99257,
             "lng": 0.917448,
             "name": "Pont Antic Porrasa"
+        },
+        "17370e92bc854708b12affa6d4e70e9f.16": {
+            "guid": "17370e92bc854708b12affa6d4e70e9f.16",
+            "lat": 41.118435,
+            "lng": 1.270921,
+            "name": "Sol negre"
         },
         "173b0483b5cc410292558fc7178174cf.16": {
             "guid": "173b0483b5cc410292558fc7178174cf.16",
@@ -7135,6 +7153,12 @@
             "lat": 41.211012,
             "lng": 1.186686,
             "name": "Parc La Montoliva"
+        },
+        "2cbc036420b0439eb42a6aa3c2f5e01f.16": {
+            "guid": "2cbc036420b0439eb42a6aa3c2f5e01f.16",
+            "lat": 41.139535,
+            "lng": 1.302399,
+            "name": "Camins de Tarragona"
         },
         "2cda2b1c613149bcaacb8fee578006a0.16": {
             "guid": "2cda2b1c613149bcaacb8fee578006a0.16",
@@ -9552,7 +9576,7 @@
             "guid": "510507b6330c4f47aac69557fcaeff25.16",
             "lat": 41.188793,
             "lng": 1.206666,
-            "name": "unknown"
+            "name": "estatua de piedras"
         },
         "5115886671a642eab71488dd8dfd721f.16": {
             "guid": "5115886671a642eab71488dd8dfd721f.16",
@@ -15800,12 +15824,6 @@
             "lng": 1.092478,
             "name": "Noia Futurista"
         },
-        "b0c3b42201844b39adf0297bce09c01c.16": {
-            "guid": "b0c3b42201844b39adf0297bce09c01c.16",
-            "lat": 41.122457,
-            "lng": 1.273488,
-            "name": "Poem In The Ground"
-        },
         "b0c3ea5c578f4eac9e27a3fc31e940b3.16": {
             "guid": "b0c3ea5c578f4eac9e27a3fc31e940b3.16",
             "lat": 41.145512,
@@ -17332,8 +17350,8 @@
         },
         "c8576bd51ada43858eebb75c86c22d19.16": {
             "guid": "c8576bd51ada43858eebb75c86c22d19.16",
-            "lat": 41.112484,
-            "lng": 1.252461,
+            "lat": 41.112403,
+            "lng": 1.252289,
             "name": "Parc Infantil del Palau Firal"
         },
         "c87466227910478d85e3625229adc004.16": {
@@ -18168,7 +18186,7 @@
             "guid": "d7439c8c6a7b4bdd8f7117fce435adba.16",
             "lat": 41.07408,
             "lng": 1.135225,
-            "name": "unknown"
+            "name": "Gimnasio en la playa"
         },
         "d7553bb6317544af96d4efc6ac348c09.16": {
             "guid": "d7553bb6317544af96d4efc6ac348c09.16",
@@ -18794,6 +18812,12 @@
             "lng": 0.871209,
             "name": "unknown"
         },
+        "df68e667c6644c5091c905b1583f5e12.16": {
+            "guid": "df68e667c6644c5091c905b1583f5e12.16",
+            "lat": 41.068296,
+            "lng": 1.094943,
+            "name": "unknown"
+        },
         "df99123773774b3b8ae0a046d8d4fc2d.16": {
             "guid": "df99123773774b3b8ae0a046d8d4fc2d.16",
             "lat": 41.020498,
@@ -18817,6 +18841,12 @@
             "lat": 41.087818,
             "lng": 0.957324,
             "name": "Cintu Quadrus"
+        },
+        "e008fa662030476d8f84395d037f3dee.16": {
+            "guid": "e008fa662030476d8f84395d037f3dee.16",
+            "lat": 41.111962,
+            "lng": 1.252643,
+            "name": "Palau Firal"
         },
         "e00b5c43a1fa4edcb709748718dff9d8.16": {
             "guid": "e00b5c43a1fa4edcb709748718dff9d8.16",
@@ -19303,6 +19333,12 @@
             "lat": 41.023006,
             "lng": 0.938969,
             "name": "Playground Venezuela"
+        },
+        "e7094634cf0c4880b6f9cad9a18ef226.16": {
+            "guid": "e7094634cf0c4880b6f9cad9a18ef226.16",
+            "lat": 41.117207,
+            "lng": 1.216815,
+            "name": "Mercat Municipal De Torreforta"
         },
         "e719945949a74576b8f39b6fc7efc925.16": {
             "guid": "e719945949a74576b8f39b6fc7efc925.16",
@@ -20268,7 +20304,7 @@
             "guid": "f530fe18b02f4d9288c47f800d968fb5.16",
             "lat": 41.066027,
             "lng": 1.08978,
-            "name": "unknown"
+            "name": "barras de ejercicios"
         },
         "f5443b9ddf8b48ab85cac5067d7cb87c.16": {
             "guid": "f5443b9ddf8b48ab85cac5067d7cb87c.16",
