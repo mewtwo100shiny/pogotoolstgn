@@ -7340,6 +7340,12 @@
             "lng": 1.248709,
             "name": "Los gatos del barrio"
         },
+        "2f7a2160bff64eebb63f31e7334d23a7.16": {
+            "guid": "2f7a2160bff64eebb63f31e7334d23a7.16",
+            "lat": 41.154184,
+            "lng": 1.105498,
+            "name": "Convent Clarisses"
+        },
         "2f7cc0fdc4e94f649f6e9dfc3cbe6109.16": {
             "guid": "2f7cc0fdc4e94f649f6e9dfc3cbe6109.16",
             "lat": 41.154426,
@@ -8204,6 +8210,12 @@
             "lng": 0.958583,
             "name": "El Tbo"
         },
+        "3d2492dbc2e24c089a04c299102b53dd.16": {
+            "guid": "3d2492dbc2e24c089a04c299102b53dd.16",
+            "lat": 41.114674,
+            "lng": 1.242001,
+            "name": "Plano Tarraco"
+        },
         "3d29fbe84cff453b90cc901e88c911fd.16": {
             "guid": "3d29fbe84cff453b90cc901e88c911fd.16",
             "lat": 41.157059,
@@ -8269,6 +8281,12 @@
             "lat": 41.079606,
             "lng": 0.952232,
             "name": "Quimeres"
+        },
+        "3dd6e0c7d8b34114b82aac91b7f09075.16": {
+            "guid": "3dd6e0c7d8b34114b82aac91b7f09075.16",
+            "lat": 41.116451,
+            "lng": 1.217115,
+            "name": "Carpa Nou Centre"
         },
         "3df807bd23754bbdae63b27cf7a90386.16": {
             "guid": "3df807bd23754bbdae63b27cf7a90386.16",
@@ -9410,6 +9428,12 @@
             "lng": 1.251855,
             "name": "Edifici Enher"
         },
+        "4edef2c717f4447b943c8f5170f16621.16": {
+            "guid": "4edef2c717f4447b943c8f5170f16621.16",
+            "lat": 41.108907,
+            "lng": 1.240199,
+            "name": "Cofraria de Pescadores de Tarragona"
+        },
         "4ee5cf804cb5456a9108079eaa94b7f4.16": {
             "guid": "4ee5cf804cb5456a9108079eaa94b7f4.16",
             "lat": 41.162273,
@@ -10369,6 +10393,12 @@
             "lat": 41.115248,
             "lng": 1.25092,
             "name": "Escut Del Governador"
+        },
+        "5c42623a8b464d7aa7ce9a73f0bfabf7.16": {
+            "guid": "5c42623a8b464d7aa7ce9a73f0bfabf7.16",
+            "lat": 41.122037,
+            "lng": 1.217666,
+            "name": "Mesa ping-pong"
         },
         "5c462e26c9774376a02b57b87189a3f1.16": {
             "guid": "5c462e26c9774376a02b57b87189a3f1.16",
@@ -13580,6 +13610,12 @@
             "lng": 1.244798,
             "name": "Port Tarraco"
         },
+        "8e1b6fb18eda4f8da154b78f0bf327d8.16": {
+            "guid": "8e1b6fb18eda4f8da154b78f0bf327d8.16",
+            "lat": 41.117328,
+            "lng": 1.252752,
+            "name": "Fachada encordada"
+        },
         "8e2c9a4b29b14f8080b62169e7b175a5.16": {
             "guid": "8e2c9a4b29b14f8080b62169e7b175a5.16",
             "lat": 41.109145,
@@ -15806,6 +15842,12 @@
             "lng": 1.136159,
             "name": "Torre De La Muralla"
         },
+        "b050c58d6423433d896e0e6ecc139861.16": {
+            "guid": "b050c58d6423433d896e0e6ecc139861.16",
+            "lat": 41.130368,
+            "lng": 1.128399,
+            "name": "Iglesia La Plana"
+        },
         "b068f8275d2f4ed99fd9b97c48695843.16": {
             "guid": "b068f8275d2f4ed99fd9b97c48695843.16",
             "lat": 41.11864,
@@ -17310,7 +17352,7 @@
             "guid": "c7b8151625a04ac6bd49e66f83cd7515.16",
             "lat": 41.159186,
             "lng": 1.098446,
-            "name": "Senyor dels Graffitis"
+            "name": "Graffitis"
         },
         "c7ccb79e3369458f8d31679d75ebe6c7.16": {
             "guid": "c7ccb79e3369458f8d31679d75ebe6c7.16",
@@ -17605,6 +17647,12 @@
             "lat": 41.173922,
             "lng": 1.27159,
             "name": "Fa\u00e7ana de les Flors"
+        },
+        "cc41676cdc8e4c89851a5d9f0d722a7e.16": {
+            "guid": "cc41676cdc8e4c89851a5d9f0d722a7e.16",
+            "lat": 40.989352,
+            "lng": 0.917993,
+            "name": "unknown"
         },
         "cc48c2e4f935475293d945229aed7ea1.16": {
             "guid": "cc48c2e4f935475293d945229aed7ea1.16",
@@ -18816,7 +18864,7 @@
             "guid": "df68e667c6644c5091c905b1583f5e12.16",
             "lat": 41.068296,
             "lng": 1.094943,
-            "name": "unknown"
+            "name": "Antigua prensa"
         },
         "df99123773774b3b8ae0a046d8d4fc2d.16": {
             "guid": "df99123773774b3b8ae0a046d8d4fc2d.16",
@@ -19441,6 +19489,12 @@
             "lat": 41.118497,
             "lng": 1.273591,
             "name": "M\u00e1quinas Ejercicios Playa Arrabassada"
+        },
+        "e9b9951585284894a4f268c75f916f51.16": {
+            "guid": "e9b9951585284894a4f268c75f916f51.16",
+            "lat": 41.121395,
+            "lng": 1.268393,
+            "name": "Font del parc del Mol\u00ed del Llevant"
         },
         "e9bc101eaae44c9f9a3286f715112ba3.16": {
             "guid": "e9bc101eaae44c9f9a3286f715112ba3.16",
