@@ -5534,6 +5534,12 @@
             "lng": 1.158976,
             "name": "Woody"
         },
+        "133c60ede77b4b169ab2ddf51ec68d01.16": {
+            "guid": "133c60ede77b4b169ab2ddf51ec68d01.16",
+            "lat": 41.20975,
+            "lng": 1.208277,
+            "name": "Parc petit Vilallonga"
+        },
         "135b366c95494a71b737f1573a55ca24.16": {
             "guid": "135b366c95494a71b737f1573a55ca24.16",
             "lat": 41.121633,
@@ -9306,7 +9312,7 @@
             "guid": "4e55979c9a1041b4927457fbec3b4b8f.16",
             "lat": 41.118006,
             "lng": 1.2428,
-            "name": "Campo Polideportivo"
+            "name": "Antigua Porteria"
         },
         "4e56e89d2d964227bfb27628e4f6269c.16": {
             "guid": "4e56e89d2d964227bfb27628e4f6269c.16",
@@ -15112,8 +15118,8 @@
         },
         "a73baafc7d8a4e19859ea6f737655c76.16": {
             "guid": "a73baafc7d8a4e19859ea6f737655c76.16",
-            "lat": 41.117038,
-            "lng": 1.24233,
+            "lat": 41.116945,
+            "lng": 1.242083,
             "name": "Colombian Independence"
         },
         "a7464c83b2f24fcb9f4042fbff6b5f6c.16": {
@@ -16759,6 +16765,12 @@
             "lat": 41.113755,
             "lng": 1.240995,
             "name": "Tarragona 2016"
+        },
+        "c0f9e2b34a9d463c9c3cf0812207e17a.16": {
+            "guid": "c0f9e2b34a9d463c9c3cf0812207e17a.16",
+            "lat": 41.116916,
+            "lng": 1.242566,
+            "name": "A La Revoluci\u00f3n De Mayo En Argentina"
         },
         "c0ff1064ae1a41b494a2cf5e92cdab90.16": {
             "guid": "c0ff1064ae1a41b494a2cf5e92cdab90.16",
@@ -19954,8 +19966,8 @@
         },
         "f1b24f547812476fba6c3183ee35bd68.16": {
             "guid": "f1b24f547812476fba6c3183ee35bd68.16",
-            "lat": 41.117794,
-            "lng": 1.242349,
+            "lat": 41.117839,
+            "lng": 1.241848,
             "name": "Rafael Puig I Valls"
         },
         "f1cd22c3341f4a1699cf2bac1cef0577.16": {
