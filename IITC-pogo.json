@@ -5776,8 +5776,8 @@
         },
         "16a89e62f5474366adf515f9fabfefc0.16": {
             "guid": "16a89e62f5474366adf515f9fabfefc0.16",
-            "lat": 41.119081,
-            "lng": 1.259672,
+            "lat": 41.119089,
+            "lng": 1.259495,
             "name": "Esgl\u00e9sia de Sant Lloren\u00e7"
         },
         "16aab5a27c844cb59fd199260d254b64.16": {
@@ -7478,6 +7478,12 @@
             "lng": 1.405413,
             "name": "Escultura Abstracta"
         },
+        "31c4e3319d124235b11021c93b24ca03.16": {
+            "guid": "31c4e3319d124235b11021c93b24ca03.16",
+            "lat": 41.118892,
+            "lng": 1.259934,
+            "name": "Sol negro"
+        },
         "31e64c8cbd0d4a30a4c15605c5dc7bec.16": {
             "guid": "31e64c8cbd0d4a30a4c15605c5dc7bec.16",
             "lat": 41.162226,
@@ -8140,8 +8146,8 @@
         },
         "3c66ba1a3b2443a0a311fc25d4dbb23b.16": {
             "guid": "3c66ba1a3b2443a0a311fc25d4dbb23b.16",
-            "lat": 41.119185,
-            "lng": 1.244484,
+            "lat": 41.119155,
+            "lng": 1.244619,
             "name": "Administraci\u00f3n Del Estado De Tarragona"
         },
         "3c682f3b74784028a4d312005d904df5.16": {
@@ -12404,6 +12410,12 @@
             "lng": 1.102285,
             "name": "Estructures"
         },
+        "7c9f5201dcd04d21a08b8a7eb26c9237.16": {
+            "guid": "7c9f5201dcd04d21a08b8a7eb26c9237.16",
+            "lat": 41.064079,
+            "lng": 1.082223,
+            "name": "unknown"
+        },
         "7ca4728567e0430d8a5651d48e9faf75.16": {
             "guid": "7ca4728567e0430d8a5651d48e9faf75.16",
             "lat": 41.063979,
@@ -15916,8 +15928,8 @@
         },
         "b399da2cb93444e6bab5455e99dbeef8.16": {
             "guid": "b399da2cb93444e6bab5455e99dbeef8.16",
-            "lat": 41.116901,
-            "lng": 1.24817,
+            "lat": 41.11693,
+            "lng": 1.248228,
             "name": "Col\u2022legi Oficial de Psicologia de Catalunya."
         },
         "b3acb1a38e96491d93f04fc029bff986.16": {
@@ -19195,6 +19207,12 @@
             "lat": 41.114301,
             "lng": 1.240678,
             "name": "Cartel informativo CO2"
+        },
+        "e651008084794abc8918f8e33125e7fc.16": {
+            "guid": "e651008084794abc8918f8e33125e7fc.16",
+            "lat": 41.119346,
+            "lng": 1.244122,
+            "name": "Diari de Tarragona"
         },
         "e65bb992a99c46b0be65bb0e25809b97.16": {
             "guid": "e65bb992a99c46b0be65bb0e25809b97.16",
