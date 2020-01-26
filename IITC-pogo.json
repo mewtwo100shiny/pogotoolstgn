@@ -408,6 +408,12 @@
             "lng": 0.941214,
             "name": "unknown"
         },
+        "19d48379199440fe8f9e41ca700c4e98.16": {
+            "guid": "19d48379199440fe8f9e41ca700c4e98.16",
+            "lat": 41.101943,
+            "lng": 1.149007,
+            "name": "unknown"
+        },
         "1a0bdb06fd0f42e494b2c4aad6001ee7.16": {
             "guid": "1a0bdb06fd0f42e494b2c4aad6001ee7.16",
             "lat": 41.179807,
@@ -12414,7 +12420,7 @@
             "guid": "7c9f5201dcd04d21a08b8a7eb26c9237.16",
             "lat": 41.064079,
             "lng": 1.082223,
-            "name": "unknown"
+            "name": "Puente de los patos"
         },
         "7ca4728567e0430d8a5651d48e9faf75.16": {
             "guid": "7ca4728567e0430d8a5651d48e9faf75.16",
@@ -17128,8 +17134,8 @@
         },
         "c5c348f67c514eb7ab650c45350859d5.11": {
             "guid": "c5c348f67c514eb7ab650c45350859d5.11",
-            "lat": 41.114735,
-            "lng": 1.24856,
+            "lat": 41.114465,
+            "lng": 1.248774,
             "name": "Forum De La Col\u00f2nia"
         },
         "c5d04a020f42497f9b976773b6c31ed8.16": {
@@ -18896,6 +18902,12 @@
             "lng": 1.250775,
             "name": "Parc de Les Am\u00e8riques"
         },
+        "e1b598c34aa34268aa73227f9861d977.16": {
+            "guid": "e1b598c34aa34268aa73227f9861d977.16",
+            "lat": 41.115116,
+            "lng": 1.248777,
+            "name": "Graffiti del Lleopard"
+        },
         "e1c0f1f25a38459aa4d5fa17342c633f.16": {
             "guid": "e1c0f1f25a38459aa4d5fa17342c633f.16",
             "lat": 41.0808,
@@ -20170,8 +20182,8 @@
         },
         "f3fe24a677c74a1890b52d1bb5ce490e.16": {
             "guid": "f3fe24a677c74a1890b52d1bb5ce490e.16",
-            "lat": 41.116157,
-            "lng": 1.24634,
+            "lat": 41.116224,
+            "lng": 1.246484,
             "name": "Catalunya R\u00e0dio"
         },
         "f4102510477747c0a63370ae3551e257.16": {
