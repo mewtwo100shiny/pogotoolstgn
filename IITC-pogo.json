@@ -2252,8 +2252,8 @@
         },
         "87c7dda05cff44be91fc7a7f512af909.16": {
             "guid": "87c7dda05cff44be91fc7a7f512af909.16",
-            "lat": 41.117007,
-            "lng": 1.250056,
+            "lat": 41.117055,
+            "lng": 1.250052,
             "name": "Banc d'Espanya"
         },
         "882fb171dfa34f4196c430e5c51e40c4.16": {
@@ -10658,6 +10658,12 @@
             "lng": 1.151778,
             "name": "Replica Del Coliseo Ferrailand"
         },
+        "618da82b0e2f43fcaa65940ef65d2e92.16": {
+            "guid": "618da82b0e2f43fcaa65940ef65d2e92.16",
+            "lat": 41.110472,
+            "lng": 1.250778,
+            "name": "Escudo ICCP"
+        },
         "61a41504cdde443ca3f7357e1b93b6a6.16": {
             "guid": "61a41504cdde443ca3f7357e1b93b6a6.16",
             "lat": 41.083217,
@@ -14434,8 +14440,8 @@
         },
         "9c7e2fed5d6344d6a004aea129da8f11.16": {
             "guid": "9c7e2fed5d6344d6a004aea129da8f11.16",
-            "lat": 41.110453,
-            "lng": 1.251131,
+            "lat": 41.110463,
+            "lng": 1.251228,
             "name": "Departament de Territori i Sostenibilitat"
         },
         "9ca0b7bc71114b68af823bee8d5d4c6a.16": {
@@ -14686,8 +14692,8 @@
         },
         "9f2c102084664bf6abe8b234a8a574fb.16": {
             "guid": "9f2c102084664bf6abe8b234a8a574fb.16",
-            "lat": 41.111626,
-            "lng": 1.251241,
+            "lat": 41.111529,
+            "lng": 1.251132,
             "name": "Iglesia Evangelica"
         },
         "9f3546093fe843fcae89c9d30fce5529.16": {
@@ -16993,6 +16999,12 @@
             "lat": 41.069561,
             "lng": 1.146318,
             "name": "Budka"
+        },
+        "c3601aed33684de8a3347aebd16df4d5.16": {
+            "guid": "c3601aed33684de8a3347aebd16df4d5.16",
+            "lat": 41.11687,
+            "lng": 1.250369,
+            "name": "Llibreria De La Rambla"
         },
         "c36f69fbe755434b82091753cf1b5dcb.16": {
             "guid": "c36f69fbe755434b82091753cf1b5dcb.16",
