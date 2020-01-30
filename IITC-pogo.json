@@ -2006,8 +2006,8 @@
         },
         "78a588f2410d4be9a575cfc7a998e3b5.11": {
             "guid": "78a588f2410d4be9a575cfc7a998e3b5.11",
-            "lat": 41.116523,
-            "lng": 1.250618,
+            "lat": 41.116556,
+            "lng": 1.250545,
             "name": "Est\u00e0tua dels Despullats"
         },
         "78ae9dd867eb40f7a42a116429d0bbac.16": {
@@ -3575,6 +3575,12 @@
             "lat": 41.163281,
             "lng": 1.104384,
             "name": "B\u00e0squet Niloga"
+        },
+        "d9ed919f5a8d425caa528bac729be6b6.16": {
+            "guid": "d9ed919f5a8d425caa528bac729be6b6.16",
+            "lat": 41.116398,
+            "lng": 1.251439,
+            "name": "unknown"
         },
         "dae278e6606b48a3af9b81ca32b7e743.16": {
             "guid": "dae278e6606b48a3af9b81ca32b7e743.16",
@@ -6458,6 +6464,12 @@
             "lng": 1.112715,
             "name": "Mural Parr\u00f2quia de la Pur\u00edssima Sang"
         },
+        "21079c4e4d76454db44cdad07f23013d.16": {
+            "guid": "21079c4e4d76454db44cdad07f23013d.16",
+            "lat": 41.119286,
+            "lng": 1.245587,
+            "name": "Parc de la Imperial"
+        },
         "211a2c0c32ff472688dd7ddb936102ae.16": {
             "guid": "211a2c0c32ff472688dd7ddb936102ae.16",
             "lat": 41.176021,
@@ -6826,8 +6838,8 @@
         },
         "27817df4417f4864ba146865e306d99d.16": {
             "guid": "27817df4417f4864ba146865e306d99d.16",
-            "lat": 41.114742,
-            "lng": 1.240715,
+            "lat": 41.114577,
+            "lng": 1.240578,
             "name": "Fem Verd"
         },
         "2794db34783348dd8c9235ac02b7479a.16": {
@@ -9388,8 +9400,8 @@
         },
         "4eb07fd93c20422da29f7d9adb144300.16": {
             "guid": "4eb07fd93c20422da29f7d9adb144300.16",
-            "lat": 41.114269,
-            "lng": 1.242986,
+            "lat": 41.114218,
+            "lng": 1.242959,
             "name": "Oficina de correos"
         },
         "4eca54e5d75f4494bca69d219e076c66.16": {
@@ -10970,6 +10982,12 @@
             "lng": 0.92359,
             "name": "Fuente Redonda De La Iglesia"
         },
+        "66f83299579c4c04be8d883a12fda202.16": {
+            "guid": "66f83299579c4c04be8d883a12fda202.16",
+            "lat": 41.116662,
+            "lng": 1.250879,
+            "name": "Mosaic Del Treballador"
+        },
         "6701fa27b81d4ad897222b3734ce824b.16": {
             "guid": "6701fa27b81d4ad897222b3734ce824b.16",
             "lat": 41.156462,
@@ -11488,8 +11506,8 @@
         },
         "6ee181826fdc4827914d22c08fed0f85.16": {
             "guid": "6ee181826fdc4827914d22c08fed0f85.16",
-            "lat": 41.116134,
-            "lng": 1.248574,
+            "lat": 41.116032,
+            "lng": 1.248592,
             "name": "Mercat Vell de Tarragona"
         },
         "6ee3f6a35d7d404184d2f77a4018386f.16": {
@@ -12260,6 +12278,12 @@
             "lng": 1.25366,
             "name": "Mural Dels Castellers"
         },
+        "7a00198691f1470695f81ae15d42a4fe.16": {
+            "guid": "7a00198691f1470695f81ae15d42a4fe.16",
+            "lat": 41.117903,
+            "lng": 1.247355,
+            "name": "Font Dels Peixos"
+        },
         "7a0bb0b4f28148f19426b7b5cdb22cbd.16": {
             "guid": "7a0bb0b4f28148f19426b7b5cdb22cbd.16",
             "lat": 41.177763,
@@ -12598,8 +12622,8 @@
         },
         "7fbbaf7172e746d08929051d2a06f665.16": {
             "guid": "7fbbaf7172e746d08929051d2a06f665.16",
-            "lat": 41.11774,
-            "lng": 1.24757,
+            "lat": 41.117759,
+            "lng": 1.247609,
             "name": "Mural de l'Esfinx"
         },
         "7fc06b215153449ea9efb6e12deaf8f4.16": {
@@ -12643,6 +12667,12 @@
             "lat": 41.074686,
             "lng": 1.118437,
             "name": "Dona Sense Bra\u00e7os"
+        },
+        "8088eea6c6834f2288bd8ac14d34328a.16": {
+            "guid": "8088eea6c6834f2288bd8ac14d34328a.16",
+            "lat": 41.070367,
+            "lng": 1.078772,
+            "name": "Ulls Tancats"
         },
         "80db4949bddf46e885aa8460243d3102.16": {
             "guid": "80db4949bddf46e885aa8460243d3102.16",
@@ -15142,8 +15172,8 @@
         },
         "a73baafc7d8a4e19859ea6f737655c76.16": {
             "guid": "a73baafc7d8a4e19859ea6f737655c76.16",
-            "lat": 41.116945,
-            "lng": 1.242083,
+            "lat": 41.116973,
+            "lng": 1.242409,
             "name": "Colombian Independence"
         },
         "a7464c83b2f24fcb9f4042fbff6b5f6c.16": {
@@ -15712,8 +15742,8 @@
         },
         "b018f70b4c8b4193b92f6a6564b040c9.16": {
             "guid": "b018f70b4c8b4193b92f6a6564b040c9.16",
-            "lat": 41.11509,
-            "lng": 1.240351,
+            "lat": 41.115081,
+            "lng": 1.240392,
             "name": "Mur Tapial "
         },
         "b01f7141d5cf4397ad6d43f61f8dd5be.16": {
@@ -17132,6 +17162,12 @@
             "lng": 1.24885,
             "name": "Hemeroteca"
         },
+        "c565793c07da40c1b5e2be8c6b762437.16": {
+            "guid": "c565793c07da40c1b5e2be8c6b762437.16",
+            "lat": 41.17561,
+            "lng": 1.102091,
+            "name": "Punt de CORREU"
+        },
         "c590a344852946e2a1e93eaab814fb89.16": {
             "guid": "c590a344852946e2a1e93eaab814fb89.16",
             "lat": 41.114706,
@@ -18338,12 +18374,6 @@
             "lng": 1.249474,
             "name": "Inscripci\u00f3 Dia Del Arbre "
         },
-        "d9ed919f5a8d425caa528bac729be6b6.16": {
-            "guid": "d9ed919f5a8d425caa528bac729be6b6.16",
-            "lat": 41.116398,
-            "lng": 1.251439,
-            "name": "Teresianes"
-        },
         "da0a2445eed94c83881bd51d20e508a6.16": {
             "guid": "da0a2445eed94c83881bd51d20e508a6.16",
             "lat": 40.99225,
@@ -19132,8 +19162,8 @@
         },
         "e47ad0ef38e54d7fb35b8c89894ea58f.16": {
             "guid": "e47ad0ef38e54d7fb35b8c89894ea58f.16",
-            "lat": 41.119039,
-            "lng": 1.245248,
+            "lat": 41.118995,
+            "lng": 1.245167,
             "name": "Fuente Plaza Imperial Tarraco"
         },
         "e487cc306d5245e494d44cedf78dfc30.16": {
@@ -19201,6 +19231,12 @@
             "lat": 40.992876,
             "lng": 0.931741,
             "name": "P\u00e9rgola Platja Cristall"
+        },
+        "e62671a4b0e9478084ad436d7398207a.16": {
+            "guid": "e62671a4b0e9478084ad436d7398207a.16",
+            "lat": 41.149008,
+            "lng": 1.099778,
+            "name": "Piedra de S\u00edlex"
         },
         "e62e491fbb6f44f3aa86495b7a28aee3.16": {
             "guid": "e62e491fbb6f44f3aa86495b7a28aee3.16",
