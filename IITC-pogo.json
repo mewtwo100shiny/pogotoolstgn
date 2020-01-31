@@ -5122,8 +5122,8 @@
         },
         "0da2b8a2afb7418db93b2a0ecfbadfc8.16": {
             "guid": "0da2b8a2afb7418db93b2a0ecfbadfc8.16",
-            "lat": 41.114535,
-            "lng": 1.247891,
+            "lat": 41.114508,
+            "lng": 1.247899,
             "name": "Sports P\u00e0mies"
         },
         "0dabb55dabe346e2a50f41ff88909ea6.16": {
@@ -5863,6 +5863,12 @@
             "lat": 41.184418,
             "lng": 1.205472,
             "name": "Playground La Pobla"
+        },
+        "17663c372d9b47309d3fd8f7928e5b4f.16": {
+            "guid": "17663c372d9b47309d3fd8f7928e5b4f.16",
+            "lat": 41.158821,
+            "lng": 1.431117,
+            "name": "unknown"
         },
         "177c77355d1247e3b0b179614fa42e2a.16": {
             "guid": "177c77355d1247e3b0b179614fa42e2a.16",
@@ -6817,6 +6823,12 @@
             "lat": 41.112674,
             "lng": 1.23803,
             "name": "Blue Eyes"
+        },
+        "26eb92e87b674eb08ea10f5fe269a910.16": {
+            "guid": "26eb92e87b674eb08ea10f5fe269a910.16",
+            "lat": 41.133621,
+            "lng": 1.249331,
+            "name": "Area de ejercicios"
         },
         "272a75bb985e4911b8f28cfd72a1bfef.16": {
             "guid": "272a75bb985e4911b8f28cfd72a1bfef.16",
@@ -8377,6 +8389,12 @@
             "lat": 41.156903,
             "lng": 1.10641,
             "name": "Casa Tom\u00e0s Jordi"
+        },
+        "4027dc6fc61e4fe2a5c3734920945536.16": {
+            "guid": "4027dc6fc61e4fe2a5c3734920945536.16",
+            "lat": 41.155451,
+            "lng": 1.101785,
+            "name": "unknown"
         },
         "40290529c4ef41a4b0a10663b4eb232d.16": {
             "guid": "40290529c4ef41a4b0a10663b4eb232d.16",
@@ -10231,6 +10249,12 @@
             "lat": 41.081181,
             "lng": 1.180529,
             "name": "Pista De Basquet Emili Vendrell"
+        },
+        "5a36b19e8cc2463aaa524513d5107bca.16": {
+            "guid": "5a36b19e8cc2463aaa524513d5107bca.16",
+            "lat": 41.185774,
+            "lng": 1.20441,
+            "name": "unknown"
         },
         "5a372baec2184a0b81128dacc8f06b21.16": {
             "guid": "5a372baec2184a0b81128dacc8f06b21.16",
@@ -12684,6 +12708,12 @@
             "guid": "80e7040065914981953db329923488b4.16",
             "lat": 41.126604,
             "lng": 1.148787,
+            "name": "unknown"
+        },
+        "80fa12c6db8f4afdabed869ff8a8ccda.16": {
+            "guid": "80fa12c6db8f4afdabed869ff8a8ccda.16",
+            "lat": 41.132963,
+            "lng": 1.249705,
             "name": "unknown"
         },
         "8109bda3b49d4cf09d539108c1ddb387.16": {
@@ -15368,6 +15398,12 @@
             "lng": 1.051878,
             "name": "Popeye Croissant"
         },
+        "aa772a1f3fe240e9af32311747dea5d0.16": {
+            "guid": "aa772a1f3fe240e9af32311747dea5d0.16",
+            "lat": 41.07446,
+            "lng": 1.139977,
+            "name": "unknown"
+        },
         "aa8c6cef503543f3ac9d844a77f84f9a.16": {
             "guid": "aa8c6cef503543f3ac9d844a77f84f9a.16",
             "lat": 41.071976,
@@ -16388,6 +16424,12 @@
             "lng": 1.244916,
             "name": "God"
         },
+        "b95f97375f904b9684de6ddbbf265f7b.16": {
+            "guid": "b95f97375f904b9684de6ddbbf265f7b.16",
+            "lat": 41.176491,
+            "lng": 1.10341,
+            "name": "unknown"
+        },
         "b99abac7617f4e33a2d540270b92a240.16": {
             "guid": "b99abac7617f4e33a2d540270b92a240.16",
             "lat": 41.14151,
@@ -16615,6 +16657,12 @@
             "lat": 41.117505,
             "lng": 1.246413,
             "name": "Sol rojo"
+        },
+        "bd6a50d4f61d41639fb03ae72d6509d5.16": {
+            "guid": "bd6a50d4f61d41639fb03ae72d6509d5.16",
+            "lat": 41.005848,
+            "lng": 0.939687,
+            "name": "Gavina de metall."
         },
         "bd88aee527bc40cf982e96b69d70e364.16": {
             "guid": "bd88aee527bc40cf982e96b69d70e364.16",
@@ -17053,6 +17101,12 @@
             "lat": 41.107561,
             "lng": 1.25028,
             "name": "Reial Club Nautic De Tarragona"
+        },
+        "c38ceb9934674039865072c50367f6fd.16": {
+            "guid": "c38ceb9934674039865072c50367f6fd.16",
+            "lat": 41.114824,
+            "lng": 1.247963,
+            "name": "Foro romano De La Colonia"
         },
         "c3a63317d22a44759bf15ddba90b1d96.16": {
             "guid": "c3a63317d22a44759bf15ddba90b1d96.16",
@@ -19195,6 +19249,12 @@
             "lat": 41.122505,
             "lng": 1.252583,
             "name": "Fragment d'aq\u00fceducte"
+        },
+        "e55eec93e9e347f3ae11c3afd0456cd6.16": {
+            "guid": "e55eec93e9e347f3ae11c3afd0456cd6.16",
+            "lat": 41.131253,
+            "lng": 1.342185,
+            "name": "unknown"
         },
         "e5870c5c951b49c5bf27b712386cace4.16": {
             "guid": "e5870c5c951b49c5bf27b712386cace4.16",
