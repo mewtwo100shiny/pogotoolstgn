@@ -210,6 +210,12 @@
             "lng": 0.95174,
             "name": "unknown"
         },
+        "0b2cc76c9c06487f8f90ba07a81b6017.16": {
+            "guid": "0b2cc76c9c06487f8f90ba07a81b6017.16",
+            "lat": 41.075804,
+            "lng": 1.087833,
+            "name": "unknown"
+        },
         "0b3aab45177549639a08bc917bb40aa6.16": {
             "guid": "0b3aab45177549639a08bc917bb40aa6.16",
             "lat": 41.151444,
@@ -3686,8 +3692,8 @@
         },
         "e0a6da4b6f564dcb974d172ac01c876b.16": {
             "guid": "e0a6da4b6f564dcb974d172ac01c876b.16",
-            "lat": 41.106114,
-            "lng": 1.245797,
+            "lat": 41.106317,
+            "lng": 1.248086,
             "name": "Waves"
         },
         "e0be68a779ae4a24b427fa0bc533079f.16": {
@@ -4945,12 +4951,6 @@
             "lat": 41.074035,
             "lng": 1.181044,
             "name": "Escultura banderas verdes"
-        },
-        "0b2cc76c9c06487f8f90ba07a81b6017.16": {
-            "guid": "0b2cc76c9c06487f8f90ba07a81b6017.16",
-            "lat": 41.075804,
-            "lng": 1.087833,
-            "name": "columpios en c\u00edrculo"
         },
         "0b3c4c683ddc41c08118bf6dc6847711.16": {
             "guid": "0b3c4c683ddc41c08118bf6dc6847711.16",
@@ -7928,6 +7928,12 @@
             "lng": 1.149725,
             "name": "Estatua de la Libertad"
         },
+        "385d5e29da82463892538abaa81ddfdd.16": {
+            "guid": "385d5e29da82463892538abaa81ddfdd.16",
+            "lat": 41.076012,
+            "lng": 1.087448,
+            "name": "Fuente en el parque"
+        },
         "385f147f9fd84e29b0ed5eb9714f5346.16": {
             "guid": "385f147f9fd84e29b0ed5eb9714f5346.16",
             "lat": 41.0115,
@@ -8394,7 +8400,7 @@
             "guid": "4027dc6fc61e4fe2a5c3734920945536.16",
             "lat": 41.155451,
             "lng": 1.101785,
-            "name": "unknown"
+            "name": "Font del passeig"
         },
         "40290529c4ef41a4b0a10663b4eb232d.16": {
             "guid": "40290529c4ef41a4b0a10663b4eb232d.16",
@@ -10254,7 +10260,7 @@
             "guid": "5a36b19e8cc2463aaa524513d5107bca.16",
             "lat": 41.185774,
             "lng": 1.20441,
-            "name": "unknown"
+            "name": "campo de tierra"
         },
         "5a372baec2184a0b81128dacc8f06b21.16": {
             "guid": "5a372baec2184a0b81128dacc8f06b21.16",
@@ -12714,7 +12720,7 @@
             "guid": "80fa12c6db8f4afdabed869ff8a8ccda.16",
             "lat": 41.132963,
             "lng": 1.249705,
-            "name": "unknown"
+            "name": "Barra de ejercicios"
         },
         "8109bda3b49d4cf09d539108c1ddb387.16": {
             "guid": "8109bda3b49d4cf09d539108c1ddb387.16",
@@ -14630,6 +14636,12 @@
             "lng": 1.253056,
             "name": "Puzzle"
         },
+        "9deaa74bb5474664b1fcd33ae4dcfdc7.16": {
+            "guid": "9deaa74bb5474664b1fcd33ae4dcfdc7.16",
+            "lat": 41.175897,
+            "lng": 1.138657,
+            "name": "Rutas de Reus"
+        },
         "9decaf72708541f7a0c4f295202abd2a.16": {
             "guid": "9decaf72708541f7a0c4f295202abd2a.16",
             "lat": 41.152913,
@@ -15402,7 +15414,7 @@
             "guid": "aa772a1f3fe240e9af32311747dea5d0.16",
             "lat": 41.07446,
             "lng": 1.139977,
-            "name": "unknown"
+            "name": "Fuente Paseo Jaume I Salou"
         },
         "aa8c6cef503543f3ac9d844a77f84f9a.16": {
             "guid": "aa8c6cef503543f3ac9d844a77f84f9a.16",
@@ -16428,7 +16440,7 @@
             "guid": "b95f97375f904b9684de6ddbbf265f7b.16",
             "lat": 41.176491,
             "lng": 1.10341,
-            "name": "unknown"
+            "name": "Planol de El Pinar"
         },
         "b99abac7617f4e33a2d540270b92a240.16": {
             "guid": "b99abac7617f4e33a2d540270b92a240.16",
@@ -17737,6 +17749,12 @@
             "lat": 41.062856,
             "lng": 1.061438,
             "name": "Port Refugi"
+        },
+        "cd8dceeed2b84fca8b3247ff74654120.16": {
+            "guid": "cd8dceeed2b84fca8b3247ff74654120.16",
+            "lat": 41.008344,
+            "lng": 0.94102,
+            "name": "unknown"
         },
         "cd91cac0bb4341418bcae27e83577142.16": {
             "guid": "cd91cac0bb4341418bcae27e83577142.16",
@@ -19254,7 +19272,7 @@
             "guid": "e55eec93e9e347f3ae11c3afd0456cd6.16",
             "lat": 41.131253,
             "lng": 1.342185,
-            "name": "unknown"
+            "name": "Crossroads caminos"
         },
         "e5870c5c951b49c5bf27b712386cace4.16": {
             "guid": "e5870c5c951b49c5bf27b712386cace4.16",
