@@ -5832,7 +5832,7 @@
             "guid": "16d2cd0028314df68086a4027b4d5dc9.16",
             "lat": 41.114273,
             "lng": 1.253152,
-            "name": "unknown"
+            "name": "Escola Municipal de M\u00fasica"
         },
         "170802a9c8be44d9a64d47d9d41e02da.16": {
             "guid": "170802a9c8be44d9a64d47d9d41e02da.16",
@@ -8124,7 +8124,7 @@
             "guid": "3b8699894aca4d8fa3ff1a4abb6607e3.16",
             "lat": 41.110876,
             "lng": 1.240479,
-            "name": "unknown"
+            "name": "Grafiti Patata"
         },
         "3b87971b46764489a57967c6f38a9fe5.16": {
             "guid": "3b87971b46764489a57967c6f38a9fe5.16",
@@ -8947,6 +8947,12 @@
             "lat": 41.117703,
             "lng": 1.253557,
             "name": "Bettatur Escola De Turisme"
+        },
+        "4791e80fcba04164bc1898a10afa3218.16": {
+            "guid": "4791e80fcba04164bc1898a10afa3218.16",
+            "lat": 41.005991,
+            "lng": 0.939983,
+            "name": "Cala Bot-Cartell informatiu-"
         },
         "47993b52ba994bcc8329055a73b158ee.16": {
             "guid": "47993b52ba994bcc8329055a73b158ee.16",
@@ -12798,7 +12804,7 @@
             "guid": "81fbd9041ff343a2a6392bd6052401e5.16",
             "lat": 41.136857,
             "lng": 1.251357,
-            "name": "unknown"
+            "name": "Parque infantil"
         },
         "82061af369af460abae4f5da9f67900f.16": {
             "guid": "82061af369af460abae4f5da9f67900f.16",
@@ -17772,7 +17778,7 @@
             "guid": "cd8dceeed2b84fca8b3247ff74654120.16",
             "lat": 41.008344,
             "lng": 0.94102,
-            "name": "unknown"
+            "name": "Cer\u00e1mica de la Virgen del Pilar."
         },
         "cd91cac0bb4341418bcae27e83577142.16": {
             "guid": "cd91cac0bb4341418bcae27e83577142.16",
