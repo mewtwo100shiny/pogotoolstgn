@@ -6494,6 +6494,12 @@
             "lng": 1.14207,
             "name": "Soccer Field"
         },
+        "2169f29880ab427ba2131358219952f5.16": {
+            "guid": "2169f29880ab427ba2131358219952f5.16",
+            "lat": 41.16063,
+            "lng": 1.431016,
+            "name": "unknown"
+        },
         "21717c4634014523a92b0c6a194f3649.16": {
             "guid": "21717c4634014523a92b0c6a194f3649.16",
             "lat": 41.155614,
@@ -12732,7 +12738,7 @@
             "guid": "80e7040065914981953db329923488b4.16",
             "lat": 41.126604,
             "lng": 1.148787,
-            "name": "unknown"
+            "name": "Area ejercici villablanca"
         },
         "80fa12c6db8f4afdabed869ff8a8ccda.16": {
             "guid": "80fa12c6db8f4afdabed869ff8a8ccda.16",
@@ -14780,6 +14786,12 @@
             "lng": 1.152988,
             "name": "El Rabada"
         },
+        "9f07c54895b24d31ae5d7f5502a06eb2.16": {
+            "guid": "9f07c54895b24d31ae5d7f5502a06eb2.16",
+            "lat": 41.140118,
+            "lng": 1.251446,
+            "name": "Club Ciclista Tarragona"
+        },
         "9f17fbb74eb64aa3b96428ed62553357.16": {
             "guid": "9f17fbb74eb64aa3b96428ed62553357.16",
             "lat": 41.136783,
@@ -15702,7 +15714,7 @@
             "guid": "ade50ab777554ce3b1a6c0c0614b8644.16",
             "lat": 41.119098,
             "lng": 1.252266,
-            "name": "Music Shop "
+            "name": "Quims M\u00fasica"
         },
         "ae010ca8bcc04fec824681e6e49da8d2.16": {
             "guid": "ae010ca8bcc04fec824681e6e49da8d2.16",
@@ -18544,8 +18556,8 @@
         },
         "db1eb2971b074ab7ad8629f3175edf79.16": {
             "guid": "db1eb2971b074ab7ad8629f3175edf79.16",
-            "lat": 41.009825,
-            "lng": 0.939491,
+            "lat": 41.009834,
+            "lng": 0.939422,
             "name": "Oficina de Turisme"
         },
         "db3778eaf7ab471f98422d54d8f5ef11.16": {
