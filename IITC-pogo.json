@@ -214,7 +214,7 @@
             "guid": "0b2cc76c9c06487f8f90ba07a81b6017.16",
             "lat": 41.075804,
             "lng": 1.087833,
-            "name": "unknown"
+            "name": "columpios en c\u00edrculo"
         },
         "0b3aab45177549639a08bc917bb40aa6.16": {
             "guid": "0b3aab45177549639a08bc917bb40aa6.16",
@@ -1212,6 +1212,12 @@
             "lng": 1.187501,
             "name": "Mirador del Parc dels Prats"
         },
+        "49506a4f5438437eaa74c8f46aed5bd1.16": {
+            "guid": "49506a4f5438437eaa74c8f46aed5bd1.16",
+            "lat": 41.118777,
+            "lng": 1.257803,
+            "name": "Catedral de Tarragona"
+        },
         "49641e3dc97440659d75319f2a15a0e9.16": {
             "guid": "49641e3dc97440659d75319f2a15a0e9.16",
             "lat": 41.149499,
@@ -1504,7 +1510,7 @@
             "guid": "5d94150531694242af2766b2f0c065a1.11",
             "lat": 41.111764,
             "lng": 1.240255,
-            "name": "unknown"
+            "name": "Fumeral Torres Jordi"
         },
         "5e118b37208d4c51be9fecf2de3335a7.16": {
             "guid": "5e118b37208d4c51be9fecf2de3335a7.16",
@@ -2018,8 +2024,8 @@
         },
         "78a588f2410d4be9a575cfc7a998e3b5.11": {
             "guid": "78a588f2410d4be9a575cfc7a998e3b5.11",
-            "lat": 41.116556,
-            "lng": 1.250545,
+            "lat": 41.116523,
+            "lng": 1.250665,
             "name": "Est\u00e0tua dels Despullats"
         },
         "78ae9dd867eb40f7a42a116429d0bbac.16": {
@@ -3542,8 +3548,8 @@
         },
         "d36a5ba6d5774ac08a909fa36a26b931.16": {
             "guid": "d36a5ba6d5774ac08a909fa36a26b931.16",
-            "lat": 41.119205,
-            "lng": 1.255489,
+            "lat": 41.119022,
+            "lng": 1.255382,
             "name": "Colonia Ivlia Vrbs T\u00e0rraco"
         },
         "d36ff1662af14548ad33bc78bac0d5d1.16": {
@@ -3592,7 +3598,7 @@
             "guid": "d9ed919f5a8d425caa528bac729be6b6.16",
             "lat": 41.116398,
             "lng": 1.251439,
-            "name": "unknown"
+            "name": "Teresianes"
         },
         "dae278e6606b48a3af9b81ca32b7e743.16": {
             "guid": "dae278e6606b48a3af9b81ca32b7e743.16",
@@ -6254,6 +6260,12 @@
             "lng": 1.262438,
             "name": "Escultura Oce\u00e0"
         },
+        "1df7fa138cbc48d5a3e8b1776bf6a8c9.11": {
+            "guid": "1df7fa138cbc48d5a3e8b1776bf6a8c9.11",
+            "lat": 41.118899,
+            "lng": 1.255676,
+            "name": "unknown"
+        },
         "1e0b0b6965194dfdb0c29a68433ef3f9.16": {
             "guid": "1e0b0b6965194dfdb0c29a68433ef3f9.16",
             "lat": 41.088564,
@@ -8206,8 +8218,8 @@
         },
         "3c66ba1a3b2443a0a311fc25d4dbb23b.16": {
             "guid": "3c66ba1a3b2443a0a311fc25d4dbb23b.16",
-            "lat": 41.119155,
-            "lng": 1.244619,
+            "lat": 41.119171,
+            "lng": 1.244445,
             "name": "Administraci\u00f3n Del Estado De Tarragona"
         },
         "3c682f3b74784028a4d312005d904df5.16": {
@@ -9049,12 +9061,6 @@
             "lat": 41.069351,
             "lng": 1.085346,
             "name": "Parc infantil carrer anoia"
-        },
-        "49506a4f5438437eaa74c8f46aed5bd1.16": {
-            "guid": "49506a4f5438437eaa74c8f46aed5bd1.16",
-            "lat": 41.118777,
-            "lng": 1.257803,
-            "name": "Catedral de Tarragona"
         },
         "499b5a2d88304bcbaf64f1e1c84517fb.16": {
             "guid": "499b5a2d88304bcbaf64f1e1c84517fb.16",
@@ -12334,8 +12340,8 @@
         },
         "7a00198691f1470695f81ae15d42a4fe.16": {
             "guid": "7a00198691f1470695f81ae15d42a4fe.16",
-            "lat": 41.117903,
-            "lng": 1.247355,
+            "lat": 41.118063,
+            "lng": 1.24761,
             "name": "Font Dels Peixos"
         },
         "7a0bb0b4f28148f19426b7b5cdb22cbd.16": {
@@ -13627,12 +13633,6 @@
             "lat": 41.106321,
             "lng": 1.244798,
             "name": "Port Tarraco"
-        },
-        "8e1b6fb18eda4f8da154b78f0bf327d8.16": {
-            "guid": "8e1b6fb18eda4f8da154b78f0bf327d8.16",
-            "lat": 41.117328,
-            "lng": 1.252752,
-            "name": "Fachada encordada"
         },
         "8e2c9a4b29b14f8080b62169e7b175a5.16": {
             "guid": "8e2c9a4b29b14f8080b62169e7b175a5.16",
@@ -17800,8 +17800,8 @@
         },
         "cd9f8d5dad6247298a89d1e3bb0db0f1.16": {
             "guid": "cd9f8d5dad6247298a89d1e3bb0db0f1.16",
-            "lat": 41.111476,
-            "lng": 1.241682,
+            "lat": 41.111362,
+            "lng": 1.241771,
             "name": "Piscina Municipal Serrallo"
         },
         "cdb56a6e81ff45ebaecff4c6c00d0e86.16": {
