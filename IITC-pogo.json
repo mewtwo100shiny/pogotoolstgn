@@ -6264,7 +6264,7 @@
             "guid": "1df7fa138cbc48d5a3e8b1776bf6a8c9.11",
             "lat": 41.118899,
             "lng": 1.255676,
-            "name": "unknown"
+            "name": "Pla\u00e7a de Sant Joan"
         },
         "1e0b0b6965194dfdb0c29a68433ef3f9.16": {
             "guid": "1e0b0b6965194dfdb0c29a68433ef3f9.16",
@@ -13351,6 +13351,12 @@
             "lat": 41.12783,
             "lng": 0.916273,
             "name": "Entrada Castell"
+        },
+        "897f57ad525d4e49a55f7ecc3b50106c.16": {
+            "guid": "897f57ad525d4e49a55f7ecc3b50106c.16",
+            "lat": 41.219099,
+            "lng": 1.134208,
+            "name": "unknown"
         },
         "89872c19303749a8871682cffc0808ce.16": {
             "guid": "89872c19303749a8871682cffc0808ce.16",
