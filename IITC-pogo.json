@@ -312,6 +312,12 @@
             "lng": 1.099764,
             "name": "Esgl\u00e9sia de Miseric\u00f2rdia"
         },
+        "125971d666f14104abb71053484250f6.11": {
+            "guid": "125971d666f14104abb71053484250f6.11",
+            "lat": 41.147905,
+            "lng": 1.111417,
+            "name": "unknown"
+        },
         "13699b3085fb4b7ea6723777f032dc28.16": {
             "guid": "13699b3085fb4b7ea6723777f032dc28.16",
             "lat": 41.083999,
@@ -4544,6 +4550,12 @@
             "lng": 1.137208,
             "name": "Torre Del Migdia"
         },
+        "0564d75d0f104f99b4e48654f98a6911.16": {
+            "guid": "0564d75d0f104f99b4e48654f98a6911.16",
+            "lat": 41.114135,
+            "lng": 1.241762,
+            "name": "unknown"
+        },
         "056d294369284b7994f3194039f2fbf6.16": {
             "guid": "056d294369284b7994f3194039f2fbf6.16",
             "lat": 41.217485,
@@ -4885,6 +4897,12 @@
             "lat": 41.209861,
             "lng": 1.141044,
             "name": "Parque para perros"
+        },
+        "09d2fc120a5f4ce5aa468c85dd787c9c.16": {
+            "guid": "09d2fc120a5f4ce5aa468c85dd787c9c.16",
+            "lat": 41.140323,
+            "lng": 1.251688,
+            "name": "unknown"
         },
         "09e907a5b46a4e579fdd075d118609d7.16": {
             "guid": "09e907a5b46a4e579fdd075d118609d7.16",
@@ -5474,12 +5492,6 @@
             "lng": 1.148255,
             "name": "Fuente de la \"Fuente Luminosa\""
         },
-        "125971d666f14104abb71053484250f6.11": {
-            "guid": "125971d666f14104abb71053484250f6.11",
-            "lat": 41.147905,
-            "lng": 1.111417,
-            "name": "Estaci\u00f3 Bus"
-        },
         "125cc4289af24f8084db57495caedb18.16": {
             "guid": "125cc4289af24f8084db57495caedb18.16",
             "lat": 41.1536,
@@ -5996,6 +6008,12 @@
             "lng": 1.022922,
             "name": "Lago del Parque del 1 de Octubre"
         },
+        "193837988fb0456db70dd4f4aa8d5f21.16": {
+            "guid": "193837988fb0456db70dd4f4aa8d5f21.16",
+            "lat": 41.115348,
+            "lng": 1.249712,
+            "name": "unknown"
+        },
         "194baf53fe4f4d958c92787028bb10e2.16": {
             "guid": "194baf53fe4f4d958c92787028bb10e2.16",
             "lat": 41.169219,
@@ -6439,12 +6457,6 @@
             "lat": 41.162325,
             "lng": 1.270244,
             "name": "Mural Cowboy Pistoler"
-        },
-        "20607826762642bcb153e3720f8242bc.16": {
-            "guid": "20607826762642bcb153e3720f8242bc.16",
-            "lat": 41.115774,
-            "lng": 1.249611,
-            "name": "Nan de Tarragona"
         },
         "206a176ac2174c0288e2a0aaa5159b6c.16": {
             "guid": "206a176ac2174c0288e2a0aaa5159b6c.16",
@@ -7039,12 +7051,6 @@
             "lat": 41.11446,
             "lng": 1.265809,
             "name": "Cita Pasqual Scanv"
-        },
-        "2a9b2ce44f924580a09368209770ea83.16": {
-            "guid": "2a9b2ce44f924580a09368209770ea83.16",
-            "lat": 41.115675,
-            "lng": 1.249833,
-            "name": "Mercat Central - Tarragona"
         },
         "2aa9c7a69e0a4a5a9f7d22869e0c4fc7.16": {
             "guid": "2aa9c7a69e0a4a5a9f7d22869e0c4fc7.16",
@@ -8030,6 +8036,12 @@
             "lng": 1.123703,
             "name": "Vil\u2022la romana Dels Barenys"
         },
+        "395f1afbf9bb41b29b4cfedf5629e3e6.16": {
+            "guid": "395f1afbf9bb41b29b4cfedf5629e3e6.16",
+            "lat": 41.146842,
+            "lng": 1.113798,
+            "name": "unknown"
+        },
         "397e4352bcb04a388fd91aa62ea1887e.16": {
             "guid": "397e4352bcb04a388fd91aa62ea1887e.16",
             "lat": 41.120199,
@@ -8647,6 +8659,12 @@
             "lat": 41.189247,
             "lng": 1.103878,
             "name": "Pistes de Tennis"
+        },
+        "43a377dc3b774218aefccf93e4c2fa68.16": {
+            "guid": "43a377dc3b774218aefccf93e4c2fa68.16",
+            "lat": 41.111274,
+            "lng": 1.246731,
+            "name": "unknown"
         },
         "43a70ff94c8d4059a63d5bc61f738a9a.16": {
             "guid": "43a70ff94c8d4059a63d5bc61f738a9a.16",
@@ -9382,8 +9400,8 @@
         },
         "4e41e2940f8343faada4284f2db3c568.16": {
             "guid": "4e41e2940f8343faada4284f2db3c568.16",
-            "lat": 41.11783,
-            "lng": 1.25721,
+            "lat": 41.117828,
+            "lng": 1.257228,
             "name": "Art Music"
         },
         "4e4bd82cf0f449bd885fa9d5e3e9b508.16": {
@@ -15770,6 +15788,12 @@
             "lng": 1.21861,
             "name": "Zona de jocs infantils"
         },
+        "ae9d5633d5434c1387ce97ff0943c850.16": {
+            "guid": "ae9d5633d5434c1387ce97ff0943c850.16",
+            "lat": 41.114832,
+            "lng": 1.257998,
+            "name": "unknown"
+        },
         "aec56814e0f448b092a8c853873cf28f.16": {
             "guid": "aec56814e0f448b092a8c853873cf28f.16",
             "lat": 40.989148,
@@ -15799,6 +15823,12 @@
             "lat": 41.213418,
             "lng": 1.142729,
             "name": "Zona De Picnic"
+        },
+        "af3b9e93643e4f4aa735cf8ebe4af874.16": {
+            "guid": "af3b9e93643e4f4aa735cf8ebe4af874.16",
+            "lat": 41.117757,
+            "lng": 1.256881,
+            "name": "unknown"
         },
         "af89e619ff5b4b1e9bd4a7d3a688ce95.16": {
             "guid": "af89e619ff5b4b1e9bd4a7d3a688ce95.16",
@@ -17906,6 +17936,12 @@
             "lng": 0.922599,
             "name": "Pla\u00e7a Hospital Del Coll De Balaguer "
         },
+        "d03d7edb099545da8b8f3961969a3c66.16": {
+            "guid": "d03d7edb099545da8b8f3961969a3c66.16",
+            "lat": 41.125148,
+            "lng": 1.249727,
+            "name": "unknown"
+        },
         "d04afa0cfb844fc1bd98a4f60bf9993b.16": {
             "guid": "d04afa0cfb844fc1bd98a4f60bf9993b.16",
             "lat": 41.137693,
@@ -19192,8 +19228,8 @@
         },
         "e2e7e376563741648a52a21d6b5cd6a3.16": {
             "guid": "e2e7e376563741648a52a21d6b5cd6a3.16",
-            "lat": 41.114944,
-            "lng": 1.258416,
+            "lat": 41.114972,
+            "lng": 1.258448,
             "name": "Amphiteatrvm Martyrvm"
         },
         "e309b844e06b4af7b8617360e7dcf744.11": {
@@ -19786,8 +19822,8 @@
         },
         "ec68a77f17314216b98e579aad4bb111.16": {
             "guid": "ec68a77f17314216b98e579aad4bb111.16",
-            "lat": 41.118057,
-            "lng": 1.256058,
+            "lat": 41.118055,
+            "lng": 1.255994,
             "name": "Car Grafit"
         },
         "ec77b20423bb497a8df78375157330b8.16": {
@@ -20684,6 +20720,12 @@
             "lng": 1.205223,
             "name": "Pista De Futbol"
         },
+        "f7dbf412f27142fcafe57b9e7f0fa2df.16": {
+            "guid": "f7dbf412f27142fcafe57b9e7f0fa2df.16",
+            "lat": 41.116389,
+            "lng": 1.249549,
+            "name": "unknown"
+        },
         "f7e4a4615e854d8c8409d66bee777d4f.16": {
             "guid": "f7e4a4615e854d8c8409d66bee777d4f.16",
             "lat": 41.182821,
@@ -20989,6 +21031,12 @@
             "lat": 41.1562,
             "lng": 1.258989,
             "name": "Inscripci\u00f3 Del Garrot"
+        },
+        "fb4faca724244cb293c9500f03fb3f0d.16": {
+            "guid": "fb4faca724244cb293c9500f03fb3f0d.16",
+            "lat": 41.117728,
+            "lng": 1.25657,
+            "name": "unknown"
         },
         "fb51a83ef06e4998a092d81f8bc3d342.16": {
             "guid": "fb51a83ef06e4998a092d81f8bc3d342.16",
