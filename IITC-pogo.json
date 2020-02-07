@@ -120,6 +120,12 @@
             "lng": 1.051332,
             "name": "Creu Al 11 De Setembre"
         },
+        "05ed628ef48a467392a3f9c49090f29b.16": {
+            "guid": "05ed628ef48a467392a3f9c49090f29b.16",
+            "lat": 41.069013,
+            "lng": 1.094214,
+            "name": "unknown"
+        },
         "061c038ba8a44043941792142e703786.16": {
             "guid": "061c038ba8a44043941792142e703786.16",
             "lat": 41.137848,
@@ -2237,6 +2243,12 @@
             "lat": 41.146454,
             "lng": 1.242634,
             "name": "Cartells de l'Ecoruta"
+        },
+        "85266d6c98d543d1bf9751af0b7e8936.16": {
+            "guid": "85266d6c98d543d1bf9751af0b7e8936.16",
+            "lat": 41.112565,
+            "lng": 1.139938,
+            "name": "unknown"
         },
         "85a584c9091b4fc5bc05ee2eef2689a9.16": {
             "guid": "85a584c9091b4fc5bc05ee2eef2689a9.16",
@@ -4616,12 +4628,6 @@
             "lng": 1.111241,
             "name": "Dones en acci\u00f3"
         },
-        "05ed628ef48a467392a3f9c49090f29b.16": {
-            "guid": "05ed628ef48a467392a3f9c49090f29b.16",
-            "lat": 41.069013,
-            "lng": 1.094214,
-            "name": "tren CHU CHU"
-        },
         "05edfc2ed0b945728d44a4611e095521.16": {
             "guid": "05edfc2ed0b945728d44a4611e095521.16",
             "lat": 41.143214,
@@ -6470,6 +6476,12 @@
             "lng": 1.26897,
             "name": "Parc Red Ribbon"
         },
+        "20977724e73140f09e44357a5545b8ee.16": {
+            "guid": "20977724e73140f09e44357a5545b8ee.16",
+            "lat": 41.143415,
+            "lng": 1.412197,
+            "name": "unknown"
+        },
         "20a8e9fbdecf4bcaa1e49e7ace153fbc.16": {
             "guid": "20a8e9fbdecf4bcaa1e49e7ace153fbc.16",
             "lat": 41.136568,
@@ -7045,6 +7057,12 @@
             "lat": 41.137481,
             "lng": 1.113397,
             "name": "Espai D'esbarjo per a gossos"
+        },
+        "2a8cc54cb89b4edebc78658da4753448.16": {
+            "guid": "2a8cc54cb89b4edebc78658da4753448.16",
+            "lat": 41.068679,
+            "lng": 1.093359,
+            "name": "unknown"
         },
         "2a95a351188e408983a17e3b02bbd25b.16": {
             "guid": "2a95a351188e408983a17e3b02bbd25b.16",
@@ -9704,6 +9722,12 @@
             "lng": 1.093998,
             "name": "Parc Infantil Mar\u00eda Subirachs"
         },
+        "518a1d2c7c4a411aa285e0db9850b9f5.16": {
+            "guid": "518a1d2c7c4a411aa285e0db9850b9f5.16",
+            "lat": 41.111649,
+            "lng": 1.137849,
+            "name": "unknown"
+        },
         "518bf314965a451796900cbbea30fdd7.16": {
             "guid": "518bf314965a451796900cbbea30fdd7.16",
             "lat": 41.161173,
@@ -11086,8 +11110,8 @@
         },
         "678e06abc3194d85a4987c01b3ece0e9.16": {
             "guid": "678e06abc3194d85a4987c01b3ece0e9.16",
-            "lat": 41.114931,
-            "lng": 1.259021,
+            "lat": 41.114938,
+            "lng": 1.259004,
             "name": "Pedrera Romana"
         },
         "67b9ebabc1b04eb183f13542e92a95c0.16": {
@@ -13039,12 +13063,6 @@
             "lat": 41.191881,
             "lng": 1.109393,
             "name": "Playground Mas Carreras"
-        },
-        "85266d6c98d543d1bf9751af0b7e8936.16": {
-            "guid": "85266d6c98d543d1bf9751af0b7e8936.16",
-            "lat": 41.112565,
-            "lng": 1.139938,
-            "name": "Vaixell Pirata"
         },
         "8589c88bf4f849548f56c8fe6e3ec916.16": {
             "guid": "8589c88bf4f849548f56c8fe6e3ec916.16",
@@ -17683,6 +17701,12 @@
             "lat": 41.11637,
             "lng": 1.257182,
             "name": "Monument Circ Roma"
+        },
+        "cb3e7d6c14d94d608b0fa29c3f69e735.16": {
+            "guid": "cb3e7d6c14d94d608b0fa29c3f69e735.16",
+            "lat": 41.114667,
+            "lng": 1.259344,
+            "name": "Escales Del Miracle"
         },
         "cb4381dc778c457abf55440bbe3954e1.16": {
             "guid": "cb4381dc778c457abf55440bbe3954e1.16",
