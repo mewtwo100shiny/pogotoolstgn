@@ -1272,6 +1272,12 @@
             "lng": 1.102785,
             "name": "Pla\u00e7a Antoni Pedrol Rius"
         },
+        "4cfc917d572f402e8f8ee53c1b296874.16": {
+            "guid": "4cfc917d572f402e8f8ee53c1b296874.16",
+            "lat": 41.168752,
+            "lng": 1.116269,
+            "name": "unknown"
+        },
         "4d3b7e3d98b74261a85e76fd0feeb1a6.16": {
             "guid": "4d3b7e3d98b74261a85e76fd0feeb1a6.16",
             "lat": 41.070348,
@@ -3138,6 +3144,12 @@
             "lng": 1.255306,
             "name": "Casa Maria Salas"
         },
+        "ba26f139fafb4d62866eb44f5641ca7e.16": {
+            "guid": "ba26f139fafb4d62866eb44f5641ca7e.16",
+            "lat": 40.998111,
+            "lng": 0.918559,
+            "name": "unknown"
+        },
         "ba5fdc2e7eaa4cd490a1d01842b399f1.16": {
             "guid": "ba5fdc2e7eaa4cd490a1d01842b399f1.16",
             "lat": 41.066088,
@@ -3310,6 +3322,12 @@
             "guid": "c3dadbed04d649a389acc6d0b4a1ef1f.16",
             "lat": 41.089398,
             "lng": 0.946774,
+            "name": "unknown"
+        },
+        "c3eae72308634613a6eb6c270dac71ec.16": {
+            "guid": "c3eae72308634613a6eb6c270dac71ec.16",
+            "lat": 41.134313,
+            "lng": 1.24239,
             "name": "unknown"
         },
         "c46362214df343c18d828fcb88e7a74e.16": {
@@ -4399,6 +4417,12 @@
             "lat": 40.991129,
             "lng": 0.916945,
             "name": "Pistas De Ping Pong San Roc"
+        },
+        "02eb2f7769cf4c7481f8040ce9efc5db.16": {
+            "guid": "02eb2f7769cf4c7481f8040ce9efc5db.16",
+            "lat": 41.11802,
+            "lng": 1.256511,
+            "name": "Gronxadors"
         },
         "031fc21b9e2748c08fadaec62024507b.16": {
             "guid": "031fc21b9e2748c08fadaec62024507b.16",
@@ -6896,6 +6920,12 @@
             "lng": 1.110799,
             "name": "La Fira"
         },
+        "265a06fa2e29452686285c949e083df5.16": {
+            "guid": "265a06fa2e29452686285c949e083df5.16",
+            "lat": 41.208744,
+            "lng": 1.202639,
+            "name": "Nueva mesa de tenis"
+        },
         "265ac43ad8814828b9db994d2209d085.12": {
             "guid": "265ac43ad8814828b9db994d2209d085.12",
             "lat": 41.1178,
@@ -8180,6 +8210,12 @@
             "lng": 1.182085,
             "name": "Doble Ancla Aquamarina "
         },
+        "3ad37b83a29b49d8a0cc965bd741a453.16": {
+            "guid": "3ad37b83a29b49d8a0cc965bd741a453.16",
+            "lat": 41.064815,
+            "lng": 0.979798,
+            "name": "unknown"
+        },
         "3add73f597604eaba8e5634c4d2d2b38.16": {
             "guid": "3add73f597604eaba8e5634c4d2d2b38.16",
             "lat": 41.151545,
@@ -8713,6 +8749,12 @@
             "lat": 41.005094,
             "lng": 0.934983,
             "name": "Ballena azul"
+        },
+        "43469c3140dc4c718b3f170c86055583.16": {
+            "guid": "43469c3140dc4c718b3f170c86055583.16",
+            "lat": 41.112065,
+            "lng": 1.14244,
+            "name": "Fuente del Parc de la Formiga"
         },
         "434d7d1f5616441994e4b6837f034c99.16": {
             "guid": "434d7d1f5616441994e4b6837f034c99.16",
@@ -9397,12 +9439,6 @@
             "lat": 41.127167,
             "lng": 1.232738,
             "name": "Porteria de futbolsala"
-        },
-        "4cfc917d572f402e8f8ee53c1b296874.16": {
-            "guid": "4cfc917d572f402e8f8ee53c1b296874.16",
-            "lat": 41.168752,
-            "lng": 1.116269,
-            "name": "Sant Joan Playground"
         },
         "4d21a56bb08f4391b84c5e4c4a0ccf04.16": {
             "guid": "4d21a56bb08f4391b84c5e4c4a0ccf04.16",
@@ -10586,6 +10622,12 @@
             "lng": 1.234799,
             "name": "R\u00e8tol del Francol\u00ed"
         },
+        "5d5fa6d3b7b54eaebc33941fea93cf47.16": {
+            "guid": "5d5fa6d3b7b54eaebc33941fea93cf47.16",
+            "lat": 41.008254,
+            "lng": 0.942401,
+            "name": "unknown"
+        },
         "5d8439cb5736433d9dcf709442990fbe.16": {
             "guid": "5d8439cb5736433d9dcf709442990fbe.16",
             "lat": 41.125612,
@@ -10806,7 +10848,7 @@
             "guid": "606b8c095da94e4aa64a988a58908b72.16",
             "lat": 41.066878,
             "lng": 1.062694,
-            "name": "Persiana Intermezzo"
+            "name": "Intermezzo"
         },
         "606f37a3aa3a47d1bf191a9be798d465.16": {
             "guid": "606f37a3aa3a47d1bf191a9be798d465.16",
@@ -10849,6 +10891,12 @@
             "lat": 41.14434,
             "lng": 1.399767,
             "name": "Gnomo Currante"
+        },
+        "61ae115dbee049c28052200240d33f84.16": {
+            "guid": "61ae115dbee049c28052200240d33f84.16",
+            "lat": 40.995576,
+            "lng": 0.919858,
+            "name": "Placa Honor Centenari Pont L'H"
         },
         "61d35cc8d30b44b7b0f8838d59187f53.16": {
             "guid": "61d35cc8d30b44b7b0f8838d59187f53.16",
@@ -11878,8 +11926,8 @@
         },
         "71b231cc49354c4d9eea7fc17068cfb0.16": {
             "guid": "71b231cc49354c4d9eea7fc17068cfb0.16",
-            "lat": 41.118596,
-            "lng": 1.256048,
+            "lat": 41.118594,
+            "lng": 1.255994,
             "name": "Germandat Jesus Natzar\u00e8"
         },
         "71da11de50514823a3ae21dbc0cc8f2a.16": {
@@ -12440,6 +12488,12 @@
             "lng": 1.148186,
             "name": "Statue"
         },
+        "79e2ecaff1994ab79902f9cc4be66315.16": {
+            "guid": "79e2ecaff1994ab79902f9cc4be66315.16",
+            "lat": 41.071011,
+            "lng": 1.098259,
+            "name": "Ancla de trasatl\u00e1ntico"
+        },
         "79eee6f77a6e4810a0b757622f858125.16": {
             "guid": "79eee6f77a6e4810a0b757622f858125.16",
             "lat": 41.137583,
@@ -12830,6 +12884,12 @@
             "lng": 1.096433,
             "name": "Club Tennis Reus Monterols"
         },
+        "7ff7ca2d70a94058a7daccee7eb4fe28.16": {
+            "guid": "7ff7ca2d70a94058a7daccee7eb4fe28.16",
+            "lat": 41.111827,
+            "lng": 1.253109,
+            "name": "Un Secret al Mediterrani"
+        },
         "8003ae428562459aa7eb0f5e2b7075ae.16": {
             "guid": "8003ae428562459aa7eb0f5e2b7075ae.16",
             "lat": 41.113768,
@@ -13195,6 +13255,12 @@
             "lat": 41.067418,
             "lng": 1.061175,
             "name": "Casa del mar"
+        },
+        "86691234aaac444186566e0f5603e0df.16": {
+            "guid": "86691234aaac444186566e0f5603e0df.16",
+            "lat": 41.118677,
+            "lng": 1.256503,
+            "name": "Priacianvs Meritae"
         },
         "866d5e0e01544a6db4487ee900751ec1.16": {
             "guid": "866d5e0e01544a6db4487ee900751ec1.16",
@@ -15176,6 +15242,12 @@
             "lng": 1.03768,
             "name": "Correos"
         },
+        "a23d5e03600b4d669ddb41ab58afc172.16": {
+            "guid": "a23d5e03600b4d669ddb41ab58afc172.16",
+            "lat": 41.117031,
+            "lng": 1.259545,
+            "name": "Casa Bartolom\u00e9 Bar\u00f3"
+        },
         "a2457769e2e041e9a6b2ee9637c6ec79.16": {
             "guid": "a2457769e2e041e9a6b2ee9637c6ec79.16",
             "lat": 41.145344,
@@ -16370,6 +16442,12 @@
             "lng": 1.374267,
             "name": "Ca l'Ixart,Altafulla"
         },
+        "b50fa6ddeeff4ca5b680c4017eb03aa0.16": {
+            "guid": "b50fa6ddeeff4ca5b680c4017eb03aa0.16",
+            "lat": 41.133728,
+            "lng": 1.241313,
+            "name": "Pl\u00e0nol de la Universitat"
+        },
         "b525fa980db04120b6a049a8f141bce3.16": {
             "guid": "b525fa980db04120b6a049a8f141bce3.16",
             "lat": 41.193035,
@@ -16676,12 +16754,6 @@
             "lng": 1.109091,
             "name": "Pavell\u00f3 Reus Deportiu"
         },
-        "ba26f139fafb4d62866eb44f5641ca7e.16": {
-            "guid": "ba26f139fafb4d62866eb44f5641ca7e.16",
-            "lat": 40.998111,
-            "lng": 0.918559,
-            "name": "Parc Infantil Del Mestral"
-        },
         "ba3360e5597e445bab27433ead6117e0.16": {
             "guid": "ba3360e5597e445bab27433ead6117e0.16",
             "lat": 41.114331,
@@ -16810,8 +16882,8 @@
         },
         "bc29c60053dd4b70921f41e6d075dfd8.16": {
             "guid": "bc29c60053dd4b70921f41e6d075dfd8.16",
-            "lat": 41.117224,
-            "lng": 1.259079,
+            "lat": 41.117208,
+            "lng": 1.258939,
             "name": "Ca La Garsa"
         },
         "bc384a6a9bb44241a4e316d11d48a8da.16": {
@@ -17342,6 +17414,12 @@
             "lng": 1.158901,
             "name": "El Pajaro Loco Xing Xang"
         },
+        "c3c513b9a5c24f8482f417f8b5f600b6.16": {
+            "guid": "c3c513b9a5c24f8482f417f8b5f600b6.16",
+            "lat": 41.167332,
+            "lng": 1.120513,
+            "name": "Escriptora"
+        },
         "c3c567554651482191000aac1fb4ac7a.16": {
             "guid": "c3c567554651482191000aac1fb4ac7a.16",
             "lat": 41.128591,
@@ -17359,12 +17437,6 @@
             "lat": 41.214219,
             "lng": 1.143384,
             "name": "Camp De Futbol"
-        },
-        "c3eae72308634613a6eb6c270dac71ec.16": {
-            "guid": "c3eae72308634613a6eb6c270dac71ec.16",
-            "lat": 41.134313,
-            "lng": 1.24239,
-            "name": "Facultat De Qu\u00edmica I D'Enologia"
         },
         "c3ee96735a474325b3fc0fedbea41965.16": {
             "guid": "c3ee96735a474325b3fc0fedbea41965.16",
@@ -17671,6 +17743,12 @@
             "lat": 41.108726,
             "lng": 1.250108,
             "name": "Ancla Recostada"
+        },
+        "c8e3c51a733644f188a9c5655057654f.16": {
+            "guid": "c8e3c51a733644f188a9c5655057654f.16",
+            "lat": 41.089248,
+            "lng": 0.96342,
+            "name": "Indicador 10 BTT"
         },
         "c8ed6f5705fa48219d6ca3e35b414d9e.16": {
             "guid": "c8ed6f5705fa48219d6ca3e35b414d9e.16",
@@ -18031,6 +18109,12 @@
             "lat": 41.074182,
             "lng": 1.180557,
             "name": "Dorado World "
+        },
+        "ceee58e868c645039161290e19d65d1c.16": {
+            "guid": "ceee58e868c645039161290e19d65d1c.16",
+            "lat": 41.138929,
+            "lng": 1.248124,
+            "name": "La abuela tejedora loca"
         },
         "cef2d9f30a2a4789b690a021e9883fd6.16": {
             "guid": "cef2d9f30a2a4789b690a021e9883fd6.16",
@@ -18511,6 +18595,12 @@
             "lat": 41.161738,
             "lng": 1.105305,
             "name": "Barber graffiti"
+        },
+        "d7b86a44ba664ac0b93ff5fdc35de21f.16": {
+            "guid": "d7b86a44ba664ac0b93ff5fdc35de21f.16",
+            "lat": 41.149244,
+            "lng": 1.104055,
+            "name": "Mini in the city"
         },
         "d7d28f9b485c486e8854726be22457db.16": {
             "guid": "d7d28f9b485c486e8854726be22457db.16",
@@ -21050,6 +21140,12 @@
             "lng": 1.114403,
             "name": "Big playground"
         },
+        "f9a66f61719f47048ac9aa0bc62b3a44.16": {
+            "guid": "f9a66f61719f47048ac9aa0bc62b3a44.16",
+            "lat": 41.072909,
+            "lng": 1.096327,
+            "name": "unknown"
+        },
         "f9e9842f8d6440c3932bb78f05ea9a70.16": {
             "guid": "f9e9842f8d6440c3932bb78f05ea9a70.16",
             "lat": 40.990041,
@@ -21202,8 +21298,8 @@
         },
         "fb4faca724244cb293c9500f03fb3f0d.16": {
             "guid": "fb4faca724244cb293c9500f03fb3f0d.16",
-            "lat": 41.117728,
-            "lng": 1.25657,
+            "lat": 41.117798,
+            "lng": 1.25662,
             "name": "Valerio"
         },
         "fb51a83ef06e4998a092d81f8bc3d342.16": {
