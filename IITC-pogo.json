@@ -414,6 +414,12 @@
             "lng": 1.054815,
             "name": "unknown"
         },
+        "17d3b9c274494f59865f4080c7b7ba97.16": {
+            "guid": "17d3b9c274494f59865f4080c7b7ba97.16",
+            "lat": 41.123498,
+            "lng": 1.178409,
+            "name": "unknown"
+        },
         "17fa34a8779747289c5e33dda3585775.16": {
             "guid": "17fa34a8779747289c5e33dda3585775.16",
             "lat": 41.16566,
@@ -2037,7 +2043,7 @@
         "7759546d4ca641ae9ba6b5b184f9574c.16": {
             "guid": "7759546d4ca641ae9ba6b5b184f9574c.16",
             "lat": 41.141389,
-            "lng": 1.373535,
+            "lng": 1.373534,
             "name": "Biblioteca Altafulla"
         },
         "77a7cc9dd03a4c67961a698e44304ef6.16": {
@@ -2528,8 +2534,8 @@
         },
         "92a80fdd7111406eb40154c2df676f37.16": {
             "guid": "92a80fdd7111406eb40154c2df676f37.16",
-            "lat": 41.11889,
-            "lng": 1.245543,
+            "lat": 41.119021,
+            "lng": 1.2455,
             "name": "Fuente de la Imperial Tarraco"
         },
         "93a98e9fa9a64d18802537099d6d63a6.16": {
@@ -3152,8 +3158,8 @@
         },
         "b9500c65f7104b7a96055d671353a3be.16": {
             "guid": "b9500c65f7104b7a96055d671353a3be.16",
-            "lat": 41.114502,
-            "lng": 1.255306,
+            "lat": 41.114488,
+            "lng": 1.255321,
             "name": "Casa Maria Salas"
         },
         "ba26f139fafb4d62866eb44f5641ca7e.16": {
@@ -4394,6 +4400,12 @@
             "lng": 1.206435,
             "name": "Mosaic Vilallonga"
         },
+        "0258fc7fbda246ee91cce9ed4935740e.16": {
+            "guid": "0258fc7fbda246ee91cce9ed4935740e.16",
+            "lat": 41.105861,
+            "lng": 1.153645,
+            "name": "Puente del Raval del Mar: Entrada de Vilaseca"
+        },
         "027733cd9e0f42a28355facf47814be3.16": {
             "guid": "027733cd9e0f42a28355facf47814be3.16",
             "lat": 41.081819,
@@ -5238,7 +5250,7 @@
             "guid": "0dabb55dabe346e2a50f41ff88909ea6.16",
             "lat": 41.069503,
             "lng": 0.936977,
-            "name": "unknown"
+            "name": "Pedra Seca 2304"
         },
         "0dd52499763b4d90a24c60403f3019b5.16": {
             "guid": "0dd52499763b4d90a24c60403f3019b5.16",
@@ -6014,12 +6026,6 @@
             "lng": 1.100519,
             "name": "Death Cherry"
         },
-        "17d3b9c274494f59865f4080c7b7ba97.16": {
-            "guid": "17d3b9c274494f59865f4080c7b7ba97.16",
-            "lat": 41.123498,
-            "lng": 1.178409,
-            "name": "Autoretrat S.Martorell"
-        },
         "17de3b319c5a4b1a81e910c645eff6df.16": {
             "guid": "17de3b319c5a4b1a81e910c645eff6df.16",
             "lat": 41.189955,
@@ -6744,7 +6750,7 @@
             "guid": "22d5e9d2512b493f890703379eb76e74.16",
             "lat": 41.009084,
             "lng": 0.943214,
-            "name": "unknown"
+            "name": "Acc\u00e9s Cala Misteri"
         },
         "2312159c943346e582d95c7cd10c8b3b.16": {
             "guid": "2312159c943346e582d95c7cd10c8b3b.16",
@@ -7237,6 +7243,12 @@
             "lat": 41.075086,
             "lng": 1.137356,
             "name": "Guillem De Cervello"
+        },
+        "2ae672dcb1a441889efc69892e2974a1.16": {
+            "guid": "2ae672dcb1a441889efc69892e2974a1.16",
+            "lat": 41.130965,
+            "lng": 1.201367,
+            "name": "Les Gavarres"
         },
         "2af451c5867f4eaaa97a063bdd7dbc5e.16": {
             "guid": "2af451c5867f4eaaa97a063bdd7dbc5e.16",
@@ -9379,6 +9391,12 @@
             "lat": 41.063847,
             "lng": 1.063535,
             "name": "Faro interior del puerto"
+        },
+        "4b86b0eb23d54d4ba19c080a78d2f741.16": {
+            "guid": "4b86b0eb23d54d4ba19c080a78d2f741.16",
+            "lat": 41.123773,
+            "lng": 1.177025,
+            "name": "Anella verda La Canonja"
         },
         "4bb5e344585d43c1975261cfc0f90bc7.16": {
             "guid": "4bb5e344585d43c1975261cfc0f90bc7.16",
@@ -12090,7 +12108,7 @@
             "guid": "72f044e5a0a344a5931f4fc8209fc789.16",
             "lat": 41.001864,
             "lng": 0.936866,
-            "name": "unknown"
+            "name": "Parc Infantil Cristall"
         },
         "72f376ad8cf748ab9e312e649ed10e04.16": {
             "guid": "72f376ad8cf748ab9e312e649ed10e04.16",
@@ -15552,7 +15570,7 @@
             "guid": "a7102a8978944f9a9b361541d9d5aa56.16",
             "lat": 41.219263,
             "lng": 1.128746,
-            "name": "unknown"
+            "name": "Camp de Avellaners"
         },
         "a72092a8ed1a4f14ade3b0a27e71bacb.16": {
             "guid": "a72092a8ed1a4f14ade3b0a27e71bacb.16",
@@ -16543,6 +16561,12 @@
             "lat": 41.143502,
             "lng": 1.374267,
             "name": "Ca l'Ixart,Altafulla"
+        },
+        "b50f173ad4ce49bda268b9a6be0f267e.16": {
+            "guid": "b50f173ad4ce49bda268b9a6be0f267e.16",
+            "lat": 41.112845,
+            "lng": 1.137682,
+            "name": "Puerta Sur del Estadio Municipal"
         },
         "b50fa6ddeeff4ca5b680c4017eb03aa0.16": {
             "guid": "b50fa6ddeeff4ca5b680c4017eb03aa0.16",
@@ -21379,6 +21403,12 @@
             "lat": 41.114807,
             "lng": 1.266252,
             "name": "Lions Club"
+        },
+        "fadd68acafdb4880811d29582fd37376.16": {
+            "guid": "fadd68acafdb4880811d29582fd37376.16",
+            "lat": 41.128159,
+            "lng": 1.233246,
+            "name": "Escola de natura"
         },
         "fadfd8685fe04f1d8192428d5bf1a8bd.16": {
             "guid": "fadfd8685fe04f1d8192428d5bf1a8bd.16",
