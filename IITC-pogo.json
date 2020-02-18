@@ -516,6 +516,12 @@
             "lng": 1.241968,
             "name": "Restes Del Parc"
         },
+        "1dc2dd42b21a430d981dd625b2d97301.16": {
+            "guid": "1dc2dd42b21a430d981dd625b2d97301.16",
+            "lat": 41.161514,
+            "lng": 1.079912,
+            "name": "unknown"
+        },
         "1e2b9b51d4ea4d29897b24be3fb05b8d.16": {
             "guid": "1e2b9b51d4ea4d29897b24be3fb05b8d.16",
             "lat": 41.049879,
@@ -1055,6 +1061,12 @@
             "lat": 41.210788,
             "lng": 1.1326,
             "name": "Arcs De L'Abel Ferrater"
+        },
+        "3ad37b83a29b49d8a0cc965bd741a453.16": {
+            "guid": "3ad37b83a29b49d8a0cc965bd741a453.16",
+            "lat": 41.064815,
+            "lng": 0.979798,
+            "name": "unknown"
         },
         "3b5d5fc1d01e46b39a618d5c8481b0c9.16": {
             "guid": "3b5d5fc1d01e46b39a618d5c8481b0c9.16",
@@ -2060,8 +2072,8 @@
         },
         "78a588f2410d4be9a575cfc7a998e3b5.11": {
             "guid": "78a588f2410d4be9a575cfc7a998e3b5.11",
-            "lat": 41.116523,
-            "lng": 1.250665,
+            "lat": 41.116561,
+            "lng": 1.250573,
             "name": "Est\u00e0tua dels Despullats"
         },
         "78ae9dd867eb40f7a42a116429d0bbac.16": {
@@ -3770,8 +3782,8 @@
         },
         "e0a6da4b6f564dcb974d172ac01c876b.16": {
             "guid": "e0a6da4b6f564dcb974d172ac01c876b.16",
-            "lat": 41.106125,
-            "lng": 1.245844,
+            "lat": 41.106236,
+            "lng": 1.248071,
             "name": "Waves"
         },
         "e0be68a779ae4a24b427fa0bc533079f.16": {
@@ -4981,6 +4993,12 @@
             "lat": 41.209861,
             "lng": 1.141044,
             "name": "Parque para perros"
+        },
+        "09d1805d642949beb9dfa45592b60394.16": {
+            "guid": "09d1805d642949beb9dfa45592b60394.16",
+            "lat": 41.151324,
+            "lng": 1.402248,
+            "name": "Mural de los patines"
         },
         "09d2fc120a5f4ce5aa468c85dd787c9c.16": {
             "guid": "09d2fc120a5f4ce5aa468c85dd787c9c.16",
@@ -6367,12 +6385,6 @@
             "lat": 41.08961,
             "lng": 1.155709,
             "name": "La Vaca Marchosa"
-        },
-        "1dc2dd42b21a430d981dd625b2d97301.16": {
-            "guid": "1dc2dd42b21a430d981dd625b2d97301.16",
-            "lat": 41.161514,
-            "lng": 1.079912,
-            "name": "Monument a la Pagesia"
         },
         "1dda7d1011a04df7966e874aa3d640aa.16": {
             "guid": "1dda7d1011a04df7966e874aa3d640aa.16",
@@ -8102,6 +8114,12 @@
             "lng": 1.176986,
             "name": "El Pages"
         },
+        "375fcc59f852406a9c5671c2cdfc0748.16": {
+            "guid": "375fcc59f852406a9c5671c2cdfc0748.16",
+            "lat": 41.113947,
+            "lng": 1.145284,
+            "name": "P\u00e9rgola esquinera del Parc de Bernat Saportella"
+        },
         "3767c1295fa04acf994123399d103610.16": {
             "guid": "3767c1295fa04acf994123399d103610.16",
             "lat": 41.113972,
@@ -8131,6 +8149,12 @@
             "lat": 41.086435,
             "lng": 1.1594,
             "name": "Coco Piloto"
+        },
+        "37f1f8578de549c28c6944372a797b71.16": {
+            "guid": "37f1f8578de549c28c6944372a797b71.16",
+            "lat": 41.161296,
+            "lng": 1.080376,
+            "name": "unknown"
         },
         "381882d92109464ab02c1bb6d59415e8.16": {
             "guid": "381882d92109464ab02c1bb6d59415e8.16",
@@ -8281,12 +8305,6 @@
             "lat": 41.080847,
             "lng": 1.182085,
             "name": "Doble Ancla Aquamarina "
-        },
-        "3ad37b83a29b49d8a0cc965bd741a453.16": {
-            "guid": "3ad37b83a29b49d8a0cc965bd741a453.16",
-            "lat": 41.064815,
-            "lng": 0.979798,
-            "name": "Imatge de la Moreneta."
         },
         "3add73f597604eaba8e5634c4d2d2b38.16": {
             "guid": "3add73f597604eaba8e5634c4d2d2b38.16",
@@ -9415,6 +9433,12 @@
             "lat": 41.187954,
             "lng": 1.256517,
             "name": "tirolinas"
+        },
+        "4c09e7c193df42849663ad867c55d31d.16": {
+            "guid": "4c09e7c193df42849663ad867c55d31d.16",
+            "lat": 41.1329,
+            "lng": 1.243153,
+            "name": "Mujeres cient\u00edficas"
         },
         "4c1e15d40ac643e59b04fa6d1a2b970a.16": {
             "guid": "4c1e15d40ac643e59b04fa6d1a2b970a.16",
@@ -18050,6 +18074,12 @@
             "lng": 0.96073,
             "name": "Mirador Cap A La Iglesia Mont-Roig"
         },
+        "cb4dc54a35ad4d26b1b7bd3c8a9e250d.16": {
+            "guid": "cb4dc54a35ad4d26b1b7bd3c8a9e250d.16",
+            "lat": 41.064852,
+            "lng": 0.980378,
+            "name": "unknown"
+        },
         "cb751f26715f4625ba15aa71680c2c6a.16": {
             "guid": "cb751f26715f4625ba15aa71680c2c6a.16",
             "lat": 41.164165,
@@ -18721,6 +18751,12 @@
             "lat": 41.115227,
             "lng": 1.264085,
             "name": "Playground Del Forti De La Reina"
+        },
+        "d75df7471bb84fa9896d2ac89b041a73.16": {
+            "guid": "d75df7471bb84fa9896d2ac89b041a73.16",
+            "lat": 41.210117,
+            "lng": 1.203136,
+            "name": "unknown"
         },
         "d76aa472a53c4cb6947bdc7ddaa73003.16": {
             "guid": "d76aa472a53c4cb6947bdc7ddaa73003.16",
@@ -20797,6 +20833,12 @@
             "lat": 41.146707,
             "lng": 1.096973,
             "name": "Polideportivo Alberich I Casas"
+        },
+        "f4276ad981674bd48b36680ac9327432.16": {
+            "guid": "f4276ad981674bd48b36680ac9327432.16",
+            "lat": 41.089314,
+            "lng": 0.953538,
+            "name": "Escut Blaugrana."
         },
         "f44b15b147c44c088d9e76068c4aa256.11": {
             "guid": "f44b15b147c44c088d9e76068c4aa256.11",
