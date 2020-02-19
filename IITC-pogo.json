@@ -2904,6 +2904,12 @@
             "lng": 0.902049,
             "name": "unknown"
         },
+        "a7102a8978944f9a9b361541d9d5aa56.16": {
+            "guid": "a7102a8978944f9a9b361541d9d5aa56.16",
+            "lat": 41.219263,
+            "lng": 1.128746,
+            "name": "unknown"
+        },
         "a742460ad29e4e0f9183e481c1466a10.16": {
             "guid": "a742460ad29e4e0f9183e481c1466a10.16",
             "lat": 41.005616,
@@ -4586,6 +4592,12 @@
             "lng": 1.250361,
             "name": "El Magatzem-Teatre"
         },
+        "04e7579c724440e59ae978b81f7a9b9e.12": {
+            "guid": "04e7579c724440e59ae978b81f7a9b9e.12",
+            "lat": 41.11869,
+            "lng": 1.257906,
+            "name": "Fa\u00e7ana de la Catedral"
+        },
         "04f03100a94d4489afc5e79c5df6c579.16": {
             "guid": "04f03100a94d4489afc5e79c5df6c579.16",
             "lat": 41.132144,
@@ -6128,12 +6140,6 @@
             "lng": 1.022922,
             "name": "Lago del Parque del 1 de Octubre"
         },
-        "193837988fb0456db70dd4f4aa8d5f21.16": {
-            "guid": "193837988fb0456db70dd4f4aa8d5f21.16",
-            "lat": 41.115348,
-            "lng": 1.249712,
-            "name": "Peixateria Encarna"
-        },
         "194baf53fe4f4d958c92787028bb10e2.16": {
             "guid": "194baf53fe4f4d958c92787028bb10e2.16",
             "lat": 41.169219,
@@ -6469,12 +6475,6 @@
             "lat": 41.086893,
             "lng": 0.960382,
             "name": "Piol\u00edn"
-        },
-        "1e9c511890a9407f96d71a8f95789298.16": {
-            "guid": "1e9c511890a9407f96d71a8f95789298.16",
-            "lat": 41.115393,
-            "lng": 1.249377,
-            "name": "Mercat - Tarragona"
         },
         "1ec064a3c87a4184a2ce519e7bf8db74.16": {
             "guid": "1ec064a3c87a4184a2ce519e7bf8db74.16",
@@ -7088,6 +7088,12 @@
             "lng": 1.241566,
             "name": "Tarragona 2018"
         },
+        "284892aead4f47a9ad6a7c3d8e1c07f6.16": {
+            "guid": "284892aead4f47a9ad6a7c3d8e1c07f6.16",
+            "lat": 41.115666,
+            "lng": 1.249404,
+            "name": "El Mercat Aviari"
+        },
         "285b7dc269fd4b369d5f01aaaada7af6.16": {
             "guid": "285b7dc269fd4b369d5f01aaaada7af6.16",
             "lat": 41.1417,
@@ -7519,6 +7525,12 @@
             "lat": 41.078383,
             "lng": 1.044207,
             "name": "Pista Municipal D'atletism"
+        },
+        "2ed45ecf45bd4f19a579477eaf748ccc.16": {
+            "guid": "2ed45ecf45bd4f19a579477eaf748ccc.16",
+            "lat": 41.124685,
+            "lng": 1.250064,
+            "name": "La Font del Parc"
         },
         "2ed6981aad7c453386fd7c3986ca8c79.16": {
             "guid": "2ed6981aad7c453386fd7c3986ca8c79.16",
@@ -8154,7 +8166,7 @@
             "guid": "37f1f8578de549c28c6944372a797b71.16",
             "lat": 41.161296,
             "lng": 1.080376,
-            "name": "unknown"
+            "name": "Graffiti floral"
         },
         "381882d92109464ab02c1bb6d59415e8.16": {
             "guid": "381882d92109464ab02c1bb6d59415e8.16",
@@ -13076,6 +13088,12 @@
             "lng": 1.110848,
             "name": "Human Bancs"
         },
+        "81222692fb524585938f3bba631e71e9.16": {
+            "guid": "81222692fb524585938f3bba631e71e9.16",
+            "lat": 41.223967,
+            "lng": 1.121332,
+            "name": "unknown"
+        },
         "812f0783be3546469f7e1a58e767f203.16": {
             "guid": "812f0783be3546469f7e1a58e767f203.16",
             "lat": 41.116092,
@@ -15590,12 +15608,6 @@
             "lng": 1.417044,
             "name": "Platja Dels Muntanyans"
         },
-        "a7102a8978944f9a9b361541d9d5aa56.16": {
-            "guid": "a7102a8978944f9a9b361541d9d5aa56.16",
-            "lat": 41.219263,
-            "lng": 1.128746,
-            "name": "Camp de Avellaners"
-        },
         "a72092a8ed1a4f14ade3b0a27e71bacb.16": {
             "guid": "a72092a8ed1a4f14ade3b0a27e71bacb.16",
             "lat": 41.074588,
@@ -17228,6 +17240,12 @@
             "lng": 1.147373,
             "name": "Bosc Aventura"
         },
+        "bf7eb9af37084662844f88ac7c91a4a7.16": {
+            "guid": "bf7eb9af37084662844f88ac7c91a4a7.16",
+            "lat": 41.216898,
+            "lng": 1.130451,
+            "name": "unknown"
+        },
         "bf9dee53575d415cba353a025653d199.16": {
             "guid": "bf9dee53575d415cba353a025653d199.16",
             "lat": 41.162617,
@@ -17732,6 +17750,12 @@
             "lng": 1.055429,
             "name": "Biblioteca Josep Salceda i Castells"
         },
+        "c6836fe699b04c109949fafc7d3ff6d5.16": {
+            "guid": "c6836fe699b04c109949fafc7d3ff6d5.16",
+            "lat": 41.107843,
+            "lng": 1.149989,
+            "name": "unknown"
+        },
         "c693a93f985144da9ecc2ec864c1682e.16": {
             "guid": "c693a93f985144da9ecc2ec864c1682e.16",
             "lat": 41.21572,
@@ -18078,7 +18102,7 @@
             "guid": "cb4dc54a35ad4d26b1b7bd3c8a9e250d.16",
             "lat": 41.064852,
             "lng": 0.980378,
-            "name": "unknown"
+            "name": "Loza de la Macarena."
         },
         "cb751f26715f4625ba15aa71680c2c6a.16": {
             "guid": "cb751f26715f4625ba15aa71680c2c6a.16",
@@ -18756,7 +18780,7 @@
             "guid": "d75df7471bb84fa9896d2ac89b041a73.16",
             "lat": 41.210117,
             "lng": 1.203136,
-            "name": "unknown"
+            "name": "Playground 2 Vilallonga"
         },
         "d76aa472a53c4cb6947bdc7ddaa73003.16": {
             "guid": "d76aa472a53c4cb6947bdc7ddaa73003.16",
@@ -19568,6 +19592,12 @@
             "lng": 0.915122,
             "name": "Pistes F\u00fatbol De L'Hospitalet"
         },
+        "e20453d73e174ee989aa5af8d342d3c2.16": {
+            "guid": "e20453d73e174ee989aa5af8d342d3c2.16",
+            "lat": 41.207871,
+            "lng": 1.202554,
+            "name": "unknown"
+        },
         "e20c5e4f1dbd41eabc07174c26ad3596.16": {
             "guid": "e20c5e4f1dbd41eabc07174c26ad3596.16",
             "lat": 41.076606,
@@ -20290,8 +20320,8 @@
         },
         "eccd9a7bd0514781a4ef081d9ba92e40.16": {
             "guid": "eccd9a7bd0514781a4ef081d9ba92e40.16",
-            "lat": 41.118575,
-            "lng": 1.258344,
+            "lat": 41.118715,
+            "lng": 1.258447,
             "name": "Creu de la Llum"
         },
         "ecd9e6b058a44d07941d4328212d2b2a.16": {
