@@ -4514,6 +4514,12 @@
             "lng": 1.178221,
             "name": "Water Flame "
         },
+        "03478fbfb191433abbee1a5590301f8a.16": {
+            "guid": "03478fbfb191433abbee1a5590301f8a.16",
+            "lat": 41.148975,
+            "lng": 1.100857,
+            "name": "Seguridad Social"
+        },
         "0364229422b249db925a65961189a340.16": {
             "guid": "0364229422b249db925a65961189a340.16",
             "lat": 41.162119,
@@ -13358,6 +13364,12 @@
             "lng": 1.112537,
             "name": "Playground"
         },
+        "8606e15248474e89b7e1509fe88ff03f.16": {
+            "guid": "8606e15248474e89b7e1509fe88ff03f.16",
+            "lat": 41.06484,
+            "lng": 1.047198,
+            "name": "unknown"
+        },
         "861dda1a56f14d3a97c453e219bd3085.16": {
             "guid": "861dda1a56f14d3a97c453e219bd3085.16",
             "lat": 41.159526,
@@ -13614,7 +13626,7 @@
             "guid": "88f4dcaf0d00419a9b1ee20d4cca0c65.16",
             "lat": 41.109504,
             "lng": 1.146034,
-            "name": "unknown"
+            "name": "Sant Antoni con ni\u00f1o en brazos"
         },
         "88f6e8133ce24f6aadda2446a224c1a4.16": {
             "guid": "88f6e8133ce24f6aadda2446a224c1a4.16",
@@ -14238,7 +14250,7 @@
             "guid": "9209baed937b4329bb81b0ea0e09a934.16",
             "lat": 41.14133,
             "lng": 1.375086,
-            "name": "unknown"
+            "name": "100 years ago photo"
         },
         "921de98b56754aebb80a6974c0cebed4.16": {
             "guid": "921de98b56754aebb80a6974c0cebed4.16",
@@ -14340,7 +14352,7 @@
             "guid": "933c454ca6f848dab4adf6453d671a2d.16",
             "lat": 41.148151,
             "lng": 1.218471,
-            "name": "unknown"
+            "name": "Testigos de Jehov\u00e1 de Constant\u00ed"
         },
         "9340249897fb41269ca91cc596622a76.16": {
             "guid": "9340249897fb41269ca91cc596622a76.16",
@@ -14850,7 +14862,7 @@
             "guid": "9b98f11d93ad48f7a79b638ea60c3fdb.16",
             "lat": 41.07463,
             "lng": 1.051216,
-            "name": "unknown"
+            "name": "Creu 1848"
         },
         "9ba7ca32e5e646c39236d854ce127643.16": {
             "guid": "9ba7ca32e5e646c39236d854ce127643.16",
@@ -16670,6 +16682,12 @@
             "lng": 1.108452,
             "name": "Kid Graffiti "
         },
+        "b5b63f6ecd924f5fb54b030a0cd633b6.16": {
+            "guid": "b5b63f6ecd924f5fb54b030a0cd633b6.16",
+            "lat": 41.073936,
+            "lng": 1.052011,
+            "name": "Cuadro Iglesia"
+        },
         "b5ba0bd51dd249e08ef10612fde40c4e.16": {
             "guid": "b5ba0bd51dd249e08ef10612fde40c4e.16",
             "lat": 41.091941,
@@ -17828,6 +17846,12 @@
             "lng": 1.249652,
             "name": "Casa Romana"
         },
+        "c7527eedb20e4628af54d50559b75f8c.16": {
+            "guid": "c7527eedb20e4628af54d50559b75f8c.16",
+            "lat": 41.117697,
+            "lng": 1.214558,
+            "name": "Font del L\u00fadic"
+        },
         "c7609740c7424a5492075c237ffb316c.16": {
             "guid": "c7609740c7424a5492075c237ffb316c.16",
             "lat": 41.113299,
@@ -18586,8 +18610,8 @@
         },
         "d3bb10d638a44716b1c6dde2526e189c.16": {
             "guid": "d3bb10d638a44716b1c6dde2526e189c.16",
-            "lat": 40.991564,
-            "lng": 0.922196,
+            "lat": 40.991765,
+            "lng": 0.922323,
             "name": "La S\u00ednia Antiga Pla\u00e7a Del Pou De L'Hospitalet."
         },
         "d3c3d3859edd48f98b1fcace356c8f3b.16": {
@@ -19651,6 +19675,12 @@
             "lat": 41.142863,
             "lng": 1.4036,
             "name": "Iglesia Cristiana Evang\u00e9lica"
+        },
+        "e2b4efa9c1614b568a0d24b9e8705dc9.16": {
+            "guid": "e2b4efa9c1614b568a0d24b9e8705dc9.16",
+            "lat": 41.064377,
+            "lng": 1.046641,
+            "name": "Petit parc"
         },
         "e2cab569617d49078410e4dd9e391c05.16": {
             "guid": "e2cab569617d49078410e4dd9e391c05.16",
