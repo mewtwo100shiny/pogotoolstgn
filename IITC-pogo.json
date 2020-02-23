@@ -306,6 +306,12 @@
             "lng": 1.25864,
             "name": "Calendar Tree"
         },
+        "0f28b54e16d24a6e87a37fa8228afbae.11": {
+            "guid": "0f28b54e16d24a6e87a37fa8228afbae.11",
+            "lat": 41.145789,
+            "lng": 1.099431,
+            "name": "unknown"
+        },
         "0f748e191ed8426ba0f1193b92e95c51.16": {
             "guid": "0f748e191ed8426ba0f1193b92e95c51.16",
             "lat": 41.145202,
@@ -3690,6 +3696,12 @@
             "lng": 1.251439,
             "name": "Teresianes"
         },
+        "dac72a68e365480cacf19a766c50990b.16": {
+            "guid": "dac72a68e365480cacf19a766c50990b.16",
+            "lat": 41.120974,
+            "lng": 1.224244,
+            "name": "unknown"
+        },
         "dae278e6606b48a3af9b81ca32b7e743.16": {
             "guid": "dae278e6606b48a3af9b81ca32b7e743.16",
             "lat": 41.07887,
@@ -5174,6 +5186,12 @@
             "lng": 1.121794,
             "name": "Verge Desamparada"
         },
+        "0be4cdab8a124612a8294864d99ed680.16": {
+            "guid": "0be4cdab8a124612a8294864d99ed680.16",
+            "lat": 41.12071,
+            "lng": 1.224017,
+            "name": "unknown"
+        },
         "0be9dc90b06e48898bffc974f375859d.16": {
             "guid": "0be9dc90b06e48898bffc974f375859d.16",
             "lat": 41.08423,
@@ -5431,12 +5449,6 @@
             "lat": 41.113611,
             "lng": 1.250283,
             "name": "Mirall Lifestyle Art"
-        },
-        "0f28b54e16d24a6e87a37fa8228afbae.11": {
-            "guid": "0f28b54e16d24a6e87a37fa8228afbae.11",
-            "lat": 41.145789,
-            "lng": 1.099431,
-            "name": "Pare Manyanet"
         },
         "0f411dc06ddc4caeb35c5a7bc93c1b94.16": {
             "guid": "0f411dc06ddc4caeb35c5a7bc93c1b94.16",
@@ -11041,6 +11053,12 @@
             "lat": 41.071071,
             "lng": 1.088206,
             "name": "Pista de petanca"
+        },
+        "62101b2a0e784388842a295b8d8d711a.16": {
+            "guid": "62101b2a0e784388842a295b8d8d711a.16",
+            "lat": 41.14962,
+            "lng": 1.100779,
+            "name": "unknown"
         },
         "62248d9c51d74b0daa9d8657c39fba94.16": {
             "guid": "62248d9c51d74b0daa9d8657c39fba94.16",
@@ -19051,12 +19069,6 @@
             "lat": 41.157162,
             "lng": 1.117662,
             "name": "Rosa De Reus"
-        },
-        "dac72a68e365480cacf19a766c50990b.16": {
-            "guid": "dac72a68e365480cacf19a766c50990b.16",
-            "lat": 41.120974,
-            "lng": 1.224244,
-            "name": "Calatrava"
         },
         "dad5bcdfa62849498a466815d66443a5.16": {
             "guid": "dad5bcdfa62849498a466815d66443a5.16",
