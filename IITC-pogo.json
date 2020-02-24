@@ -108,6 +108,12 @@
             "lng": 0.946218,
             "name": "unknown"
         },
+        "0557518f4d7743658bb1432a9b23ce69.16": {
+            "guid": "0557518f4d7743658bb1432a9b23ce69.16",
+            "lat": 41.147209,
+            "lng": 1.217755,
+            "name": "unknown"
+        },
         "05ba8373d7b34b6185bb58d29ab2624d.16": {
             "guid": "05ba8373d7b34b6185bb58d29ab2624d.16",
             "lat": 40.991382,
@@ -5190,7 +5196,7 @@
             "guid": "0be4cdab8a124612a8294864d99ed680.16",
             "lat": 41.12071,
             "lng": 1.224017,
-            "name": "unknown"
+            "name": "Parc Infantil Riu Clar"
         },
         "0be9dc90b06e48898bffc974f375859d.16": {
             "guid": "0be9dc90b06e48898bffc974f375859d.16",
@@ -10820,6 +10826,12 @@
             "lng": 1.256181,
             "name": "Moneda Romana"
         },
+        "5eba826de4eb433e9fbaa593539aa4c3.16": {
+            "guid": "5eba826de4eb433e9fbaa593539aa4c3.16",
+            "lat": 40.989068,
+            "lng": 0.923889,
+            "name": "unknown"
+        },
         "5ec2079064d54ae3b15e8e4d6123494e.16": {
             "guid": "5ec2079064d54ae3b15e8e4d6123494e.16",
             "lat": 41.161909,
@@ -11058,7 +11070,7 @@
             "guid": "62101b2a0e784388842a295b8d8d711a.16",
             "lat": 41.14962,
             "lng": 1.100779,
-            "name": "unknown"
+            "name": "Mural abrazados"
         },
         "62248d9c51d74b0daa9d8657c39fba94.16": {
             "guid": "62248d9c51d74b0daa9d8657c39fba94.16",
@@ -13386,7 +13398,7 @@
             "guid": "8606e15248474e89b7e1509fe88ff03f.16",
             "lat": 41.06484,
             "lng": 1.047198,
-            "name": "unknown"
+            "name": "Hypnotic Cat"
         },
         "861dda1a56f14d3a97c453e219bd3085.16": {
             "guid": "861dda1a56f14d3a97c453e219bd3085.16",
