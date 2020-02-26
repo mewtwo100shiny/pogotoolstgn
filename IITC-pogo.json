@@ -316,7 +316,7 @@
             "guid": "0f28b54e16d24a6e87a37fa8228afbae.11",
             "lat": 41.145789,
             "lng": 1.099431,
-            "name": "unknown"
+            "name": "Pare Manyanet"
         },
         "0f748e191ed8426ba0f1193b92e95c51.16": {
             "guid": "0f748e191ed8426ba0f1193b92e95c51.16",
@@ -1212,6 +1212,12 @@
             "lng": 1.176486,
             "name": "Mapa Informacion Tur\u00edstica "
         },
+        "44a6681f39184ee1959f0bafd466c82b.16": {
+            "guid": "44a6681f39184ee1959f0bafd466c82b.16",
+            "lat": 41.106838,
+            "lng": 1.150677,
+            "name": "unknown"
+        },
         "44bc39b308324c11aa004a8ecb9c5857.16": {
             "guid": "44bc39b308324c11aa004a8ecb9c5857.16",
             "lat": 41.142317,
@@ -2090,8 +2096,8 @@
         },
         "78a588f2410d4be9a575cfc7a998e3b5.11": {
             "guid": "78a588f2410d4be9a575cfc7a998e3b5.11",
-            "lat": 41.116561,
-            "lng": 1.250573,
+            "lat": 41.11651,
+            "lng": 1.250687,
             "name": "Est\u00e0tua dels Despullats"
         },
         "78ae9dd867eb40f7a42a116429d0bbac.16": {
@@ -3706,7 +3712,7 @@
             "guid": "dac72a68e365480cacf19a766c50990b.16",
             "lat": 41.120974,
             "lng": 1.224244,
-            "name": "unknown"
+            "name": "Calatrava"
         },
         "dae278e6606b48a3af9b81ca32b7e743.16": {
             "guid": "dae278e6606b48a3af9b81ca32b7e743.16",
@@ -5500,8 +5506,8 @@
         },
         "1004aa031e0d4817a2eb3a90006d27fe.16": {
             "guid": "1004aa031e0d4817a2eb3a90006d27fe.16",
-            "lat": 41.113593,
-            "lng": 1.251808,
+            "lat": 41.113592,
+            "lng": 1.25177,
             "name": "Palau Firal i de Congressos de Tarragona"
         },
         "100848a0a10042ddb96e9ca65f60631f.16": {
@@ -5846,6 +5852,12 @@
             "lng": 1.177729,
             "name": "Parque Infantil Almirante"
         },
+        "148b51e2fd5a4769ac31c8ab7d3dbde0.16": {
+            "guid": "148b51e2fd5a4769ac31c8ab7d3dbde0.16",
+            "lat": 40.99953,
+            "lng": 0.935591,
+            "name": "unknown"
+        },
         "14c675d8755044b2ad60610d89b8c70c.16": {
             "guid": "14c675d8755044b2ad60610d89b8c70c.16",
             "lat": 41.211133,
@@ -5938,8 +5950,8 @@
         },
         "1614f47a99d146f4bb713ae49ba139a4.16": {
             "guid": "1614f47a99d146f4bb713ae49ba139a4.16",
-            "lat": 41.117308,
-            "lng": 1.254824,
+            "lat": 41.11731,
+            "lng": 1.254797,
             "name": "Totem Ull"
         },
         "1615aac76dd0411a8525fa591e63d87f.16": {
@@ -6313,6 +6325,12 @@
             "lat": 41.153641,
             "lng": 1.102676,
             "name": "Parking graffity "
+        },
+        "1ba5c9ff5cae455890408d17e7493e1c.16": {
+            "guid": "1ba5c9ff5cae455890408d17e7493e1c.16",
+            "lat": 41.117463,
+            "lng": 1.259384,
+            "name": "Arc Rom\u00e0"
         },
         "1bb7e4e720ff46cabbb1c7fea29c980b.16": {
             "guid": "1bb7e4e720ff46cabbb1c7fea29c980b.16",
@@ -7064,6 +7082,12 @@
             "lng": 1.107327,
             "name": "Santa Patricia"
         },
+        "273430aea5f8435fbfe9439624ce5cdc.16": {
+            "guid": "273430aea5f8435fbfe9439624ce5cdc.16",
+            "lat": 41.118475,
+            "lng": 1.20784,
+            "name": "unknown"
+        },
         "27675882aee3426a815222fc07c87086.16": {
             "guid": "27675882aee3426a815222fc07c87086.16",
             "lat": 40.991669,
@@ -7105,12 +7129,6 @@
             "lat": 41.111586,
             "lng": 1.241566,
             "name": "Tarragona 2018"
-        },
-        "284892aead4f47a9ad6a7c3d8e1c07f6.16": {
-            "guid": "284892aead4f47a9ad6a7c3d8e1c07f6.16",
-            "lat": 41.115666,
-            "lng": 1.249404,
-            "name": "El Mercat Aviari"
         },
         "285b7dc269fd4b369d5f01aaaada7af6.16": {
             "guid": "285b7dc269fd4b369d5f01aaaada7af6.16",
@@ -7712,6 +7730,12 @@
             "lng": 1.118847,
             "name": "Concrete Tower"
         },
+        "30dcc5f416f1462189b880ea7b43077f.16": {
+            "guid": "30dcc5f416f1462189b880ea7b43077f.16",
+            "lat": 41.111195,
+            "lng": 1.247072,
+            "name": "Associaci\u00f3 Salam"
+        },
         "30e81764126c430cac253e245e4e543b.16": {
             "guid": "30e81764126c430cac253e245e4e543b.16",
             "lat": 41.166533,
@@ -8158,8 +8182,8 @@
         },
         "3767c1295fa04acf994123399d103610.16": {
             "guid": "3767c1295fa04acf994123399d103610.16",
-            "lat": 41.113972,
-            "lng": 1.253772,
+            "lat": 41.114087,
+            "lng": 1.253595,
             "name": "C\u00e0ritas Diocesana"
         },
         "377be340309b4a43970bbdec32b37aed.16": {
@@ -8479,6 +8503,12 @@
             "lat": 41.074411,
             "lng": 1.135184,
             "name": "Maria del Mar (1989)"
+        },
+        "3c8cd35cd2e34cb48b467668319103de.16": {
+            "guid": "3c8cd35cd2e34cb48b467668319103de.16",
+            "lat": 41.11436,
+            "lng": 1.242709,
+            "name": "Electric Garatge"
         },
         "3cc3eb5d90e045819212989b6858ffd0.16": {
             "guid": "3cc3eb5d90e045819212989b6858ffd0.16",
@@ -9604,8 +9634,8 @@
         },
         "4de25c62d8c946caade234689b76093c.16": {
             "guid": "4de25c62d8c946caade234689b76093c.16",
-            "lat": 41.114452,
-            "lng": 1.242231,
+            "lat": 41.114522,
+            "lng": 1.242153,
             "name": "Perros en la ducha"
         },
         "4de37b2c484b43b785e8ecdc7bfa8552.16": {
@@ -10033,6 +10063,12 @@
             "lat": 41.185941,
             "lng": 1.212496,
             "name": "Mural Skate parc"
+        },
+        "52962dd179314acc8682313e9b3eeca3.16": {
+            "guid": "52962dd179314acc8682313e9b3eeca3.16",
+            "lat": 41.113771,
+            "lng": 1.251912,
+            "name": "Art Natural"
         },
         "52c2f687dbb94d569abbc4f4b94a94d7.16": {
             "guid": "52c2f687dbb94d569abbc4f4b94a94d7.16",
@@ -10830,7 +10866,7 @@
             "guid": "5eba826de4eb433e9fbaa593539aa4c3.16",
             "lat": 40.989068,
             "lng": 0.923889,
-            "name": "unknown"
+            "name": "El Buho"
         },
         "5ec2079064d54ae3b15e8e4d6123494e.16": {
             "guid": "5ec2079064d54ae3b15e8e4d6123494e.16",
@@ -13376,6 +13412,12 @@
             "lng": 1.136376,
             "name": "Salou"
         },
+        "858f2b0e9d974f5b89fd9b6fbc735f35.16": {
+            "guid": "858f2b0e9d974f5b89fd9b6fbc735f35.16",
+            "lat": 41.121126,
+            "lng": 1.224501,
+            "name": "Zona Gossos Riu Clar"
+        },
         "859d5182ce9f4d409324bb4b644d8d2c.16": {
             "guid": "859d5182ce9f4d409324bb4b644d8d2c.16",
             "lat": 41.071231,
@@ -15442,8 +15484,8 @@
         },
         "a23d5e03600b4d669ddb41ab58afc172.16": {
             "guid": "a23d5e03600b4d669ddb41ab58afc172.16",
-            "lat": 41.117031,
-            "lng": 1.259545,
+            "lat": 41.11686,
+            "lng": 1.259316,
             "name": "Casa Bartolom\u00e9 Bar\u00f3"
         },
         "a23f7127eee04b9fb98ccc3481e52dc7.16": {
@@ -16375,6 +16417,12 @@
             "lat": 41.113425,
             "lng": 1.149365,
             "name": "Pont Blau"
+        },
+        "b16511ce2511464b912c6886682587ba.16": {
+            "guid": "b16511ce2511464b912c6886682587ba.16",
+            "lat": 41.208559,
+            "lng": 1.205657,
+            "name": "unknown"
         },
         "b1701d44acab442bb25caba99e713829.16": {
             "guid": "b1701d44acab442bb25caba99e713829.16",
@@ -17324,6 +17372,12 @@
             "lng": 1.257183,
             "name": "Enginyers Industrials Tarragona"
         },
+        "bfbb25b6999043479a466a345e607bfb.16": {
+            "guid": "bfbb25b6999043479a466a345e607bfb.16",
+            "lat": 41.114169,
+            "lng": 1.147606,
+            "name": "Jardin del Castillo de Vilaseca"
+        },
         "bfc2445acc9f4b1bb3fbca5ec06d2bd5.16": {
             "guid": "bfc2445acc9f4b1bb3fbca5ec06d2bd5.16",
             "lat": 41.138622,
@@ -17632,8 +17686,8 @@
         },
         "c38ceb9934674039865072c50367f6fd.16": {
             "guid": "c38ceb9934674039865072c50367f6fd.16",
-            "lat": 41.114824,
-            "lng": 1.247963,
+            "lat": 41.114738,
+            "lng": 1.248202,
             "name": "Foro romano De La Colonia"
         },
         "c3a63317d22a44759bf15ddba90b1d96.16": {
@@ -18088,8 +18142,8 @@
         },
         "ca881336ecac4f3591cb504ad92def14.16": {
             "guid": "ca881336ecac4f3591cb504ad92def14.16",
-            "lat": 41.112642,
-            "lng": 1.252521,
+            "lat": 41.112759,
+            "lng": 1.25259,
             "name": "Pista de baloncesto"
         },
         "ca93a568ed784cbd92fd3ca1d1b58f37.16": {
@@ -20684,6 +20738,12 @@
             "lng": 0.93025,
             "name": "Rutes Senderisme GR 92"
         },
+        "f0d067eafea547d4a7011ec355821222.16": {
+            "guid": "f0d067eafea547d4a7011ec355821222.16",
+            "lat": 41.206995,
+            "lng": 1.20277,
+            "name": "unknown"
+        },
         "f10b8eb129694ac39cee571ad2c022c5.16": {
             "guid": "f10b8eb129694ac39cee571ad2c022c5.16",
             "lat": 41.19541,
@@ -21805,6 +21865,12 @@
             "lat": 41.073941,
             "lng": 1.050598,
             "name": "Anselm Clave"
+        },
+        "fe7ac5d36d3e4d948e574019ad8c7004.16": {
+            "guid": "fe7ac5d36d3e4d948e574019ad8c7004.16",
+            "lat": 41.117596,
+            "lng": 1.25497,
+            "name": "Wild Chicken"
         },
         "fea6d5ba84204467b4e81cfdc07c3e00.16": {
             "guid": "fea6d5ba84204467b4e81cfdc07c3e00.16",
