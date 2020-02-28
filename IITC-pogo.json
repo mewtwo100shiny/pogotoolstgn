@@ -3206,8 +3206,8 @@
         },
         "b9500c65f7104b7a96055d671353a3be.16": {
             "guid": "b9500c65f7104b7a96055d671353a3be.16",
-            "lat": 41.114608,
-            "lng": 1.255446,
+            "lat": 41.114491,
+            "lng": 1.255334,
             "name": "Casa Maria Salas"
         },
         "ba26f139fafb4d62866eb44f5641ca7e.16": {
@@ -4762,8 +4762,8 @@
         },
         "05c483feb3bb479fb7c3fa52a40ef8f5.16": {
             "guid": "05c483feb3bb479fb7c3fa52a40ef8f5.16",
-            "lat": 41.15005,
-            "lng": 1.099686,
+            "lat": 41.150013,
+            "lng": 1.099431,
             "name": "Pista P\u00fablica De Padel"
         },
         "05c83efe5ac94f6da1d959417d8be889.16": {
@@ -6427,6 +6427,12 @@
             "lat": 41.074803,
             "lng": 1.054446,
             "name": "Cambrils porta de la vila"
+        },
+        "1d8d4c29bb7340adb4957b888118ee8a.16": {
+            "guid": "1d8d4c29bb7340adb4957b888118ee8a.16",
+            "lat": 41.115332,
+            "lng": 1.249476,
+            "name": "Correos"
         },
         "1da60866f2df4d6dbf63579aff49970a.16": {
             "guid": "1da60866f2df4d6dbf63579aff49970a.16",
@@ -9784,8 +9790,8 @@
         },
         "4f100fd8d6d046f99f9667c8a486c8b8.16": {
             "guid": "4f100fd8d6d046f99f9667c8a486c8b8.16",
-            "lat": 41.115026,
-            "lng": 1.257709,
+            "lat": 41.115061,
+            "lng": 1.257744,
             "name": "Maginet Pelacanyes"
         },
         "4f5d1062b69b4e8897ae407a4614a9b8.16": {
@@ -11605,6 +11611,12 @@
             "lat": 41.069464,
             "lng": 1.145475,
             "name": "Salou Imformacio"
+        },
+        "6a7098ed4e1f4f29b78b360373b1628c.16": {
+            "guid": "6a7098ed4e1f4f29b78b360373b1628c.16",
+            "lat": 41.111295,
+            "lng": 1.253128,
+            "name": "Placa Conmemorativa 125\u00b0 Aniversario Trenes"
         },
         "6a96591538ae4f56ba60f6335f377fb1.16": {
             "guid": "6a96591538ae4f56ba60f6335f377fb1.16",
@@ -17114,6 +17126,12 @@
             "lng": 1.037792,
             "name": "Playground "
         },
+        "bb826030b71342108f72ba6d785d1c9a.16": {
+            "guid": "bb826030b71342108f72ba6d785d1c9a.16",
+            "lat": 41.116456,
+            "lng": 1.250343,
+            "name": "Casa Musolas - Modernismo"
+        },
         "bbd85f7d7b534dbbb2cdd288cc36db9c.16": {
             "guid": "bbd85f7d7b534dbbb2cdd288cc36db9c.16",
             "lat": 41.118187,
@@ -19654,8 +19672,8 @@
         },
         "e1b598c34aa34268aa73227f9861d977.16": {
             "guid": "e1b598c34aa34268aa73227f9861d977.16",
-            "lat": 41.115116,
-            "lng": 1.248777,
+            "lat": 41.115151,
+            "lng": 1.24877,
             "name": "Graffiti del Lleopard"
         },
         "e1c0f1f25a38459aa4d5fa17342c633f.16": {
@@ -20302,8 +20320,8 @@
         },
         "eb74a081d9b64bde9b88af36137fad75.16": {
             "guid": "eb74a081d9b64bde9b88af36137fad75.16",
-            "lat": 41.132857,
-            "lng": 1.243351,
+            "lat": 41.132764,
+            "lng": 1.243474,
             "name": "Strange Fountain"
         },
         "eba509d4437143f78bea34340686275d.16": {
