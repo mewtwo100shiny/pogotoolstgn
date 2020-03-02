@@ -3768,6 +3768,12 @@
             "lng": 1.178985,
             "name": "Ancla Sagrada"
         },
+        "decbeea84cb14c0f9c101d8d25079ca6.16": {
+            "guid": "decbeea84cb14c0f9c101d8d25079ca6.16",
+            "lat": 41.123765,
+            "lng": 1.212203,
+            "name": "unknown"
+        },
         "ded9678394854fe98c7126fb40dcf128.16": {
             "guid": "ded9678394854fe98c7126fb40dcf128.16",
             "lat": 41.074061,
@@ -7106,6 +7112,12 @@
             "lng": 1.20784,
             "name": "Oficina de Treball: Tarragona-Campclar"
         },
+        "274c17c817fd4ccbaf25e1716962b3ef.16": {
+            "guid": "274c17c817fd4ccbaf25e1716962b3ef.16",
+            "lat": 41.123307,
+            "lng": 1.212151,
+            "name": "unknown"
+        },
         "27675882aee3426a815222fc07c87086.16": {
             "guid": "27675882aee3426a815222fc07c87086.16",
             "lat": 40.991669,
@@ -8389,6 +8401,12 @@
             "lat": 40.999115,
             "lng": 0.921751,
             "name": "M\u00e1quinas Ejercicios Ponent"
+        },
+        "3b18c3276ad447708b64df4b6ee405f0.16": {
+            "guid": "3b18c3276ad447708b64df4b6ee405f0.16",
+            "lat": 41.117358,
+            "lng": 1.214394,
+            "name": "unknown"
         },
         "3b1d8b14e6a549e5acf1770f93566dcf.16": {
             "guid": "3b1d8b14e6a549e5acf1770f93566dcf.16",
@@ -12835,6 +12853,12 @@
             "lat": 41.116916,
             "lng": 1.215404,
             "name": "Parc Infantil Torreforta"
+        },
+        "7beaf398d552428b83b56a82997c1c88.16": {
+            "guid": "7beaf398d552428b83b56a82997c1c88.16",
+            "lat": 41.110975,
+            "lng": 1.248447,
+            "name": "unknown"
         },
         "7c00803fb8df4b8abfb96823f6063dc6.16": {
             "guid": "7c00803fb8df4b8abfb96823f6063dc6.16",
@@ -19514,12 +19538,6 @@
             "lng": 1.102556,
             "name": "Pergola"
         },
-        "decbeea84cb14c0f9c101d8d25079ca6.16": {
-            "guid": "decbeea84cb14c0f9c101d8d25079ca6.16",
-            "lat": 41.123672,
-            "lng": 1.212187,
-            "name": "Parc Infantil Puigpelat"
-        },
         "dee829ee83b442a395b91506f8a793fa.16": {
             "guid": "dee829ee83b442a395b91506f8a793fa.16",
             "lat": 41.168327,
@@ -20791,6 +20809,12 @@
             "lat": 41.206995,
             "lng": 1.20277,
             "name": "Itinerari Saludable: Cam\u00ed de Gebell\u00ed"
+        },
+        "f0ef7537c7424a67b0a047e086427fa2.16": {
+            "guid": "f0ef7537c7424a67b0a047e086427fa2.16",
+            "lat": 41.117282,
+            "lng": 1.270936,
+            "name": "unknown"
         },
         "f10b8eb129694ac39cee571ad2c022c5.16": {
             "guid": "f10b8eb129694ac39cee571ad2c022c5.16",
