@@ -3366,6 +3366,12 @@
             "lng": 0.960472,
             "name": "Parr\u00f2quia de Sant Mateu"
         },
+        "c2a7a8c26ade4b9a99bd91139ff3d42d.16": {
+            "guid": "c2a7a8c26ade4b9a99bd91139ff3d42d.16",
+            "lat": 41.120024,
+            "lng": 1.149128,
+            "name": "unknown"
+        },
         "c2a8d941df75495ea077b5be4c197e78.16": {
             "guid": "c2a8d941df75495ea077b5be4c197e78.16",
             "lat": 41.064066,
@@ -5461,6 +5467,12 @@
             "lat": 41.113611,
             "lng": 1.250283,
             "name": "Mirall Lifestyle Art"
+        },
+        "0f332d68ffd2414894976ea026daaf6a.16": {
+            "guid": "0f332d68ffd2414894976ea026daaf6a.16",
+            "lat": 41.208039,
+            "lng": 1.202026,
+            "name": "\u00c0rea p\u00edcnic i descans"
         },
         "0f411dc06ddc4caeb35c5a7bc93c1b94.16": {
             "guid": "0f411dc06ddc4caeb35c5a7bc93c1b94.16",
@@ -9102,7 +9114,7 @@
             "guid": "459b5704987d4c4fa44432fad8e4d46f.16",
             "lat": 41.114627,
             "lng": 1.241301,
-            "name": "Restes Romanes"
+            "name": "Reserva arqueol\u00f2gica del Carrer d'Eivissa"
         },
         "459e428b6dc148e99fbe30356239494e.16": {
             "guid": "459e428b6dc148e99fbe30356239494e.16",
@@ -9367,12 +9379,6 @@
             "lat": 41.144822,
             "lng": 1.271559,
             "name": "Els Tres Reis"
-        },
-        "49cb26e86b884c529f23449a14f18466.16": {
-            "guid": "49cb26e86b884c529f23449a14f18466.16",
-            "lat": 41.147952,
-            "lng": 1.099538,
-            "name": "Camp Futbol Pare Manyanet"
         },
         "49d906289900446c829bae9c466a95a3.16": {
             "guid": "49d906289900446c829bae9c466a95a3.16",
@@ -10760,6 +10766,12 @@
             "lng": 1.115649,
             "name": "Taekwondo Koryo"
         },
+        "5c897202609940ff9e1fd43cab2f9a40.16": {
+            "guid": "5c897202609940ff9e1fd43cab2f9a40.16",
+            "lat": 41.118257,
+            "lng": 1.245654,
+            "name": "Barco Pirata Tarragon\u00ed"
+        },
         "5cbf4a12caab4eceb4c677196e610912.16": {
             "guid": "5cbf4a12caab4eceb4c677196e610912.16",
             "lat": 41.125902,
@@ -11720,6 +11732,12 @@
             "lng": 1.240535,
             "name": "Entrada al Parc"
         },
+        "6c6f49eb329c494983623af9d2dd75dc.16": {
+            "guid": "6c6f49eb329c494983623af9d2dd75dc.16",
+            "lat": 41.12024,
+            "lng": 1.148985,
+            "name": "Fuente del Skate Park"
+        },
         "6c72318cbdbb471e95d0022fa9aaec23.16": {
             "guid": "6c72318cbdbb471e95d0022fa9aaec23.16",
             "lat": 41.065617,
@@ -12637,6 +12655,12 @@
             "lat": 41.115484,
             "lng": 1.209844,
             "name": "Parc Infantil Crta Val\u00e8ncia"
+        },
+        "78ec1c6dd138456a8868259ac6bb282b.16": {
+            "guid": "78ec1c6dd138456a8868259ac6bb282b.16",
+            "lat": 41.158667,
+            "lng": 1.121764,
+            "name": "R\u00edos de vida"
         },
         "79041698f2a7449b93600353cd2ad5a9.16": {
             "guid": "79041698f2a7449b93600353cd2ad5a9.16",
@@ -15464,6 +15488,12 @@
             "lng": 1.17713,
             "name": "Four Elements"
         },
+        "a1ca6583f1cd46208fa30545e6cf3ba6.16": {
+            "guid": "a1ca6583f1cd46208fa30545e6cf3ba6.16",
+            "lat": 41.063942,
+            "lng": 1.176588,
+            "name": "Area arqueologico punto de cella"
+        },
         "a1e47110b9d645228f0050c0038a89f9.16": {
             "guid": "a1e47110b9d645228f0050c0038a89f9.16",
             "lat": 41.180597,
@@ -16454,6 +16484,12 @@
             "lng": 1.045995,
             "name": "Mural Ni\u00f1o bebiendo granizado"
         },
+        "b1a851ab5bbd4dcb9cc9c755c9134465.16": {
+            "guid": "b1a851ab5bbd4dcb9cc9c755c9134465.16",
+            "lat": 41.134577,
+            "lng": 1.251328,
+            "name": "Parque de San Pedro"
+        },
         "b1f105e675954bceaed34a67b94b7464.16": {
             "guid": "b1f105e675954bceaed34a67b94b7464.16",
             "lat": 41.075301,
@@ -16525,6 +16561,12 @@
             "lat": 41.149075,
             "lng": 1.395622,
             "name": "Pistas 3x3"
+        },
+        "b314bbd6e12b46998b418caae92dc18e.16": {
+            "guid": "b314bbd6e12b46998b418caae92dc18e.16",
+            "lat": 41.137858,
+            "lng": 1.094835,
+            "name": "Font verda"
         },
         "b31edf95ee4744ec8e5ed2410dd288b5.11": {
             "guid": "b31edf95ee4744ec8e5ed2410dd288b5.11",
@@ -17282,12 +17324,6 @@
             "lng": 1.001326,
             "name": "Font del hort del Baldrich"
         },
-        "be4a2f6a1e3340c1bb7cfac5c8389d0e.16": {
-            "guid": "be4a2f6a1e3340c1bb7cfac5c8389d0e.16",
-            "lat": 41.14593,
-            "lng": 1.398353,
-            "name": "Reixa Floral"
-        },
         "be68f4e7232b409f9198f60ec4835320.16": {
             "guid": "be68f4e7232b409f9198f60ec4835320.16",
             "lat": 41.073132,
@@ -17490,7 +17526,7 @@
             "guid": "c12d35380f4445c88b9ac7d4f9750865.16",
             "lat": 41.085173,
             "lng": 1.114732,
-            "name": "unknown"
+            "name": "Complex Esportiu Futbol Salou"
         },
         "c1402bcf6c5d4c799e92ca83357c1acb.16": {
             "guid": "c1402bcf6c5d4c799e92ca83357c1acb.16",
@@ -17617,12 +17653,6 @@
             "lat": 41.212193,
             "lng": 1.139757,
             "name": "Mas De Lhort D'Iglesies"
-        },
-        "c2a7a8c26ade4b9a99bd91139ff3d42d.16": {
-            "guid": "c2a7a8c26ade4b9a99bd91139ff3d42d.16",
-            "lat": 41.120024,
-            "lng": 1.149128,
-            "name": "Skatepark Vila-seca"
         },
         "c2ac465e290146b4ac54572c6c4ff632.16": {
             "guid": "c2ac465e290146b4ac54572c6c4ff632.16",
