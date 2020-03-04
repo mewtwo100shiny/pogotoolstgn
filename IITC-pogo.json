@@ -3206,8 +3206,8 @@
         },
         "b9500c65f7104b7a96055d671353a3be.16": {
             "guid": "b9500c65f7104b7a96055d671353a3be.16",
-            "lat": 41.114491,
-            "lng": 1.255334,
+            "lat": 41.11452,
+            "lng": 1.255373,
             "name": "Casa Maria Salas"
         },
         "ba26f139fafb4d62866eb44f5641ca7e.16": {
@@ -6014,6 +6014,12 @@
             "lng": 1.108982,
             "name": "Casa Pinyol"
         },
+        "1677031b9cff49efac8eb04665c20a9a.16": {
+            "guid": "1677031b9cff49efac8eb04665c20a9a.16",
+            "lat": 41.153294,
+            "lng": 1.116521,
+            "name": "pista de tenis club natacio reus ploms"
+        },
         "16a89e62f5474366adf515f9fabfefc0.16": {
             "guid": "16a89e62f5474366adf515f9fabfefc0.16",
             "lat": 41.119089,
@@ -7122,7 +7128,7 @@
             "guid": "274c17c817fd4ccbaf25e1716962b3ef.16",
             "lat": 41.123307,
             "lng": 1.212151,
-            "name": "unknown"
+            "name": "Mural Barri Torreforta"
         },
         "27675882aee3426a815222fc07c87086.16": {
             "guid": "27675882aee3426a815222fc07c87086.16",
@@ -14605,6 +14611,12 @@
             "lat": 41.110922,
             "lng": 1.249292,
             "name": "Font de Peus"
+        },
+        "944f2a88ebf3490198be9fb1bb004727.16": {
+            "guid": "944f2a88ebf3490198be9fb1bb004727.16",
+            "lat": 41.117186,
+            "lng": 1.20115,
+            "name": "graffiti coraz\u00f3n"
         },
         "945b449fc2aa48ca97eb5a42b0d17481.16": {
             "guid": "945b449fc2aa48ca97eb5a42b0d17481.16",
