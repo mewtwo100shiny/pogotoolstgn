@@ -3398,8 +3398,8 @@
         },
         "c3eae72308634613a6eb6c270dac71ec.16": {
             "guid": "c3eae72308634613a6eb6c270dac71ec.16",
-            "lat": 41.134313,
-            "lng": 1.24239,
+            "lat": 41.134264,
+            "lng": 1.242946,
             "name": "Facultat De Qu\u00edmica I D'Enologia"
         },
         "c46362214df343c18d828fcb88e7a74e.16": {
@@ -6019,6 +6019,12 @@
             "lat": 41.153294,
             "lng": 1.116521,
             "name": "pista de tenis club natacio reus ploms"
+        },
+        "1687056d5a7e4482b9402d3d42a57ca9.16": {
+            "guid": "1687056d5a7e4482b9402d3d42a57ca9.16",
+            "lat": 41.143378,
+            "lng": 1.098123,
+            "name": "unknown"
         },
         "16a89e62f5474366adf515f9fabfefc0.16": {
             "guid": "16a89e62f5474366adf515f9fabfefc0.16",
@@ -19120,8 +19126,8 @@
         },
         "d92c42b2c7d04584ae0dcecd04b476f1.16": {
             "guid": "d92c42b2c7d04584ae0dcecd04b476f1.16",
-            "lat": 41.121734,
-            "lng": 1.214804,
+            "lat": 41.121777,
+            "lng": 1.214819,
             "name": "Font Del Parc "
         },
         "d944cb872e234e659f5b12252839d079.16": {
