@@ -6024,7 +6024,7 @@
             "guid": "1687056d5a7e4482b9402d3d42a57ca9.16",
             "lat": 41.143378,
             "lng": 1.098123,
-            "name": "unknown"
+            "name": "Fuente Do Pino"
         },
         "16a89e62f5474366adf515f9fabfefc0.16": {
             "guid": "16a89e62f5474366adf515f9fabfefc0.16",
@@ -20209,6 +20209,12 @@
             "lat": 41.162588,
             "lng": 1.112479,
             "name": "Mas Llevat"
+        },
+        "e79f35cc1edc4d5d9ebf4579f218ed5d.16": {
+            "guid": "e79f35cc1edc4d5d9ebf4579f218ed5d.16",
+            "lat": 41.076736,
+            "lng": 1.055669,
+            "name": "unknown"
         },
         "e7cb1c3f97c24fcf81495edb5e589200.16": {
             "guid": "e7cb1c3f97c24fcf81495edb5e589200.16",
