@@ -4319,6 +4319,12 @@
             "lat": 41.175009,
             "lng": 1.325737,
             "name": "unknown"
+        },
+        "fff55eecfd1d49ba87029426de947d60.16": {
+            "guid": "fff55eecfd1d49ba87029426de947d60.16",
+            "lat": 41.113226,
+            "lng": 1.250748,
+            "name": "unknown"
         }
     },
     "pokestops": {
@@ -13808,6 +13814,12 @@
             "lng": 1.413637,
             "name": "Beach Playground"
         },
+        "8948c8d643534ae2866c6974768c3a90.16": {
+            "guid": "8948c8d643534ae2866c6974768c3a90.16",
+            "lat": 41.108876,
+            "lng": 1.254116,
+            "name": "unknown"
+        },
         "8956b821b97042158d5285b11fade308.16": {
             "guid": "8956b821b97042158d5285b11fade308.16",
             "lat": 41.069244,
@@ -22111,12 +22123,6 @@
             "lat": 41.159234,
             "lng": 1.087319,
             "name": "Mural Gangsta NBA"
-        },
-        "fff55eecfd1d49ba87029426de947d60.16": {
-            "guid": "fff55eecfd1d49ba87029426de947d60.16",
-            "lat": 41.113226,
-            "lng": 1.250748,
-            "name": "Columna Romana"
         },
         "fff64012d4d14cfe94a10d5d48f64d8c.16": {
             "guid": "fff64012d4d14cfe94a10d5d48f64d8c.16",
