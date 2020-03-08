@@ -6566,6 +6566,12 @@
             "lng": 0.960382,
             "name": "Piol\u00edn"
         },
+        "1e9eda444bf64216a364a07da0f027ad.16": {
+            "guid": "1e9eda444bf64216a364a07da0f027ad.16",
+            "lat": 41.115719,
+            "lng": 1.249362,
+            "name": "Mercat Central de Tarragona"
+        },
         "1ec064a3c87a4184a2ce519e7bf8db74.16": {
             "guid": "1ec064a3c87a4184a2ce519e7bf8db74.16",
             "lat": 41.087912,
@@ -20214,7 +20220,7 @@
             "guid": "e79f35cc1edc4d5d9ebf4579f218ed5d.16",
             "lat": 41.076736,
             "lng": 1.055669,
-            "name": "unknown"
+            "name": "Xemeneia de la B\u00f2bila del Vidiella"
         },
         "e7cb1c3f97c24fcf81495edb5e589200.16": {
             "guid": "e7cb1c3f97c24fcf81495edb5e589200.16",
