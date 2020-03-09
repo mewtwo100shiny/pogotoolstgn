@@ -180,6 +180,12 @@
             "lng": 1.224166,
             "name": "Almac\u00e9n De Libros"
         },
+        "07d7c7f69b144b1dbdc6fcb0a68339a8.16": {
+            "guid": "07d7c7f69b144b1dbdc6fcb0a68339a8.16",
+            "lat": 41.071656,
+            "lng": 1.10734,
+            "name": "unknown"
+        },
         "085ec3b00d3249c392ce15ad1a97e64c.16": {
             "guid": "085ec3b00d3249c392ce15ad1a97e64c.16",
             "lat": 41.215956,
@@ -4957,12 +4963,6 @@
             "lat": 41.130095,
             "lng": 1.129553,
             "name": "Campo de futbol sala"
-        },
-        "07d7c7f69b144b1dbdc6fcb0a68339a8.16": {
-            "guid": "07d7c7f69b144b1dbdc6fcb0a68339a8.16",
-            "lat": 41.071656,
-            "lng": 1.10734,
-            "name": "Iron Structure"
         },
         "07ebaead045f4ae8a577abceeb1ea6c3.16": {
             "guid": "07ebaead045f4ae8a577abceeb1ea6c3.16",
@@ -12626,6 +12626,12 @@
             "lng": 1.142844,
             "name": "Guillem De Vilaragut"
         },
+        "777da192a9b846f49e3c82a786f8e264.16": {
+            "guid": "777da192a9b846f49e3c82a786f8e264.16",
+            "lat": 41.071853,
+            "lng": 1.109025,
+            "name": "unknown"
+        },
         "778ec079e3854e08a3fc9371612806a1.16": {
             "guid": "778ec079e3854e08a3fc9371612806a1.16",
             "lat": 41.088789,
@@ -13818,7 +13824,7 @@
             "guid": "8948c8d643534ae2866c6974768c3a90.16",
             "lat": 41.108876,
             "lng": 1.254116,
-            "name": "unknown"
+            "name": "Faro De Color Negro"
         },
         "8956b821b97042158d5285b11fade308.16": {
             "guid": "8956b821b97042158d5285b11fade308.16",
