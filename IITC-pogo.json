@@ -3384,6 +3384,12 @@
             "lng": 1.048155,
             "name": "Rosa Dels Vents"
         },
+        "c300ec3c1d3443958969c1ec4330c905.16": {
+            "guid": "c300ec3c1d3443958969c1ec4330c905.16",
+            "lat": 41.123375,
+            "lng": 1.246445,
+            "name": "unknown"
+        },
         "c34ddec0f285477eb7a99d7981fdeaaa.16": {
             "guid": "c34ddec0f285477eb7a99d7981fdeaaa.16",
             "lat": 41.084421,
@@ -5197,6 +5203,12 @@
             "lat": 41.16299,
             "lng": 1.104474,
             "name": "C\u00fapula explorer"
+        },
+        "0ba647e0f1a242cf951fe85d98e4f008.16": {
+            "guid": "0ba647e0f1a242cf951fe85d98e4f008.16",
+            "lat": 41.12384,
+            "lng": 1.248896,
+            "name": "unknown"
         },
         "0ba80e5b257047be97c8898ca29c7443.16": {
             "guid": "0ba80e5b257047be97c8898ca29c7443.16",
@@ -11648,6 +11660,12 @@
             "lng": 0.91258,
             "name": "Estaci\u00f3n De Tren Mediterr\u00e1nea L'Hospitalet De L'Infant."
         },
+        "699211b5ba504dd0abf1b2667972e1e6.16": {
+            "guid": "699211b5ba504dd0abf1b2667972e1e6.16",
+            "lat": 41.112527,
+            "lng": 1.25249,
+            "name": "unknown"
+        },
         "6998076e07f34e57b361eb084c60d534.16": {
             "guid": "6998076e07f34e57b361eb084c60d534.16",
             "lat": 41.152667,
@@ -17791,12 +17809,6 @@
             "lat": 41.155899,
             "lng": 1.107458,
             "name": "Casa Carpa"
-        },
-        "c300ec3c1d3443958969c1ec4330c905.16": {
-            "guid": "c300ec3c1d3443958969c1ec4330c905.16",
-            "lat": 41.123375,
-            "lng": 1.246445,
-            "name": "Canalizaci\u00f3n Romana "
         },
         "c315d2e682734790a3d690bf029824a1.16": {
             "guid": "c315d2e682734790a3d690bf029824a1.16",
