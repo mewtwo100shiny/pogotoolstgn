@@ -184,7 +184,7 @@
             "guid": "07d7c7f69b144b1dbdc6fcb0a68339a8.16",
             "lat": 41.071656,
             "lng": 1.10734,
-            "name": "unknown"
+            "name": "Iron Structure"
         },
         "085ec3b00d3249c392ce15ad1a97e64c.16": {
             "guid": "085ec3b00d3249c392ce15ad1a97e64c.16",
@@ -7144,8 +7144,8 @@
         },
         "274c17c817fd4ccbaf25e1716962b3ef.16": {
             "guid": "274c17c817fd4ccbaf25e1716962b3ef.16",
-            "lat": 41.123307,
-            "lng": 1.212151,
+            "lat": 41.123314,
+            "lng": 1.212067,
             "name": "Mural Barri Torreforta"
         },
         "27675882aee3426a815222fc07c87086.16": {
@@ -7291,6 +7291,12 @@
             "lat": 41.112542,
             "lng": 1.143225,
             "name": "Panell Informatiu "
+        },
+        "299ab05f48214fdab811a04d638ebc54.16": {
+            "guid": "299ab05f48214fdab811a04d638ebc54.16",
+            "lat": 41.12313,
+            "lng": 1.212448,
+            "name": "Camp de futbol"
         },
         "299fb6a3667143538adef4671ce8fcf5.16": {
             "guid": "299fb6a3667143538adef4671ce8fcf5.16",
@@ -8407,6 +8413,12 @@
             "lat": 41.216538,
             "lng": 1.136216,
             "name": "Cementiri "
+        },
+        "3a97e391135b4dfa95d88a6dc632e9fe.16": {
+            "guid": "3a97e391135b4dfa95d88a6dc632e9fe.16",
+            "lat": 41.117384,
+            "lng": 1.240241,
+            "name": "Ag\u00e8ncia de l\u2019Habitatge de Catalunya"
         },
         "3ab157813bdb42f89158522d9f058941.16": {
             "guid": "3ab157813bdb42f89158522d9f058941.16",
@@ -10544,6 +10556,12 @@
             "lng": 1.132222,
             "name": "Arbol Decorado"
         },
+        "587547343cbf4ed0ae8098f612093644.16": {
+            "guid": "587547343cbf4ed0ae8098f612093644.16",
+            "lat": 41.068661,
+            "lng": 1.096049,
+            "name": "mini pista de patinaje"
+        },
         "58bc873333f5422196721a6bfd7cb14c.16": {
             "guid": "58bc873333f5422196721a6bfd7cb14c.16",
             "lat": 41.079144,
@@ -12630,7 +12648,7 @@
             "guid": "777da192a9b846f49e3c82a786f8e264.16",
             "lat": 41.071853,
             "lng": 1.109025,
-            "name": "unknown"
+            "name": "Platja del cap de sant Pere"
         },
         "778ec079e3854e08a3fc9371612806a1.16": {
             "guid": "778ec079e3854e08a3fc9371612806a1.16",
@@ -14557,6 +14575,12 @@
             "lat": 41.148404,
             "lng": 1.113777,
             "name": "parc infantil "
+        },
+        "93711dba061e46ee9fcfff6f5b15c2f7.16": {
+            "guid": "93711dba061e46ee9fcfff6f5b15c2f7.16",
+            "lat": 41.117644,
+            "lng": 1.248763,
+            "name": "Esgl\u00e8sia de Sant Antoni de P\u00e0dua"
         },
         "9371bf171d554feba3cabbebdaef2115.16": {
             "guid": "9371bf171d554feba3cabbebdaef2115.16",
@@ -17812,8 +17836,8 @@
         },
         "c38ceb9934674039865072c50367f6fd.16": {
             "guid": "c38ceb9934674039865072c50367f6fd.16",
-            "lat": 41.114738,
-            "lng": 1.248202,
+            "lat": 41.11473,
+            "lng": 1.248215,
             "name": "Forum Rom\u00e0 de la Col\u00f2nia"
         },
         "c3a63317d22a44759bf15ddba90b1d96.16": {
@@ -18732,7 +18756,7 @@
             "guid": "d277955ba9bc433d893981124146e392.16",
             "lat": 41.114234,
             "lng": 1.243734,
-            "name": "Gerencia territorial de Tarragona"
+            "name": "Gerencia Territorial de Tarragona"
         },
         "d3049155d82048a3bc59a55d9b31f6b0.16": {
             "guid": "d3049155d82048a3bc59a55d9b31f6b0.16",
