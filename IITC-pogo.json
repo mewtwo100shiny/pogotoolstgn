@@ -2,8 +2,8 @@
     "gyms": {
         "0023f4c0206c45d3a69a0ad3e6ee0d52.16": {
             "guid": "0023f4c0206c45d3a69a0ad3e6ee0d52.16",
-            "lat": 41.110347,
-            "lng": 1.249992,
+            "lat": 41.110319,
+            "lng": 1.25002,
             "name": "Monument a Mercuri"
         },
         "00ecc4670a2a46bcb965192bcda11649.16": {
@@ -3388,7 +3388,7 @@
             "guid": "c300ec3c1d3443958969c1ec4330c905.16",
             "lat": 41.123375,
             "lng": 1.246445,
-            "name": "unknown"
+            "name": "Canalizaci\u00f3n Romana "
         },
         "c34ddec0f285477eb7a99d7981fdeaaa.16": {
             "guid": "c34ddec0f285477eb7a99d7981fdeaaa.16",
@@ -7156,8 +7156,8 @@
         },
         "274c17c817fd4ccbaf25e1716962b3ef.16": {
             "guid": "274c17c817fd4ccbaf25e1716962b3ef.16",
-            "lat": 41.123314,
-            "lng": 1.212067,
+            "lat": 41.123309,
+            "lng": 1.212147,
             "name": "Mural Barri Torreforta"
         },
         "27675882aee3426a815222fc07c87086.16": {
@@ -7459,6 +7459,12 @@
             "lat": 41.214632,
             "lng": 1.140605,
             "name": "Font de la pla\u00e7a Europa"
+        },
+        "2bc40f6dcb2d4aa9ba730416884b2357.16": {
+            "guid": "2bc40f6dcb2d4aa9ba730416884b2357.16",
+            "lat": 41.119852,
+            "lng": 1.218356,
+            "name": "Campo de Futbol p\u00fablico"
         },
         "2bc4b1ea698945e4a9a0a5055281ddbb.16": {
             "guid": "2bc4b1ea698945e4a9a0a5055281ddbb.16",
@@ -9360,7 +9366,7 @@
             "guid": "47caf9b37e7e4bd1874b0bf69f7728dc.16",
             "lat": 41.075493,
             "lng": 1.104566,
-            "name": "unknown"
+            "name": "Parque infantil"
         },
         "47e7480bb4ca45bf8ff60323f60c2cc3.16": {
             "guid": "47e7480bb4ca45bf8ff60323f60c2cc3.16",
@@ -12788,6 +12794,12 @@
             "lng": 1.148267,
             "name": "Mirador Del Cam\u00ed De Ronda"
         },
+        "79350243b4ac44418bd4533ebfb6e340.16": {
+            "guid": "79350243b4ac44418bd4533ebfb6e340.16",
+            "lat": 41.11556,
+            "lng": 1.21219,
+            "name": "\u00c0rea per a gossos"
+        },
         "7939044e38e74791a23fb56d9ccf342f.16": {
             "guid": "7939044e38e74791a23fb56d9ccf342f.16",
             "lat": 41.042882,
@@ -14128,8 +14140,8 @@
         },
         "8d51462f3cad4a9899ac56334225fa57.12": {
             "guid": "8d51462f3cad4a9899ac56334225fa57.12",
-            "lat": 41.11381,
-            "lng": 1.25634,
+            "lat": 41.113792,
+            "lng": 1.256344,
             "name": "Est\u00e0tua a Roger de Ll\u00faria"
         },
         "8d53be8eb2a1429e88c6d4266fd80afe.16": {
@@ -18820,8 +18832,8 @@
         },
         "d38157b226074bf8abbc1e39db5070d9.16": {
             "guid": "d38157b226074bf8abbc1e39db5070d9.16",
-            "lat": 41.117083,
-            "lng": 1.243226,
+            "lat": 41.117122,
+            "lng": 1.243579,
             "name": "Font Del Sant Rafael"
         },
         "d382c45b4b094ebcb426f8dcfc719e5d.16": {
@@ -20198,6 +20210,12 @@
             "lng": 1.208932,
             "name": "centro de dia"
         },
+        "e6c5ab792560423a8b0556535a2bff9d.16": {
+            "guid": "e6c5ab792560423a8b0556535a2bff9d.16",
+            "lat": 41.110636,
+            "lng": 1.24952,
+            "name": "unknown"
+        },
         "e6cd2754934f4c77bb792e8963b1b34d.16": {
             "guid": "e6cd2754934f4c77bb792e8963b1b34d.16",
             "lat": 41.152839,
@@ -20455,6 +20473,12 @@
             "lat": 41.140592,
             "lng": 1.246734,
             "name": "Centre Civic de Sant Pere i Sant Pau"
+        },
+        "eb12b046671347d1a4a58d17a9298da3.16": {
+            "guid": "eb12b046671347d1a4a58d17a9298da3.16",
+            "lat": 41.116,
+            "lng": 1.25939,
+            "name": "Chef Clive"
         },
         "eb13a4bac71e499a82a13a45fbc17b4b.16": {
             "guid": "eb13a4bac71e499a82a13a45fbc17b4b.16",
