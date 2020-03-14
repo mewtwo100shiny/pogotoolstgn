@@ -564,6 +564,12 @@
             "lng": 1.373395,
             "name": "Mural Bibliotecari"
         },
+        "1f6db87d8efb453daeccb624ba254044.16": {
+            "guid": "1f6db87d8efb453daeccb624ba254044.16",
+            "lat": 41.107063,
+            "lng": 1.144751,
+            "name": "unknown"
+        },
         "1f952c2ce1ad4298b0ba9b89864b44ef.16": {
             "guid": "1f952c2ce1ad4298b0ba9b89864b44ef.16",
             "lat": 41.142701,
@@ -4212,6 +4218,12 @@
             "lng": 1.087283,
             "name": "Pabello Dels Distingits"
         },
+        "fa0a08da593545afb542cdacf965e62c.16": {
+            "guid": "fa0a08da593545afb542cdacf965e62c.16",
+            "lat": 41.069323,
+            "lng": 1.099798,
+            "name": "unknown"
+        },
         "faa7ee1b012642debfbe38258fdedc4a.16": {
             "guid": "faa7ee1b012642debfbe38258fdedc4a.16",
             "lat": 41.138333,
@@ -6619,12 +6631,6 @@
             "lat": 41.145761,
             "lng": 1.10832,
             "name": "Correos"
-        },
-        "1f6db87d8efb453daeccb624ba254044.16": {
-            "guid": "1f6db87d8efb453daeccb624ba254044.16",
-            "lat": 41.107063,
-            "lng": 1.144751,
-            "name": "Triple balanc\u00edn"
         },
         "1f869a6575124f98b96849d278f24c42.16": {
             "guid": "1f869a6575124f98b96849d278f24c42.16",
@@ -10860,7 +10866,7 @@
             "guid": "5c897202609940ff9e1fd43cab2f9a40.16",
             "lat": 41.118257,
             "lng": 1.245654,
-            "name": "Barco Pirata Tarragon\u00ed"
+            "name": "Mural del barco"
         },
         "5cbf4a12caab4eceb4c677196e610912.16": {
             "guid": "5cbf4a12caab4eceb4c677196e610912.16",
@@ -14317,6 +14323,12 @@
             "lat": 41.120952,
             "lng": 1.241869,
             "name": "ECI"
+        },
+        "8f3d221d3dbf407c969c3d38cd3dcaa3.16": {
+            "guid": "8f3d221d3dbf407c969c3d38cd3dcaa3.16",
+            "lat": 41.107559,
+            "lng": 1.144034,
+            "name": "unknown"
         },
         "8f570da82a6640609290a15cc9916e77.16": {
             "guid": "8f570da82a6640609290a15cc9916e77.16",
@@ -20214,7 +20226,7 @@
             "guid": "e6c5ab792560423a8b0556535a2bff9d.16",
             "lat": 41.110636,
             "lng": 1.24952,
-            "name": "unknown"
+            "name": "Aduana"
         },
         "e6cd2754934f4c77bb792e8963b1b34d.16": {
             "guid": "e6cd2754934f4c77bb792e8963b1b34d.16",
