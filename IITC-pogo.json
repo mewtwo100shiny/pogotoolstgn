@@ -834,6 +834,12 @@
             "lng": 1.136691,
             "name": "Vaca Meditando"
         },
+        "2b1292c3b79c443d9d596c5a815016b3.16": {
+            "guid": "2b1292c3b79c443d9d596c5a815016b3.16",
+            "lat": 41.127537,
+            "lng": 1.292011,
+            "name": "unknown"
+        },
         "2be73ed55ae54167a1f6310e3603b162.16": {
             "guid": "2be73ed55ae54167a1f6310e3603b162.16",
             "lat": 41.160993,
@@ -1937,6 +1943,12 @@
             "lat": 41.106124,
             "lng": 1.020176,
             "name": "Casita del Guarda"
+        },
+        "6f310d4fd4a5498ebd9311d83629d5ee.16": {
+            "guid": "6f310d4fd4a5498ebd9311d83629d5ee.16",
+            "lat": 41.137549,
+            "lng": 1.302671,
+            "name": "unknown"
         },
         "6f9832c684f44bf889da552ea4e79ace.16": {
             "guid": "6f9832c684f44bf889da552ea4e79ace.16",
@@ -3624,6 +3636,12 @@
             "lng": 0.938717,
             "name": "Barraca Del Tutu"
         },
+        "ce5b64dc68e140b08b90bde55451aa18.16": {
+            "guid": "ce5b64dc68e140b08b90bde55451aa18.16",
+            "lat": 41.137951,
+            "lng": 1.303013,
+            "name": "unknown"
+        },
         "ce6eb864a7f64892befd4f505bc8d1d1.16": {
             "guid": "ce6eb864a7f64892befd4f505bc8d1d1.16",
             "lat": 41.157749,
@@ -5179,6 +5197,12 @@
             "lat": 41.074035,
             "lng": 1.181044,
             "name": "Escultura banderas verdes"
+        },
+        "0b364a9b1aec469fafeb15b8baace4f6.16": {
+            "guid": "0b364a9b1aec469fafeb15b8baace4f6.16",
+            "lat": 41.127487,
+            "lng": 1.293742,
+            "name": "unknown"
         },
         "0b3c4c683ddc41c08118bf6dc6847711.16": {
             "guid": "0b3c4c683ddc41c08118bf6dc6847711.16",
@@ -6812,6 +6836,12 @@
             "lng": 1.103576,
             "name": "Mural Us Volem A Casa"
         },
+        "225766d33afa408a9af6b56a9cc439b0.16": {
+            "guid": "225766d33afa408a9af6b56a9cc439b0.16",
+            "lat": 41.138728,
+            "lng": 1.303858,
+            "name": "unknown"
+        },
         "2275df9594d84904a06a92cefa7d879b.16": {
             "guid": "2275df9594d84904a06a92cefa7d879b.16",
             "lat": 41.169184,
@@ -7375,12 +7405,6 @@
             "lat": 41.118233,
             "lng": 1.214335,
             "name": "Mesa Ping Pong"
-        },
-        "2b1292c3b79c443d9d596c5a815016b3.16": {
-            "guid": "2b1292c3b79c443d9d596c5a815016b3.16",
-            "lat": 41.127537,
-            "lng": 1.292011,
-            "name": "Tarraco Tennis Club"
         },
         "2b4ba486001740018b435f532238cfc7.16": {
             "guid": "2b4ba486001740018b435f532238cfc7.16",
@@ -11996,12 +12020,6 @@
             "lng": 1.109866,
             "name": "Tintin Graffiti"
         },
-        "6f310d4fd4a5498ebd9311d83629d5ee.16": {
-            "guid": "6f310d4fd4a5498ebd9311d83629d5ee.16",
-            "lat": 41.137549,
-            "lng": 1.302671,
-            "name": "Mas de l'Hereuet"
-        },
         "6f3b4d1ffb5b40e292066bb1dda70c50.16": {
             "guid": "6f3b4d1ffb5b40e292066bb1dda70c50.16",
             "lat": 41.136694,
@@ -14204,6 +14222,12 @@
             "lng": 0.959803,
             "name": "Eura Riudecanyes "
         },
+        "8f14d1eb47cc4924a9b2ef23aaf225f3.16": {
+            "guid": "8f14d1eb47cc4924a9b2ef23aaf225f3.16",
+            "lat": 41.144343,
+            "lng": 1.14449,
+            "name": "unknown"
+        },
         "8f255a83923445798d53e00e53b46e9e.16": {
             "guid": "8f255a83923445798d53e00e53b46e9e.16",
             "lat": 41.085077,
@@ -15572,6 +15596,12 @@
             "lng": 1.273329,
             "name": "El Dolor"
         },
+        "a25a302a9a9349fa9649a9e98dd29e58.16": {
+            "guid": "a25a302a9a9349fa9649a9e98dd29e58.16",
+            "lat": 41.187091,
+            "lng": 1.10477,
+            "name": "unknown"
+        },
         "a291ff0b9bc94423a9b9585a507b2f63.16": {
             "guid": "a291ff0b9bc94423a9b9585a507b2f63.16",
             "lat": 41.055671,
@@ -16736,6 +16766,12 @@
             "lng": 1.39043,
             "name": "Escudo e Iglesia de Torredembarra"
         },
+        "b48559d6d33d49f59fdd594516a523b1.16": {
+            "guid": "b48559d6d33d49f59fdd594516a523b1.16",
+            "lat": 41.137241,
+            "lng": 1.301558,
+            "name": "unknown"
+        },
         "b4a3387eeb1641cc8b30e4d46afd4a3b.16": {
             "guid": "b4a3387eeb1641cc8b30e4d46afd4a3b.16",
             "lat": 41.136101,
@@ -17077,6 +17113,12 @@
             "lat": 41.176491,
             "lng": 1.10341,
             "name": "Planol de El Pinar"
+        },
+        "b968d1378eb843e8b723ff1d0636721c.16": {
+            "guid": "b968d1378eb843e8b723ff1d0636721c.16",
+            "lat": 41.112693,
+            "lng": 1.249237,
+            "name": "unknown"
         },
         "b99abac7617f4e33a2d540270b92a240.16": {
             "guid": "b99abac7617f4e33a2d540270b92a240.16",
