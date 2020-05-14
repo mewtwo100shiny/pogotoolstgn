@@ -39140,6 +39140,23 @@
           <coordinates>1.242881,41.11011,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.118368</longitude>
+          <latitude>41.133405</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.118368,41.133405,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Playground</name>
         <description>Playground</description>
         <LookAt>
