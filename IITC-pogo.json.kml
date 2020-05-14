@@ -23568,6 +23568,23 @@
           <coordinates>1.176483,41.068706,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Colegio de Ingenieros Técnicos Industriales</name>
+        <description>Colegio de Ingenieros Técnicos Industriales</description>
+        <LookAt>
+          <longitude>1.242451</longitude>
+          <latitude>41.118679</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.242451,41.118679,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>San Roque</name>
         <description>San Roque</description>
         <LookAt>
@@ -38443,8 +38460,8 @@
           <coordinates>0.936747,41.114318,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parque infantil</name>
-        <description>Parque infantil</description>
+        <name>Parque infantil de las Américas</name>
+        <description>Parque infantil de las Américas</description>
         <LookAt>
           <longitude>1.251357</longitude>
           <latitude>41.136857</latitude>
