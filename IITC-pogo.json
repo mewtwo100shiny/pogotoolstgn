@@ -12212,12 +12212,6 @@
             "lng": 1.155625,
             "name": "volcano"
         },
-        "71dbf129cc5245dab37bda3048ad5a90.16": {
-            "guid": "71dbf129cc5245dab37bda3048ad5a90.16",
-            "lat": 41.144385,
-            "lng": 1.103221,
-            "name": "2D2"
-        },
         "721689fb7c0840b6abcf9be3d0af5848.16": {
             "guid": "721689fb7c0840b6abcf9be3d0af5848.16",
             "lat": 41.10531,
@@ -19570,8 +19564,8 @@
         },
         "dec2cedd7ffd472d83164ed000b46f6d.12": {
             "guid": "dec2cedd7ffd472d83164ed000b46f6d.12",
-            "lat": 41.110465,
-            "lng": 1.242726,
+            "lat": 41.110447,
+            "lng": 1.242792,
             "name": "Locomotora T\u00e0rraco"
         },
         "dec5b28d22174ed69152518c83e6b2aa.16": {
