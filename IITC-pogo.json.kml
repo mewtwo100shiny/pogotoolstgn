@@ -2591,8 +2591,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Tarraco Tennis Club</name>
+        <description>Tarraco Tennis Club</description>
         <LookAt>
           <longitude>1.292011</longitude>
           <latitude>41.127537</latitude>
@@ -5921,8 +5921,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Mas de l'Hereuet</name>
+        <description>Mas de l'Hereuet</description>
         <LookAt>
           <longitude>1.302671</longitude>
           <latitude>41.137549</latitude>
@@ -10856,8 +10856,8 @@
         <name>Rellotge de sol equatorial cilíndric</name>
         <description>Rellotge de sol equatorial cilíndric</description>
         <LookAt>
-          <longitude>1.250833</longitude>
-          <latitude>41.109305</latitude>
+          <longitude>1.250581</longitude>
+          <latitude>41.10934</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -10867,7 +10867,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.250833,41.109305,0</coordinates>
+          <coordinates>1.250581,41.10934,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -12704,6 +12704,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.974416,41.169517,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Maceta Con Relieves</name>
+        <description>Maceta Con Relieves</description>
+        <LookAt>
+          <longitude>1.250634</longitude>
+          <latitude>41.110937</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.250634,41.110937,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -35995,6 +36013,23 @@
           <coordinates>1.176931,41.079011,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Autoritat Portuària de Tarragona</name>
+        <description>Autoritat Portuària de Tarragona</description>
+        <LookAt>
+          <longitude>1.250788</longitude>
+          <latitude>41.109016</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.250788,41.109016,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Parc Infantil Tirolines</name>
         <description>Parc Infantil Tirolines</description>
         <LookAt>
@@ -38764,6 +38799,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.071403,41.074257,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>La Pista</name>
+        <description>La Pista</description>
+        <LookAt>
+          <longitude>1.099394</longitude>
+          <latitude>41.179429</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.099394,41.179429,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pedra Seca 2266</name>
@@ -43048,6 +43100,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.113371,41.164697,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Termita trepadora</name>
+        <description>Termita trepadora</description>
+        <LookAt>
+          <longitude>1.249674</longitude>
+          <latitude>41.111897</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.249674,41.111897,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Bart Simpson</name>
@@ -57585,6 +57654,23 @@
           <coordinates>1.342185,41.131253,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Llar Municipal de la Gent Gran Tàrraco</name>
+        <description>Llar Municipal de la Gent Gran Tàrraco</description>
+        <LookAt>
+          <longitude>1.247464</longitude>
+          <latitude>41.123003</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.247464,41.123003,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>B5</name>
         <description>B5</description>
         <LookAt>
@@ -61238,23 +61324,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.157935,41.085677,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Maceta Con Relieves</name>
-        <description>Maceta Con Relieves</description>
-        <LookAt>
-          <longitude>1.250634</longitude>
-          <latitude>41.110937</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.250634,41.110937,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Edifici Sol i Mar 1940</name>

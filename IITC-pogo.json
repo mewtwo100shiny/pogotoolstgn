@@ -838,7 +838,7 @@
             "guid": "2b1292c3b79c443d9d596c5a815016b3.16",
             "lat": 41.127537,
             "lng": 1.292011,
-            "name": "unknown"
+            "name": "Tarraco Tennis Club"
         },
         "2be73ed55ae54167a1f6310e3603b162.16": {
             "guid": "2be73ed55ae54167a1f6310e3603b162.16",
@@ -1948,7 +1948,7 @@
             "guid": "6f310d4fd4a5498ebd9311d83629d5ee.16",
             "lat": 41.137549,
             "lng": 1.302671,
-            "name": "unknown"
+            "name": "Mas de l'Hereuet"
         },
         "6f9832c684f44bf889da552ea4e79ace.16": {
             "guid": "6f9832c684f44bf889da552ea4e79ace.16",
@@ -3590,8 +3590,8 @@
         },
         "cb83a2e70b8b42c59c4094246b96cefb.16": {
             "guid": "cb83a2e70b8b42c59c4094246b96cefb.16",
-            "lat": 41.109305,
-            "lng": 1.250833,
+            "lat": 41.10934,
+            "lng": 1.250581,
             "name": "Rellotge de sol equatorial cil\u00edndric"
         },
         "cc6be42ddb7e4d92a77efa27b8badb27.16": {
@@ -4205,6 +4205,12 @@
             "lat": 41.169517,
             "lng": 0.974416,
             "name": "El Calvari"
+        },
+        "f6d8dfebf3784284a1482a19d10454fc.16": {
+            "guid": "f6d8dfebf3784284a1482a19d10454fc.16",
+            "lat": 41.110937,
+            "lng": 1.250634,
+            "name": "Maceta Con Relieves"
         },
         "f70a65a9013a4ee38097e14117efcce8.16": {
             "guid": "f70a65a9013a4ee38097e14117efcce8.16",
@@ -12416,6 +12422,12 @@
             "lng": 1.176931,
             "name": "Jesus mor en la creu"
         },
+        "73fca2ad4f5043b0b6dd1a2861d36930.16": {
+            "guid": "73fca2ad4f5043b0b6dd1a2861d36930.16",
+            "lat": 41.109016,
+            "lng": 1.250788,
+            "name": "Autoritat Portu\u00e0ria de Tarragona"
+        },
         "74383d52e66543e9ba49a4e6c3a384a5.16": {
             "guid": "74383d52e66543e9ba49a4e6c3a384a5.16",
             "lat": 41.083521,
@@ -13393,6 +13405,12 @@
             "lat": 41.074257,
             "lng": 1.071403,
             "name": "Mol\u00ed de la Torre Park"
+        },
+        "83ec4dc1dfc844468771bb2e09f0890a.16": {
+            "guid": "83ec4dc1dfc844468771bb2e09f0890a.16",
+            "lat": 41.179429,
+            "lng": 1.099394,
+            "name": "La Pista"
         },
         "83eefb791cc24266bc1e47f14255760b.16": {
             "guid": "83eefb791cc24266bc1e47f14255760b.16",
@@ -14905,6 +14923,12 @@
             "lat": 41.164697,
             "lng": 1.113371,
             "name": "500 Euro King"
+        },
+        "99895ee370944a89a84d58b5656c337c.16": {
+            "guid": "99895ee370944a89a84d58b5656c337c.16",
+            "lat": 41.111897,
+            "lng": 1.249674,
+            "name": "Termita trepadora"
         },
         "998e5500db7a4537b77547b85257195e.16": {
             "guid": "998e5500db7a4537b77547b85257195e.16",
@@ -20036,6 +20060,12 @@
             "lng": 1.342185,
             "name": "Crossroads caminos"
         },
+        "e57508982a9d4fd0aff00ff7d49ff24c.16": {
+            "guid": "e57508982a9d4fd0aff00ff7d49ff24c.16",
+            "lat": 41.123003,
+            "lng": 1.247464,
+            "name": "Llar Municipal de la Gent Gran T\u00e0rraco"
+        },
         "e5870c5c951b49c5bf27b712386cace4.16": {
             "guid": "e5870c5c951b49c5bf27b712386cace4.16",
             "lat": 41.058718,
@@ -21325,12 +21355,6 @@
             "lat": 41.085677,
             "lng": 1.157935,
             "name": "Totem De Polinesia"
-        },
-        "f6d8dfebf3784284a1482a19d10454fc.16": {
-            "guid": "f6d8dfebf3784284a1482a19d10454fc.16",
-            "lat": 41.110937,
-            "lng": 1.250634,
-            "name": "Maceta Con Relieves"
         },
         "f6f68d4ff58c4df9b32affe582212686.16": {
             "guid": "f6f68d4ff58c4df9b32affe582212686.16",
