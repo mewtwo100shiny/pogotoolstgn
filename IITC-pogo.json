@@ -2310,6 +2310,12 @@
             "lng": 1.218793,
             "name": "Cold Man"
         },
+        "83ec4dc1dfc844468771bb2e09f0890a.16": {
+            "guid": "83ec4dc1dfc844468771bb2e09f0890a.16",
+            "lat": 41.179429,
+            "lng": 1.099394,
+            "name": "unknown"
+        },
         "84002c338177451682a3759ad8364bf4.16": {
             "guid": "84002c338177451682a3759ad8364bf4.16",
             "lat": 41.089279,
@@ -7111,6 +7117,12 @@
             "lat": 41.1178,
             "lng": 1.247999,
             "name": "Monument als Castellers"
+        },
+        "2673fd9831fc4408a972ca0ee63e9c59.16": {
+            "guid": "2673fd9831fc4408a972ca0ee63e9c59.16",
+            "lat": 41.176689,
+            "lng": 1.100426,
+            "name": "Detall cer\u00e0mic"
         },
         "2680a80e859b4357bcf9fa6d7b95a967.16": {
             "guid": "2680a80e859b4357bcf9fa6d7b95a967.16",
@@ -12530,6 +12542,12 @@
             "lng": 1.150569,
             "name": "Smile!"
         },
+        "7546ac5cb23f4e9eb668c9b167c43521.16": {
+            "guid": "7546ac5cb23f4e9eb668c9b167c43521.16",
+            "lat": 41.173353,
+            "lng": 1.100987,
+            "name": "unknown"
+        },
         "7582b89ed1e14d1b8c6990e998bf5278.16": {
             "guid": "7582b89ed1e14d1b8c6990e998bf5278.16",
             "lat": 41.086963,
@@ -13405,12 +13423,6 @@
             "lat": 41.074257,
             "lng": 1.071403,
             "name": "Mol\u00ed de la Torre Park"
-        },
-        "83ec4dc1dfc844468771bb2e09f0890a.16": {
-            "guid": "83ec4dc1dfc844468771bb2e09f0890a.16",
-            "lat": 41.179429,
-            "lng": 1.099394,
-            "name": "La Pista"
         },
         "83eefb791cc24266bc1e47f14255760b.16": {
             "guid": "83eefb791cc24266bc1e47f14255760b.16",

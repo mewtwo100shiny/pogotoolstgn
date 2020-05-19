@@ -7019,6 +7019,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.099394</longitude>
+          <latitude>41.179429</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.099394,41.179429,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Engranaje</name>
         <description>Engranaje</description>
         <LookAt>
@@ -20966,6 +20984,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.247999,41.1178,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Detall ceràmic</name>
+        <description>Detall ceràmic</description>
+        <LookAt>
+          <longitude>1.100426</longitude>
+          <latitude>41.176689</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.100426,41.176689,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Centre Civic Triangle</name>
@@ -36319,6 +36354,23 @@
           <coordinates>1.150569,41.071596,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.100987</longitude>
+          <latitude>41.173353</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.100987,41.173353,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>El Árbol Mágico</name>
         <description>El Árbol Mágico</description>
         <LookAt>
@@ -38799,23 +38851,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.071403,41.074257,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>La Pista</name>
-        <description>La Pista</description>
-        <LookAt>
-          <longitude>1.099394</longitude>
-          <latitude>41.179429</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.099394,41.179429,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pedra Seca 2266</name>
