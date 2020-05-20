@@ -4880,8 +4880,8 @@
         <name>Fumeral Torres Jordi</name>
         <description>Fumeral Torres Jordi</description>
         <LookAt>
-          <longitude>1.240255</longitude>
-          <latitude>41.111764</latitude>
+          <longitude>1.240391</longitude>
+          <latitude>41.11175</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -4891,7 +4891,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.240255,41.111764,0</coordinates>
+          <coordinates>1.240391,41.11175,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -6173,6 +6173,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Autoritat Portuària de Tarragona</name>
+        <description>Autoritat Portuària de Tarragona</description>
+        <LookAt>
+          <longitude>1.250788</longitude>
+          <latitude>41.109016</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.250788,41.109016,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Oficina Turismo Costa Zefir</name>
         <description>Oficina Turismo Costa Zefir</description>
         <LookAt>
@@ -7019,8 +7037,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>La Pista</name>
+        <description>La Pista</description>
         <LookAt>
           <longitude>1.099394</longitude>
           <latitude>41.179429</latitude>
@@ -11015,8 +11033,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Restos de l’Heueret</name>
+        <description>Restos de l’Heueret</description>
         <LookAt>
           <longitude>1.303013</longitude>
           <latitude>41.137951</latitude>
@@ -12728,8 +12746,8 @@
         <name>Maceta Con Relieves</name>
         <description>Maceta Con Relieves</description>
         <LookAt>
-          <longitude>1.250634</longitude>
-          <latitude>41.110937</latitude>
+          <longitude>1.250593</longitude>
+          <latitude>41.110964</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -12739,7 +12757,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.250634,41.110937,0</coordinates>
+          <coordinates>1.250593,41.110964,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -18878,6 +18896,23 @@
           <coordinates>1.117331,41.155948,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Grafiti Paleta</name>
+        <description>Grafiti Paleta</description>
+        <LookAt>
+          <longitude>1.120652</longitude>
+          <latitude>41.148513</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.120652,41.148513,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Velódromo Mont-Roig Del Camp</name>
         <description>Velódromo Mont-Roig Del Camp</description>
         <LookAt>
@@ -21460,6 +21495,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.91915,40.99472,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Trenecito</name>
+        <description>Trenecito</description>
+        <LookAt>
+          <longitude>1.24014</longitude>
+          <latitude>41.111679</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.24014,41.111679,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Palau Bofarull</name>
@@ -25761,6 +25813,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10641,41.156903,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Rapero Orejudo</name>
+        <description>Rapero Orejudo</description>
+        <LookAt>
+          <longitude>1.241209</longitude>
+          <latitude>41.110852</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.241209,41.110852,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Font del passeig</name>
@@ -36048,23 +36117,6 @@
           <coordinates>1.176931,41.079011,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Autoritat Portuària de Tarragona</name>
-        <description>Autoritat Portuària de Tarragona</description>
-        <LookAt>
-          <longitude>1.250788</longitude>
-          <latitude>41.109016</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.250788,41.109016,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Parc Infantil Tirolines</name>
         <description>Parc Infantil Tirolines</description>
         <LookAt>
@@ -37746,6 +37798,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.130245,41.177264,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Església de Sant Nicolau de Bari</name>
+        <description>Església de Sant Nicolau de Bari</description>
+        <LookAt>
+          <longitude>1.251063</longitude>
+          <latitude>41.111273</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.251063,41.111273,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mosaico Foca</name>
@@ -41216,8 +41285,8 @@
           <coordinates>0.959803,41.130556,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Cartell Pi Centenari</name>
+        <description>Cartell Pi Centenari</description>
         <LookAt>
           <longitude>1.14449</longitude>
           <latitude>41.144343</latitude>
@@ -41301,8 +41370,8 @@
           <coordinates>1.241869,41.120952,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Karate Dancing</name>
+        <description>Karate Dancing</description>
         <LookAt>
           <longitude>1.144034</longitude>
           <latitude>41.107559</latitude>
@@ -45126,8 +45195,8 @@
           <coordinates>1.273329,41.145344,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Punt de Correu</name>
+        <description>Punt de Correu</description>
         <LookAt>
           <longitude>1.10477</longitude>
           <latitude>41.187091</latitude>
@@ -49991,8 +50060,8 @@
         <name>Grafiti Serrallo</name>
         <description>Grafiti Serrallo</description>
         <LookAt>
-          <longitude>1.241485</longitude>
-          <latitude>41.110862</latitude>
+          <longitude>1.241596</longitude>
+          <latitude>41.110866</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -50002,7 +50071,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.241485,41.110862,0</coordinates>
+          <coordinates>1.241596,41.110866,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Small playground</name>

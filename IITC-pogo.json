@@ -1598,8 +1598,8 @@
         },
         "5d94150531694242af2766b2f0c065a1.11": {
             "guid": "5d94150531694242af2766b2f0c065a1.11",
-            "lat": 41.111764,
-            "lng": 1.240255,
+            "lat": 41.11175,
+            "lng": 1.240391,
             "name": "Fumeral Torres Jordi"
         },
         "5e118b37208d4c51be9fecf2de3335a7.16": {
@@ -2028,6 +2028,12 @@
             "lng": 0.922521,
             "name": "Informacio L'H "
         },
+        "73fca2ad4f5043b0b6dd1a2861d36930.16": {
+            "guid": "73fca2ad4f5043b0b6dd1a2861d36930.16",
+            "lat": 41.109016,
+            "lng": 1.250788,
+            "name": "Autoritat Portu\u00e0ria de Tarragona"
+        },
         "7439f65781d449e7821ffedd12c81ecc.16": {
             "guid": "7439f65781d449e7821ffedd12c81ecc.16",
             "lat": 41.019504,
@@ -2314,7 +2320,7 @@
             "guid": "83ec4dc1dfc844468771bb2e09f0890a.16",
             "lat": 41.179429,
             "lng": 1.099394,
-            "name": "unknown"
+            "name": "La Pista"
         },
         "84002c338177451682a3759ad8364bf4.16": {
             "guid": "84002c338177451682a3759ad8364bf4.16",
@@ -3646,7 +3652,7 @@
             "guid": "ce5b64dc68e140b08b90bde55451aa18.16",
             "lat": 41.137951,
             "lng": 1.303013,
-            "name": "unknown"
+            "name": "Restos de l\u2019Heueret"
         },
         "ce6eb864a7f64892befd4f505bc8d1d1.16": {
             "guid": "ce6eb864a7f64892befd4f505bc8d1d1.16",
@@ -4214,8 +4220,8 @@
         },
         "f6d8dfebf3784284a1482a19d10454fc.16": {
             "guid": "f6d8dfebf3784284a1482a19d10454fc.16",
-            "lat": 41.110937,
-            "lng": 1.250634,
+            "lat": 41.110964,
+            "lng": 1.250593,
             "name": "Maceta Con Relieves"
         },
         "f70a65a9013a4ee38097e14117efcce8.16": {
@@ -6374,6 +6380,12 @@
             "lng": 1.117331,
             "name": "Pista de petanca"
         },
+        "1b23cdaca25f4b758ae9899ccc1509a4.16": {
+            "guid": "1b23cdaca25f4b758ae9899ccc1509a4.16",
+            "lat": 41.148513,
+            "lng": 1.120652,
+            "name": "Grafiti Paleta"
+        },
         "1b36696e9a6f413789ff908f062d5df9.16": {
             "guid": "1b36696e9a6f413789ff908f062d5df9.16",
             "lat": 41.084663,
@@ -7285,6 +7297,12 @@
             "lat": 40.99472,
             "lng": 0.91915,
             "name": "Torre de comunicaciones"
+        },
+        "2948ac25cbf64315834aae8ae5fd6bc2.16": {
+            "guid": "2948ac25cbf64315834aae8ae5fd6bc2.16",
+            "lat": 41.111679,
+            "lng": 1.24014,
+            "name": "Trenecito"
         },
         "2953e989962f4ec1aa947cdb9fe9ca2a.11": {
             "guid": "2953e989962f4ec1aa947cdb9fe9ca2a.11",
@@ -8803,6 +8821,12 @@
             "lat": 41.156903,
             "lng": 1.10641,
             "name": "Casa Tom\u00e0s Jordi"
+        },
+        "3ffe7a0d1ea34e2bb5e881c9501ea1c2.16": {
+            "guid": "3ffe7a0d1ea34e2bb5e881c9501ea1c2.16",
+            "lat": 41.110852,
+            "lng": 1.241209,
+            "name": "Rapero Orejudo"
         },
         "4027dc6fc61e4fe2a5c3734920945536.16": {
             "guid": "4027dc6fc61e4fe2a5c3734920945536.16",
@@ -12434,12 +12458,6 @@
             "lng": 1.176931,
             "name": "Jesus mor en la creu"
         },
-        "73fca2ad4f5043b0b6dd1a2861d36930.16": {
-            "guid": "73fca2ad4f5043b0b6dd1a2861d36930.16",
-            "lat": 41.109016,
-            "lng": 1.250788,
-            "name": "Autoritat Portu\u00e0ria de Tarragona"
-        },
         "74383d52e66543e9ba49a4e6c3a384a5.16": {
             "guid": "74383d52e66543e9ba49a4e6c3a384a5.16",
             "lat": 41.083521,
@@ -13033,6 +13051,12 @@
             "lat": 41.177264,
             "lng": 1.130245,
             "name": "Torre De Guaita"
+        },
+        "7d1f5e85aa2649478d7978bb8b7e6ba3.16": {
+            "guid": "7d1f5e85aa2649478d7978bb8b7e6ba3.16",
+            "lat": 41.111273,
+            "lng": 1.251063,
+            "name": "Esgl\u00e9sia de Sant Nicolau de Bari"
         },
         "7d496c9885504506b4b95501458f5fae.16": {
             "guid": "7d496c9885504506b4b95501458f5fae.16",
@@ -14262,7 +14286,7 @@
             "guid": "8f14d1eb47cc4924a9b2ef23aaf225f3.16",
             "lat": 41.144343,
             "lng": 1.14449,
-            "name": "unknown"
+            "name": "Cartell Pi Centenari"
         },
         "8f255a83923445798d53e00e53b46e9e.16": {
             "guid": "8f255a83923445798d53e00e53b46e9e.16",
@@ -14292,7 +14316,7 @@
             "guid": "8f3d221d3dbf407c969c3d38cd3dcaa3.16",
             "lat": 41.107559,
             "lng": 1.144034,
-            "name": "unknown"
+            "name": "Karate Dancing"
         },
         "8f570da82a6640609290a15cc9916e77.16": {
             "guid": "8f570da82a6640609290a15cc9916e77.16",
@@ -15642,7 +15666,7 @@
             "guid": "a25a302a9a9349fa9649a9e98dd29e58.16",
             "lat": 41.187091,
             "lng": 1.10477,
-            "name": "unknown"
+            "name": "Punt de Correu"
         },
         "a291ff0b9bc94423a9b9585a507b2f63.16": {
             "guid": "a291ff0b9bc94423a9b9585a507b2f63.16",
@@ -17356,8 +17380,8 @@
         },
         "bca22de1e8c64049900f0f1e04272f8d.16": {
             "guid": "bca22de1e8c64049900f0f1e04272f8d.16",
-            "lat": 41.110862,
-            "lng": 1.241485,
+            "lat": 41.110866,
+            "lng": 1.241596,
             "name": "Grafiti Serrallo"
         },
         "bca4a413ef764d36b432d38b7ff7ee8b.16": {
