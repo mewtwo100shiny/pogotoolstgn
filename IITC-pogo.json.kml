@@ -48646,6 +48646,23 @@
           <coordinates>1.178541,41.115909,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Església de Sant Pere del Serrallo</name>
+        <description>Església de Sant Pere del Serrallo</description>
+        <LookAt>
+          <longitude>1.240368</longitude>
+          <latitude>41.109204</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.240368,41.109204,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Ca l'Ixart,Altafulla</name>
         <description>Ca l'Ixart,Altafulla</description>
         <LookAt>
@@ -51097,8 +51114,8 @@
         <name>L'Ancla de la Llotja</name>
         <description>L'Ancla de la Llotja</description>
         <LookAt>
-          <longitude>1.239955</longitude>
-          <latitude>41.108967</latitude>
+          <longitude>1.239974</longitude>
+          <latitude>41.108941</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -51108,7 +51125,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.239955,41.108967,0</coordinates>
+          <coordinates>1.239974,41.108941,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pergola Mas Niloga</name>
@@ -51874,6 +51891,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.115033,41.139139,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Pipican sur</name>
+        <description>Pipican sur</description>
+        <LookAt>
+          <longitude>1.093319</longitude>
+          <latitude>41.160185</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.093319,41.160185,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Font de la Plaça</name>

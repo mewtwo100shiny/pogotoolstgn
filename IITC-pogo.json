@@ -16880,6 +16880,12 @@
             "lng": 1.178541,
             "name": "Skatepark La Canonja"
         },
+        "b4f42c8b0e55435f90843252435fd729.16": {
+            "guid": "b4f42c8b0e55435f90843252435fd729.16",
+            "lat": 41.109204,
+            "lng": 1.240368,
+            "name": "Esgl\u00e9sia de Sant Pere del Serrallo"
+        },
         "b4f7bb7ab7db4c72aa7ba34688c02b8f.16": {
             "guid": "b4f7bb7ab7db4c72aa7ba34688c02b8f.16",
             "lat": 41.143502,
@@ -17746,8 +17752,8 @@
         },
         "c22fe33d4e3746bfbe715ff110fccb99.16": {
             "guid": "c22fe33d4e3746bfbe715ff110fccb99.16",
-            "lat": 41.108967,
-            "lng": 1.239955,
+            "lat": 41.108941,
+            "lng": 1.239974,
             "name": "L'Ancla de la Llotja"
         },
         "c257e3a359e14c09a58fb3fbb37c6374.16": {
@@ -18019,6 +18025,12 @@
             "lat": 41.139139,
             "lng": 1.115033,
             "name": "Mesas Ping-Pong"
+        },
+        "c6569f946a5941ce9f35f7a69b5802a8.16": {
+            "guid": "c6569f946a5941ce9f35f7a69b5802a8.16",
+            "lat": 41.160185,
+            "lng": 1.093319,
+            "name": "Pipican sur"
         },
         "c65cac3cb2294545b4896ee2ff398c22.16": {
             "guid": "c65cac3cb2294545b4896ee2ff398c22.16",
