@@ -2396,8 +2396,8 @@
         <name>Poliesportiu Del Serrallo</name>
         <description>Poliesportiu Del Serrallo</description>
         <LookAt>
-          <longitude>1.240943</longitude>
-          <latitude>41.111113</latitude>
+          <longitude>1.24107</longitude>
+          <latitude>41.111097</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -2407,7 +2407,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.240943,41.111113,0</coordinates>
+          <coordinates>1.24107,41.111097,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -2480,6 +2480,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.098503,41.081836,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Trenecito</name>
+        <description>Trenecito</description>
+        <LookAt>
+          <longitude>1.24014</longitude>
+          <latitude>41.111679</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.24014,41.111679,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -9626,6 +9644,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.241709,41.163058,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Camp de Futbol Torreforta</name>
+        <description>Camp de Futbol Torreforta</description>
+        <LookAt>
+          <longitude>1.217105</longitude>
+          <latitude>41.121235</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.217105,41.121235,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -21497,23 +21533,6 @@
           <coordinates>0.91915,40.99472,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Trenecito</name>
-        <description>Trenecito</description>
-        <LookAt>
-          <longitude>1.24014</longitude>
-          <latitude>41.111679</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.24014,41.111679,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Palau Bofarull</name>
         <description>Palau Bofarull</description>
         <LookAt>
@@ -22396,6 +22415,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.249844,41.115112,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Consulado de Marruecos</name>
+        <description>Consulado de Marruecos</description>
+        <LookAt>
+          <longitude>1.242675</longitude>
+          <latitude>41.128808</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.242675,41.128808,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Purple Flowers</name>
@@ -37001,6 +37037,23 @@
           <coordinates>1.121764,41.158667,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>playground"ECU"</name>
+        <description>playground"ECU"</description>
+        <LookAt>
+          <longitude>1.114422</longitude>
+          <latitude>41.143058</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.114422,41.143058,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Town Map and Guide Altafulla</name>
         <description>Town Map and Guide Altafulla</description>
         <LookAt>
@@ -48406,23 +48459,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.25986,41.179923,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Camp de Futbol Torreforta</name>
-        <description>Camp de Futbol Torreforta</description>
-        <LookAt>
-          <longitude>1.216931</longitude>
-          <latitude>41.12121</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.216931,41.12121,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Ancla Decorativa </name>
@@ -61821,8 +61857,8 @@
           <coordinates>1.134615,41.182821,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Águila calva</name>
+        <description>Águila calva</description>
         <LookAt>
           <longitude>1.221908</longitude>
           <latitude>41.112906</latitude>

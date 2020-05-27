@@ -770,8 +770,8 @@
         },
         "2805c466244f4368a12877d5ad2daf7e.16": {
             "guid": "2805c466244f4368a12877d5ad2daf7e.16",
-            "lat": 41.111113,
-            "lng": 1.240943,
+            "lat": 41.111097,
+            "lng": 1.24107,
             "name": "Poliesportiu Del Serrallo"
         },
         "28070bb2b35645e0a6c4866bb8fc92bc.16": {
@@ -797,6 +797,12 @@
             "lat": 41.081836,
             "lng": 1.098503,
             "name": "Circuito de entrenamiento"
+        },
+        "2948ac25cbf64315834aae8ae5fd6bc2.16": {
+            "guid": "2948ac25cbf64315834aae8ae5fd6bc2.16",
+            "lat": 41.111679,
+            "lng": 1.24014,
+            "name": "Trenecito"
         },
         "296ffb7e95674fbea5eb8a220c323804.16": {
             "guid": "296ffb7e95674fbea5eb8a220c323804.16",
@@ -3179,6 +3185,12 @@
             "lat": 41.163058,
             "lng": 1.241709,
             "name": "MR Tuning"
+        },
+        "b4134a0005fd4044811b7878be2837e3.16": {
+            "guid": "b4134a0005fd4044811b7878be2837e3.16",
+            "lat": 41.121235,
+            "lng": 1.217105,
+            "name": "Camp de Futbol Torreforta"
         },
         "b48ee78305084e619290ad19158296eb.16": {
             "guid": "b48ee78305084e619290ad19158296eb.16",
@@ -7298,12 +7310,6 @@
             "lng": 0.91915,
             "name": "Torre de comunicaciones"
         },
-        "2948ac25cbf64315834aae8ae5fd6bc2.16": {
-            "guid": "2948ac25cbf64315834aae8ae5fd6bc2.16",
-            "lat": 41.111679,
-            "lng": 1.24014,
-            "name": "Trenecito"
-        },
         "2953e989962f4ec1aa947cdb9fe9ca2a.11": {
             "guid": "2953e989962f4ec1aa947cdb9fe9ca2a.11",
             "lat": 41.156411,
@@ -7615,6 +7621,12 @@
             "lat": 41.115112,
             "lng": 1.249844,
             "name": "Hotel Residencia Urbis"
+        },
+        "2da0fcc19dca40cc9d494b3104f22e8a.16": {
+            "guid": "2da0fcc19dca40cc9d494b3104f22e8a.16",
+            "lat": 41.128808,
+            "lng": 1.242675,
+            "name": "Consulado de Marruecos"
         },
         "2db1a217cb294d8bbb3b8b920e9012ee.16": {
             "guid": "2db1a217cb294d8bbb3b8b920e9012ee.16",
@@ -12770,6 +12782,12 @@
             "lng": 1.121764,
             "name": "R\u00edos de vida"
         },
+        "78f9d499c43347c2b080bacf2f47df86.16": {
+            "guid": "78f9d499c43347c2b080bacf2f47df86.16",
+            "lat": 41.143058,
+            "lng": 1.114422,
+            "name": "playground\"ECU\""
+        },
         "79041698f2a7449b93600353cd2ad5a9.16": {
             "guid": "79041698f2a7449b93600353cd2ad5a9.16",
             "lat": 41.140037,
@@ -16795,12 +16813,6 @@
             "lat": 41.179923,
             "lng": 1.25986,
             "name": "Barraca de Penalonga"
-        },
-        "b4134a0005fd4044811b7878be2837e3.16": {
-            "guid": "b4134a0005fd4044811b7878be2837e3.16",
-            "lat": 41.12121,
-            "lng": 1.216931,
-            "name": "Camp de Futbol Torreforta"
         },
         "b423b18655394da79e745aae30747737.16": {
             "guid": "b423b18655394da79e745aae30747737.16",
@@ -21534,7 +21546,7 @@
             "guid": "f7fbc13133e74fb1a558eb9ceef3fae3.16",
             "lat": 41.112906,
             "lng": 1.221908,
-            "name": "unknown"
+            "name": "\u00c1guila calva"
         },
         "f80b8603541b4e22be6ab3c4deb534b1.16": {
             "guid": "f80b8603541b4e22be6ab3c4deb534b1.16",
