@@ -827,8 +827,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>font del centenari</name>
-        <description>font del centenari</description>
+        <name>Font del Parc de l'Escultor Martorell</name>
+        <description>Font del Parc de l'Escultor Martorell</description>
         <LookAt>
           <longitude>1.184617</longitude>
           <latitude>41.11748</latitude>
@@ -5597,8 +5597,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>CRAI CAMPUS CATALUNYA</name>
-        <description>CRAI CAMPUS CATALUNYA</description>
+        <name>CRAI Campus Catalunya</name>
+        <description>CRAI Campus Catalunya</description>
         <LookAt>
           <longitude>1.249524</longitude>
           <latitude>41.122721</latitude>
@@ -6194,8 +6194,8 @@
         <name>Autoritat Portuària de Tarragona</name>
         <description>Autoritat Portuària de Tarragona</description>
         <LookAt>
-          <longitude>1.250788</longitude>
-          <latitude>41.109016</latitude>
+          <longitude>1.250541</longitude>
+          <latitude>41.108773</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -6205,7 +6205,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.250788,41.109016,0</coordinates>
+          <coordinates>1.250541,41.108773,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -7937,8 +7937,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Fuente de la Imperial Tarraco</name>
-        <description>Fuente de la Imperial Tarraco</description>
+        <name>Font de la Imperial Tàrraco</name>
+        <description>Font de la Imperial Tàrraco</description>
         <LookAt>
           <longitude>1.2455</longitude>
           <latitude>41.119021</latitude>
@@ -9395,8 +9395,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Maquinria</name>
-        <description>Maquinria</description>
+        <name>Maquinària</name>
+        <description>Maquinària</description>
         <LookAt>
           <longitude>1.179811</longitude>
           <latitude>41.11715</latitude>
@@ -11015,8 +11015,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Centelles</name>
-        <description>Centelles</description>
+        <name>Centcelles</name>
+        <description>Centcelles</description>
         <LookAt>
           <longitude>1.225553</longitude>
           <latitude>41.155873</latitude>
