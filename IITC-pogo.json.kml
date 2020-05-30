@@ -9053,6 +9053,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.294075</longitude>
+          <latitude>41.141719</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.294075,41.141719,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>beach volleyball courts</name>
         <description>beach volleyball courts</description>
         <LookAt>
@@ -18094,6 +18112,23 @@
           <coordinates>1.133823,41.082014,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Museu del Port</name>
+        <description>Museu del Port</description>
+        <LookAt>
+          <longitude>1.248309</longitude>
+          <latitude>41.10964</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.248309,41.10964,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Correos Playa</name>
         <description>Correos Playa</description>
         <LookAt>
@@ -20066,8 +20101,8 @@
           <coordinates>1.10832,41.145761,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Espai d'esbarjo per a gossos</name>
+        <description>Espai d'esbarjo per a gossos</description>
         <LookAt>
           <longitude>1.153506</longitude>
           <latitude>41.10667</latitude>
@@ -20695,8 +20730,8 @@
           <coordinates>1.273191,41.169184,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>cartel MAs d'en Bosch</name>
+        <description>cartel MAs d'en Bosch</description>
         <LookAt>
           <longitude>1.094543</longitude>
           <latitude>41.085291</latitude>
@@ -22325,6 +22360,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.214335,41.118233,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Fuente de agua ECU</name>
+        <description>Fuente de agua ECU</description>
+        <LookAt>
+          <longitude>1.117258</longitude>
+          <latitude>41.138538</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.117258,41.138538,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Antiga fàbrica Chartreuse</name>
@@ -30147,8 +30199,8 @@
           <coordinates>1.294547,41.141733,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Slides Cap de Salou</name>
+        <description>Slides Cap de Salou</description>
         <LookAt>
           <longitude>1.166599</longitude>
           <latitude>41.061963</latitude>
@@ -56106,11 +56158,11 @@
           <coordinates>1.258945,41.118193,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Font Del Parc </name>
-        <description>Font Del Parc </description>
+        <name>Font Del Parc</name>
+        <description>Font Del Parc</description>
         <LookAt>
-          <longitude>1.214819</longitude>
-          <latitude>41.121777</latitude>
+          <longitude>1.214838</longitude>
+          <latitude>41.121796</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -56120,7 +56172,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.214819,41.121777,0</coordinates>
+          <coordinates>1.214838,41.121796,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fuente Ornamental La Rambla</name>
@@ -57277,6 +57329,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.103177,41.153372,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Escut de Cambrils</name>
+        <description>Escut de Cambrils</description>
+        <LookAt>
+          <longitude>1.106158</longitude>
+          <latitude>41.161655</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.106158,41.161655,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Creu De Sant Antoni</name>
@@ -58554,8 +58623,8 @@
           <coordinates>1.188875,41.084284,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Fuente Plaza Imperial Tarraco</name>
-        <description>Fuente Plaza Imperial Tarraco</description>
+        <name>Banderas de la Plaza Imperial</name>
+        <description>Banderas de la Plaza Imperial</description>
         <LookAt>
           <longitude>1.245167</longitude>
           <latitude>41.118995</latitude>

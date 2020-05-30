@@ -2988,6 +2988,12 @@
             "lng": 1.05751,
             "name": "Ajuntament De Cambrils"
         },
+        "a4cbbf0202f945239fe8fa6f7c43b3af.16": {
+            "guid": "a4cbbf0202f945239fe8fa6f7c43b3af.16",
+            "lat": 41.141719,
+            "lng": 1.294075,
+            "name": "unknown"
+        },
         "a4cd9f51ff1d4267905c71885d421c41.16": {
             "guid": "a4cd9f51ff1d4267905c71885d421c41.16",
             "lat": 41.066673,
@@ -6092,6 +6098,12 @@
             "lng": 1.133823,
             "name": "Pavell\u00f3 d'Esports de Salou"
         },
+        "157e5a285ed5458696ae7f41ac97c462.16": {
+            "guid": "157e5a285ed5458696ae7f41ac97c462.16",
+            "lat": 41.10964,
+            "lng": 1.248309,
+            "name": "Museu del Port"
+        },
         "1580b9af7783424cb709ecdd00d9baae.16": {
             "guid": "1580b9af7783424cb709ecdd00d9baae.16",
             "lat": 41.076441,
@@ -6792,7 +6804,7 @@
             "guid": "1f6bd2828bae435fb98a5e51fba19d81.16",
             "lat": 41.10667,
             "lng": 1.153506,
-            "name": "unknown"
+            "name": "Espai d'esbarjo per a gossos"
         },
         "1f869a6575124f98b96849d278f24c42.16": {
             "guid": "1f869a6575124f98b96849d278f24c42.16",
@@ -7014,7 +7026,7 @@
             "guid": "227e22e427e24adb99ec868dbd4c7a37.16",
             "lat": 41.085291,
             "lng": 1.094543,
-            "name": "unknown"
+            "name": "cartel MAs d'en Bosch"
         },
         "2281ebff733c48e8bd2b48567a778067.16": {
             "guid": "2281ebff733c48e8bd2b48567a778067.16",
@@ -7585,6 +7597,12 @@
             "lat": 41.118233,
             "lng": 1.214335,
             "name": "Mesa Ping Pong"
+        },
+        "2b489faed21048a8b3fe463aef460554.16": {
+            "guid": "2b489faed21048a8b3fe463aef460554.16",
+            "lat": 41.138538,
+            "lng": 1.117258,
+            "name": "Fuente de agua ECU"
         },
         "2b4ba486001740018b435f532238cfc7.16": {
             "guid": "2b4ba486001740018b435f532238cfc7.16",
@@ -10350,7 +10368,7 @@
             "guid": "5231cbf91ebe4b0b9021b94dc77e9eaf.16",
             "lat": 41.061963,
             "lng": 1.166599,
-            "name": "unknown"
+            "name": "Slides Cap de Salou"
         },
         "5237919b05b24f92b89072a9caad22ef.16": {
             "guid": "5237919b05b24f92b89072a9caad22ef.16",
@@ -19510,9 +19528,9 @@
         },
         "d92c42b2c7d04584ae0dcecd04b476f1.16": {
             "guid": "d92c42b2c7d04584ae0dcecd04b476f1.16",
-            "lat": 41.121777,
-            "lng": 1.214819,
-            "name": "Font Del Parc "
+            "lat": 41.121796,
+            "lng": 1.214838,
+            "name": "Font Del Parc"
         },
         "d944cb872e234e659f5b12252839d079.16": {
             "guid": "d944cb872e234e659f5b12252839d079.16",
@@ -19921,6 +19939,12 @@
             "lat": 41.153372,
             "lng": 1.103177,
             "name": "Iglesia Cat\u00f3lica Padres Paulos"
+        },
+        "de9feed9ff9d48eda1f1c4d8032ea6c1.16": {
+            "guid": "de9feed9ff9d48eda1f1c4d8032ea6c1.16",
+            "lat": 41.161655,
+            "lng": 1.106158,
+            "name": "Escut de Cambrils"
         },
         "dea2af7eaf83438ea1d8f23278f91fc9.16": {
             "guid": "dea2af7eaf83438ea1d8f23278f91fc9.16",
@@ -20376,7 +20400,7 @@
             "guid": "e47ad0ef38e54d7fb35b8c89894ea58f.16",
             "lat": 41.118995,
             "lng": 1.245167,
-            "name": "Fuente Plaza Imperial Tarraco"
+            "name": "Banderas de la Plaza Imperial"
         },
         "e487cc306d5245e494d44cedf78dfc30.16": {
             "guid": "e487cc306d5245e494d44cedf78dfc30.16",
