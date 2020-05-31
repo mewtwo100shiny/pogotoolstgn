@@ -53523,6 +53523,23 @@
           <coordinates>1.254601,41.11515,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Mapa caminos de Reus</name>
+        <description>Mapa caminos de Reus</description>
+        <LookAt>
+          <longitude>1.105878</longitude>
+          <latitude>41.138816</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.105878,41.138816,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Rueda Antigua De Molino</name>
         <description>Rueda Antigua De Molino</description>
         <LookAt>
