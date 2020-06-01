@@ -2396,8 +2396,8 @@
         <name>Poliesportiu Del Serrallo</name>
         <description>Poliesportiu Del Serrallo</description>
         <LookAt>
-          <longitude>1.24107</longitude>
-          <latitude>41.111097</latitude>
+          <longitude>1.240909</longitude>
+          <latitude>41.111101</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -2407,7 +2407,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.24107,41.111097,0</coordinates>
+          <coordinates>1.240909,41.111101,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -7901,8 +7901,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Fita</name>
+        <description>Fita</description>
         <LookAt>
           <longitude>1.100751</longitude>
           <latitude>41.174719</latitude>
@@ -8873,8 +8873,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>A Salvador Allende</name>
+        <description>A Salvador Allende</description>
         <LookAt>
           <longitude>1.056203</longitude>
           <latitude>41.064839</latitude>
@@ -9053,8 +9053,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Puerta de Adan y Eva</name>
+        <description>Puerta de Adan y Eva</description>
         <LookAt>
           <longitude>1.294075</longitude>
           <latitude>41.141719</latitude>
@@ -12257,8 +12257,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Montserrat Pujals</name>
+        <description>Montserrat Pujals</description>
         <LookAt>
           <longitude>1.05284</longitude>
           <latitude>41.069595</latitude>
@@ -13760,8 +13760,8 @@
           <coordinates>1.217782,41.148831,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Info SALOU</name>
+        <description>Info SALOU</description>
         <LookAt>
           <longitude>1.14385</longitude>
           <latitude>41.077276</latitude>
@@ -16089,8 +16089,8 @@
           <coordinates>1.224017,41.12071,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Passeig 30 De Octubre </name>
+        <description>Passeig 30 De Octubre </description>
         <LookAt>
           <longitude>1.137749</longitude>
           <latitude>41.08423</latitude>
@@ -16429,8 +16429,8 @@
           <coordinates>1.108844,41.16083,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Jardins de Salou </name>
+        <description>Jardins de Salou </description>
         <LookAt>
           <longitude>1.140295</longitude>
           <latitude>41.082195</latitude>
@@ -17653,6 +17653,23 @@
           <coordinates>1.208277,41.20975,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Entrada Plaça Primer de Maig</name>
+        <description>Entrada Plaça Primer de Maig</description>
+        <LookAt>
+          <longitude>1.21852</longitude>
+          <latitude>41.119287</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.21852,41.119287,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Campo de rugby</name>
         <description>Campo de rugby</description>
         <LookAt>
@@ -17806,8 +17823,8 @@
           <coordinates>1.104856,41.163548,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Amfora Gegant</name>
+        <description>Amfora Gegant</description>
         <LookAt>
           <longitude>1.094636</longitude>
           <latitude>41.090556</latitude>
@@ -20679,8 +20696,8 @@
           <coordinates>1.103576,41.156608,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Playground Automovilistic</name>
+        <description>Playground Automovilistic</description>
         <LookAt>
           <longitude>1.142059</longitude>
           <latitude>41.07871</latitude>
@@ -20951,8 +20968,8 @@
           <coordinates>1.136679,41.157593,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Playground Salvador Vilaseca</name>
+        <description>Playground Salvador Vilaseca</description>
         <LookAt>
           <longitude>1.139456</longitude>
           <latitude>41.084469</latitude>
@@ -22518,8 +22535,8 @@
         <name>Campo de Futbol público</name>
         <description>Campo de Futbol público</description>
         <LookAt>
-          <longitude>1.218356</longitude>
-          <latitude>41.119852</latitude>
+          <longitude>1.218294</longitude>
+          <latitude>41.119926</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -22529,7 +22546,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.218356,41.119852,0</coordinates>
+          <coordinates>1.218294,41.119926,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pilo De Tamarit</name>
@@ -27700,8 +27717,8 @@
           <coordinates>1.118371,41.142677,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Playground “Concilium”</name>
+        <description>Playground “Concilium”</description>
         <LookAt>
           <longitude>1.146615</longitude>
           <latitude>41.078425</latitude>
@@ -29978,8 +29995,8 @@
           <coordinates>1.105796,41.157413,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Font Belvedere</name>
+        <description>Font Belvedere</description>
         <LookAt>
           <longitude>1.145878</longitude>
           <latitude>41.078521</latitude>
@@ -30743,8 +30760,8 @@
           <coordinates>1.213053,41.126529,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Torre d'en Dolça</name>
+        <description>Torre d'en Dolça</description>
         <LookAt>
           <longitude>1.159913</longitude>
           <latitude>41.09899</latitude>
@@ -33055,6 +33072,23 @@
           <coordinates>1.135429,41.083217,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Cal Castanyola</name>
+        <description>Cal Castanyola</description>
+        <LookAt>
+          <longitude>1.242429</longitude>
+          <latitude>41.110445</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.242429,41.110445,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Gnomo Currante</name>
         <description>Gnomo Currante</description>
         <LookAt>
@@ -34551,8 +34585,8 @@
           <coordinates>1.150401,41.111687,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Fuente Caribe</name>
+        <description>Fuente Caribe</description>
         <LookAt>
           <longitude>1.145545</longitude>
           <latitude>41.082559</latitude>
@@ -37832,8 +37866,8 @@
           <coordinates>1.14081,41.07397,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Statue</name>
+        <description>Statue</description>
         <LookAt>
           <longitude>1.148186</longitude>
           <latitude>41.086521</latitude>
@@ -39124,8 +39158,8 @@
           <coordinates>1.262138,41.118399,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Area ejercici villablanca</name>
+        <description>Area ejercici villablanca</description>
         <LookAt>
           <longitude>1.148787</longitude>
           <latitude>41.126604</latitude>
@@ -45023,8 +45057,8 @@
           <coordinates>1.260946,41.118145,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Pirulo De Port Aventura</name>
+        <description>Pirulo De Port Aventura</description>
         <LookAt>
           <longitude>1.145457</longitude>
           <latitude>41.087258</latitude>
@@ -45208,6 +45242,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.990071,41.136783,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Gremi de Marejants</name>
+        <description>Gremi de Marejants</description>
+        <LookAt>
+          <longitude>1.240706</longitude>
+          <latitude>41.109813</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.240706,41.109813,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Iglesia Evangelica</name>
@@ -46077,8 +46128,8 @@
           <coordinates>1.367595,41.140679,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Hidden Play</name>
+        <description>Hidden Play</description>
         <LookAt>
           <longitude>1.147454</longitude>
           <latitude>41.079679</latitude>
@@ -47913,8 +47964,8 @@
           <coordinates>1.090611,41.148112,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Cami De Les Pasquales</name>
+        <description>Cami De Les Pasquales</description>
         <LookAt>
           <longitude>1.146855</longitude>
           <latitude>41.078826</latitude>
@@ -50242,8 +50293,8 @@
           <coordinates>1.056552,41.06732,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Salou</name>
+        <description>Salou</description>
         <LookAt>
           <longitude>1.12913</longitude>
           <latitude>41.094043</latitude>
@@ -51721,8 +51772,8 @@
           <coordinates>1.122798,41.160129,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Complex Esportiu Futbol Salou</name>
+        <description>Complex Esportiu Futbol Salou</description>
         <LookAt>
           <longitude>1.114732</longitude>
           <latitude>41.085173</latitude>
@@ -52571,8 +52622,8 @@
           <coordinates>1.377274,41.140367,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Fuente Caribe</name>
+        <description>Fuente Caribe</description>
         <LookAt>
           <longitude>1.146364</longitude>
           <latitude>41.082918</latitude>
@@ -55104,8 +55155,8 @@
           <coordinates>1.247926,41.118583,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>El Paso</name>
+        <description>El Paso</description>
         <LookAt>
           <longitude>1.15105</longitude>
           <latitude>41.089176</latitude>
@@ -58963,8 +59014,8 @@
           <coordinates>0.961001,41.085187,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Roman Temple Villa Romana</name>
+        <description>Roman Temple Villa Romana</description>
         <LookAt>
           <longitude>1.145402</longitude>
           <latitude>41.080534</latitude>
@@ -59643,8 +59694,8 @@
           <coordinates>1.406234,41.145479,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>muestra de arquitectura del colegio de Tarragona</name>
+        <description>muestra de arquitectura del colegio de Tarragona</description>
         <LookAt>
           <longitude>1.141922</longitude>
           <latitude>41.08458</latitude>
@@ -60595,8 +60646,8 @@
           <coordinates>1.054779,41.074794,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Salou Port Haley</name>
+        <description>Salou Port Haley</description>
         <LookAt>
           <longitude>1.151844</longitude>
           <latitude>41.094866</latitude>

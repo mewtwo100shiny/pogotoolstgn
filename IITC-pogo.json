@@ -770,8 +770,8 @@
         },
         "2805c466244f4368a12877d5ad2daf7e.16": {
             "guid": "2805c466244f4368a12877d5ad2daf7e.16",
-            "lat": 41.111097,
-            "lng": 1.24107,
+            "lat": 41.111101,
+            "lng": 1.240909,
             "name": "Poliesportiu Del Serrallo"
         },
         "28070bb2b35645e0a6c4866bb8fc92bc.16": {
@@ -2608,7 +2608,7 @@
             "guid": "8fea9a606fdd407b95f481f93de8a9e3.16",
             "lat": 41.174719,
             "lng": 1.100751,
-            "name": "unknown"
+            "name": "Fita"
         },
         "903b582aba4f43a9a490f7bc6b95dca7.16": {
             "guid": "903b582aba4f43a9a490f7bc6b95dca7.16",
@@ -2932,7 +2932,7 @@
             "guid": "a1a2a321beff4525b0f58d2fd7de8e09.16",
             "lat": 41.064839,
             "lng": 1.056203,
-            "name": "unknown"
+            "name": "A Salvador Allende"
         },
         "a1b6fbcd612a4628aa1566167edef6a9.11": {
             "guid": "a1b6fbcd612a4628aa1566167edef6a9.11",
@@ -2992,7 +2992,7 @@
             "guid": "a4cbbf0202f945239fe8fa6f7c43b3af.16",
             "lat": 41.141719,
             "lng": 1.294075,
-            "name": "unknown"
+            "name": "Puerta de Adan y Eva"
         },
         "a4cd9f51ff1d4267905c71885d421c41.16": {
             "guid": "a4cd9f51ff1d4267905c71885d421c41.16",
@@ -4060,7 +4060,7 @@
             "guid": "e4fb0c52aa6e4c6db6b7d26a297c691a.16",
             "lat": 41.069595,
             "lng": 1.05284,
-            "name": "unknown"
+            "name": "Montserrat Pujals"
         },
         "e537bb8a410b4a04a6d566ba1aae9d64.16": {
             "guid": "e537bb8a410b4a04a6d566ba1aae9d64.16",
@@ -4566,7 +4566,7 @@
             "guid": "01369d7402cd4130992c022062199fdd.16",
             "lat": 41.077276,
             "lng": 1.14385,
-            "name": "unknown"
+            "name": "Info SALOU"
         },
         "0178fc63cc8e416ea5e02af9ad3a1c7d.16": {
             "guid": "0178fc63cc8e416ea5e02af9ad3a1c7d.16",
@@ -5388,7 +5388,7 @@
             "guid": "0be9dc90b06e48898bffc974f375859d.16",
             "lat": 41.08423,
             "lng": 1.137749,
-            "name": "unknown"
+            "name": "Passeig 30 De Octubre "
         },
         "0c014ebe8bd24ffa8cfce8c8bf40944d.16": {
             "guid": "0c014ebe8bd24ffa8cfce8c8bf40944d.16",
@@ -5508,7 +5508,7 @@
             "guid": "0d81682b158549ce9ea6e2253bdf19b4.16",
             "lat": 41.082195,
             "lng": 1.140295,
-            "name": "unknown"
+            "name": "Jardins de Salou "
         },
         "0da2b8a2afb7418db93b2a0ecfbadfc8.16": {
             "guid": "0da2b8a2afb7418db93b2a0ecfbadfc8.16",
@@ -5936,6 +5936,12 @@
             "lng": 1.208277,
             "name": "Parc petit Vilallonga"
         },
+        "13443dbc07a6471c92048697efa7dd8f.16": {
+            "guid": "13443dbc07a6471c92048697efa7dd8f.16",
+            "lat": 41.119287,
+            "lng": 1.21852,
+            "name": "Entrada Pla\u00e7a Primer de Maig"
+        },
         "135b366c95494a71b737f1573a55ca24.16": {
             "guid": "135b366c95494a71b737f1573a55ca24.16",
             "lat": 41.121633,
@@ -5994,7 +6000,7 @@
             "guid": "13f677dded0c429a83bbf37161596733.16",
             "lat": 41.090556,
             "lng": 1.094636,
-            "name": "unknown"
+            "name": "Amfora Gegant"
         },
         "1419837b8c604800851352b40ffb086b.16": {
             "guid": "1419837b8c604800851352b40ffb086b.16",
@@ -7008,7 +7014,7 @@
             "guid": "224bcda7d6be47909bc9d2caebfabf61.16",
             "lat": 41.07871,
             "lng": 1.142059,
-            "name": "unknown"
+            "name": "Playground Automovilistic"
         },
         "225766d33afa408a9af6b56a9cc439b0.16": {
             "guid": "225766d33afa408a9af6b56a9cc439b0.16",
@@ -7104,7 +7110,7 @@
             "guid": "2377341071de46b498905bd4f1c88769.16",
             "lat": 41.084469,
             "lng": 1.139456,
-            "name": "unknown"
+            "name": "Playground Salvador Vilaseca"
         },
         "238f29988af84f23b50a86f11927b603.16": {
             "guid": "238f29988af84f23b50a86f11927b603.16",
@@ -7654,8 +7660,8 @@
         },
         "2bc40f6dcb2d4aa9ba730416884b2357.16": {
             "guid": "2bc40f6dcb2d4aa9ba730416884b2357.16",
-            "lat": 41.119852,
-            "lng": 1.218356,
+            "lat": 41.119926,
+            "lng": 1.218294,
             "name": "Campo de Futbol p\u00fablico"
         },
         "2bc4b1ea698945e4a9a0a5055281ddbb.16": {
@@ -9486,7 +9492,7 @@
             "guid": "46ac2a8fa6be4416aa17c4ca4ba2e415.16",
             "lat": 41.078425,
             "lng": 1.146615,
-            "name": "unknown"
+            "name": "Playground \u201cConcilium\u201d"
         },
         "46ac720b312c442792971398b251c3d9.16": {
             "guid": "46ac720b312c442792971398b251c3d9.16",
@@ -10290,7 +10296,7 @@
             "guid": "51809324c38e4674a005224dbb2d1249.16",
             "lat": 41.078521,
             "lng": 1.145878,
-            "name": "unknown"
+            "name": "Font Belvedere"
         },
         "51873ff0d5194e7ba2aaf8c60e77d90a.16": {
             "guid": "51873ff0d5194e7ba2aaf8c60e77d90a.16",
@@ -10560,7 +10566,7 @@
             "guid": "54723d24e28049a6bb2873dbcbf06d14.16",
             "lat": 41.09899,
             "lng": 1.159913,
-            "name": "unknown"
+            "name": "Torre d'en Dol\u00e7a"
         },
         "54a11ea0194f4b5db44d3d575fd6b287.16": {
             "guid": "54a11ea0194f4b5db44d3d575fd6b287.16",
@@ -11372,6 +11378,12 @@
             "lng": 1.135429,
             "name": "A Manuel Albinyana"
         },
+        "61aa61c25a00497fa6d01b923df8e142.16": {
+            "guid": "61aa61c25a00497fa6d01b923df8e142.16",
+            "lat": 41.110445,
+            "lng": 1.242429,
+            "name": "Cal Castanyola"
+        },
         "61ab5825681649bebb110eed2c1a3f41.16": {
             "guid": "61ab5825681649bebb110eed2c1a3f41.16",
             "lat": 41.14434,
@@ -11904,7 +11916,7 @@
             "guid": "695fdad89022435ea75a6fe0ef59b003.16",
             "lat": 41.082559,
             "lng": 1.145545,
-            "name": "unknown"
+            "name": "Fuente Caribe"
         },
         "69655bb7abe24af9984e514e39f4229a.16": {
             "guid": "69655bb7abe24af9984e514e39f4229a.16",
@@ -13062,7 +13074,7 @@
             "guid": "798f8279b2484891a22cd521c030ff12.16",
             "lat": 41.086521,
             "lng": 1.148186,
-            "name": "unknown"
+            "name": "Statue"
         },
         "79e2ecaff1994ab79902f9cc4be66315.16": {
             "guid": "79e2ecaff1994ab79902f9cc4be66315.16",
@@ -13518,7 +13530,7 @@
             "guid": "80e7040065914981953db329923488b4.16",
             "lat": 41.126604,
             "lng": 1.148787,
-            "name": "unknown"
+            "name": "Area ejercici villablanca"
         },
         "80fa12c6db8f4afdabed869ff8a8ccda.16": {
             "guid": "80fa12c6db8f4afdabed869ff8a8ccda.16",
@@ -15600,7 +15612,7 @@
             "guid": "9e9083ae5c724541b15708cac1bfd6ba.16",
             "lat": 41.087258,
             "lng": 1.145457,
-            "name": "unknown"
+            "name": "Pirulo De Port Aventura"
         },
         "9eb5af9d44b2421593f4870ba8ee40e9.16": {
             "guid": "9eb5af9d44b2421593f4870ba8ee40e9.16",
@@ -15661,6 +15673,12 @@
             "lat": 41.136783,
             "lng": 0.990071,
             "name": "Font de Botarell"
+        },
+        "9f28bec2ae544618a969046a055f5395.16": {
+            "guid": "9f28bec2ae544618a969046a055f5395.16",
+            "lat": 41.109813,
+            "lng": 1.240706,
+            "name": "Gremi de Marejants"
         },
         "9f2c102084664bf6abe8b234a8a574fb.16": {
             "guid": "9f2c102084664bf6abe8b234a8a574fb.16",
@@ -15972,7 +15990,7 @@
             "guid": "a395094c653f4c459d4d1d6bf636c8ed.16",
             "lat": 41.079679,
             "lng": 1.147454,
-            "name": "unknown"
+            "name": "Hidden Play"
         },
         "a3996d029f34408a8d06027dfe6767eb.16": {
             "guid": "a3996d029f34408a8d06027dfe6767eb.16",
@@ -16620,7 +16638,7 @@
             "guid": "adce04fa4fa949549715bd1bcec38ca6.16",
             "lat": 41.078826,
             "lng": 1.146855,
-            "name": "unknown"
+            "name": "Cami De Les Pasquales"
         },
         "ade2d5f11b89434193e34f638a804eea.16": {
             "guid": "ade2d5f11b89434193e34f638a804eea.16",
@@ -17442,7 +17460,7 @@
             "guid": "b8aacf322de9467ebddc1846a32d8cbd.16",
             "lat": 41.094043,
             "lng": 1.12913,
-            "name": "unknown"
+            "name": "Salou"
         },
         "b8ad09b1b5184ee6ae0b8ac2753ae785.16": {
             "guid": "b8ad09b1b5184ee6ae0b8ac2753ae785.16",
@@ -17964,7 +17982,7 @@
             "guid": "c12d35380f4445c88b9ac7d4f9750865.16",
             "lat": 41.085173,
             "lng": 1.114732,
-            "name": "unknown"
+            "name": "Complex Esportiu Futbol Salou"
         },
         "c1402bcf6c5d4c799e92ca83357c1acb.16": {
             "guid": "c1402bcf6c5d4c799e92ca83357c1acb.16",
@@ -18264,7 +18282,7 @@
             "guid": "c518120aefdc413b9b2a95d30792c77d.16",
             "lat": 41.082918,
             "lng": 1.146364,
-            "name": "unknown"
+            "name": "Fuente Caribe"
         },
         "c51d19dc9ef54bb68cac93ae78018698.16": {
             "guid": "c51d19dc9ef54bb68cac93ae78018698.16",
@@ -19158,7 +19176,7 @@
             "guid": "d380b307254a40908a91efe456528b3f.16",
             "lat": 41.089176,
             "lng": 1.15105,
-            "name": "unknown"
+            "name": "El Paso"
         },
         "d38157b226074bf8abbc1e39db5070d9.16": {
             "guid": "d38157b226074bf8abbc1e39db5070d9.16",
@@ -20520,7 +20538,7 @@
             "guid": "e64271f7e9e24961ae0c312dd20755db.16",
             "lat": 41.080534,
             "lng": 1.145402,
-            "name": "unknown"
+            "name": "Roman Temple Villa Romana"
         },
         "e648f873a907442d805ca4e60e1c40cb.16": {
             "guid": "e648f873a907442d805ca4e60e1c40cb.16",
@@ -20760,7 +20778,7 @@
             "guid": "ea1a467b4533457d8e0ecf2103c9dc7d.16",
             "lat": 41.08458,
             "lng": 1.141922,
-            "name": "unknown"
+            "name": "muestra de arquitectura del colegio de Tarragona"
         },
         "ea3db05d531a432ca5734b1bd7f9595a.16": {
             "guid": "ea3db05d531a432ca5734b1bd7f9595a.16",
@@ -21096,7 +21114,7 @@
             "guid": "ee253a6420f14a08920f99e280651602.16",
             "lat": 41.094866,
             "lng": 1.151844,
-            "name": "unknown"
+            "name": "Salou Port Haley"
         },
         "ee45efb9d39d4349b922576c1b5c2fc9.16": {
             "guid": "ee45efb9d39d4349b922576c1b5c2fc9.16",
