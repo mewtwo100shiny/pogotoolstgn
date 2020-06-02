@@ -8096,6 +8096,12 @@
             "lng": 1.170359,
             "name": "Pozo De Los Deseos"
         },
+        "324b09df59784c179e90bbe1145e5457.16": {
+            "guid": "324b09df59784c179e90bbe1145e5457.16",
+            "lat": 41.121307,
+            "lng": 1.243643,
+            "name": "Entrada de Pedra"
+        },
         "325ff08887b44d15b362074e29b41555.16": {
             "guid": "325ff08887b44d15b362074e29b41555.16",
             "lat": 41.07719,
@@ -12499,6 +12505,12 @@
             "lat": 41.069457,
             "lng": 1.155625,
             "name": "volcano"
+        },
+        "71dbf129cc5245dab37bda3048ad5a90.16": {
+            "guid": "71dbf129cc5245dab37bda3048ad5a90.16",
+            "lat": 41.144385,
+            "lng": 1.103221,
+            "name": "2D2"
         },
         "721689fb7c0840b6abcf9be3d0af5848.16": {
             "guid": "721689fb7c0840b6abcf9be3d0af5848.16",
