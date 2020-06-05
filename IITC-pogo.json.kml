@@ -6173,6 +6173,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.1024</longitude>
+          <latitude>41.16755</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.1024,41.16755,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>A Félix Rodríguez de la Fuente</name>
         <description>A Félix Rodríguez de la Fuente</description>
         <LookAt>
@@ -13828,8 +13846,8 @@
           <coordinates>1.111598,41.159322,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Centre Cívic Ponent </name>
-        <description>Centre Cívic Ponent </description>
+        <name>Centre Cívic Ponent</name>
+        <description>Centre Cívic Ponent</description>
         <LookAt>
           <longitude>1.097993</longitude>
           <latitude>41.151373</latitude>
@@ -19387,8 +19405,8 @@
           <coordinates>1.254072,41.114646,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parking graffity </name>
-        <description>Parking graffity </description>
+        <name>Parking graffity</name>
+        <description>Parking graffity</description>
         <LookAt>
           <longitude>1.102676</longitude>
           <latitude>41.153641</latitude>
@@ -20577,8 +20595,8 @@
           <coordinates>1.160628,41.086951,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Correos Salou </name>
-        <description>Correos Salou </description>
+        <name>Correos Salou</name>
+        <description>Correos Salou</description>
         <LookAt>
           <longitude>1.128772</longitude>
           <latitude>41.076666</latitude>
@@ -23382,8 +23400,8 @@
           <coordinates>1.111961,41.148656,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Nuestra Señora Nuria </name>
-        <description>Nuestra Señora Nuria </description>
+        <name>Nuestra Señora Nuria</name>
+        <description>Nuestra Señora Nuria</description>
         <LookAt>
           <longitude>1.16229</longitude>
           <latitude>41.057544</latitude>
@@ -23909,8 +23927,8 @@
           <coordinates>1.064961,41.066235,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Casa Dels Escuders </name>
-        <description>Casa Dels Escuders </description>
+        <name>Casa Dels Escuders</name>
+        <description>Casa Dels Escuders</description>
         <LookAt>
           <longitude>1.146297</longitude>
           <latitude>41.112466</latitude>
@@ -24232,8 +24250,8 @@
           <coordinates>0.877946,41.158073,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Visage Sourire </name>
-        <description>Visage Sourire </description>
+        <name>Visage Sourire</name>
+        <description>Visage Sourire</description>
         <LookAt>
           <longitude>1.161497</longitude>
           <latitude>41.086538</latitude>
@@ -25131,6 +25149,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.113798,41.146842,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Il•ltre Col•legi Oficial de Graduats Socials</name>
+        <description>Il•ltre Col•legi Oficial de Graduats Socials</description>
+        <LookAt>
+          <longitude>1.250834</longitude>
+          <latitude>41.117951</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.250834,41.117951,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Oficina Correos Bonavista</name>
@@ -26321,6 +26356,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10641,41.156903,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>LLIGA CONTRA EL CANCER</name>
+        <description>LLIGA CONTRA EL CANCER</description>
+        <LookAt>
+          <longitude>1.253001</longitude>
+          <latitude>41.119945</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.253001,41.119945,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Rapero Orejudo</name>
@@ -28567,8 +28619,8 @@
           <coordinates>1.177025,41.123773,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Restaurants  Museo Del Vermut</name>
-        <description>Restaurants  Museo Del Vermut</description>
+        <name>Restaurants Museo Del Vermut</name>
+        <description>Restaurants Museo Del Vermut</description>
         <LookAt>
           <longitude>1.110036</longitude>
           <latitude>41.156037</latitude>
@@ -31185,8 +31237,8 @@
           <coordinates>0.935983,41.011791,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Information Turistico </name>
-        <description>Information Turistico </description>
+        <name>Information Turistico</name>
+        <description>Information Turistico</description>
         <LookAt>
           <longitude>1.179881</longitude>
           <latitude>41.072674</latitude>
@@ -32018,8 +32070,8 @@
           <coordinates>1.057641,41.069636,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Casa Emilio Corbella Guinovart </name>
-        <description>Casa Emilio Corbella Guinovart </description>
+        <name>Casa Emilio Corbella Guinovart</name>
+        <description>Casa Emilio Corbella Guinovart</description>
         <LookAt>
           <longitude>1.25432</longitude>
           <latitude>41.117686</latitude>
@@ -33123,8 +33175,8 @@
           <coordinates>0.919858,40.995576,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Plaça Institut Pere Mata </name>
-        <description>Plaça Institut Pere Mata </description>
+        <name>Plaça Institut Pere Mata</name>
+        <description>Plaça Institut Pere Mata</description>
         <LookAt>
           <longitude>1.109317</longitude>
           <latitude>41.160055</latitude>
@@ -36319,23 +36371,6 @@
           <coordinates>1.412526,41.144542,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Public Gym </name>
-        <description>Public Gym </description>
-        <LookAt>
-          <longitude>1.1024</longitude>
-          <latitude>41.16755</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.1024,41.16755,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Vasija</name>
         <description>Vasija</description>
         <LookAt>
@@ -37067,8 +37102,8 @@
           <coordinates>1.398803,41.143429,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Joper King grafitty </name>
-        <description>Joper King grafitty </description>
+        <name>Joper King grafitty</name>
+        <description>Joper King grafitty</description>
         <LookAt>
           <longitude>1.114162</longitude>
           <latitude>41.16014</latitude>
@@ -39411,6 +39446,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104797,41.078206,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Pipican</name>
+        <description>Pipican</description>
+        <LookAt>
+          <longitude>1.102053</longitude>
+          <latitude>41.167695</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.102053,41.167695,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mussol Graffitti Vilaseca</name>
@@ -43221,8 +43273,8 @@
           <coordinates>1.112053,41.135499,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Gasper grafitty </name>
-        <description>Gasper grafitty </description>
+        <name>Gasper grafitty</name>
+        <description>Gasper grafitty</description>
         <LookAt>
           <longitude>1.096091</longitude>
           <latitude>41.158556</latitude>
@@ -45091,8 +45143,8 @@
           <coordinates>1.3669,41.140473,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Casa De D. Juan Sol Y Ortega </name>
-        <description>Casa De D. Juan Sol Y Ortega </description>
+        <name>Casa De D. Juan Sol Y Ortega</name>
+        <description>Casa De D. Juan Sol Y Ortega</description>
         <LookAt>
           <longitude>1.1103</longitude>
           <latitude>41.154519</latitude>
@@ -45448,8 +45500,8 @@
           <coordinates>1.181135,41.081015,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Playground </name>
-        <description>Playground </description>
+        <name>Playground</name>
+        <description>Playground</description>
         <LookAt>
           <longitude>1.104396</longitude>
           <latitude>41.146324</latitude>
@@ -46721,6 +46773,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.099971,41.177917,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Columpios del playground"ECU"</name>
+        <description>Columpios del playground"ECU"</description>
+        <LookAt>
+          <longitude>1.115875</longitude>
+          <latitude>41.135032</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.115875,41.135032,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fuente luminosa (sur)</name>
@@ -48355,8 +48424,8 @@
           <coordinates>1.074026,41.066112,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Mur Tapial </name>
-        <description>Mur Tapial </description>
+        <name>Mur Tapial</name>
+        <description>Mur Tapial</description>
         <LookAt>
           <longitude>1.240392</longitude>
           <latitude>41.115081</latitude>
@@ -48882,8 +48951,8 @@
           <coordinates>1.1131,41.143245,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Hotel Callagan's </name>
-        <description>Hotel Callagan's </description>
+        <name>Hotel Callagan's</name>
+        <description>Hotel Callagan's</description>
         <LookAt>
           <longitude>1.156291</longitude>
           <latitude>41.092313</latitude>
@@ -49647,8 +49716,8 @@
           <coordinates>1.244866,41.113117,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Kid Graffiti </name>
-        <description>Kid Graffiti </description>
+        <name>Kid Graffiti</name>
+        <description>Kid Graffiti</description>
         <LookAt>
           <longitude>1.108452</longitude>
           <latitude>41.151407</latitude>
@@ -50344,8 +50413,8 @@
           <coordinates>1.398706,41.139166,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Iglesia Evangèlica </name>
-        <description>Iglesia Evangèlica </description>
+        <name>Iglesia Evangèlica</name>
+        <description>Iglesia Evangèlica</description>
         <LookAt>
           <longitude>1.114898</longitude>
           <latitude>41.154773</latitude>
@@ -51381,8 +51450,8 @@
           <coordinates>1.241156,41.156546,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Temple Magic </name>
-        <description>Temple Magic </description>
+        <name>Temple Magic</name>
+        <description>Temple Magic</description>
         <LookAt>
           <longitude>1.158387</longitude>
           <latitude>41.087806</latitude>
@@ -54424,8 +54493,8 @@
           <coordinates>1.255334,41.11546,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Castell De Vila-seca </name>
-        <description>Castell De Vila-seca </description>
+        <name>Castell De Vila-seca</name>
+        <description>Castell De Vila-seca</description>
         <LookAt>
           <longitude>1.147531</longitude>
           <latitude>41.114502</latitude>
@@ -54475,8 +54544,8 @@
           <coordinates>1.139518,41.213215,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Dorado World </name>
-        <description>Dorado World </description>
+        <name>Dorado World</name>
+        <description>Dorado World</description>
         <LookAt>
           <longitude>1.180557</longitude>
           <latitude>41.074182</latitude>
@@ -55784,8 +55853,8 @@
           <coordinates>0.932927,41.06387,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Plaça del molí </name>
-        <description>Plaça del molí </description>
+        <name>Plaça del molí</name>
+        <description>Plaça del molí</description>
         <LookAt>
           <longitude>1.096346</longitude>
           <latitude>41.181711</latitude>
@@ -56430,8 +56499,8 @@
           <coordinates>1.240521,41.116658,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Inscripció Dia Del Arbre </name>
-        <description>Inscripció Dia Del Arbre </description>
+        <name>Inscripció Dia Del Arbre</name>
+        <description>Inscripció Dia Del Arbre</description>
         <LookAt>
           <longitude>1.249474</longitude>
           <latitude>41.148965</latitude>
@@ -56515,8 +56584,8 @@
           <coordinates>1.104143,41.153274,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Roi De La Jungle </name>
-        <description>Roi De La Jungle </description>
+        <name>Roi De La Jungle</name>
+        <description>Roi De La Jungle</description>
         <LookAt>
           <longitude>1.162378</longitude>
           <latitude>41.086603</latitude>
@@ -56991,8 +57060,8 @@
           <coordinates>0.959915,41.083674,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Puente Ramón Y Cajal </name>
-        <description>Puente Ramón Y Cajal </description>
+        <name>Puente Ramón Y Cajal</name>
+        <description>Puente Ramón Y Cajal</description>
         <LookAt>
           <longitude>1.237171</longitude>
           <latitude>41.11609</latitude>
@@ -59133,8 +59202,8 @@
           <coordinates>1.09928,41.150665,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parc De Sant Pere I Sant Pau </name>
-        <description>Parc De Sant Pere I Sant Pau </description>
+        <name>Parc De Sant Pere I Sant Pau</name>
+        <description>Parc De Sant Pere I Sant Pau</description>
         <LookAt>
           <longitude>1.249729</longitude>
           <latitude>41.135667</latitude>
@@ -59471,6 +59540,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.255795,41.116682,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Playgtound"Saudak"</name>
+        <description>Playgtound"Saudak"</description>
+        <LookAt>
+          <longitude>1.114977</longitude>
+          <latitude>41.136478</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.114977,41.136478,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Creu de Santa Ana</name>
@@ -60765,8 +60851,8 @@
           <coordinates>1.107521,41.154368,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Grues Zorroza </name>
-        <description>Grues Zorroza </description>
+        <name>Grues Zorroza</name>
+        <description>Grues Zorroza</description>
         <LookAt>
           <longitude>1.248578</longitude>
           <latitude>41.109469</latitude>
