@@ -23502,6 +23502,23 @@
           <coordinates>1.154141,41.070761,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Fuente de H²O"ECU"</name>
+        <description>Fuente de H²O"ECU"</description>
+        <LookAt>
+          <longitude>1.114483</longitude>
+          <latitude>41.136884</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.114483,41.136884,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>(AJJRR) Associació de jugadors i jugadores de rol de Reus</name>
         <description>(AJJRR) Associació de jugadors i jugadores de rol de Reus</description>
         <LookAt>
@@ -28160,6 +28177,23 @@
           <coordinates>0.964182,41.086419,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Portes Vedruna</name>
+        <description>Portes Vedruna</description>
+        <LookAt>
+          <longitude>1.210737</longitude>
+          <latitude>41.117992</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.210737,41.117992,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Pabellón Salou-Ponent</name>
         <description>Pabellón Salou-Ponent</description>
         <LookAt>
@@ -30708,6 +30742,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.945233,41.048424,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.09198</longitude>
+          <latitude>41.137172</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.09198,41.137172,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Campanar de nit.</name>
@@ -40859,6 +40910,23 @@
           <coordinates>1.405314,41.145469,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>A Joan Virgili</name>
+        <description>A Joan Virgili</description>
+        <LookAt>
+          <longitude>1.253463</longitude>
+          <latitude>41.115553</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.253463,41.115553,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Hercules de las Cañaillas</name>
         <description>Hercules de las Cañaillas</description>
         <LookAt>
@@ -43715,6 +43783,23 @@
           <coordinates>1.134458,41.075994,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Plano Tarraco</name>
+        <description>Plano Tarraco</description>
+        <LookAt>
+          <longitude>1.248768</longitude>
+          <latitude>41.117405</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.248768,41.117405,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Eines del Camp</name>
         <description>Eines del Camp</description>
         <LookAt>
@@ -43735,8 +43820,8 @@
         <name>Església dels Carmelites</name>
         <description>Església dels Carmelites</description>
         <LookAt>
-          <longitude>1.252283</longitude>
-          <latitude>41.116859</latitude>
+          <longitude>1.252409</longitude>
+          <latitude>41.116901</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -43746,7 +43831,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.252283,41.116859,0</coordinates>
+          <coordinates>1.252409,41.116901,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Iron Train</name>
@@ -52844,6 +52929,23 @@
           <coordinates>1.093073,41.151908,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Casa Francesc Vendrell</name>
+        <description>Casa Francesc Vendrell</description>
+        <LookAt>
+          <longitude>1.252178</longitude>
+          <latitude>41.11601</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.252178,41.11601,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Gimnasio en la calle</name>
         <description>Gimnasio en la calle</description>
         <LookAt>
@@ -56089,6 +56191,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.408692,41.145964,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Edificio Ahorros</name>
+        <description>Edificio Ahorros</description>
+        <LookAt>
+          <longitude>1.252099</longitude>
+          <latitude>41.116519</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.252099,41.116519,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Guillem Agulló Ni Oblit, Ni Perdó</name>

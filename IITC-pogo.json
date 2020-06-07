@@ -8000,6 +8000,12 @@
             "lng": 1.154141,
             "name": "L'\u00c0ncora"
         },
+        "307b8f15ee9d4873bc79496d5ed14e2b.16": {
+            "guid": "307b8f15ee9d4873bc79496d5ed14e2b.16",
+            "lat": 41.136884,
+            "lng": 1.114483,
+            "name": "Fuente de H\u00b2O\"ECU\""
+        },
         "308529f8c34846c791e9379b7b6b2a41.16": {
             "guid": "308529f8c34846c791e9379b7b6b2a41.16",
             "lat": 41.151455,
@@ -9644,6 +9650,12 @@
             "lng": 0.964182,
             "name": "Ruta 4 BTT"
         },
+        "48bd90f9bacd43f8b1e6f904c6aebc3d.16": {
+            "guid": "48bd90f9bacd43f8b1e6f904c6aebc3d.16",
+            "lat": 41.117992,
+            "lng": 1.210737,
+            "name": "Portes Vedruna"
+        },
         "48d81c15bd5e4abfaa2bdf0cd8dc388a.16": {
             "guid": "48d81c15bd5e4abfaa2bdf0cd8dc388a.16",
             "lat": 41.084654,
@@ -10543,6 +10555,12 @@
             "lat": 41.048424,
             "lng": 0.945233,
             "name": "Pedra Sea 2253"
+        },
+        "543825981db74447861fbe4624640f1b.16": {
+            "guid": "543825981db74447861fbe4624640f1b.16",
+            "lat": 41.137172,
+            "lng": 1.09198,
+            "name": "unknown"
         },
         "543be00ce8304b25b5dd638278193e3e.16": {
             "guid": "543be00ce8304b25b5dd638278193e3e.16",
@@ -14126,6 +14144,12 @@
             "lng": 1.405314,
             "name": "Biblioteca Mestre Maria Antonia"
         },
+        "88998e4c1cbd4232aa00f724c392a0fe.16": {
+            "guid": "88998e4c1cbd4232aa00f724c392a0fe.16",
+            "lat": 41.115553,
+            "lng": 1.253463,
+            "name": "A Joan Virgili"
+        },
         "88b083421fac4dce8cc3528c458fdf70.16": {
             "guid": "88b083421fac4dce8cc3528c458fdf70.16",
             "lat": 41.103356,
@@ -15134,6 +15158,12 @@
             "lng": 1.134458,
             "name": "Deposito de Agua Antiguo"
         },
+        "970b6ac688a44e4b86843092506fb64a.16": {
+            "guid": "970b6ac688a44e4b86843092506fb64a.16",
+            "lat": 41.117405,
+            "lng": 1.248768,
+            "name": "Plano Tarraco"
+        },
         "975c69ff813a4b84939dca340a09be33.16": {
             "guid": "975c69ff813a4b84939dca340a09be33.16",
             "lat": 41.133353,
@@ -15142,8 +15172,8 @@
         },
         "9765fbbaa8884be1b087c77c21eedd96.16": {
             "guid": "9765fbbaa8884be1b087c77c21eedd96.16",
-            "lat": 41.116859,
-            "lng": 1.252283,
+            "lat": 41.116901,
+            "lng": 1.252409,
             "name": "Esgl\u00e9sia dels Carmelites"
         },
         "97c29b0b5bab462d82702142e21d3283.16": {
@@ -18356,6 +18386,12 @@
             "lng": 1.093073,
             "name": "Foham Grafitti"
         },
+        "c61cd2078c5c4a2891ef0bc21c4e9f51.16": {
+            "guid": "c61cd2078c5c4a2891ef0bc21c4e9f51.16",
+            "lat": 41.11601,
+            "lng": 1.252178,
+            "name": "Casa Francesc Vendrell"
+        },
         "c6205589061a408e9218a9c1d3cf0205.16": {
             "guid": "c6205589061a408e9218a9c1d3cf0205.16",
             "lat": 41.161439,
@@ -19501,6 +19537,12 @@
             "lat": 41.145964,
             "lng": 1.408692,
             "name": "Portal en Torredembarra"
+        },
+        "d81cb89998184ac998eaec1153ab51b4.16": {
+            "guid": "d81cb89998184ac998eaec1153ab51b4.16",
+            "lat": 41.116519,
+            "lng": 1.252099,
+            "name": "Edificio Ahorros"
         },
         "d8391c2904714f18a74e612a80fd73a7.16": {
             "guid": "d8391c2904714f18a74e612a80fd73a7.16",
