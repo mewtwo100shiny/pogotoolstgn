@@ -30744,8 +30744,8 @@
           <coordinates>0.945233,41.048424,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Street gym</name>
+        <description>Street gym</description>
         <LookAt>
           <longitude>1.09198</longitude>
           <latitude>41.137172</latitude>
@@ -34176,6 +34176,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.245505,41.118409,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Graffiti de Ovni</name>
+        <description>Graffiti de Ovni</description>
+        <LookAt>
+          <longitude>1.108495</longitude>
+          <latitude>41.138725</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.108495,41.138725,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fuente Redonda De La Iglesia</name>
@@ -46229,6 +46246,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.100956,41.147348,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Estudi de Musica</name>
+        <description>Estudi de Musica</description>
+        <LookAt>
+          <longitude>1.249423</longitude>
+          <latitude>41.116232</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.249423,41.116232,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Zona Ejercicios Costa Zefir</name>
@@ -61106,6 +61140,23 @@
           <coordinates>1.139054,41.076434,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Arcoiris Serrallo</name>
+        <description>Arcoiris Serrallo</description>
+        <LookAt>
+          <longitude>1.239851</longitude>
+          <latitude>41.109793</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.239851,41.109793,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Pintura a Lestació</name>
         <description>Pintura a Lestació</description>
         <LookAt>
@@ -63064,8 +63115,8 @@
         <name>Artemis Escola De Dansa</name>
         <description>Artemis Escola De Dansa</description>
         <LookAt>
-          <longitude>1.249549</longitude>
-          <latitude>41.116389</latitude>
+          <longitude>1.249555</longitude>
+          <latitude>41.116421</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -63075,7 +63126,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.249549,41.116389,0</coordinates>
+          <coordinates>1.249555,41.116421,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Antiaeri De La Segona Gran Guerra</name>

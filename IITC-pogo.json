@@ -10560,7 +10560,7 @@
             "guid": "543825981db74447861fbe4624640f1b.16",
             "lat": 41.137172,
             "lng": 1.09198,
-            "name": "unknown"
+            "name": "Street gym"
         },
         "543be00ce8304b25b5dd638278193e3e.16": {
             "guid": "543be00ce8304b25b5dd638278193e3e.16",
@@ -11767,6 +11767,12 @@
             "lat": 41.118409,
             "lng": 1.245505,
             "name": "Recolectores"
+        },
+        "66cecfc2cfe34a86ac0bbbe2431ab820.16": {
+            "guid": "66cecfc2cfe34a86ac0bbbe2431ab820.16",
+            "lat": 41.138725,
+            "lng": 1.108495,
+            "name": "Graffiti de Ovni"
         },
         "66d4e2ea4cd343deb62870e0b67e4d6e.16": {
             "guid": "66d4e2ea4cd343deb62870e0b67e4d6e.16",
@@ -16021,6 +16027,12 @@
             "lat": 41.147348,
             "lng": 1.100956,
             "name": "Saint Joseph Manyanet Chapel"
+        },
+        "a33e0d1622ac4ad2a8e1299a81a96c96.16": {
+            "guid": "a33e0d1622ac4ad2a8e1299a81a96c96.16",
+            "lat": 41.116232,
+            "lng": 1.249423,
+            "name": "Estudi de Musica"
         },
         "a34ed385f61b47e3bd25d6a6a577e444.16": {
             "guid": "a34ed385f61b47e3bd25d6a6a577e444.16",
@@ -21272,6 +21284,12 @@
             "lng": 1.139054,
             "name": "Gorila Verde"
         },
+        "ef92244d74b64443ac19bf08d1440d3c.16": {
+            "guid": "ef92244d74b64443ac19bf08d1440d3c.16",
+            "lat": 41.109793,
+            "lng": 1.239851,
+            "name": "Arcoiris Serrallo"
+        },
         "ef99f43b2c5d42b38d9b3b839aa6609b.16": {
             "guid": "ef99f43b2c5d42b38d9b3b839aa6609b.16",
             "lat": 41.136778,
@@ -21964,8 +21982,8 @@
         },
         "f7dbf412f27142fcafe57b9e7f0fa2df.16": {
             "guid": "f7dbf412f27142fcafe57b9e7f0fa2df.16",
-            "lat": 41.116389,
-            "lng": 1.249549,
+            "lat": 41.116421,
+            "lng": 1.249555,
             "name": "Artemis Escola De Dansa"
         },
         "f7e4a4615e854d8c8409d66bee777d4f.16": {
