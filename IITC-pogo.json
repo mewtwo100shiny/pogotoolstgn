@@ -2032,7 +2032,7 @@
             "guid": "726f209f98474fc5b284bf736c5ae404.16",
             "lat": 41.16755,
             "lng": 1.1024,
-            "name": "unknown"
+            "name": "Public Gym "
         },
         "72a95143e3f240178048f6d941d7593b.16": {
             "guid": "72a95143e3f240178048f6d941d7593b.16",
@@ -2660,8 +2660,8 @@
         },
         "92a80fdd7111406eb40154c2df676f37.16": {
             "guid": "92a80fdd7111406eb40154c2df676f37.16",
-            "lat": 41.119021,
-            "lng": 1.2455,
+            "lat": 41.11906,
+            "lng": 1.245803,
             "name": "Font de la Imperial T\u00e0rraco"
         },
         "93a98e9fa9a64d18802537099d6d63a6.16": {
@@ -4043,6 +4043,12 @@
             "lat": 41.175289,
             "lng": 1.102978,
             "name": "Pista de Basket"
+        },
+        "e47ad0ef38e54d7fb35b8c89894ea58f.16": {
+            "guid": "e47ad0ef38e54d7fb35b8c89894ea58f.16",
+            "lat": 41.118995,
+            "lng": 1.245167,
+            "name": "Banderas de la Plaza Imperial"
         },
         "e49aca3c6919432eb375420bae0ea361.16": {
             "guid": "e49aca3c6919432eb375420bae0ea361.16",
@@ -16686,7 +16692,7 @@
             "guid": "ad8a3c026ac24a468ccd77d9d44d08c6.16",
             "lat": 41.116992,
             "lng": 1.210826,
-            "name": "Arte Urbano"
+            "name": "Qui No Te Cap Mural"
         },
         "ad9f833e17d648b39a4bc98a55749ac2.16": {
             "guid": "ad9f833e17d648b39a4bc98a55749ac2.16",
@@ -20497,12 +20503,6 @@
             "lat": 41.084284,
             "lng": 1.188875,
             "name": "Gimnasio p\u00fablico"
-        },
-        "e47ad0ef38e54d7fb35b8c89894ea58f.16": {
-            "guid": "e47ad0ef38e54d7fb35b8c89894ea58f.16",
-            "lat": 41.118995,
-            "lng": 1.245167,
-            "name": "Banderas de la Plaza Imperial"
         },
         "e487cc306d5245e494d44cedf78dfc30.16": {
             "guid": "e487cc306d5245e494d44cedf78dfc30.16",

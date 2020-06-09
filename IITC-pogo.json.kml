@@ -6173,8 +6173,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Public Gym </name>
+        <description>Public Gym </description>
         <LookAt>
           <longitude>1.1024</longitude>
           <latitude>41.16755</latitude>
@@ -8066,8 +8066,8 @@
         <name>Font de la Imperial Tàrraco</name>
         <description>Font de la Imperial Tàrraco</description>
         <LookAt>
-          <longitude>1.2455</longitude>
-          <latitude>41.119021</latitude>
+          <longitude>1.245803</longitude>
+          <latitude>41.11906</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -8077,7 +8077,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.2455,41.119021,0</coordinates>
+          <coordinates>1.245803,41.11906,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -12218,6 +12218,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.102978,41.175289,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Banderas de la Plaza Imperial</name>
+        <description>Banderas de la Plaza Imperial</description>
+        <LookAt>
+          <longitude>1.245167</longitude>
+          <latitude>41.118995</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245167,41.118995,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -48101,8 +48119,8 @@
           <coordinates>1.143175,41.214421,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Arte Urbano</name>
-        <description>Arte Urbano</description>
+        <name>Qui No Te Cap Mural</name>
+        <description>Qui No Te Cap Mural</description>
         <LookAt>
           <longitude>1.210826</longitude>
           <latitude>41.116992</latitude>
@@ -58911,23 +58929,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.188875,41.084284,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Banderas de la Plaza Imperial</name>
-        <description>Banderas de la Plaza Imperial</description>
-        <LookAt>
-          <longitude>1.245167</longitude>
-          <latitude>41.118995</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.245167,41.118995,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Torre Sans</name>
