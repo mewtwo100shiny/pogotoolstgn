@@ -1676,8 +1676,8 @@
         <name>Restes Del Parc</name>
         <description>Restes Del Parc</description>
         <LookAt>
-          <longitude>1.241968</longitude>
-          <latitude>41.116709</latitude>
+          <longitude>1.240957</longitude>
+          <latitude>41.116844</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -1687,7 +1687,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.241968,41.116709,0</coordinates>
+          <coordinates>1.240957,41.116844,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -5666,6 +5666,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.249524,41.122721,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Creu estrambotica</name>
+        <description>Creu estrambotica</description>
+        <LookAt>
+          <longitude>1.241345</longitude>
+          <latitude>41.117438</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.241345,41.117438,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -34585,23 +34603,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.17442,41.070136,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Creu estrambotica</name>
-        <description>Creu estrambotica</description>
-        <LookAt>
-          <longitude>1.241345</longitude>
-          <latitude>41.117438</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.241345,41.117438,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Railway Signal Monument</name>

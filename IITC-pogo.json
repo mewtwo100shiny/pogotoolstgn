@@ -530,8 +530,8 @@
         },
         "1d5fa22a9be94d58b6c8b9e70b549cef.16": {
             "guid": "1d5fa22a9be94d58b6c8b9e70b549cef.16",
-            "lat": 41.116709,
-            "lng": 1.241968,
+            "lat": 41.116844,
+            "lng": 1.240957,
             "name": "Restes Del Parc"
         },
         "1dc2dd42b21a430d981dd625b2d97301.16": {
@@ -1859,6 +1859,12 @@
             "lat": 41.122721,
             "lng": 1.249524,
             "name": "CRAI Campus Catalunya"
+        },
+        "68a2759363234962b33ac1ceab3bb653.16": {
+            "guid": "68a2759363234962b33ac1ceab3bb653.16",
+            "lat": 41.117438,
+            "lng": 1.241345,
+            "name": "Creu estrambotica"
         },
         "68c86e246072429baffd92e86e1a13af.16": {
             "guid": "68c86e246072429baffd92e86e1a13af.16",
@@ -11911,12 +11917,6 @@
             "lat": 41.070136,
             "lng": 1.17442,
             "name": "Escultura Estival Park"
-        },
-        "68a2759363234962b33ac1ceab3bb653.16": {
-            "guid": "68a2759363234962b33ac1ceab3bb653.16",
-            "lat": 41.117438,
-            "lng": 1.241345,
-            "name": "Creu estrambotica"
         },
         "68a98fcd0ddf481cb205bf7f33c58a16.16": {
             "guid": "68a98fcd0ddf481cb205bf7f33c58a16.16",
