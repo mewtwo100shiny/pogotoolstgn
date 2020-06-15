@@ -9431,6 +9431,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.091829</longitude>
+          <latitude>41.152048</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.091829,41.152048,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Pistes de Pàdel Monterols</name>
         <description>Pistes de Pàdel Monterols</description>
         <LookAt>
@@ -21837,6 +21855,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10046,41.146756,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Azulejo antiguo"ECU"</name>
+        <description>Azulejo antiguo"ECU"</description>
+        <LookAt>
+          <longitude>1.091488</longitude>
+          <latitude>41.152166</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.091488,41.152166,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Església Evangèlica del Salvador</name>
@@ -39318,8 +39353,8 @@
         <name>Steel Woman Looking Ceiling</name>
         <description>Steel Woman Looking Ceiling</description>
         <LookAt>
-          <longitude>1.262138</longitude>
-          <latitude>41.118399</latitude>
+          <longitude>1.261332</longitude>
+          <latitude>41.118289</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -39329,7 +39364,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.262138,41.118399,0</coordinates>
+          <coordinates>1.261332,41.118289,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Area ejercici villablanca</name>
@@ -47371,23 +47406,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.208158,41.123465,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Zoidberg Grafiter</name>
-        <description>Zoidberg Grafiter</description>
-        <LookAt>
-          <longitude>1.091829</longitude>
-          <latitude>41.152048</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.091829,41.152048,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Casa Mata</name>

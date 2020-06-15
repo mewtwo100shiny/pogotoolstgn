@@ -3114,6 +3114,12 @@
             "lng": 1.144034,
             "name": "Salou Fountain"
         },
+        "a9f1fc660ab34a18b145d08e00f59c4e.16": {
+            "guid": "a9f1fc660ab34a18b145d08e00f59c4e.16",
+            "lat": 41.152048,
+            "lng": 1.091829,
+            "name": "unknown"
+        },
         "aa36d90993fe44bd9bfe0325f549bca2.16": {
             "guid": "aa36d90993fe44bd9bfe0325f549bca2.16",
             "lat": 41.137409,
@@ -7411,6 +7417,12 @@
             "lat": 41.146756,
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
+        },
+        "27b8c2ce742840ae844abc0584414bea.16": {
+            "guid": "27b8c2ce742840ae844abc0584414bea.16",
+            "lat": 41.152166,
+            "lng": 1.091488,
+            "name": "Azulejo antiguo\"ECU\""
         },
         "27c3ba4fbcd64bb6bf3b7c5438b96f38.16": {
             "guid": "27c3ba4fbcd64bb6bf3b7c5438b96f38.16",
@@ -13582,8 +13594,8 @@
         },
         "80db4949bddf46e885aa8460243d3102.16": {
             "guid": "80db4949bddf46e885aa8460243d3102.16",
-            "lat": 41.118399,
-            "lng": 1.262138,
+            "lat": 41.118289,
+            "lng": 1.261332,
             "name": "Steel Woman Looking Ceiling"
         },
         "80e7040065914981953db329923488b4.16": {
@@ -16423,12 +16435,6 @@
             "lat": 41.123465,
             "lng": 1.208158,
             "name": "Centro de formaci\u00f3n laboral"
-        },
-        "a9f1fc660ab34a18b145d08e00f59c4e.16": {
-            "guid": "a9f1fc660ab34a18b145d08e00f59c4e.16",
-            "lat": 41.152048,
-            "lng": 1.091829,
-            "name": "Zoidberg Grafiter"
         },
         "aa18dfcfa20f4d70b60abb3449ad547a.16": {
             "guid": "aa18dfcfa20f4d70b60abb3449ad547a.16",
