@@ -4952,8 +4952,8 @@
         <name>Fumeral Torres Jordi</name>
         <description>Fumeral Torres Jordi</description>
         <LookAt>
-          <longitude>1.240391</longitude>
-          <latitude>41.11175</latitude>
+          <longitude>1.240268</longitude>
+          <latitude>41.111781</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -4963,7 +4963,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.240391,41.11175,0</coordinates>
+          <coordinates>1.240268,41.111781,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -8084,8 +8084,8 @@
         <name>Font de la Imperial Tàrraco</name>
         <description>Font de la Imperial Tàrraco</description>
         <LookAt>
-          <longitude>1.245803</longitude>
-          <latitude>41.11906</latitude>
+          <longitude>1.245463</longitude>
+          <latitude>41.119054</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -8095,7 +8095,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.245803,41.11906,0</coordinates>
+          <coordinates>1.245463,41.119054,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -9431,8 +9431,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Zoidberg Grafiter</name>
+        <description>Zoidberg Grafiter</description>
         <LookAt>
           <longitude>1.091829</longitude>
           <latitude>41.152048</latitude>
@@ -40475,8 +40475,8 @@
         <name>Façana Viena</name>
         <description>Façana Viena</description>
         <LookAt>
-          <longitude>1.253117</longitude>
-          <latitude>41.11493</latitude>
+          <longitude>1.253045</longitude>
+          <latitude>41.115013</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -40486,7 +40486,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.253117,41.11493,0</coordinates>
+          <coordinates>1.253045,41.115013,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Sant Andreu</name>
