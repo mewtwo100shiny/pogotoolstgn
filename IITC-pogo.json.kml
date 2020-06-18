@@ -1676,8 +1676,8 @@
         <name>Restes Del Parc</name>
         <description>Restes Del Parc</description>
         <LookAt>
-          <longitude>1.240957</longitude>
-          <latitude>41.116844</latitude>
+          <longitude>1.241972</longitude>
+          <latitude>41.116721</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -1687,7 +1687,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.240957,41.116844,0</coordinates>
+          <coordinates>1.241972,41.116721,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -2990,8 +2990,8 @@
         <name>Escultura de L'avi Virgili</name>
         <description>Escultura de L'avi Virgili</description>
         <LookAt>
-          <longitude>1.254212</longitude>
-          <latitude>41.114917</latitude>
+          <longitude>1.25404</longitude>
+          <latitude>41.114925</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -3001,7 +3001,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.254212,41.114917,0</coordinates>
+          <coordinates>1.25404,41.114925,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -5450,6 +5450,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.105632,41.158292,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Jardins Sant Antoni</name>
+        <description>Jardins Sant Antoni</description>
+        <LookAt>
+          <longitude>1.260657</longitude>
+          <latitude>41.117893</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.260657,41.117893,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -8696,8 +8714,8 @@
         <name>Sant Antoni Fountain</name>
         <description>Sant Antoni Fountain</description>
         <LookAt>
-          <longitude>1.260946</longitude>
-          <latitude>41.118145</latitude>
+          <longitude>1.260952</longitude>
+          <latitude>41.118165</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -8707,7 +8725,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.260946,41.118145,0</coordinates>
+          <coordinates>1.260952,41.118165,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -12278,8 +12296,8 @@
         <name>Banderas de la Plaza Imperial</name>
         <description>Banderas de la Plaza Imperial</description>
         <LookAt>
-          <longitude>1.245167</longitude>
-          <latitude>41.118995</latitude>
+          <longitude>1.245807</longitude>
+          <latitude>41.119042</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -12289,7 +12307,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.245167,41.118995,0</coordinates>
+          <coordinates>1.245807,41.119042,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -25753,8 +25771,8 @@
         <name>Lion Door</name>
         <description>Lion Door</description>
         <LookAt>
-          <longitude>1.253889</longitude>
-          <latitude>41.115342</latitude>
+          <longitude>1.253825</longitude>
+          <latitude>41.11523</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -25764,7 +25782,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.253889,41.115342,0</coordinates>
+          <coordinates>1.253825,41.11523,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>La Vaca y el Asno</name>
@@ -29612,8 +29630,8 @@
         <name>Edifici Enher</name>
         <description>Edifici Enher</description>
         <LookAt>
-          <longitude>1.251855</longitude>
-          <latitude>41.116187</latitude>
+          <longitude>1.251781</longitude>
+          <latitude>41.116208</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -29623,7 +29641,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.251855,41.116187,0</coordinates>
+          <coordinates>1.251781,41.116208,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Cofraria de Pescadores de Tarragona</name>
@@ -33857,23 +33875,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.094404,41.161699,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Jardins Sant Antoni</name>
-        <description>Jardins Sant Antoni</description>
-        <LookAt>
-          <longitude>1.260657</longitude>
-          <latitude>41.117893</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.260657,41.117893,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Cocodril graffiti</name>
@@ -49740,8 +49741,8 @@
         <name>Església de Sant Pere del Serrallo</name>
         <description>Església de Sant Pere del Serrallo</description>
         <LookAt>
-          <longitude>1.240368</longitude>
-          <latitude>41.109204</latitude>
+          <longitude>1.240464</longitude>
+          <latitude>41.109209</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -49751,7 +49752,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.240368,41.109204,0</coordinates>
+          <coordinates>1.240464,41.109209,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Ca l'Ixart,Altafulla</name>
@@ -51916,8 +51917,8 @@
         <name>Sindicat del Turisme</name>
         <description>Sindicat del Turisme</description>
         <LookAt>
-          <longitude>1.253385</longitude>
-          <latitude>41.115173</latitude>
+          <longitude>1.253548</longitude>
+          <latitude>41.115078</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -51927,7 +51928,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.253385,41.115173,0</coordinates>
+          <coordinates>1.253548,41.115078,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Punt d'informació</name>
@@ -53985,6 +53986,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.258503,41.117151,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.254744</longitude>
+          <latitude>41.114732</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.254744,41.114732,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pista de baloncesto</name>
@@ -56824,6 +56842,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104143,41.153274,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.239846</longitude>
+          <latitude>41.109211</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.239846,41.109211,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Roi De La Jungle</name>

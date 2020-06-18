@@ -530,8 +530,8 @@
         },
         "1d5fa22a9be94d58b6c8b9e70b549cef.16": {
             "guid": "1d5fa22a9be94d58b6c8b9e70b549cef.16",
-            "lat": 41.116844,
-            "lng": 1.240957,
+            "lat": 41.116721,
+            "lng": 1.241972,
             "name": "Restes Del Parc"
         },
         "1dc2dd42b21a430d981dd625b2d97301.16": {
@@ -968,8 +968,8 @@
         },
         "34681d8da93e463681226e4059b8b478.11": {
             "guid": "34681d8da93e463681226e4059b8b478.11",
-            "lat": 41.114917,
-            "lng": 1.254212,
+            "lat": 41.114925,
+            "lng": 1.25404,
             "name": "Escultura de L'avi Virgili"
         },
         "3487ab22db91499d975715486d549ce9.16": {
@@ -1787,6 +1787,12 @@
             "lat": 41.158292,
             "lng": 1.105632,
             "name": "Four Columns Monument"
+        },
+        "63dbfec5f5dc430b9456f00ba84a21de.16": {
+            "guid": "63dbfec5f5dc430b9456f00ba84a21de.16",
+            "lat": 41.117893,
+            "lng": 1.260657,
+            "name": "Jardins Sant Antoni"
         },
         "63fe1c27a4a1432bb461cde9b9ec9104.16": {
             "guid": "63fe1c27a4a1432bb461cde9b9ec9104.16",
@@ -2870,8 +2876,8 @@
         },
         "9e7da9396b3c47d7a307cae2468a4b63.16": {
             "guid": "9e7da9396b3c47d7a307cae2468a4b63.16",
-            "lat": 41.118145,
-            "lng": 1.260946,
+            "lat": 41.118165,
+            "lng": 1.260952,
             "name": "Sant Antoni Fountain"
         },
         "9edc380d236f41d5b84d8ef6b2eb0c51.16": {
@@ -4064,8 +4070,8 @@
         },
         "e47ad0ef38e54d7fb35b8c89894ea58f.16": {
             "guid": "e47ad0ef38e54d7fb35b8c89894ea58f.16",
-            "lat": 41.118995,
-            "lng": 1.245167,
+            "lat": 41.119042,
+            "lng": 1.245807,
             "name": "Banderas de la Plaza Imperial"
         },
         "e49aca3c6919432eb375420bae0ea361.16": {
@@ -8794,8 +8800,8 @@
         },
         "3be1fb8767df4131bf389285a25941da.16": {
             "guid": "3be1fb8767df4131bf389285a25941da.16",
-            "lat": 41.115342,
-            "lng": 1.253889,
+            "lat": 41.11523,
+            "lng": 1.253825,
             "name": "Lion Door"
         },
         "3be8486ff61d45f2badd0777a19e084a.16": {
@@ -10156,8 +10162,8 @@
         },
         "4eca54e5d75f4494bca69d219e076c66.16": {
             "guid": "4eca54e5d75f4494bca69d219e076c66.16",
-            "lat": 41.116187,
-            "lng": 1.251855,
+            "lat": 41.116208,
+            "lng": 1.251781,
             "name": "Edifici Enher"
         },
         "4edef2c717f4447b943c8f5170f16621.16": {
@@ -11653,12 +11659,6 @@
             "lat": 41.161699,
             "lng": 1.094404,
             "name": "Parque Mas Carandell Entrada"
-        },
-        "63dbfec5f5dc430b9456f00ba84a21de.16": {
-            "guid": "63dbfec5f5dc430b9456f00ba84a21de.16",
-            "lat": 41.117893,
-            "lng": 1.260657,
-            "name": "Jardins Sant Antoni"
         },
         "63fc1aa079814d278e787284a932f635.16": {
             "guid": "63fc1aa079814d278e787284a932f635.16",
@@ -17260,8 +17260,8 @@
         },
         "b4f42c8b0e55435f90843252435fd729.16": {
             "guid": "b4f42c8b0e55435f90843252435fd729.16",
-            "lat": 41.109204,
-            "lng": 1.240368,
+            "lat": 41.109209,
+            "lng": 1.240464,
             "name": "Esgl\u00e9sia de Sant Pere del Serrallo"
         },
         "b4f7bb7ab7db4c72aa7ba34688c02b8f.16": {
@@ -18028,8 +18028,8 @@
         },
         "c05d14e3b0364255bef152f88fcc19a0.16": {
             "guid": "c05d14e3b0364255bef152f88fcc19a0.16",
-            "lat": 41.115173,
-            "lng": 1.253385,
+            "lat": 41.115078,
+            "lng": 1.253548,
             "name": "Sindicat del Turisme"
         },
         "c096128058864208815e7a13ceaa253a.16": {
@@ -18757,6 +18757,12 @@
             "lat": 41.117151,
             "lng": 1.258503,
             "name": "Xiquets Tgn"
+        },
+        "ca7f69ad3c71457591bd68caf3f3ccd6.16": {
+            "guid": "ca7f69ad3c71457591bd68caf3f3ccd6.16",
+            "lat": 41.114732,
+            "lng": 1.254744,
+            "name": "unknown"
         },
         "ca881336ecac4f3591cb504ad92def14.16": {
             "guid": "ca881336ecac4f3591cb504ad92def14.16",
@@ -19759,6 +19765,12 @@
             "lat": 41.153274,
             "lng": 1.104143,
             "name": "Newspaper Man"
+        },
+        "da8f9c062d674440abf4afed2120988e.12": {
+            "guid": "da8f9c062d674440abf4afed2120988e.12",
+            "lat": 41.109211,
+            "lng": 1.239846,
+            "name": "unknown"
         },
         "da965b07c8c741868717c06cf451a289.16": {
             "guid": "da965b07c8c741868717c06cf451a289.16",
