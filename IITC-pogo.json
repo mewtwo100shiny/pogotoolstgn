@@ -1146,6 +1146,12 @@
             "lng": 1.210078,
             "name": "Pla\u00e7a Rafel De Casanoves"
         },
+        "3d9c7a2824d34c1cbd4a2e42c9e1a50a.16": {
+            "guid": "3d9c7a2824d34c1cbd4a2e42c9e1a50a.16",
+            "lat": 41.115334,
+            "lng": 1.262291,
+            "name": "Pilons pintats"
+        },
         "3ed5deb1cdba4e91891203b6d56e0adf.16": {
             "guid": "3ed5deb1cdba4e91891203b6d56e0adf.16",
             "lat": 41.158405,
@@ -2900,8 +2906,8 @@
         },
         "9f2687018115404eb735f6ad463971c2.16": {
             "guid": "9f2687018115404eb735f6ad463971c2.16",
-            "lat": 41.117785,
-            "lng": 1.262361,
+            "lat": 41.118237,
+            "lng": 1.262237,
             "name": "Resid\u00e8ncia de la Merc\u00e8"
         },
         "9f7995c8cd934676bd33cf85ffab4f82.16": {
@@ -5698,8 +5704,8 @@
         },
         "0f67692c7dfc43f9a17b93b26186f756.16": {
             "guid": "0f67692c7dfc43f9a17b93b26186f756.16",
-            "lat": 41.12088,
-            "lng": 1.240968,
+            "lat": 41.120884,
+            "lng": 1.241028,
             "name": "Mural Cer\u00e0mic - Edificio Zeus"
         },
         "0f7642c1877b4b90991c9775ba23acf5.16": {
@@ -6187,6 +6193,12 @@
             "lat": 41.135893,
             "lng": 1.273541,
             "name": "Antiga Torre de Vigil\u00e0ncia"
+        },
+        "16033e251f494d358e44aa79e3e33c9f.16": {
+            "guid": "16033e251f494d358e44aa79e3e33c9f.16",
+            "lat": 41.117695,
+            "lng": 1.262108,
+            "name": "New Woman Statue"
         },
         "1614f47a99d146f4bb713ae49ba139a4.16": {
             "guid": "1614f47a99d146f4bb713ae49ba139a4.16",
@@ -8108,6 +8120,12 @@
             "lng": 1.145058,
             "name": "Riera De La Selva"
         },
+        "3160bcbba93d4f3b93559e2bf7430701.16": {
+            "guid": "3160bcbba93d4f3b93559e2bf7430701.16",
+            "lat": 41.154004,
+            "lng": 1.111064,
+            "name": "Oriol Sol\u00e9"
+        },
         "318e2e20d59e422ca9766776bde717b3.16": {
             "guid": "318e2e20d59e422ca9766776bde717b3.16",
             "lat": 41.139974,
@@ -8935,12 +8953,6 @@
             "lat": 41.11814,
             "lng": 1.2414,
             "name": "Cartel informativo Parc de la Ciutat"
-        },
-        "3d9c7a2824d34c1cbd4a2e42c9e1a50a.16": {
-            "guid": "3d9c7a2824d34c1cbd4a2e42c9e1a50a.16",
-            "lat": 41.115334,
-            "lng": 1.262291,
-            "name": "Pilons pintats"
         },
         "3da0e530f510492fb80b8c9c450fd3b6.16": {
             "guid": "3da0e530f510492fb80b8c9c450fd3b6.16",
@@ -12301,6 +12313,12 @@
             "lat": 41.073215,
             "lng": 0.984218,
             "name": "Barraca Pedra Seca 2437"
+        },
+        "6dfbd23322d14fc8ab89f24d06e40888.16": {
+            "guid": "6dfbd23322d14fc8ab89f24d06e40888.16",
+            "lat": 41.137371,
+            "lng": 1.09436,
+            "name": "Pistas muro CTRM"
         },
         "6e1db43902b8491bab1506b9579f1728.16": {
             "guid": "6e1db43902b8491bab1506b9579f1728.16",
@@ -16142,6 +16160,12 @@
             "lng": 1.064282,
             "name": "Perro Y Gato"
         },
+        "a48fb3b360f14c79b9d36890f67a7bbb.16": {
+            "guid": "a48fb3b360f14c79b9d36890f67a7bbb.16",
+            "lat": 41.121784,
+            "lng": 1.219517,
+            "name": "Pl\u00e0nol del Barri de Torreforta"
+        },
         "a495c5ee672141e09cc84e0c38d9c40c.16": {
             "guid": "a495c5ee672141e09cc84e0c38d9c40c.16",
             "lat": 41.109437,
@@ -16906,8 +16930,8 @@
         },
         "b068f8275d2f4ed99fd9b97c48695843.16": {
             "guid": "b068f8275d2f4ed99fd9b97c48695843.16",
-            "lat": 41.11864,
-            "lng": 1.244102,
+            "lat": 41.118629,
+            "lng": 1.243964,
             "name": "Bienvenidos graffiti"
         },
         "b0a098e7f3fe496aa0c2b128021ca6c7.16": {
@@ -18762,7 +18786,7 @@
             "guid": "ca7f69ad3c71457591bd68caf3f3ccd6.16",
             "lat": 41.114732,
             "lng": 1.254744,
-            "name": "unknown"
+            "name": "Rolex"
         },
         "ca881336ecac4f3591cb504ad92def14.16": {
             "guid": "ca881336ecac4f3591cb504ad92def14.16",
@@ -19105,6 +19129,12 @@
             "lat": 40.99139,
             "lng": 0.922599,
             "name": "Pla\u00e7a Hospital Del Coll De Balaguer "
+        },
+        "d017760fe4c64633b5dd07010b982142.16": {
+            "guid": "d017760fe4c64633b5dd07010b982142.16",
+            "lat": 41.118366,
+            "lng": 1.244151,
+            "name": "Viajantes an\u00f3nimos"
         },
         "d0260a52381c4d3684638d06be72ebad.16": {
             "guid": "d0260a52381c4d3684638d06be72ebad.16",
@@ -19770,7 +19800,7 @@
             "guid": "da8f9c062d674440abf4afed2120988e.12",
             "lat": 41.109211,
             "lng": 1.239846,
-            "name": "unknown"
+            "name": "Fam\u00edlia Pescadora"
         },
         "da965b07c8c741868717c06cf451a289.16": {
             "guid": "da965b07c8c741868717c06cf451a289.16",
