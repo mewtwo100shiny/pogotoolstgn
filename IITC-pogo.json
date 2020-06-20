@@ -6482,6 +6482,12 @@
             "lng": 1.185951,
             "name": "Platja de la Pineda"
         },
+        "19b22d2e9baa46f0b63a2e655f8124e2.16": {
+            "guid": "19b22d2e9baa46f0b63a2e655f8124e2.16",
+            "lat": 41.120169,
+            "lng": 1.242691,
+            "name": "Audi\u00e8ncia Provincial"
+        },
         "19b7082761674bbb8204b72db4ce6837.16": {
             "guid": "19b7082761674bbb8204b72db4ce6837.16",
             "lat": 41.150036,
@@ -6622,8 +6628,8 @@
         },
         "1bbea09b6c3d451fac9aef41eb598544.12": {
             "guid": "1bbea09b6c3d451fac9aef41eb598544.12",
-            "lat": 41.1166,
-            "lng": 1.258199,
+            "lat": 41.116478,
+            "lng": 1.258447,
             "name": "Mediterranean Sea at Tarragona"
         },
         "1bc5ea19ee824a6bad668eade293602f.16": {
@@ -8674,8 +8680,8 @@
         },
         "3a155b8fd10742faae563780304dcebc.16": {
             "guid": "3a155b8fd10742faae563780304dcebc.16",
-            "lat": 41.11605,
-            "lng": 1.243839,
+            "lat": 41.116145,
+            "lng": 1.244003,
             "name": "Taza de cafe humeante"
         },
         "3a1cef0c1d0b4713a9f28bd803311519.16": {
@@ -9079,6 +9085,12 @@
             "lat": 41.119945,
             "lng": 1.253001,
             "name": "LLIGA CONTRA EL CANCER"
+        },
+        "3fd75fb8ac7448ccb7459152eaa4a322.16": {
+            "guid": "3fd75fb8ac7448ccb7459152eaa4a322.16",
+            "lat": 41.115583,
+            "lng": 1.258594,
+            "name": "Espai Funerari"
         },
         "3ffe7a0d1ea34e2bb5e881c9501ea1c2.16": {
             "guid": "3ffe7a0d1ea34e2bb5e881c9501ea1c2.16",
@@ -11750,6 +11762,12 @@
             "lng": 1.14353,
             "name": "Columpios para Jugones"
         },
+        "653c1b5a83de4f39b072fa83d8356116.16": {
+            "guid": "653c1b5a83de4f39b072fa83d8356116.16",
+            "lat": 41.116365,
+            "lng": 1.258081,
+            "name": "Torre del Pretori"
+        },
         "65469e2f39484e7a8dbce1f5ac1ecc92.16": {
             "guid": "65469e2f39484e7a8dbce1f5ac1ecc92.16",
             "lat": 41.1172,
@@ -13660,8 +13678,8 @@
         },
         "8139d3fa2f8946e8b037a2e0656d16e7.16": {
             "guid": "8139d3fa2f8946e8b037a2e0656d16e7.16",
-            "lat": 41.115269,
-            "lng": 1.258888,
+            "lat": 41.115301,
+            "lng": 1.259054,
             "name": "Hyperic Portal"
         },
         "814be37b23c64c12925e7458bc4a26b8.16": {

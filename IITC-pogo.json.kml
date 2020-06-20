@@ -19207,6 +19207,23 @@
           <coordinates>1.185951,41.081143,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Audiència Provincial</name>
+        <description>Audiència Provincial</description>
+        <LookAt>
+          <longitude>1.242691</longitude>
+          <latitude>41.120169</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.242691,41.120169,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Graffitis Deportivos</name>
         <description>Graffitis Deportivos</description>
         <LookAt>
@@ -19601,8 +19618,8 @@
         <name>Mediterranean Sea at Tarragona</name>
         <description>Mediterranean Sea at Tarragona</description>
         <LookAt>
-          <longitude>1.258199</longitude>
-          <latitude>41.1166</latitude>
+          <longitude>1.258447</longitude>
+          <latitude>41.116478</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -19612,7 +19629,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.258199,41.1166,0</coordinates>
+          <coordinates>1.258447,41.116478,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Graffiti de mariposas de colores</name>
@@ -25415,8 +25432,8 @@
         <name>Taza de cafe humeante</name>
         <description>Taza de cafe humeante</description>
         <LookAt>
-          <longitude>1.243839</longitude>
-          <latitude>41.11605</latitude>
+          <longitude>1.244003</longitude>
+          <latitude>41.116145</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -25426,7 +25443,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.243839,41.11605,0</coordinates>
+          <coordinates>1.244003,41.116145,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Plano Estival park</name>
@@ -26566,6 +26583,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.253001,41.119945,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Espai Funerari</name>
+        <description>Espai Funerari</description>
+        <LookAt>
+          <longitude>1.258594</longitude>
+          <latitude>41.115583</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.258594,41.115583,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Rapero Orejudo</name>
@@ -34133,6 +34167,23 @@
           <coordinates>1.14353,41.108653,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Torre del Pretori</name>
+        <description>Torre del Pretori</description>
+        <LookAt>
+          <longitude>1.258081</longitude>
+          <latitude>41.116365</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.258081,41.116365,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Mural Angelical</name>
         <description>Mural Angelical</description>
         <LookAt>
@@ -39542,8 +39593,8 @@
         <name>Hyperic Portal</name>
         <description>Hyperic Portal</description>
         <LookAt>
-          <longitude>1.258888</longitude>
-          <latitude>41.115269</latitude>
+          <longitude>1.259054</longitude>
+          <latitude>41.115301</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -39553,7 +39604,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.258888,41.115269,0</coordinates>
+          <coordinates>1.259054,41.115301,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Font de Fortuny</name>
