@@ -17969,8 +17969,8 @@
         <name>Fisherman Statue</name>
         <description>Fisherman Statue</description>
         <LookAt>
-          <longitude>1.261539</longitude>
-          <latitude>41.118421</latitude>
+          <longitude>1.261365</longitude>
+          <latitude>41.118409</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -17980,7 +17980,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.261539,41.118421,0</coordinates>
+          <coordinates>1.261365,41.118409,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Parc de la Font de la Mina</name>
@@ -33757,6 +33757,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.095866,41.160314,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Placa conmemorativa MUSA</name>
+        <description>Placa conmemorativa MUSA</description>
+        <LookAt>
+          <longitude>1.248034</longitude>
+          <latitude>41.11573</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.248034,41.11573,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Port Tarraco Map</name>
@@ -52663,8 +52680,8 @@
           <coordinates>1.050193,41.075698,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parc Via Roma</name>
-        <description>Parc Via Roma</description>
+        <name>Parc infantil Via Roma</name>
+        <description>Parc infantil Via Roma</description>
         <LookAt>
           <longitude>1.135554</longitude>
           <latitude>41.079886</latitude>
@@ -56114,6 +56131,23 @@
           <coordinates>1.2448,41.132815,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Concrete Face</name>
+        <description>Concrete Face</description>
+        <LookAt>
+          <longitude>1.261753</longitude>
+          <latitude>41.118195</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.261753,41.118195,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Sant Josep</name>
         <description>Sant Josep</description>
         <LookAt>
@@ -57948,6 +57982,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.182235,41.080636,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>La Casa dels Ocells (Torreforta)</name>
+        <description>La Casa dels Ocells (Torreforta)</description>
+        <LookAt>
+          <longitude>1.21913</longitude>
+          <latitude>41.117482</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.21913,41.117482,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Locomotora Tàrraco</name>

@@ -6046,8 +6046,8 @@
         },
         "1411970b0f2946a3b7f560b8e57697a2.16": {
             "guid": "1411970b0f2946a3b7f560b8e57697a2.16",
-            "lat": 41.118421,
-            "lng": 1.261539,
+            "lat": 41.118409,
+            "lng": 1.261365,
             "name": "Fisherman Statue"
         },
         "1419837b8c604800851352b40ffb086b.16": {
@@ -11617,6 +11617,12 @@
             "lat": 41.160314,
             "lng": 1.095866,
             "name": "Capella de la sagrada familia"
+        },
+        "632e09983ff748c08ec1ce8ff065b473.16": {
+            "guid": "632e09983ff748c08ec1ce8ff065b473.16",
+            "lat": 41.11573,
+            "lng": 1.248034,
+            "name": "Placa conmemorativa MUSA"
         },
         "6355c789f230464ca0480c0b2eca4472.16": {
             "guid": "6355c789f230464ca0480c0b2eca4472.16",
@@ -18294,7 +18300,7 @@
             "guid": "c31dfaac9856494d92ed776654390e6f.16",
             "lat": 41.079886,
             "lng": 1.135554,
-            "name": "Parc Via Roma"
+            "name": "Parc infantil Via Roma"
         },
         "c35d57a0b6ad409584bd1b2d3f752b30.16": {
             "guid": "c35d57a0b6ad409584bd1b2d3f752b30.16",
@@ -19508,6 +19514,12 @@
             "lng": 1.2448,
             "name": "Antic Transformador"
         },
+        "d610f32c4bcb435ca4b5df7dd06d6d10.16": {
+            "guid": "d610f32c4bcb435ca4b5df7dd06d6d10.16",
+            "lat": 41.118195,
+            "lng": 1.261753,
+            "name": "Concrete Face"
+        },
         "d6151fffe21d4721b157d1e48601db9d.16": {
             "guid": "d6151fffe21d4721b157d1e48601db9d.16",
             "lat": 41.110714,
@@ -20155,6 +20167,12 @@
             "lat": 41.080636,
             "lng": 1.182235,
             "name": "Escultura Marina"
+        },
+        "deb9b43300af47958d0f1e5195d5a246.16": {
+            "guid": "deb9b43300af47958d0f1e5195d5a246.16",
+            "lat": 41.117482,
+            "lng": 1.21913,
+            "name": "La Casa dels Ocells (Torreforta)"
         },
         "dec2cedd7ffd472d83164ed000b46f6d.12": {
             "guid": "dec2cedd7ffd472d83164ed000b46f6d.12",
