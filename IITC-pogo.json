@@ -324,6 +324,12 @@
             "lng": 1.099431,
             "name": "Pare Manyanet"
         },
+        "0f67692c7dfc43f9a17b93b26186f756.16": {
+            "guid": "0f67692c7dfc43f9a17b93b26186f756.16",
+            "lat": 41.120884,
+            "lng": 1.241028,
+            "name": "Mural Cer\u00e0mic - Edificio Zeus"
+        },
         "0f748e191ed8426ba0f1193b92e95c51.16": {
             "guid": "0f748e191ed8426ba0f1193b92e95c51.16",
             "lat": 41.145202,
@@ -1796,8 +1802,8 @@
         },
         "63dbfec5f5dc430b9456f00ba84a21de.16": {
             "guid": "63dbfec5f5dc430b9456f00ba84a21de.16",
-            "lat": 41.117893,
-            "lng": 1.260657,
+            "lat": 41.118177,
+            "lng": 1.261008,
             "name": "Jardins Sant Antoni"
         },
         "63fe1c27a4a1432bb461cde9b9ec9104.16": {
@@ -2678,8 +2684,8 @@
         },
         "92a80fdd7111406eb40154c2df676f37.16": {
             "guid": "92a80fdd7111406eb40154c2df676f37.16",
-            "lat": 41.119054,
-            "lng": 1.245463,
+            "lat": 41.119062,
+            "lng": 1.24581,
             "name": "Font de la Imperial T\u00e0rraco"
         },
         "93a98e9fa9a64d18802537099d6d63a6.16": {
@@ -3845,6 +3851,12 @@
             "lat": 41.133074,
             "lng": 1.244384,
             "name": "Motor Vell"
+        },
+        "d3e0e29c4c394329af461047229a2f56.16": {
+            "guid": "d3e0e29c4c394329af461047229a2f56.16",
+            "lat": 41.118051,
+            "lng": 1.260797,
+            "name": "Columpios P\u00fablicos"
         },
         "d3e69bdc5eb344fb91c0ac942aaa8303.16": {
             "guid": "d3e69bdc5eb344fb91c0ac942aaa8303.16",
@@ -5701,12 +5713,6 @@
             "lat": 41.159979,
             "lng": 1.104674,
             "name": "Tucan Power"
-        },
-        "0f67692c7dfc43f9a17b93b26186f756.16": {
-            "guid": "0f67692c7dfc43f9a17b93b26186f756.16",
-            "lat": 41.120884,
-            "lng": 1.241028,
-            "name": "Mural Cer\u00e0mic - Edificio Zeus"
         },
         "0f7642c1877b4b90991c9775ba23acf5.16": {
             "guid": "0f7642c1877b4b90991c9775ba23acf5.16",

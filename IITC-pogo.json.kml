@@ -1061,6 +1061,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Mural Ceràmic - Edificio Zeus</name>
+        <description>Mural Ceràmic - Edificio Zeus</description>
+        <LookAt>
+          <longitude>1.241028</longitude>
+          <latitude>41.120884</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.241028,41.120884,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Fuente de Aragon</name>
         <description>Fuente de Aragon</description>
         <LookAt>
@@ -5474,8 +5492,8 @@
         <name>Jardins Sant Antoni</name>
         <description>Jardins Sant Antoni</description>
         <LookAt>
-          <longitude>1.260657</longitude>
-          <latitude>41.117893</latitude>
+          <longitude>1.261008</longitude>
+          <latitude>41.118177</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -5485,7 +5503,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.260657,41.117893,0</coordinates>
+          <coordinates>1.261008,41.118177,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -8120,8 +8138,8 @@
         <name>Font de la Imperial Tàrraco</name>
         <description>Font de la Imperial Tàrraco</description>
         <LookAt>
-          <longitude>1.245463</longitude>
-          <latitude>41.119054</latitude>
+          <longitude>1.24581</longitude>
+          <latitude>41.119062</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -8131,7 +8149,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.245463,41.119054,0</coordinates>
+          <coordinates>1.24581,41.119062,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -11624,6 +11642,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.244384,41.133074,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Columpios Públicos</name>
+        <description>Columpios Públicos</description>
+        <LookAt>
+          <longitude>1.260797</longitude>
+          <latitude>41.118051</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.260797,41.118051,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -16995,23 +17031,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104674,41.159979,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Mural Ceràmic - Edificio Zeus</name>
-        <description>Mural Ceràmic - Edificio Zeus</description>
-        <LookAt>
-          <longitude>1.241028</longitude>
-          <latitude>41.120884</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.241028,41.120884,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Guillem de Cervelló</name>
