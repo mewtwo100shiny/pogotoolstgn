@@ -31382,6 +31382,23 @@
           <coordinates>1.112562,41.166822,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Arcoíris de acero</name>
+        <description>Arcoíris de acero</description>
+        <LookAt>
+          <longitude>1.251316</longitude>
+          <latitude>41.108683</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.251316,41.108683,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Mas de Pastoret</name>
         <description>Mas de Pastoret</description>
         <LookAt>
