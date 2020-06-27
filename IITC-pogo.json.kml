@@ -47467,8 +47467,8 @@
         <name>Club Nàutic Cambrils</name>
         <description>Club Nàutic Cambrils</description>
         <LookAt>
-          <longitude>1.064165</longitude>
-          <latitude>41.065778</latitude>
+          <longitude>1.063993</longitude>
+          <latitude>41.065752</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -47478,7 +47478,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.064165,41.065778,0</coordinates>
+          <coordinates>1.063993,41.065752,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Teràpies Naturals - YARKA</name>
@@ -47785,6 +47785,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.105993,41.149618,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Ancla club nàutic</name>
+        <description>Ancla club nàutic</description>
+        <LookAt>
+          <longitude>1.064533</longitude>
+          <latitude>41.065707</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.064533,41.065707,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fortí de la Reina</name>
