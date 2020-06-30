@@ -46685,8 +46685,8 @@
         <name>Skatepark Campclar</name>
         <description>Skatepark Campclar</description>
         <LookAt>
-          <longitude>1.207316</longitude>
-          <latitude>41.115629</latitude>
+          <longitude>1.207411</longitude>
+          <latitude>41.115676</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -46696,7 +46696,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.207316,41.115629,0</coordinates>
+          <coordinates>1.207411,41.115676,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>A las víctimas de violencia de género</name>
@@ -55454,8 +55454,8 @@
           <coordinates>1.072358,41.066857,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Mosaic Blaugrana</name>
+        <description>Mosaic Blaugrana</description>
         <LookAt>
           <longitude>1.293243</longitude>
           <latitude>41.144298</latitude>
