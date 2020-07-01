@@ -1385,8 +1385,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>indicador camino de Santiago</name>
+        <description>indicador camino de Santiago</description>
         <LookAt>
           <longitude>1.101772</longitude>
           <latitude>41.189003</latitude>
