@@ -6498,7 +6498,7 @@
             "guid": "19b22d2e9baa46f0b63a2e655f8124e2.16",
             "lat": 41.120169,
             "lng": 1.242691,
-            "name": "Audi\u00e8ncia Provincial"
+            "name": "Palau de Just\u00edcia"
         },
         "19b7082761674bbb8204b72db4ce6837.16": {
             "guid": "19b7082761674bbb8204b72db4ce6837.16",
@@ -17029,6 +17029,12 @@
             "lat": 41.078976,
             "lng": 1.179031,
             "name": "Mesa Ping-Pong"
+        },
+        "b13e3d21dfe14d71ba1afc1f01843d96.16": {
+            "guid": "b13e3d21dfe14d71ba1afc1f01843d96.16",
+            "lat": 41.112587,
+            "lng": 1.245885,
+            "name": "Chimenea hist\u00f3rica Chartreuse"
         },
         "b14e562ca8344bb7b5e13b39ed086c88.16": {
             "guid": "b14e562ca8344bb7b5e13b39ed086c88.16",

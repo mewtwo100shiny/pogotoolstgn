@@ -19244,8 +19244,8 @@
           <coordinates>1.185951,41.081143,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Audiència Provincial</name>
-        <description>Audiència Provincial</description>
+        <name>Palau de Justícia</name>
+        <description>Palau de Justícia</description>
         <LookAt>
           <longitude>1.242691</longitude>
           <latitude>41.120169</latitude>
@@ -49094,6 +49094,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.179031,41.078976,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Chimenea histórica Chartreuse</name>
+        <description>Chimenea histórica Chartreuse</description>
+        <LookAt>
+          <longitude>1.245885</longitude>
+          <latitude>41.112587</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245885,41.112587,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Piló de la Creu</name>
