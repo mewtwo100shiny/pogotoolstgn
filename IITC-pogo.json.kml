@@ -4988,8 +4988,8 @@
         <name>Plaza Mayor Campoclaro</name>
         <description>Plaza Mayor Campoclaro</description>
         <LookAt>
-          <longitude>1.209543</longitude>
-          <latitude>41.117936</latitude>
+          <longitude>1.209805</longitude>
+          <latitude>41.117882</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -4999,7 +4999,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.209543,41.117936,0</coordinates>
+          <coordinates>1.209805,41.117882,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -41716,6 +41716,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.975466,41.168238,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Parc Infantil</name>
+        <description>Parc Infantil</description>
+        <LookAt>
+          <longitude>1.209225</longitude>
+          <latitude>41.117929</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.209225,41.117929,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mona Lisa</name>

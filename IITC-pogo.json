@@ -1634,8 +1634,8 @@
         },
         "5d7509c9f2a34726927c1fc8ed32c837.16": {
             "guid": "5d7509c9f2a34726927c1fc8ed32c837.16",
-            "lat": 41.117936,
-            "lng": 1.209543,
+            "lat": 41.117882,
+            "lng": 1.209805,
             "name": "Plaza Mayor Campoclaro"
         },
         "5d94150531694242af2766b2f0c065a1.11": {
@@ -14425,6 +14425,12 @@
             "lat": 41.168238,
             "lng": 0.975466,
             "name": "El Sindicat De Riudecols"
+        },
+        "8ad7ba4e658d40e28ee631c814fa2b6a.16": {
+            "guid": "8ad7ba4e658d40e28ee631c814fa2b6a.16",
+            "lat": 41.117929,
+            "lng": 1.209225,
+            "name": "Parc Infantil"
         },
         "8ae30f0fb6034070881b47bcd605133f.16": {
             "guid": "8ae30f0fb6034070881b47bcd605133f.16",
