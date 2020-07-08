@@ -12365,24 +12365,6 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Banderas de la Plaza Imperial</name>
-        <description>Banderas de la Plaza Imperial</description>
-        <LookAt>
-          <longitude>1.245807</longitude>
-          <latitude>41.119042</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.245807,41.119042,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
         <name>Font de Zeus</name>
         <description>Font de Zeus</description>
         <LookAt>
@@ -59345,6 +59327,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.188875,41.084284,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Banderas de la Plaza Imperial</name>
+        <description>Banderas de la Plaza Imperial</description>
+        <LookAt>
+          <longitude>1.245112</longitude>
+          <latitude>41.118949</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245112,41.118949,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Torre Sans</name>
