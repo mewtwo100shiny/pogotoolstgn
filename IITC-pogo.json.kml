@@ -53991,6 +53991,23 @@
           <coordinates>1.375468,41.138027,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Benvinguts al Port</name>
+        <description>Benvinguts al Port</description>
+        <LookAt>
+          <longitude>1.238624</longitude>
+          <latitude>41.109857</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.238624,41.109857,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Plaça De La Llibertat</name>
         <description>Plaça De La Llibertat</description>
         <LookAt>
