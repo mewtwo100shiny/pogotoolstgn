@@ -36515,6 +36515,23 @@
           <coordinates>1.108697,41.155684,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Fuente de H²O "ECU"</name>
+        <description>Fuente de H²O "ECU"</description>
+        <LookAt>
+          <longitude>1.114296</longitude>
+          <latitude>41.139514</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.114296,41.139514,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Bravium Theatre</name>
         <description>Bravium Theatre</description>
         <LookAt>
