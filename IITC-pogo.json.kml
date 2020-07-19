@@ -26878,8 +26878,8 @@
         <name>pintor fortuny</name>
         <description>pintor fortuny</description>
         <LookAt>
-          <longitude>1.113272</longitude>
-          <latitude>41.143026</latitude>
+          <longitude>1.11324</longitude>
+          <latitude>41.142965</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -26889,7 +26889,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.113272,41.143026,0</coordinates>
+          <coordinates>1.11324,41.142965,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Placa conmemorativa</name>
@@ -53920,6 +53920,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.250108,41.108726,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Mapa Baix Camp</name>
+        <description>Mapa Baix Camp</description>
+        <LookAt>
+          <longitude>1.057421</longitude>
+          <latitude>41.064121</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.057421,41.064121,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Indicador 10 BTT</name>
