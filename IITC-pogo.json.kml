@@ -49077,6 +49077,23 @@
           <coordinates>1.037876,41.085823,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>OMAC: Torreforta</name>
+        <description>OMAC: Torreforta</description>
+        <LookAt>
+          <longitude>1.217798</longitude>
+          <latitude>41.119465</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.217798,41.119465,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Portal De Matas</name>
         <description>Portal De Matas</description>
         <LookAt>
