@@ -60195,23 +60195,6 @@
           <coordinates>1.176288,41.077031,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Trastevere Pizzerie</name>
-        <description>Trastevere Pizzerie</description>
-        <LookAt>
-          <longitude>1.252525</longitude>
-          <latitude>41.114463</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.252525,41.114463,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Font Plaça de la Font</name>
         <description>Font Plaça de la Font</description>
         <LookAt>
@@ -61745,8 +61728,8 @@
         <name>Casa Cabré</name>
         <description>Casa Cabré</description>
         <LookAt>
-          <longitude>1.252697</longitude>
-          <latitude>41.114535</latitude>
+          <longitude>1.252794</longitude>
+          <latitude>41.114471</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -61756,7 +61739,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.252697,41.114535,0</coordinates>
+          <coordinates>1.252794,41.114471,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Cartel Informativo Sèquia Major</name>
