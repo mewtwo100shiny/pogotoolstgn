@@ -8050,8 +8050,8 @@
         },
         "30703315ea404800a089ca80c4c5b8b1.16": {
             "guid": "30703315ea404800a089ca80c4c5b8b1.16",
-            "lat": 41.073049,
-            "lng": 1.05328,
+            "lat": 41.072783,
+            "lng": 1.053301,
             "name": "Rulo D'oli"
         },
         "3077263f9ab94bf9a2eb39e455c7ec50.16": {
@@ -12613,6 +12613,12 @@
             "lat": 41.026406,
             "lng": 0.925902,
             "name": "Via Marina"
+        },
+        "715e96a00ec44b1594c6d849462ec431.16": {
+            "guid": "715e96a00ec44b1594c6d849462ec431.16",
+            "lat": 41.113869,
+            "lng": 1.244601,
+            "name": "Club Musoken Karate"
         },
         "7168ae543c8d48b0b9c38dd515138ebf.16": {
             "guid": "7168ae543c8d48b0b9c38dd515138ebf.16",
@@ -20461,6 +20467,12 @@
             "lat": 41.161573,
             "lng": 1.241162,
             "name": "Post Office"
+        },
+        "e1885a8e35aa4cfb96caf572051c0c42.16": {
+            "guid": "e1885a8e35aa4cfb96caf572051c0c42.16",
+            "lat": 41.136801,
+            "lng": 1.117129,
+            "name": "Playground \"ECU\" area de escalada"
         },
         "e1aee6ea2be14f6eb243dd6de20fed26.16": {
             "guid": "e1aee6ea2be14f6eb243dd6de20fed26.16",
