@@ -50930,6 +50930,23 @@
           <coordinates>1.114898,41.154773,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Homenaje a las víctimas de la pandemia</name>
+        <description>Homenaje a las víctimas de la pandemia</description>
+        <LookAt>
+          <longitude>1.234</longitude>
+          <latitude>41.123596</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.234,41.123596,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>God</name>
         <description>God</description>
         <LookAt>
