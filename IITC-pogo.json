@@ -8868,7 +8868,7 @@
             "guid": "3c360b867a144c3daa461c2cd772285a.16",
             "lat": 41.091998,
             "lng": 1.15655,
-            "name": "Fuente del Hotel Lucy"
+            "name": "Fuente del Hotel Mansion de Lucy"
         },
         "3c5e15b776674780a3e039fdd03c737c.16": {
             "guid": "3c5e15b776674780a3e039fdd03c737c.16",
@@ -10513,6 +10513,12 @@
             "lat": 41.113771,
             "lng": 1.251912,
             "name": "Art Natural"
+        },
+        "52a53a829a8343fd97692cba782375e4.16": {
+            "guid": "52a53a829a8343fd97692cba782375e4.16",
+            "lat": 41.11539,
+            "lng": 1.208341,
+            "name": "Petanca Riu Onyar"
         },
         "52c2f687dbb94d569abbc4f4b94a94d7.16": {
             "guid": "52c2f687dbb94d569abbc4f4b94a94d7.16",

@@ -25957,8 +25957,8 @@
           <coordinates>1.143147,41.109675,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Fuente del Hotel Lucy</name>
-        <description>Fuente del Hotel Lucy</description>
+        <name>Fuente del Hotel Mansion de Lucy</name>
+        <description>Fuente del Hotel Mansion de Lucy</description>
         <LookAt>
           <longitude>1.15655</longitude>
           <latitude>41.091998</latitude>
@@ -30630,6 +30630,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.251912,41.113771,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Petanca Riu Onyar</name>
+        <description>Petanca Riu Onyar</description>
+        <LookAt>
+          <longitude>1.208341</longitude>
+          <latitude>41.11539</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.208341,41.11539,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mural Altafulla</name>
