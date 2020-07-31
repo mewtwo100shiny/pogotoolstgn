@@ -37925,6 +37925,23 @@
           <coordinates>1.041252,41.108178,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Escut De Cambrils</name>
+        <description>Escut De Cambrils</description>
+        <LookAt>
+          <longitude>1.052634</longitude>
+          <latitude>41.074487</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.052634,41.074487,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Fuente los perros.</name>
         <description>Fuente los perros.</description>
         <LookAt>
