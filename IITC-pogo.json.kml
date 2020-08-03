@@ -47921,6 +47921,23 @@
           <coordinates>1.266361,41.113551,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Calle FLIX</name>
+        <description>Calle FLIX</description>
+        <LookAt>
+          <longitude>1.217436</longitude>
+          <latitude>41.119832</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.217436,41.119832,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Parc Reddis</name>
         <description>Parc Reddis</description>
         <LookAt>
