@@ -17814,8 +17814,8 @@
           <coordinates>1.203328,41.121633,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Arte Urbano</name>
-        <description>Arte Urbano</description>
+        <name>La Chica Estilista</name>
+        <description>La Chica Estilista</description>
         <LookAt>
           <longitude>1.210547</longitude>
           <latitude>41.119252</latitude>
@@ -51098,6 +51098,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.241766,41.110837,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Mosaico "Jarrón con Flores"</name>
+        <description>Mosaico "Jarrón con Flores"</description>
+        <LookAt>
+          <longitude>1.09693</longitude>
+          <latitude>41.080145</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.09693,41.080145,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pavelló Reus Deportiu</name>
