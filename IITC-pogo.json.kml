@@ -8153,24 +8153,6 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Font de la Imperial Tàrraco</name>
-        <description>Font de la Imperial Tàrraco</description>
-        <LookAt>
-          <longitude>1.24581</longitude>
-          <latitude>41.119062</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.24581,41.119062,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
         <name>Pedra Seca 2440</name>
         <description>Pedra Seca 2440</description>
         <LookAt>
@@ -43261,6 +43243,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.268895,41.121145,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Font de la Imperial Tàrraco</name>
+        <description>Font de la Imperial Tàrraco</description>
+        <LookAt>
+          <longitude>1.245731</longitude>
+          <latitude>41.118999</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245731,41.118999,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mirador De La Sequia</name>

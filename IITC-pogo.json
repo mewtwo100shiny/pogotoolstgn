@@ -2688,12 +2688,6 @@
             "lng": 1.049658,
             "name": "Parc Pinaret"
         },
-        "92a80fdd7111406eb40154c2df676f37.16": {
-            "guid": "92a80fdd7111406eb40154c2df676f37.16",
-            "lat": 41.119062,
-            "lng": 1.24581,
-            "name": "Font de la Imperial T\u00e0rraco"
-        },
         "93a98e9fa9a64d18802537099d6d63a6.16": {
             "guid": "93a98e9fa9a64d18802537099d6d63a6.16",
             "lat": 41.058292,
@@ -14971,6 +14965,12 @@
             "lat": 41.121145,
             "lng": 1.268895,
             "name": "Gronxadors"
+        },
+        "92a80fdd7111406eb40154c2df676f37.16": {
+            "guid": "92a80fdd7111406eb40154c2df676f37.16",
+            "lat": 41.118999,
+            "lng": 1.245731,
+            "name": "Font de la Imperial T\u00e0rraco"
         },
         "92b41aa64faa46b5815ddbfb979b573a.16": {
             "guid": "92b41aa64faa46b5815ddbfb979b573a.16",
