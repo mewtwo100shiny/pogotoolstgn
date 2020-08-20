@@ -774,12 +774,6 @@
             "lng": 0.940013,
             "name": "Barraca Del Jaume De La Cota"
         },
-        "27aefcc49abe4efa8a086274e5ab1b57.16": {
-            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
-            "lat": 41.081758,
-            "lng": 1.181957,
-            "name": "World Water Flower"
-        },
         "2805c466244f4368a12877d5ad2daf7e.16": {
             "guid": "2805c466244f4368a12877d5ad2daf7e.16",
             "lat": 41.111101,
@@ -3480,12 +3474,6 @@
             "lng": 0.875162,
             "name": "Cabana De Pedra Seca"
         },
-        "c09e7369135a49a3805945382c91a2f5.16": {
-            "guid": "c09e7369135a49a3805945382c91a2f5.16",
-            "lat": 41.081294,
-            "lng": 1.180348,
-            "name": "Cancha de basket 2"
-        },
         "c0a1d56820bd4f34aa01d6effdd3f36f.16": {
             "guid": "c0a1d56820bd4f34aa01d6effdd3f36f.16",
             "lat": 41.061526,
@@ -5930,6 +5918,12 @@
             "lng": 1.177426,
             "name": "Estatua de piedra"
         },
+        "1312008fe82b42919fcd809376714063.16": {
+            "guid": "1312008fe82b42919fcd809376714063.16",
+            "lat": 41.12098,
+            "lng": 1.216403,
+            "name": "Institut Municipal de Serveis Socials"
+        },
         "13215c07044849b381be5bf75cb7649d.16": {
             "guid": "13215c07044849b381be5bf75cb7649d.16",
             "lat": 41.164857,
@@ -7441,6 +7435,12 @@
             "lat": 41.146756,
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
+        },
+        "27aefcc49abe4efa8a086274e5ab1b57.16": {
+            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
+            "lat": 41.066772,
+            "lng": 1.177299,
+            "name": "World Water Flower"
         },
         "27b8c2ce742840ae844abc0584414bea.16": {
             "guid": "27b8c2ce742840ae844abc0584414bea.16",
@@ -13468,8 +13468,8 @@
         },
         "7d496c9885504506b4b95501458f5fae.16": {
             "guid": "7d496c9885504506b4b95501458f5fae.16",
-            "lat": 41.081836,
-            "lng": 1.182222,
+            "lat": 41.082277,
+            "lng": 1.181527,
             "name": "Mosaico Foca"
         },
         "7d8818db1a404e6284b16d7bc8fcb567.11": {
@@ -21133,12 +21133,6 @@
             "lat": 41.192357,
             "lng": 1.208476,
             "name": "Arc de la Llibertat"
-        },
-        "eaa40ac127534b67aa70516fdb3ff5cf.16": {
-            "guid": "eaa40ac127534b67aa70516fdb3ff5cf.16",
-            "lat": 41.081453,
-            "lng": 1.180663,
-            "name": "Pista de f\u00fatbol La Tanca"
         },
         "eaa5d0102e64455e87d66b1be6f03e86.16": {
             "guid": "eaa5d0102e64455e87d66b1be6f03e86.16",

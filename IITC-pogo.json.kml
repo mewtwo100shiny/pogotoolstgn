@@ -2411,24 +2411,6 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>World Water Flower</name>
-        <description>World Water Flower</description>
-        <LookAt>
-          <longitude>1.181957</longitude>
-          <latitude>41.081758</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.181957,41.081758,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
         <name>Poliesportiu Del Serrallo</name>
         <description>Poliesportiu Del Serrallo</description>
         <LookAt>
@@ -10529,24 +10511,6 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Cancha de basket 2</name>
-        <description>Cancha de basket 2</description>
-        <LookAt>
-          <longitude>1.180348</longitude>
-          <latitude>41.081294</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.180348,41.081294,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
         <name>El Templo</name>
         <description>El Templo</description>
         <LookAt>
@@ -17643,6 +17607,23 @@
           <coordinates>1.177426,41.069566,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Institut Municipal de Serveis Socials</name>
+        <description>Institut Municipal de Serveis Socials</description>
+        <LookAt>
+          <longitude>1.216403</longitude>
+          <latitude>41.12098</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.216403,41.12098,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Animals Aquàtics</name>
         <description>Animals Aquàtics</description>
         <LookAt>
@@ -21925,6 +21906,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10046,41.146756,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>World Water Flower</name>
+        <description>World Water Flower</description>
+        <LookAt>
+          <longitude>1.177299</longitude>
+          <latitude>41.066772</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.177299,41.066772,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Azulejo antiguo"ECU"</name>
@@ -38998,8 +38996,8 @@
         <name>Mosaico Foca</name>
         <description>Mosaico Foca</description>
         <LookAt>
-          <longitude>1.182222</longitude>
-          <latitude>41.081836</latitude>
+          <longitude>1.181527</longitude>
+          <latitude>41.082277</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -39009,7 +39007,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.182222,41.081836,0</coordinates>
+          <coordinates>1.181527,41.082277,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Old Historical Tree</name>
@@ -60719,23 +60717,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.208476,41.192357,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Pista de fútbol La Tanca</name>
-        <description>Pista de fútbol La Tanca</description>
-        <LookAt>
-          <longitude>1.180663</longitude>
-          <latitude>41.081453</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.180663,41.081453,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Església Ortodoxa</name>
