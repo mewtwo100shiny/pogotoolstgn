@@ -2448,6 +2448,12 @@
             "lng": 1.102785,
             "name": "Kids Playground"
         },
+        "8733f1f6da3e4bdf81d38b4b99223ebd.16": {
+            "guid": "8733f1f6da3e4bdf81d38b4b99223ebd.16",
+            "lat": 41.078971,
+            "lng": 1.103144,
+            "name": "unknown"
+        },
         "8795cfff48d24c72a47d4990839aefa0.16": {
             "guid": "8795cfff48d24c72a47d4990839aefa0.16",
             "lat": 41.158858,
@@ -14090,12 +14096,6 @@
             "lng": 1.404038,
             "name": "Detall d'una casa"
         },
-        "8733f1f6da3e4bdf81d38b4b99223ebd.16": {
-            "guid": "8733f1f6da3e4bdf81d38b4b99223ebd.16",
-            "lat": 41.078971,
-            "lng": 1.103144,
-            "name": "Centro c\u00edvico Vilafortuny"
-        },
         "873a4cef63764ba5ae2ebef6958f5502.16": {
             "guid": "873a4cef63764ba5ae2ebef6958f5502.16",
             "lat": 41.02265,
@@ -14815,6 +14815,12 @@
             "lat": 41.043197,
             "lng": 1.00348,
             "name": "Bunker Twin"
+        },
+        "907e86253aa14fdf9e00343ec4cde8ff.16": {
+            "guid": "907e86253aa14fdf9e00343ec4cde8ff.16",
+            "lat": 41.071764,
+            "lng": 1.095641,
+            "name": "Playground Baronia"
         },
         "9096aebab85449809a6963561795d1f7.16": {
             "guid": "9096aebab85449809a6963561795d1f7.16",
@@ -19567,6 +19573,12 @@
             "lat": 41.151196,
             "lng": 1.104827,
             "name": "Coiffeur Graffiti"
+        },
+        "d455c7565284410c8459c99329303abe.16": {
+            "guid": "d455c7565284410c8459c99329303abe.16",
+            "lat": 41.077145,
+            "lng": 1.101929,
+            "name": "Castillo de colores"
         },
         "d469b58f97a649d6834f65f6dc20515f.16": {
             "guid": "d469b58f97a649d6834f65f6dc20515f.16",

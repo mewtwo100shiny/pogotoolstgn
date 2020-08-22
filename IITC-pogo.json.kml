@@ -7433,6 +7433,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.103144</longitude>
+          <latitude>41.078971</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.103144,41.078971,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Corral Nou Les Barbacoes</name>
         <description>Corral Nou Les Barbacoes</description>
         <LookAt>
@@ -40761,23 +40779,6 @@
           <coordinates>1.404038,41.14457,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Centro cívico Vilafortuny</name>
-        <description>Centro cívico Vilafortuny</description>
-        <LookAt>
-          <longitude>1.103144</longitude>
-          <latitude>41.078971</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.103144,41.078971,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Playground Perú</name>
         <description>Playground Perú</description>
         <LookAt>
@@ -42816,6 +42817,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.00348,41.043197,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Playground Baronia</name>
+        <description>Playground Baronia</description>
+        <LookAt>
+          <longitude>1.095641</longitude>
+          <latitude>41.071764</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.095641,41.071764,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pilon's Street Mural</name>
@@ -56280,6 +56298,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104827,41.151196,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Castillo de colores</name>
+        <description>Castillo de colores</description>
+        <LookAt>
+          <longitude>1.101929</longitude>
+          <latitude>41.077145</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.101929,41.077145,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Bulbs in Mind</name>
