@@ -10106,6 +10106,12 @@
             "lng": 1.061837,
             "name": "La Sagrada Familia"
         },
+        "4e255684c77b4332a6c11a0ca8d1901a.16": {
+            "guid": "4e255684c77b4332a6c11a0ca8d1901a.16",
+            "lat": 41.113913,
+            "lng": 1.253727,
+            "name": "Llar de Jubilats Tarragona Centre"
+        },
         "4e41e2940f8343faada4284f2db3c568.16": {
             "guid": "4e41e2940f8343faada4284f2db3c568.16",
             "lat": 41.117828,
@@ -17221,6 +17227,12 @@
             "lat": 41.155144,
             "lng": 1.108351,
             "name": "Gaud\u00ed Centre"
+        },
+        "b323f72064614fbd90de6957ad1e633b.16": {
+            "guid": "b323f72064614fbd90de6957ad1e633b.16",
+            "lat": 41.133732,
+            "lng": 1.093531,
+            "name": "unknown"
         },
         "b33c25537e054c3c8fb1a449ce018501.16": {
             "guid": "b33c25537e054c3c8fb1a449ce018501.16",

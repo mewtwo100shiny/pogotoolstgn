@@ -29474,6 +29474,23 @@
           <coordinates>1.061837,41.137535,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Llar de Jubilats Tarragona Centre</name>
+        <description>Llar de Jubilats Tarragona Centre</description>
+        <LookAt>
+          <longitude>1.253727</longitude>
+          <latitude>41.113913</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.253727,41.113913,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Art Music</name>
         <description>Art Music</description>
         <LookAt>
@@ -49634,6 +49651,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.108351,41.155144,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.093531</longitude>
+          <latitude>41.133732</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.093531,41.133732,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>A Babor</name>
