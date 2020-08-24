@@ -56419,6 +56419,23 @@
           <coordinates>1.037347,41.113133,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Área infantil Calle Murillo</name>
+        <description>Área infantil Calle Murillo</description>
+        <LookAt>
+          <longitude>1.150502</longitude>
+          <latitude>41.073949</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.150502,41.073949,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Escola De Música</name>
         <description>Escola De Música</description>
         <LookAt>
@@ -64188,8 +64205,8 @@
           <coordinates>1.402611,41.145423,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Pista Petanca ECU</name>
-        <description>Pista Petanca ECU</description>
+        <name>Pista Petanca</name>
+        <description>Pista Petanca</description>
         <LookAt>
           <longitude>1.117755</longitude>
           <latitude>41.132531</latitude>
