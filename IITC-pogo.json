@@ -3168,6 +3168,12 @@
             "lng": 1.272521,
             "name": "Ajuntament dels Pallaresos"
         },
+        "acdabc42b762473dbb8eea0f03140dae.16": {
+            "guid": "acdabc42b762473dbb8eea0f03140dae.16",
+            "lat": 41.154788,
+            "lng": 1.11148,
+            "name": "unknown"
+        },
         "ae43555fa79b4bd59d7640713b959a8e.16": {
             "guid": "ae43555fa79b4bd59d7640713b959a8e.16",
             "lat": 41.110081,
@@ -8275,6 +8281,12 @@
             "lat": 41.066221,
             "lng": 0.956519,
             "name": "Pedra Seca 2344"
+        },
+        "343944d36309409abe9f68d5b49fbad1.16": {
+            "guid": "343944d36309409abe9f68d5b49fbad1.16",
+            "lat": 41.151732,
+            "lng": 1.114029,
+            "name": "Parc Infantil de La Fumera"
         },
         "34749f7dbaa44968bc2c29f0c0c971ea.16": {
             "guid": "34749f7dbaa44968bc2c29f0c0c971ea.16",
@@ -16784,12 +16796,6 @@
             "lng": 0.982955,
             "name": "Parque Infantil De Juegos"
         },
-        "acdabc42b762473dbb8eea0f03140dae.16": {
-            "guid": "acdabc42b762473dbb8eea0f03140dae.16",
-            "lat": 41.154788,
-            "lng": 1.11148,
-            "name": "Arte Urb\u00e0. P\u00e0rquing Riera Mir\u00f3"
-        },
         "ace94416f4294b4ab7fb318bac5dcb06.16": {
             "guid": "ace94416f4294b4ab7fb318bac5dcb06.16",
             "lat": 41.119588,
@@ -21091,6 +21097,12 @@
             "lat": 41.118497,
             "lng": 1.273591,
             "name": "M\u00e1quinas Ejercicios Playa Arrabassada"
+        },
+        "e9af636a5de0484baf59ec7ff7f3e851.16": {
+            "guid": "e9af636a5de0484baf59ec7ff7f3e851.16",
+            "lat": 41.115837,
+            "lng": 1.208402,
+            "name": "P\u00e9rgola Riu Onyar"
         },
         "e9b9951585284894a4f268c75f916f51.16": {
             "guid": "e9b9951585284894a4f268c75f916f51.16",
