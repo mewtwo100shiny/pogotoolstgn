@@ -672,6 +672,12 @@
             "lng": 1.180259,
             "name": "Parc D'infants"
         },
+        "227e22e427e24adb99ec868dbd4c7a37.16": {
+            "guid": "227e22e427e24adb99ec868dbd4c7a37.16",
+            "lat": 41.085291,
+            "lng": 1.094543,
+            "name": "unknown"
+        },
         "2374dba5eafd4945a43e7a873ae4884b.16": {
             "guid": "2374dba5eafd4945a43e7a873ae4884b.16",
             "lat": 41.116441,
@@ -7094,12 +7100,6 @@
             "lng": 1.273191,
             "name": "Font de la Segregaci\u00f3"
         },
-        "227e22e427e24adb99ec868dbd4c7a37.16": {
-            "guid": "227e22e427e24adb99ec868dbd4c7a37.16",
-            "lat": 41.085291,
-            "lng": 1.094543,
-            "name": "cartel MAs d'en Bosch"
-        },
         "2281ebff733c48e8bd2b48567a778067.16": {
             "guid": "2281ebff733c48e8bd2b48567a778067.16",
             "lat": 41.145725,
@@ -11791,6 +11791,12 @@
             "lat": 41.116554,
             "lng": 1.23732,
             "name": "Mono en triciclo"
+        },
+        "64f92c9fa8ca47d796839303a8393d98.16": {
+            "guid": "64f92c9fa8ca47d796839303a8393d98.16",
+            "lat": 41.08849,
+            "lng": 1.093101,
+            "name": "unknown"
         },
         "6507bb0d3cf74ed5949b131b7c17f451.16": {
             "guid": "6507bb0d3cf74ed5949b131b7c17f451.16",
@@ -20011,6 +20017,12 @@
             "lat": 41.086603,
             "lng": 1.162378,
             "name": "Roi De La Jungle"
+        },
+        "daab40dab0334dcaaa3b5dcb6531bc08.16": {
+            "guid": "daab40dab0334dcaaa3b5dcb6531bc08.16",
+            "lat": 41.076969,
+            "lng": 1.092061,
+            "name": "unknown"
         },
         "daab99d218ca4e2186ecad01439210f8.16": {
             "guid": "daab99d218ca4e2186ecad01439210f8.16",

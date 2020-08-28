@@ -2105,6 +2105,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.094543</longitude>
+          <latitude>41.085291</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.094543,41.085291,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Pilarica Font Virgin</name>
         <description>Pilarica Font Virgin</description>
         <LookAt>
@@ -20941,23 +20959,6 @@
           <coordinates>1.273191,41.169184,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>cartel MAs d'en Bosch</name>
-        <description>cartel MAs d'en Bosch</description>
-        <LookAt>
-          <longitude>1.094543</longitude>
-          <latitude>41.085291</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.094543,41.085291,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Antic Mas de l'Escut</name>
         <description>Antic Mas de l'Escut</description>
         <LookAt>
@@ -34250,6 +34251,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.23732,41.116554,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.093101</longitude>
+          <latitude>41.08849</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.093101,41.08849,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Barraca Pedra Seca 2296</name>
@@ -57540,6 +57558,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.162378,41.086603,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.092061</longitude>
+          <latitude>41.076969</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.092061,41.076969,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mapa playas de la pineda y del raco</name>
