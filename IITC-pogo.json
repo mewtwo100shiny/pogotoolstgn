@@ -676,7 +676,7 @@
             "guid": "227e22e427e24adb99ec868dbd4c7a37.16",
             "lat": 41.085291,
             "lng": 1.094543,
-            "name": "unknown"
+            "name": "cartel MAs d'en Bosch"
         },
         "2374dba5eafd4945a43e7a873ae4884b.16": {
             "guid": "2374dba5eafd4945a43e7a873ae4884b.16",
@@ -2458,7 +2458,7 @@
             "guid": "8733f1f6da3e4bdf81d38b4b99223ebd.16",
             "lat": 41.078971,
             "lng": 1.103144,
-            "name": "unknown"
+            "name": "Centro c\u00edvico Vilafortuny"
         },
         "8795cfff48d24c72a47d4990839aefa0.16": {
             "guid": "8795cfff48d24c72a47d4990839aefa0.16",
@@ -3178,7 +3178,7 @@
             "guid": "acdabc42b762473dbb8eea0f03140dae.16",
             "lat": 41.154788,
             "lng": 1.11148,
-            "name": "unknown"
+            "name": "Arte Urb\u00e0. P\u00e0rquing Riera Mir\u00f3"
         },
         "ae43555fa79b4bd59d7640713b959a8e.16": {
             "guid": "ae43555fa79b4bd59d7640713b959a8e.16",
@@ -18073,6 +18073,12 @@
             "lat": 41.148864,
             "lng": 1.254456,
             "name": "Mas Granell"
+        },
+        "be9663452ad540ab8e86d0e1b7627f07.16": {
+            "guid": "be9663452ad540ab8e86d0e1b7627f07.16",
+            "lat": 41.148211,
+            "lng": 1.095785,
+            "name": "Mosaico de la virgen Maria"
         },
         "bebcb71279f745faa34ce21b15b0b764.11": {
             "guid": "bebcb71279f745faa34ce21b15b0b764.11",

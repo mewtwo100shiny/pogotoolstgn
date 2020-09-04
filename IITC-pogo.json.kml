@@ -2105,8 +2105,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>cartel MAs d'en Bosch</name>
+        <description>cartel MAs d'en Bosch</description>
         <LookAt>
           <longitude>1.094543</longitude>
           <latitude>41.085291</latitude>
@@ -7451,8 +7451,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Centro cívico Vilafortuny</name>
+        <description>Centro cívico Vilafortuny</description>
         <LookAt>
           <longitude>1.103144</longitude>
           <latitude>41.078971</latitude>
@@ -9611,8 +9611,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Arte Urbà. Pàrquing Riera Miró</name>
+        <description>Arte Urbà. Pàrquing Riera Miró</description>
         <LookAt>
           <longitude>1.11148</longitude>
           <latitude>41.154788</latitude>
@@ -52050,6 +52050,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.254456,41.148864,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Mosaico de la virgen Maria</name>
+        <description>Mosaico de la virgen Maria</description>
+        <LookAt>
+          <longitude>1.095785</longitude>
+          <latitude>41.148211</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.095785,41.148211,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Plaça de la pagesia</name>
