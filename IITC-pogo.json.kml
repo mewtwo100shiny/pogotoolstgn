@@ -18052,6 +18052,23 @@
           <coordinates>1.155228,41.08557,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Àrea per a gossos</name>
+        <description>Àrea per a gossos</description>
+        <LookAt>
+          <longitude>1.242787</longitude>
+          <latitude>41.117099</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.242787,41.117099,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Ajuntament de Tarragona</name>
         <description>Ajuntament de Tarragona</description>
         <LookAt>
@@ -32483,6 +32500,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.057641,41.069636,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Llámame</name>
+        <description>Llámame</description>
+        <LookAt>
+          <longitude>1.104568</longitude>
+          <latitude>41.155597</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.104568,41.155597,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Casa Emilio Corbella Guinovart</name>
