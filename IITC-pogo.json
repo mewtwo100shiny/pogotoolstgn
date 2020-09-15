@@ -19334,6 +19334,12 @@
             "lng": 1.389761,
             "name": "Cano De Guerra"
         },
+        "cfb4e3f82bd447259fdb86d212463236.16": {
+            "guid": "cfb4e3f82bd447259fdb86d212463236.16",
+            "lat": 41.112331,
+            "lng": 1.251326,
+            "name": "Joven pelirroja"
+        },
         "cfe3a2c0cb074ea29ed2e91f2130a5a9.16": {
             "guid": "cfe3a2c0cb074ea29ed2e91f2130a5a9.16",
             "lat": 41.064211,
@@ -22948,8 +22954,8 @@
         },
         "ff59589d75174ef7bd4e9f747a97a43c.16": {
             "guid": "ff59589d75174ef7bd4e9f747a97a43c.16",
-            "lat": 41.077676,
-            "lng": 1.094575,
+            "lat": 41.077744,
+            "lng": 1.094497,
             "name": "Estructura Arco-Iris"
         },
         "ff73de3ed9fe4c78a9fe2fa6f3711c96.16": {
