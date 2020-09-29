@@ -65918,6 +65918,23 @@
           <coordinates>0.923725,40.988328,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Petanca Stadium Pescadors</name>
+        <description>Petanca Stadium Pescadors</description>
+        <LookAt>
+          <longitude>1.056385</longitude>
+          <latitude>41.065673</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.056385,41.065673,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Japanese Sea</name>
         <description>Japanese Sea</description>
         <LookAt>
