@@ -28008,6 +28008,23 @@
           <coordinates>1.182793,41.078812,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>TGN - Futbol Sala Icomar</name>
+        <description>TGN - Futbol Sala Icomar</description>
+        <LookAt>
+          <longitude>1.225401</longitude>
+          <latitude>41.118044</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.225401,41.118044,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Thinking on Wall</name>
         <description>Thinking on Wall</description>
         <LookAt>
