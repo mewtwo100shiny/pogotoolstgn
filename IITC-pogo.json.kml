@@ -55191,6 +55191,23 @@
           <coordinates>1.107061,41.153871,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Arte Urbano</name>
+        <description>Arte Urbano</description>
+        <LookAt>
+          <longitude>1.215278</longitude>
+          <latitude>41.122109</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.215278,41.122109,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Cap de lleó</name>
         <description>Cap de lleó</description>
         <LookAt>
