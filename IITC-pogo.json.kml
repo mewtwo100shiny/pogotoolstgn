@@ -12365,6 +12365,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Turisme</name>
+        <description>Turisme</description>
+        <LookAt>
+          <longitude>1.057378</longitude>
+          <latitude>41.064797</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.057378,41.064797,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Parc de les Lletres</name>
         <description>Parc de les Lletres</description>
         <LookAt>
@@ -17179,8 +17197,8 @@
           <coordinates>1.415387,41.145171,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parc Infantil - Miracle </name>
-        <description>Parc Infantil - Miracle </description>
+        <name>Parc Infantil - Miracle</name>
+        <description>Parc Infantil - Miracle</description>
         <LookAt>
           <longitude>1.265219</longitude>
           <latitude>41.115703</latitude>
@@ -23144,23 +23162,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.140605,41.214632,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Campo de Futbol público</name>
-        <description>Campo de Futbol público</description>
-        <LookAt>
-          <longitude>1.218294</longitude>
-          <latitude>41.119926</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.218294,41.119926,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Pilo De Tamarit</name>
@@ -34672,23 +34673,6 @@
           <coordinates>1.119294,41.141333,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Parc dels Pescadors Cambrils</name>
-        <description>Parc dels Pescadors Cambrils</description>
-        <LookAt>
-          <longitude>1.056445</longitude>
-          <latitude>41.064918</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.056445,41.064918,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Museu Del Vi</name>
         <description>Museu Del Vi</description>
         <LookAt>
@@ -34857,23 +34841,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.275828,41.123027,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Panell Port de Cambrils</name>
-        <description>Panell Port de Cambrils</description>
-        <LookAt>
-          <longitude>1.058</longitude>
-          <latitude>41.0643</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.058,41.0643,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Columpios para Jugones</name>
@@ -37970,8 +37937,8 @@
           <coordinates>1.156629,41.086606,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Nice Lion </name>
-        <description>Nice Lion </description>
+        <name>Nice Lion</name>
+        <description>Nice Lion</description>
         <LookAt>
           <longitude>1.258825</longitude>
           <latitude>41.127026</latitude>
@@ -59900,23 +59867,6 @@
           <coordinates>1.251914,41.115716,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Turisme</name>
-        <description>Turisme</description>
-        <LookAt>
-          <longitude>1.057378</longitude>
-          <latitude>41.064797</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.057378,41.064797,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Font A La Pineda</name>
         <description>Font A La Pineda</description>
         <LookAt>
@@ -61139,23 +61089,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.244122,41.119346,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Mosaico Bob Esponja</name>
-        <description>Mosaico Bob Esponja</description>
-        <LookAt>
-          <longitude>1.182476</longitude>
-          <latitude>41.082074</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.182476,41.082074,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Rellotge Solar Altafulla</name>
@@ -65134,23 +65067,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.106284,41.156054,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Casita aventuras</name>
-        <description>Casita aventuras</description>
-        <LookAt>
-          <longitude>1.056319</longitude>
-          <latitude>41.065846</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.056319,41.065846,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mas Emblem</name>

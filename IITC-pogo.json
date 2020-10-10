@@ -4092,6 +4092,12 @@
             "lng": 1.363734,
             "name": "El Castellot"
         },
+        "e0e0fe4e6a46492592420cf727ff7d86.16": {
+            "guid": "e0e0fe4e6a46492592420cf727ff7d86.16",
+            "lat": 41.064797,
+            "lng": 1.057378,
+            "name": "Turisme"
+        },
         "e0f28110f43d4705a9a5bda823e4ca5c.16": {
             "guid": "e0f28110f43d4705a9a5bda823e4ca5c.16",
             "lat": 41.121988,
@@ -5766,7 +5772,7 @@
             "guid": "0e95927ebc32400c9fc55b6d7feb8e7f.16",
             "lat": 41.115703,
             "lng": 1.265219,
-            "name": "Parc Infantil - Miracle "
+            "name": "Parc Infantil - Miracle"
         },
         "0e9b928b1e3443aab76fa7c1632b6d79.16": {
             "guid": "0e9b928b1e3443aab76fa7c1632b6d79.16",
@@ -7867,12 +7873,6 @@
             "lat": 41.214632,
             "lng": 1.140605,
             "name": "Font de la pla\u00e7a Europa"
-        },
-        "2bc40f6dcb2d4aa9ba730416884b2357.16": {
-            "guid": "2bc40f6dcb2d4aa9ba730416884b2357.16",
-            "lat": 41.119926,
-            "lng": 1.218294,
-            "name": "Campo de Futbol p\u00fablico"
         },
         "2bc4b1ea698945e4a9a0a5055281ddbb.16": {
             "guid": "2bc4b1ea698945e4a9a0a5055281ddbb.16",
@@ -11936,12 +11936,6 @@
             "lng": 1.119294,
             "name": "Cocodril graffiti"
         },
-        "641867bb75a8443b81b67bc057d73ed7.11": {
-            "guid": "641867bb75a8443b81b67bc057d73ed7.11",
-            "lat": 41.064918,
-            "lng": 1.056445,
-            "name": "Parc dels Pescadors Cambrils"
-        },
         "6420380c19e34f02b56ae925d32cd168.16": {
             "guid": "6420380c19e34f02b56ae925d32cd168.16",
             "lat": 41.121272,
@@ -12001,12 +11995,6 @@
             "lat": 41.123027,
             "lng": 1.275828,
             "name": "Area per a Gossos Arrabassada"
-        },
-        "6515d1aff10146f298498dc135d89cb9.16": {
-            "guid": "6515d1aff10146f298498dc135d89cb9.16",
-            "lat": 41.0643,
-            "lng": 1.058,
-            "name": "Panell Port de Cambrils"
         },
         "65263c1999f44ea697ab86b6d6f08f5a.16": {
             "guid": "65263c1999f44ea697ab86b6d6f08f5a.16",
@@ -13104,7 +13092,7 @@
             "guid": "7469eb7bed754c0db36601637b788ee5.16",
             "lat": 41.127026,
             "lng": 1.258825,
-            "name": "Nice Lion "
+            "name": "Nice Lion"
         },
         "7470703fbf184eabaeed70614bfb5a30.16": {
             "guid": "7470703fbf184eabaeed70614bfb5a30.16",
@@ -20840,12 +20828,6 @@
             "lng": 1.251914,
             "name": "Escut de Tarragona"
         },
-        "e0e0fe4e6a46492592420cf727ff7d86.16": {
-            "guid": "e0e0fe4e6a46492592420cf727ff7d86.16",
-            "lat": 41.064797,
-            "lng": 1.057378,
-            "name": "Turisme"
-        },
         "e0e4b042141b4f368d8a4561f9bb918a.16": {
             "guid": "e0e4b042141b4f368d8a4561f9bb918a.16",
             "lat": 41.073548,
@@ -21277,12 +21259,6 @@
             "lat": 41.119346,
             "lng": 1.244122,
             "name": "Diari de Tarragona"
-        },
-        "e65bb992a99c46b0be65bb0e25809b97.16": {
-            "guid": "e65bb992a99c46b0be65bb0e25809b97.16",
-            "lat": 41.082074,
-            "lng": 1.182476,
-            "name": "Mosaico Bob Esponja"
         },
         "e682e4ca13914eef845a6c1e3b2bd8de.16": {
             "guid": "e682e4ca13914eef845a6c1e3b2bd8de.16",
@@ -22687,12 +22663,6 @@
             "lat": 41.156054,
             "lng": 1.106284,
             "name": "Llotja de Reus"
-        },
-        "f8a4d5c46a0f4ebdaf6d0b193d226210.16": {
-            "guid": "f8a4d5c46a0f4ebdaf6d0b193d226210.16",
-            "lat": 41.065846,
-            "lng": 1.056319,
-            "name": "Casita aventuras"
         },
         "f8b02ded57e948cca699d92288f98677.16": {
             "guid": "f8b02ded57e948cca699d92288f98677.16",
