@@ -4452,6 +4452,12 @@
             "lng": 1.376237,
             "name": "Font De Sant Marti"
         },
+        "f81ae12b387946cfadfcc38341342fd0.16": {
+            "guid": "f81ae12b387946cfadfcc38341342fd0.16",
+            "lat": 41.06506,
+            "lng": 1.043849,
+            "name": "unknown"
+        },
         "f837e7b8e320437aa151a8f15fd953e5.16": {
             "guid": "f837e7b8e320437aa151a8f15fd953e5.16",
             "lat": 41.13031,
@@ -7723,12 +7729,6 @@
             "lat": 41.14842,
             "lng": 1.393306,
             "name": "Obst\u00e1culos Bike Trial"
-        },
-        "29d74f2be5a7487ab8e75ec9fd98d489.16": {
-            "guid": "29d74f2be5a7487ab8e75ec9fd98d489.16",
-            "lat": 41.113491,
-            "lng": 1.253031,
-            "name": "Geishas"
         },
         "29fc1d040309413fac9629f3e3e49b6b.16": {
             "guid": "29fc1d040309413fac9629f3e3e49b6b.16",
@@ -15356,6 +15356,12 @@
             "lng": 1.110558,
             "name": "Tennis Reus Deportiu"
         },
+        "93b5e1d8b642438e9c3739e238f26495.16": {
+            "guid": "93b5e1d8b642438e9c3739e238f26495.16",
+            "lat": 41.067815,
+            "lng": 1.039829,
+            "name": "Museum"
+        },
         "93c5ceb3864c458fb3d13fd60edd91b5.16": {
             "guid": "93c5ceb3864c458fb3d13fd60edd91b5.16",
             "lat": 41.136974,
@@ -22615,12 +22621,6 @@
             "lat": 41.155288,
             "lng": 1.106843,
             "name": "Casa Cavalle"
-        },
-        "f81ae12b387946cfadfcc38341342fd0.16": {
-            "guid": "f81ae12b387946cfadfcc38341342fd0.16",
-            "lat": 41.06506,
-            "lng": 1.043849,
-            "name": "Playround C. Margarides"
         },
         "f81cfcaafa514dda803ab8ebbdf2e470.16": {
             "guid": "f81cfcaafa514dda803ab8ebbdf2e470.16",

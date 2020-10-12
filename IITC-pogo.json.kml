@@ -13445,6 +13445,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.043849</longitude>
+          <latitude>41.06506</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.043849,41.06506,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Far d'Altafulla</name>
         <description>Far d'Altafulla</description>
         <LookAt>
@@ -22737,23 +22755,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.393306,41.14842,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Geishas</name>
-        <description>Geishas</description>
-        <LookAt>
-          <longitude>1.253031</longitude>
-          <latitude>41.113491</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.253031,41.113491,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Animals Playground</name>
@@ -44363,6 +44364,23 @@
           <coordinates>1.110558,41.166644,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Museum</name>
+        <description>Museum</description>
+        <LookAt>
+          <longitude>1.039829</longitude>
+          <latitude>41.067815</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.039829,41.067815,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Tren de Fusta</name>
         <description>Tren de Fusta</description>
         <LookAt>
@@ -64931,23 +64949,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.106843,41.155288,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Playround C. Margarides</name>
-        <description>Playround C. Margarides</description>
-        <LookAt>
-          <longitude>1.043849</longitude>
-          <latitude>41.06506</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.043849,41.06506,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Sol morado</name>
