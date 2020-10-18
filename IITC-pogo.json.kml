@@ -31121,6 +31121,23 @@
           <coordinates>1.247981,41.109186,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Parque infantil La granja</name>
+        <description>Parque infantil La granja</description>
+        <LookAt>
+          <longitude>1.214945</longitude>
+          <latitude>41.121553</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.214945,41.121553,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Torre infantil</name>
         <description>Torre infantil</description>
         <LookAt>
@@ -55941,6 +55958,23 @@
           <coordinates>1.255586,41.114156,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>La Pasarela</name>
+        <description>La Pasarela</description>
+        <LookAt>
+          <longitude>1.255151</longitude>
+          <latitude>41.112077</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.255151,41.112077,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Àrea per a gossos: Parc Sant Benilde</name>
         <description>Àrea per a gossos: Parc Sant Benilde</description>
         <LookAt>
@@ -58120,8 +58154,8 @@
         <name>Font Del Parc</name>
         <description>Font Del Parc</description>
         <LookAt>
-          <longitude>1.214838</longitude>
-          <latitude>41.121796</latitude>
+          <longitude>1.214815</longitude>
+          <latitude>41.121818</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -58131,7 +58165,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.214838,41.121796,0</coordinates>
+          <coordinates>1.214815,41.121818,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fuente Ornamental La Rambla</name>

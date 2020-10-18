@@ -10682,6 +10682,12 @@
             "lng": 1.247981,
             "name": "Castellers De Vilafranca"
         },
+        "5250a88efcc84bd1acff6765621d0acd.16": {
+            "guid": "5250a88efcc84bd1acff6765621d0acd.16",
+            "lat": 41.121553,
+            "lng": 1.214945,
+            "name": "Parque infantil La granja"
+        },
         "525ffd1c062c459cbda47863221da97c.16": {
             "guid": "525ffd1c062c459cbda47863221da97c.16",
             "lat": 41.069168,
@@ -19442,6 +19448,12 @@
             "lng": 1.255586,
             "name": "Les M\u00e0scares del Teatre"
         },
+        "ccdd8a7c8be644d28de5cc15a6e1f586.16": {
+            "guid": "ccdd8a7c8be644d28de5cc15a6e1f586.16",
+            "lat": 41.112077,
+            "lng": 1.255151,
+            "name": "La Pasarela"
+        },
         "cce54a216b2c449cb2160562066d63b3.16": {
             "guid": "cce54a216b2c449cb2160562066d63b3.16",
             "lat": 41.119586,
@@ -20212,8 +20224,8 @@
         },
         "d92c42b2c7d04584ae0dcecd04b476f1.16": {
             "guid": "d92c42b2c7d04584ae0dcecd04b476f1.16",
-            "lat": 41.121796,
-            "lng": 1.214838,
+            "lat": 41.121818,
+            "lng": 1.214815,
             "name": "Font Del Parc"
         },
         "d944cb872e234e659f5b12252839d079.16": {
