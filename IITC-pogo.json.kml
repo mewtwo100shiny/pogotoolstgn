@@ -36173,8 +36173,8 @@
         <name>Mural Marcianito</name>
         <description>Mural Marcianito</description>
         <LookAt>
-          <longitude>1.106334</longitude>
-          <latitude>41.154529</latitude>
+          <longitude>1.106173</longitude>
+          <latitude>41.154756</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -36184,7 +36184,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.106334,41.154529,0</coordinates>
+          <coordinates>1.106173,41.154756,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Escultura Doctor Domènech</name>
@@ -41217,23 +41217,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.050558,41.071231,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Photo box</name>
-        <description>Photo box</description>
-        <LookAt>
-          <longitude>1.242881</longitude>
-          <latitude>41.11011</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.242881,41.11011,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Capilla Montserrat</name>
