@@ -11990,6 +11990,12 @@
             "lng": 1.23732,
             "name": "Mono en triciclo"
         },
+        "64ca35eefe1140459fb980af60d031a3.16": {
+            "guid": "64ca35eefe1140459fb980af60d031a3.16",
+            "lat": 41.109893,
+            "lng": 1.244201,
+            "name": "Espai d'oci del Serrallo"
+        },
         "64f92c9fa8ca47d796839303a8393d98.16": {
             "guid": "64f92c9fa8ca47d796839303a8393d98.16",
             "lat": 41.08849,
@@ -14568,7 +14574,7 @@
             "guid": "8948c8d643534ae2866c6974768c3a90.16",
             "lat": 41.108876,
             "lng": 1.254116,
-            "name": "Faro De Color Negro"
+            "name": "Far del Port Esportiu"
         },
         "8956b821b97042158d5285b11fade308.16": {
             "guid": "8956b821b97042158d5285b11fade308.16",

@@ -34827,6 +34827,23 @@
           <coordinates>1.23732,41.116554,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Espai d'oci del Serrallo</name>
+        <description>Espai d'oci del Serrallo</description>
+        <LookAt>
+          <longitude>1.244201</longitude>
+          <latitude>41.109893</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.244201,41.109893,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>unknown</name>
         <description>unknown</description>
         <LookAt>
@@ -42120,8 +42137,8 @@
           <coordinates>1.413637,41.144068,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Faro De Color Negro</name>
-        <description>Faro De Color Negro</description>
+        <name>Far del Port Esportiu</name>
+        <description>Far del Port Esportiu</description>
         <LookAt>
           <longitude>1.254116</longitude>
           <latitude>41.108876</latitude>
