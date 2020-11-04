@@ -25783,11 +25783,11 @@
           <coordinates>0.923527,40.993085,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Residència Ponent</name>
-        <description>Residència Ponent</description>
+        <name>Estructura Ponent</name>
+        <description>Estructura Ponent</description>
         <LookAt>
-          <longitude>1.213042</longitude>
-          <latitude>41.122477</latitude>
+          <longitude>1.213028</longitude>
+          <latitude>41.122392</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -25797,7 +25797,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.213042,41.122477,0</coordinates>
+          <coordinates>1.213028,41.122392,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Vil•la romana Dels Barenys</name>
@@ -29130,6 +29130,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.264154,41.179546,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Font de la Plaça del Mercat</name>
+        <description>Font de la Plaça del Mercat</description>
+        <LookAt>
+          <longitude>1.249758</longitude>
+          <latitude>41.115473</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.249758,41.115473,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Casa Sagarra</name>
@@ -44755,6 +44772,23 @@
           <coordinates>1.05398,41.073859,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pigeon Cube</name>
+        <description>Pigeon Cube</description>
+        <LookAt>
+          <longitude>1.261542</longitude>
+          <latitude>41.118294</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.261542,41.118294,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>La Torre Forta</name>
         <description>La Torre Forta</description>
         <LookAt>
@@ -57571,23 +57605,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.2448,41.132815,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Concrete Face</name>
-        <description>Concrete Face</description>
-        <LookAt>
-          <longitude>1.261753</longitude>
-          <latitude>41.118195</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.261753,41.118195,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Sant Josep</name>
