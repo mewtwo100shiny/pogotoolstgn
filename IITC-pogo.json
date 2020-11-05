@@ -6762,7 +6762,7 @@
             "guid": "1bbea09b6c3d451fac9aef41eb598544.12",
             "lat": 41.116478,
             "lng": 1.258447,
-            "name": "Mediterranean Sea at Tarragona"
+            "name": "C\u00e8sar August mirant el Mediterrani"
         },
         "1bc5ea19ee824a6bad668eade293602f.16": {
             "guid": "1bc5ea19ee824a6bad668eade293602f.16",
@@ -13110,7 +13110,7 @@
             "guid": "7469eb7bed754c0db36601637b788ee5.16",
             "lat": 41.127026,
             "lng": 1.258825,
-            "name": "Nice Lion"
+            "name": "Le\u00f3n"
         },
         "7470703fbf184eabaeed70614bfb5a30.16": {
             "guid": "7470703fbf184eabaeed70614bfb5a30.16",
@@ -17053,6 +17053,12 @@
             "lat": 41.072743,
             "lng": 1.05692,
             "name": "Colega"
+        },
+        "ac980098e4f444ad918218c651efbdf1.16": {
+            "guid": "ac980098e4f444ad918218c651efbdf1.16",
+            "lat": 41.109273,
+            "lng": 1.246983,
+            "name": "T2"
         },
         "ac9e1119c57f4637ae0d7a6aee348d4a.16": {
             "guid": "ac9e1119c57f4637ae0d7a6aee348d4a.16",
