@@ -22553,6 +22553,23 @@
           <coordinates>1.050412,41.075424,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Parc d'educació viària</name>
+        <description>Parc d'educació viària</description>
+        <LookAt>
+          <longitude>1.102447</longitude>
+          <latitude>41.162178</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.102447,41.162178,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Marc Arbocet 2259</name>
         <description>Marc Arbocet 2259</description>
         <LookAt>
@@ -43820,23 +43837,6 @@
           <coordinates>1.25018,41.124496,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Pirámide </name>
-        <description>Pirámide </description>
-        <LookAt>
-          <longitude>1.244292</longitude>
-          <latitude>41.115205</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.244292,41.115205,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Pedra Seca Fortuny</name>
         <description>Pedra Seca Fortuny</description>
         <LookAt>
@@ -56415,6 +56415,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.156298,41.073943,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Port Tarragona</name>
+        <description>Port Tarragona</description>
+        <LookAt>
+          <longitude>1.243025</longitude>
+          <latitude>41.109984</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243025,41.109984,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Playground Comú</name>

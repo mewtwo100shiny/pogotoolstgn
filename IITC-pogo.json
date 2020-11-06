@@ -7658,6 +7658,12 @@
             "lng": 1.050412,
             "name": "La Muralla De Cambrils"
         },
+        "28e5568e1935409b8cf2f61aee7866ca.16": {
+            "guid": "28e5568e1935409b8cf2f61aee7866ca.16",
+            "lat": 41.162178,
+            "lng": 1.102447,
+            "name": "Parc d'educaci\u00f3 vi\u00e0ria"
+        },
         "28ed8f34eaca44728d678221cd0477d2.16": {
             "guid": "28ed8f34eaca44728d678221cd0477d2.16",
             "lat": 41.035824,
@@ -15164,12 +15170,6 @@
             "lng": 1.25018,
             "name": "Parc de Gramunt i Subiela"
         },
-        "91a911553985445a9a9ce4ebfc90243f.16": {
-            "guid": "91a911553985445a9a9ce4ebfc90243f.16",
-            "lat": 41.115205,
-            "lng": 1.244292,
-            "name": "Pir\u00e1mide "
-        },
         "91aea50c1c404fdd84298253d2dc70ac.16": {
             "guid": "91aea50c1c404fdd84298253d2dc70ac.16",
             "lat": 41.141435,
@@ -19609,6 +19609,12 @@
             "lat": 41.073943,
             "lng": 1.156298,
             "name": "Fuente del bosque"
+        },
+        "cf07e867164b43ddb450cbd1d24246e8.16": {
+            "guid": "cf07e867164b43ddb450cbd1d24246e8.16",
+            "lat": 41.109984,
+            "lng": 1.243025,
+            "name": "Port Tarragona"
         },
         "cf3cc6050c354892b06ff558b668c1d1.16": {
             "guid": "cf3cc6050c354892b06ff558b668c1d1.16",
