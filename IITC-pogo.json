@@ -2922,12 +2922,6 @@
             "lng": 1.096742,
             "name": "Es Forner Mallorqu\u00ed"
         },
-        "9e7da9396b3c47d7a307cae2468a4b63.16": {
-            "guid": "9e7da9396b3c47d7a307cae2468a4b63.16",
-            "lat": 41.118165,
-            "lng": 1.260952,
-            "name": "Sant Antoni Fountain"
-        },
         "9edc380d236f41d5b84d8ef6b2eb0c51.16": {
             "guid": "9edc380d236f41d5b84d8ef6b2eb0c51.16",
             "lat": 41.072249,
@@ -4657,12 +4651,6 @@
             "lat": 41.145253,
             "lng": 1.103605,
             "name": "Fantomas"
-        },
-        "009bbc1ffc8344478c7b3f6a31e4aca1.16": {
-            "guid": "009bbc1ffc8344478c7b3f6a31e4aca1.16",
-            "lat": 41.11453,
-            "lng": 1.244362,
-            "name": "Parc Infantil R. Ravent\u00f3s"
         },
         "00a93a214b274a92832f2c97530b34ef.16": {
             "guid": "00a93a214b274a92832f2c97530b34ef.16",
@@ -16082,6 +16070,12 @@
             "lng": 1.25788,
             "name": "Co\u0140legi Sant Pau Ap\u00f2stol"
         },
+        "9e7da9396b3c47d7a307cae2468a4b63.16": {
+            "guid": "9e7da9396b3c47d7a307cae2468a4b63.16",
+            "lat": 41.118135,
+            "lng": 1.260952,
+            "name": "Sant Antoni Fountain"
+        },
         "9e9083ae5c724541b15708cac1bfd6ba.16": {
             "guid": "9e9083ae5c724541b15708cac1bfd6ba.16",
             "lat": 41.087258,
@@ -20246,12 +20240,6 @@
             "lng": 1.258945,
             "name": "Imatges de sants"
         },
-        "d92c42b2c7d04584ae0dcecd04b476f1.16": {
-            "guid": "d92c42b2c7d04584ae0dcecd04b476f1.16",
-            "lat": 41.121818,
-            "lng": 1.214815,
-            "name": "Font Del Parc"
-        },
         "d944cb872e234e659f5b12252839d079.16": {
             "guid": "d944cb872e234e659f5b12252839d079.16",
             "lat": 41.11936,
@@ -23214,6 +23202,12 @@
             "guid": "fe906b2c230149eaa5d8d3aeeb00883a.16",
             "lat": 41.223824,
             "lng": 1.711098,
+            "name": "unknown"
+        },
+        "fe98fdfc5868455da0f4a105a7c0e55c.16": {
+            "guid": "fe98fdfc5868455da0f4a105a7c0e55c.16",
+            "lat": 41.122716,
+            "lng": 1.214954,
             "name": "unknown"
         },
         "fea6d5ba84204467b4e81cfdc07c3e00.16": {

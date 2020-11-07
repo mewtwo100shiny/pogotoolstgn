@@ -8855,24 +8855,6 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Sant Antoni Fountain</name>
-        <description>Sant Antoni Fountain</description>
-        <LookAt>
-          <longitude>1.260952</longitude>
-          <latitude>41.118165</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.260952,41.118165,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
         <name>Mural La Salle</name>
         <description>Mural La Salle</description>
         <LookAt>
@@ -14051,23 +14033,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.103605,41.145253,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Parc Infantil R. Raventós</name>
-        <description>Parc Infantil R. Raventós</description>
-        <LookAt>
-          <longitude>1.244362</longitude>
-          <latitude>41.11453</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.244362,41.11453,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Parque infantil dels pins</name>
@@ -46421,6 +46386,23 @@
           <coordinates>1.25788,41.121416,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Sant Antoni Fountain</name>
+        <description>Sant Antoni Fountain</description>
+        <LookAt>
+          <longitude>1.260952</longitude>
+          <latitude>41.118135</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.260952,41.118135,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Pirulo De Port Aventura</name>
         <description>Pirulo De Port Aventura</description>
         <LookAt>
@@ -58219,23 +58201,6 @@
           <coordinates>1.258945,41.118193,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Font Del Parc</name>
-        <description>Font Del Parc</description>
-        <LookAt>
-          <longitude>1.214815</longitude>
-          <latitude>41.121818</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.214815,41.121818,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Fuente Ornamental La Rambla</name>
         <description>Fuente Ornamental La Rambla</description>
         <LookAt>
@@ -66632,6 +66597,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.711098,41.223824,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.214954</longitude>
+          <latitude>41.122716</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.214954,41.122716,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Луна</name>
