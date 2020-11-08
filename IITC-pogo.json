@@ -5644,8 +5644,8 @@
         },
         "0d2b575c90dd4bedb1f1aad24a4f9bc9.16": {
             "guid": "0d2b575c90dd4bedb1f1aad24a4f9bc9.16",
-            "lat": 41.1193,
-            "lng": 1.246156,
+            "lat": 41.119285,
+            "lng": 1.246256,
             "name": "Antiga Universitat de Tarragona"
         },
         "0d65f01f786e4c0b927d268f6286779f.16": {
@@ -21770,6 +21770,12 @@
             "lng": 1.249819,
             "name": "Font del Parc del Trenet"
         },
+        "ed3efb75edbe4ab08e79ce91cfe44a13.16": {
+            "guid": "ed3efb75edbe4ab08e79ce91cfe44a13.16",
+            "lat": 41.117575,
+            "lng": 1.212617,
+            "name": "Blancanieves con Tattoos"
+        },
         "ed4230ae0fbb4988add3b35195ba30db.16": {
             "guid": "ed4230ae0fbb4988add3b35195ba30db.16",
             "lat": 41.080641,
@@ -22532,6 +22538,12 @@
             "lng": 1.130548,
             "name": "Edifici Sol i Mar 1940"
         },
+        "f6f76f8c085d49a68ad552c7272cab8b.16": {
+            "guid": "f6f76f8c085d49a68ad552c7272cab8b.16",
+            "lat": 41.142869,
+            "lng": 1.113853,
+            "name": "Casal para la Gent Gran"
+        },
         "f70398cad79d41dfa6d3431c7734c358.16": {
             "guid": "f70398cad79d41dfa6d3431c7734c358.16",
             "lat": 41.05527,
@@ -23208,7 +23220,7 @@
             "guid": "fe98fdfc5868455da0f4a105a7c0e55c.16",
             "lat": 41.122716,
             "lng": 1.214954,
-            "name": "unknown"
+            "name": "Casa Andaluc\u00eda centro de baile"
         },
         "fea6d5ba84204467b4e81cfdc07c3e00.16": {
             "guid": "fea6d5ba84204467b4e81cfdc07c3e00.16",

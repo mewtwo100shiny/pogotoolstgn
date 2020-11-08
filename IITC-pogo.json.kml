@@ -16843,8 +16843,8 @@
         <name>Antiga Universitat de Tarragona</name>
         <description>Antiga Universitat de Tarragona</description>
         <LookAt>
-          <longitude>1.246156</longitude>
-          <latitude>41.1193</latitude>
+          <longitude>1.246256</longitude>
+          <latitude>41.119285</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -16854,7 +16854,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.246156,41.1193,0</coordinates>
+          <coordinates>1.246256,41.119285,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Train Playground</name>
@@ -62536,6 +62536,23 @@
           <coordinates>1.249819,41.136749,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Blancanieves con Tattoos</name>
+        <description>Blancanieves con Tattoos</description>
+        <LookAt>
+          <longitude>1.212617</longitude>
+          <latitude>41.117575</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.212617,41.117575,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Plaça De Les Fonts</name>
         <description>Plaça De Les Fonts</description>
         <LookAt>
@@ -64695,6 +64712,23 @@
           <coordinates>1.130548,41.076429,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Casal para la Gent Gran</name>
+        <description>Casal para la Gent Gran</description>
+        <LookAt>
+          <longitude>1.113853</longitude>
+          <latitude>41.142869</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.113853,41.142869,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Cross Park</name>
         <description>Cross Park</description>
         <LookAt>
@@ -66599,8 +66633,8 @@
           <coordinates>1.711098,41.223824,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Casa Andalucía centro de baile</name>
+        <description>Casa Andalucía centro de baile</description>
         <LookAt>
           <longitude>1.214954</longitude>
           <latitude>41.122716</latitude>
