@@ -26156,6 +26156,23 @@
           <coordinates>1.130531,41.077902,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Rayuela "ECU"</name>
+        <description>Rayuela "ECU"</description>
+        <LookAt>
+          <longitude>1.118806</longitude>
+          <latitude>41.140933</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.118806,41.140933,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>playground riera cambrils</name>
         <description>playground riera cambrils</description>
         <LookAt>
@@ -63709,6 +63726,23 @@
           <coordinates>1.256992,41.121426,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Dibuix colla castellera</name>
+        <description>Dibuix colla castellera</description>
+        <LookAt>
+          <longitude>1.243544</longitude>
+          <latitude>41.11034</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243544,41.11034,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Playground Bonifet</name>
         <description>Playground Bonifet</description>
         <LookAt>
@@ -64188,8 +64222,8 @@
         <name>Barca Pesquera</name>
         <description>Barca Pesquera</description>
         <LookAt>
-          <longitude>1.243917</longitude>
-          <latitude>41.110233</latitude>
+          <longitude>1.244003</longitude>
+          <latitude>41.110203</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -64199,7 +64233,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.243917,41.110233,0</coordinates>
+          <coordinates>1.244003,41.110203,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Penya del Reus Deportiu</name>

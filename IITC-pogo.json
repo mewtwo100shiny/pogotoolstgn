@@ -8930,6 +8930,12 @@
             "lng": 1.130531,
             "name": "Carrilet Prim"
         },
+        "3b472215000a43b49d692ad5f04bcd17.16": {
+            "guid": "3b472215000a43b49d692ad5f04bcd17.16",
+            "lat": 41.140933,
+            "lng": 1.118806,
+            "name": "Rayuela \"ECU\""
+        },
         "3b555f1cc4d943bd936e0cb50b4e67ae.16": {
             "guid": "3b555f1cc4d943bd936e0cb50b4e67ae.16",
             "lat": 41.071782,
@@ -22184,6 +22190,12 @@
             "lng": 1.256992,
             "name": "Graffiti"
         },
+        "f2a94a6e119b4dafba6bef91953e26ce.16": {
+            "guid": "f2a94a6e119b4dafba6bef91953e26ce.16",
+            "lat": 41.11034,
+            "lng": 1.243544,
+            "name": "Dibuix colla castellera"
+        },
         "f2b3939e1ee249a1b116dea2da4a12c7.16": {
             "guid": "f2b3939e1ee249a1b116dea2da4a12c7.16",
             "lat": 41.194931,
@@ -22354,8 +22366,8 @@
         },
         "f4f9d6e502794d958f38dab12158fbb3.16": {
             "guid": "f4f9d6e502794d958f38dab12158fbb3.16",
-            "lat": 41.110233,
-            "lng": 1.243917,
+            "lat": 41.110203,
+            "lng": 1.244003,
             "name": "Barca Pesquera"
         },
         "f501c136ccc341ef8b68410179ed1497.16": {
