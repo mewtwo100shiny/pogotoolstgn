@@ -5924,6 +5924,12 @@
             "lng": 1.093688,
             "name": "Horts Urbans"
         },
+        "1127fa3376e4428099f5125a6547a0c0.16": {
+            "guid": "1127fa3376e4428099f5125a6547a0c0.16",
+            "lat": 41.122276,
+            "lng": 1.216218,
+            "name": "unknown"
+        },
         "11337ae5d350499cb466df2cb35242dd.16": {
             "guid": "11337ae5d350499cb466df2cb35242dd.16",
             "lat": 41.122479,
@@ -9145,12 +9151,6 @@
             "lat": 41.116451,
             "lng": 1.217115,
             "name": "Carpa Nou Centre"
-        },
-        "3df807bd23754bbdae63b27cf7a90386.16": {
-            "guid": "3df807bd23754bbdae63b27cf7a90386.16",
-            "lat": 41.115971,
-            "lng": 1.249383,
-            "name": "Bajorrelieve de \u00e1rbol"
         },
         "3e15c58b409b441da72b4cc9c2470cc4.16": {
             "guid": "3e15c58b409b441da72b4cc9c2470cc4.16",
@@ -17269,6 +17269,12 @@
             "lat": 41.117757,
             "lng": 1.256881,
             "name": "Detall Ceramica Esteve Via Fontanals"
+        },
+        "af631218d4b94871b9ce92b41d3db60b.16": {
+            "guid": "af631218d4b94871b9ce92b41d3db60b.16",
+            "lat": 41.115783,
+            "lng": 1.248964,
+            "name": "Roman Graffiti"
         },
         "af89e619ff5b4b1e9bd4a7d3a688ce95.16": {
             "guid": "af89e619ff5b4b1e9bd4a7d3a688ce95.16",
