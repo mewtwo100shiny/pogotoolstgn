@@ -20733,6 +20733,23 @@
           <coordinates>1.099759,41.142689,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>centre de transferencia de tecnologia i innovacio</name>
+        <description>centre de transferencia de tecnologia i innovacio</description>
+        <LookAt>
+          <longitude>1.243432</longitude>
+          <latitude>41.130397</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243432,41.130397,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Piscina Municipal</name>
         <description>Piscina Municipal</description>
         <LookAt>
@@ -37716,6 +37733,23 @@
           <coordinates>1.129864,41.076037,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Fuente de H2O "ECU"</name>
+        <description>Fuente de H2O "ECU"</description>
+        <LookAt>
+          <longitude>1.101335</longitude>
+          <latitude>41.143592</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.101335,41.143592,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Ferro</name>
         <description>Ferro</description>
         <LookAt>
@@ -45194,6 +45228,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.212877,41.154556,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.217388</longitude>
+          <latitude>41.120424</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.217388,41.120424,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Guillem De Claramunt. Salou</name>
