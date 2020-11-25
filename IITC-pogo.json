@@ -1872,6 +1872,12 @@
             "lng": 1.20558,
             "name": "Monument al Doctor Pere Virgili"
         },
+        "66cecfc2cfe34a86ac0bbbe2431ab820.16": {
+            "guid": "66cecfc2cfe34a86ac0bbbe2431ab820.16",
+            "lat": 41.138725,
+            "lng": 1.108495,
+            "name": "unknown"
+        },
         "678b63c50fcf4dca97b8758a8f798c57.11": {
             "guid": "678b63c50fcf4dca97b8758a8f798c57.11",
             "lat": 41.157702,
@@ -12109,12 +12115,6 @@
             "lat": 41.118409,
             "lng": 1.245505,
             "name": "Recolectores"
-        },
-        "66cecfc2cfe34a86ac0bbbe2431ab820.16": {
-            "guid": "66cecfc2cfe34a86ac0bbbe2431ab820.16",
-            "lat": 41.138725,
-            "lng": 1.108495,
-            "name": "Graffiti de Ovni"
         },
         "66d4e2ea4cd343deb62870e0b67e4d6e.16": {
             "guid": "66d4e2ea4cd343deb62870e0b67e4d6e.16",

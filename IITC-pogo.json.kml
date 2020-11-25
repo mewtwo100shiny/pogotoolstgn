@@ -5705,6 +5705,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.108495</longitude>
+          <latitude>41.138725</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.108495,41.138725,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Fortuny (Condesito)</name>
         <description>Fortuny (Condesito)</description>
         <LookAt>
@@ -35164,23 +35182,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.245505,41.118409,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Graffiti de Ovni</name>
-        <description>Graffiti de Ovni</description>
-        <LookAt>
-          <longitude>1.108495</longitude>
-          <latitude>41.138725</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.108495,41.138725,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Fuente Redonda De La Iglesia</name>
