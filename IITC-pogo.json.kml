@@ -3815,6 +3815,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.293817</longitude>
+          <latitude>41.147636</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.293817,41.147636,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Parc Riuclar - Plaça Elena Regidor</name>
         <description>Parc Riuclar - Plaça Elena Regidor</description>
         <LookAt>
