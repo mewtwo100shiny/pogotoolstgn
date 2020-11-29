@@ -39197,6 +39197,23 @@
           <coordinates>1.710584,41.222362,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.101517</longitude>
+          <latitude>41.189572</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.101517,41.189572,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Gran Playground para los Jugones</name>
         <description>Gran Playground para los Jugones</description>
         <LookAt>
@@ -40130,6 +40147,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.399812,41.147357,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.290924</longitude>
+          <latitude>41.136727</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.290924,41.136727,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Giraffa fountain</name>
@@ -44788,6 +44822,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.250127,41.111784,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Capullos Voladores "ECU"</name>
+        <description>Capullos Voladores "ECU"</description>
+        <LookAt>
+          <longitude>1.110005</longitude>
+          <latitude>41.137722</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.110005,41.137722,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Nelson Mandela</name>
@@ -49703,6 +49754,23 @@
           <coordinates>1.134917,41.215564,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Centro internacional Universitat Rovira i Virgili</name>
+        <description>Centro internacional Universitat Rovira i Virgili</description>
+        <LookAt>
+          <longitude>1.245057</longitude>
+          <latitude>41.131494</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245057,41.131494,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Purple Football Skull</name>
         <description>Purple Football Skull</description>
         <LookAt>
@@ -54019,6 +54087,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.107458,41.155899,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.056217</longitude>
+          <latitude>41.067574</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.056217,41.067574,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Font Bombers</name>
@@ -60717,6 +60802,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>0.934604,40.998061,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Vaixell tradicional</name>
+        <description>Vaixell tradicional</description>
+        <LookAt>
+          <longitude>1.249363</longitude>
+          <latitude>41.114801</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.249363,41.114801,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Escultura Circular</name>
