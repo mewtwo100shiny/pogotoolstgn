@@ -13872,7 +13872,7 @@
             "guid": "7f228f08a5b64845b93efe99cf5d1e34.16",
             "lat": 41.136727,
             "lng": 1.290924,
-            "name": "unknown"
+            "name": "Cancha de Baloncesto"
         },
         "7f3f97af6092429f9858a5c67bc0a3da.16": {
             "guid": "7f3f97af6092429f9858a5c67bc0a3da.16",
@@ -18792,7 +18792,7 @@
             "guid": "c30944021cbb492cb4e3cdb89fe8619a.16",
             "lat": 41.067574,
             "lng": 1.056217,
-            "name": "unknown"
+            "name": "Parquecito"
         },
         "c315d2e682734790a3d690bf029824a1.16": {
             "guid": "c315d2e682734790a3d690bf029824a1.16",
@@ -22609,6 +22609,12 @@
             "lat": 41.085677,
             "lng": 1.157935,
             "name": "Totem De Polinesia"
+        },
+        "f6f164d42b9b441d9244357f874db0bc.16": {
+            "guid": "f6f164d42b9b441d9244357f874db0bc.16",
+            "lat": 41.138874,
+            "lng": 1.113378,
+            "name": "La Rata tristona\"ECU\""
         },
         "f6f68d4ff58c4df9b32affe582212686.16": {
             "guid": "f6f68d4ff58c4df9b32affe582212686.16",
