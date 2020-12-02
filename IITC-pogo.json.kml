@@ -62997,6 +62997,23 @@
           <coordinates>1.175354,41.069807,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Placa obsequio del ayuntamiento de Cambrils al barrio de Torreforta</name>
+        <description>Placa obsequio del ayuntamiento de Cambrils al barrio de Torreforta</description>
+        <LookAt>
+          <longitude>1.216949</longitude>
+          <latitude>41.120613</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.216949,41.120613,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Costa Dorada</name>
         <description>Costa Dorada</description>
         <LookAt>
