@@ -8042,6 +8042,12 @@
             "lng": 1.255596,
             "name": "Auditori del Camp de Mart"
         },
+        "2df9e94f12b54e7fabe30ed07eb49824.16": {
+            "guid": "2df9e94f12b54e7fabe30ed07eb49824.16",
+            "lat": 41.119616,
+            "lng": 1.219402,
+            "name": "Serpiente en copa."
+        },
         "2e044928ef164818865bb5d7432d8af8.16": {
             "guid": "2e044928ef164818865bb5d7432d8af8.16",
             "lat": 41.196483,
@@ -12931,6 +12937,12 @@
             "lat": 41.135783,
             "lng": 1.273218,
             "name": "Spanish Traditions"
+        },
+        "72602f418db54bc19a0a5eded26eb479.16": {
+            "guid": "72602f418db54bc19a0a5eded26eb479.16",
+            "lat": 41.119187,
+            "lng": 1.218102,
+            "name": "Grafiti Ara\u00f1a con movil."
         },
         "7266d343e0b343cd91013891f7d9f72d.16": {
             "guid": "7266d343e0b343cd91013891f7d9f72d.16",
@@ -20052,7 +20064,7 @@
             "guid": "d4c538837bcb4aadbb6270ae64e0c641.16",
             "lat": 41.12107,
             "lng": 1.219672,
-            "name": "unknown"
+            "name": "Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta."
         },
         "d5202a188cb0427c851d725dbf02025d.16": {
             "guid": "d5202a188cb0427c851d725dbf02025d.16",

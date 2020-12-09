@@ -23642,6 +23642,23 @@
           <coordinates>1.255596,41.119921,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Serpiente en copa.</name>
+        <description>Serpiente en copa.</description>
+        <LookAt>
+          <longitude>1.219402</longitude>
+          <latitude>41.119616</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.219402,41.119616,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Cementiri Municipal</name>
         <description>Cementiri Municipal</description>
         <LookAt>
@@ -37495,6 +37512,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.273218,41.135783,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Grafiti Araña con movil.</name>
+        <description>Grafiti Araña con movil.</description>
+        <LookAt>
+          <longitude>1.218102</longitude>
+          <latitude>41.119187</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.218102,41.119187,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Plànol Sant Salvador Sud</name>
@@ -57659,8 +57693,8 @@
           <coordinates>0.926815,40.989426,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta.</name>
+        <description>Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta.</description>
         <LookAt>
           <longitude>1.219672</longitude>
           <latitude>41.12107</latitude>
