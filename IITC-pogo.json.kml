@@ -14496,8 +14496,8 @@
           <coordinates>1.104161,41.154463,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Le Pont du Diable</name>
-        <description>Le Pont du Diable</description>
+        <name>El Puente del Diablo</name>
+        <description>El Puente del Diablo</description>
         <LookAt>
           <longitude>1.243104</longitude>
           <latitude>41.146974</latitude>
@@ -35797,8 +35797,8 @@
           <coordinates>1.255836,41.118472,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Tintin Sorprendido</name>
+        <description>Tintin Sorprendido</description>
         <LookAt>
           <longitude>1.21688</longitude>
           <latitude>41.117706</latitude>
