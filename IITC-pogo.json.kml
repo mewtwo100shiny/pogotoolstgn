@@ -44943,6 +44943,23 @@
           <coordinates>1.104055,41.149244,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Angry Hulk</name>
+        <description>Angry Hulk</description>
+        <LookAt>
+          <longitude>1.103122</longitude>
+          <latitude>41.159842</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.103122,41.159842,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Foham Graffiti</name>
         <description>Foham Graffiti</description>
         <LookAt>
