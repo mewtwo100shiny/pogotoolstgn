@@ -44640,8 +44640,8 @@
         <name>Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta.</name>
         <description>Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta.</description>
         <LookAt>
-          <longitude>1.219672</longitude>
-          <latitude>41.12107</latitude>
+          <longitude>1.219735</longitude>
+          <latitude>41.121081</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -44651,7 +44651,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.219672,41.12107,0</coordinates>
+          <coordinates>1.219735,41.121081,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Área infantil Calle Murillo</name>
