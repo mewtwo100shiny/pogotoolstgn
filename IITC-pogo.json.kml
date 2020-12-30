@@ -29915,6 +29915,23 @@
           <coordinates>1.116225,41.13521,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Casa N5</name>
+        <description>Casa N5</description>
+        <LookAt>
+          <longitude>1.05195</longitude>
+          <latitude>41.074894</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.05195,41.074894,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Esglèsia Santa Tecla Llevant</name>
         <description>Esglèsia Santa Tecla Llevant</description>
         <LookAt>
@@ -30865,6 +30882,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.047044,41.078738,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Arbol Rojo</name>
+        <description>Arbol Rojo</description>
+        <LookAt>
+          <longitude>1.111806</longitude>
+          <latitude>41.143892</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.111806,41.143892,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Playground Riuclar</name>
