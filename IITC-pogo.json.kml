@@ -25580,6 +25580,23 @@
           <coordinates>1.244096,41.118145,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.277581</longitude>
+          <latitude>41.150222</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.277581,41.150222,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Mas Vilanova Playground</name>
         <description>Mas Vilanova Playground</description>
         <LookAt>
@@ -34913,8 +34930,8 @@
           <coordinates>1.056836,41.065159,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Juegos infantiles</name>
-        <description>Juegos infantiles</description>
+        <name>Pato amarillo</name>
+        <description>Pato amarillo</description>
         <LookAt>
           <longitude>1.099956</longitude>
           <latitude>41.077982</latitude>
@@ -42408,23 +42425,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.102091,41.17561,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Pérgolas florales parc pescador</name>
-        <description>Pérgolas florales parc pescador</description>
-        <LookAt>
-          <longitude>1.056632</longitude>
-          <latitude>41.065454</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.056632,41.065454,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Teatre Tarragona</name>

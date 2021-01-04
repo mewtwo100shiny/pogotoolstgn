@@ -8726,6 +8726,12 @@
             "lng": 1.244096,
             "name": "Ocell de l'estaci\u00f3"
         },
+        "50cfdaf6c2c643b6a7fbde55157ee361.16": {
+            "guid": "50cfdaf6c2c643b6a7fbde55157ee361.16",
+            "lat": 41.150222,
+            "lng": 1.277581,
+            "name": "unknown"
+        },
         "50d4976bdac84fff8a7f9c7f6e4bd9b6.16": {
             "guid": "50d4976bdac84fff8a7f9c7f6e4bd9b6.16",
             "lat": 41.147144,
@@ -12024,7 +12030,7 @@
             "guid": "9278cabf38534ff58ef3c6f7d6bc332e.16",
             "lat": 41.077982,
             "lng": 1.099956,
-            "name": "Juegos infantiles"
+            "name": "Pato amarillo"
         },
         "928117fc52d6478096604c41f2ba56f3.16": {
             "guid": "928117fc52d6478096604c41f2ba56f3.16",
@@ -14665,12 +14671,6 @@
             "lat": 41.17561,
             "lng": 1.102091,
             "name": "Punt de CORREU"
-        },
-        "c578cedf8b234fcc9064ef3e60e64167.16": {
-            "guid": "c578cedf8b234fcc9064ef3e60e64167.16",
-            "lat": 41.065454,
-            "lng": 1.056632,
-            "name": "P\u00e9rgolas florales parc pescador"
         },
         "c590a344852946e2a1e93eaab814fb89.16": {
             "guid": "c590a344852946e2a1e93eaab814fb89.16",
