@@ -1524,6 +1524,12 @@
             "lng": 1.203654,
             "name": "Camp futbol Vilallonga"
         },
+        "55230ed3ab3d455fbc234d6e357aa330.16": {
+            "guid": "55230ed3ab3d455fbc234d6e357aa330.16",
+            "lat": 41.154398,
+            "lng": 1.101445,
+            "name": "unknown"
+        },
         "5549aa56925b4b048dfb4603bc21a698.11": {
             "guid": "5549aa56925b4b048dfb4603bc21a698.11",
             "lat": 41.189003,
@@ -9032,12 +9038,6 @@
             "lng": 1.142746,
             "name": "Parc Infantil de Fusta"
         },
-        "55230ed3ab3d455fbc234d6e357aa330.16": {
-            "guid": "55230ed3ab3d455fbc234d6e357aa330.16",
-            "lat": 41.154398,
-            "lng": 1.101445,
-            "name": "Estaci\u00f3 Enol\u00f2gica"
-        },
         "556102ef4ec34f679289d184ff6ef77b.16": {
             "guid": "556102ef4ec34f679289d184ff6ef77b.16",
             "lat": 41.15226,
@@ -15469,6 +15469,12 @@
             "lat": 41.121081,
             "lng": 1.219735,
             "name": "Placa obsequio del ayuntamiento de Ribarroja del ebro al barrio de torreforta."
+        },
+        "d4efe1911ceb46359141707127aced47.16": {
+            "guid": "d4efe1911ceb46359141707127aced47.16",
+            "lat": 41.152808,
+            "lng": 1.097663,
+            "name": "Big Ben"
         },
         "d538e56b6a804c95afe7f1bccc5e859f.16": {
             "guid": "d538e56b6a804c95afe7f1bccc5e859f.16",
