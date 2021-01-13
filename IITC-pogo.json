@@ -4020,6 +4020,12 @@
             "lng": 0.976078,
             "name": "Els Porxos"
         },
+        "dd6a6edb396e4e5ab8670c3b2bb511d5.16": {
+            "guid": "dd6a6edb396e4e5ab8670c3b2bb511d5.16",
+            "lat": 41.149113,
+            "lng": 1.091983,
+            "name": "unknown"
+        },
         "ddbc038c7f5842499f5f4544eba21ffb.16": {
             "guid": "ddbc038c7f5842499f5f4544eba21ffb.16",
             "lat": 41.077463,
@@ -10700,6 +10706,12 @@
             "lng": 1.074903,
             "name": "Hnos Blanco"
         },
+        "78878348cef74024a6d8795796601ef6.16": {
+            "guid": "78878348cef74024a6d8795796601ef6.16",
+            "lat": 41.117135,
+            "lng": 1.225537,
+            "name": "Pou d'Icomar"
+        },
         "78a7562c605b42b2aae3cf6c5c94cd1b.11": {
             "guid": "78a7562c605b42b2aae3cf6c5c94cd1b.11",
             "lat": 41.152979,
@@ -15920,12 +15932,6 @@
             "lng": 1.06891,
             "name": "Campo f\u00fatbol playa"
         },
-        "dd6a6edb396e4e5ab8670c3b2bb511d5.16": {
-            "guid": "dd6a6edb396e4e5ab8670c3b2bb511d5.16",
-            "lat": 41.149113,
-            "lng": 1.091983,
-            "name": "Dark ladyz"
-        },
         "dd8566198ea24881be7e6604e6c3ea66.16": {
             "guid": "dd8566198ea24881be7e6604e6c3ea66.16",
             "lat": 41.084281,
@@ -17623,6 +17629,12 @@
             "lat": 41.153688,
             "lng": 1.101064,
             "name": "Iglesia Movimiento Misionero"
+        },
+        "faeb34b7669746a48d56d765ff42354f.16": {
+            "guid": "faeb34b7669746a48d56d765ff42354f.16",
+            "lat": 41.147947,
+            "lng": 1.092146,
+            "name": "Black Ufoman"
         },
         "fb00a76c5eaf46f29474c2ce09d1550a.16": {
             "guid": "fb00a76c5eaf46f29474c2ce09d1550a.16",
