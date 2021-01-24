@@ -28714,8 +28714,8 @@
         <name>Tinglado Del Port De Tarragona</name>
         <description>Tinglado Del Port De Tarragona</description>
         <LookAt>
-          <longitude>1.24618</longitude>
-          <latitude>41.109505</latitude>
+          <longitude>1.2462</longitude>
+          <latitude>41.109567</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -28725,7 +28725,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.24618,41.109505,0</coordinates>
+          <coordinates>1.2462,41.109567,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>No human girl</name>
@@ -39470,6 +39470,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.087191,41.156879,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Placa conmemorativa Tereca</name>
+        <description>Placa conmemorativa Tereca</description>
+        <LookAt>
+          <longitude>1.271632</longitude>
+          <latitude>41.121796</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.271632,41.121796,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Botanic Playground</name>
