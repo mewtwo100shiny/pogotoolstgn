@@ -11951,6 +11951,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.031806</longitude>
+          <latitude>41.057869</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.031806,41.057869,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Mapa Del Baix-Camp A L'Hospitalet</name>
         <description>Mapa Del Baix-Camp A L'Hospitalet</description>
         <LookAt>
@@ -21076,6 +21094,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.105847,41.076225,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Ponts de Fusta</name>
+        <description>Ponts de Fusta</description>
+        <LookAt>
+          <longitude>1.031004</longitude>
+          <latitude>41.05725</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.031004,41.05725,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Esglesia Santa Maria</name>
@@ -43807,6 +43842,23 @@
           <coordinates>1.061438,41.062856,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.033161</longitude>
+          <latitude>41.057673</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.033161,41.057673,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Piscina Municipal Serrallo</name>
         <description>Piscina Municipal Serrallo</description>
         <LookAt>
@@ -45284,23 +45336,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.241833,41.11969,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Parque Infantil Junto Al Mar Con Barco</name>
-        <description>Parque Infantil Junto Al Mar Con Barco</description>
-        <LookAt>
-          <longitude>1.031806</longitude>
-          <latitude>41.057869</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.031806,41.057869,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Iglesia de Jesucristo de los Santos de los Últimos Días</name>
