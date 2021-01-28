@@ -34968,6 +34968,23 @@
           <coordinates>1.145573,41.108865,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pivotes Bloque España</name>
+        <description>Pivotes Bloque España</description>
+        <LookAt>
+          <longitude>1.213687</longitude>
+          <latitude>41.117062</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.213687,41.117062,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>PlayGround Sangrada Familia</name>
         <description>PlayGround Sangrada Familia</description>
         <LookAt>
