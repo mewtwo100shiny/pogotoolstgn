@@ -27471,6 +27471,23 @@
           <coordinates>1.217666,41.122037,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Una ventana a otro mundo</name>
+        <description>Una ventana a otro mundo</description>
+        <LookAt>
+          <longitude>1.243095</longitude>
+          <latitude>41.115368</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243095,41.115368,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Bancos la Pineda</name>
         <description>Bancos la Pineda</description>
         <LookAt>
@@ -43670,6 +43687,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.272918,41.137436,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>AAVV MONESTIR</name>
+        <description>AAVV MONESTIR</description>
+        <LookAt>
+          <longitude>1.105964</longitude>
+          <latitude>41.146299</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.105964,41.146299,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Playground Near Beach</name>
