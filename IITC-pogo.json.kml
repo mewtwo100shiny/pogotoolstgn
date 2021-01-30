@@ -42859,8 +42859,8 @@
         <name>Mujer En La Luz</name>
         <description>Mujer En La Luz</description>
         <LookAt>
-          <longitude>1.10367</longitude>
-          <latitude>41.150579</latitude>
+          <longitude>1.103546</longitude>
+          <latitude>41.150766</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -42870,7 +42870,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.10367,41.150579,0</coordinates>
+          <coordinates>1.103546,41.150766,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Correos Cambrils</name>
