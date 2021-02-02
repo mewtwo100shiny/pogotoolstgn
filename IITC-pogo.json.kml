@@ -17152,6 +17152,23 @@
           <coordinates>1.242787,41.117099,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Ajuntament de Tarragona</name>
+        <description>Ajuntament de Tarragona</description>
+        <LookAt>
+          <longitude>1.254392</longitude>
+          <latitude>41.117363</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.254392,41.117363,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Biblioteca Municipal</name>
         <description>Biblioteca Municipal</description>
         <LookAt>
@@ -27299,6 +27316,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104568,41.155597,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Casa Emilio Corbella Guinovart</name>
+        <description>Casa Emilio Corbella Guinovart</description>
+        <LookAt>
+          <longitude>1.25432</longitude>
+          <latitude>41.117686</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.25432,41.117686,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Playground 3 Colores</name>
