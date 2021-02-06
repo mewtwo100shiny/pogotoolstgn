@@ -1528,7 +1528,7 @@
             "guid": "55230ed3ab3d455fbc234d6e357aa330.16",
             "lat": 41.154398,
             "lng": 1.101445,
-            "name": "unknown"
+            "name": "Estaci\u00f3 Enol\u00f2gica"
         },
         "5549aa56925b4b048dfb4603bc21a698.11": {
             "guid": "5549aa56925b4b048dfb4603bc21a698.11",
@@ -3958,7 +3958,7 @@
             "guid": "d8bf1a73a2bf4b298e189172052bcbcd.16",
             "lat": 41.057869,
             "lng": 1.031806,
-            "name": "unknown"
+            "name": "Parque Infantil Junto Al Mar Con Barco"
         },
         "d914eab88f0f4376b9f3f7463e8d87e4.16": {
             "guid": "d914eab88f0f4376b9f3f7463e8d87e4.16",
@@ -4036,7 +4036,7 @@
             "guid": "dd6a6edb396e4e5ab8670c3b2bb511d5.16",
             "lat": 41.149113,
             "lng": 1.091983,
-            "name": "unknown"
+            "name": "Dark ladyz"
         },
         "ddbc038c7f5842499f5f4544eba21ffb.16": {
             "guid": "ddbc038c7f5842499f5f4544eba21ffb.16",
@@ -9259,6 +9259,12 @@
             "lat": 41.145151,
             "lng": 1.272086,
             "name": "Les Banyes"
+        },
+        "5919bd3de8b3446baa15873e4ffc57b0.16": {
+            "guid": "5919bd3de8b3446baa15873e4ffc57b0.16",
+            "lat": 41.120337,
+            "lng": 1.277449,
+            "name": "Puente con pergolas"
         },
         "59683eff094b4a22ac7fa7d0f7927827.16": {
             "guid": "59683eff094b4a22ac7fa7d0f7927827.16",
