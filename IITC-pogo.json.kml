@@ -5060,8 +5060,8 @@
         <name>Plaza Mayor Campoclaro</name>
         <description>Plaza Mayor Campoclaro</description>
         <LookAt>
-          <longitude>1.209805</longitude>
-          <latitude>41.117882</latitude>
+          <longitude>1.210274</longitude>
+          <latitude>41.117318</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -5071,7 +5071,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.209805,41.117882,0</coordinates>
+          <coordinates>1.210274,41.117318,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -14262,6 +14262,23 @@
           <coordinates>1.10265,41.150562,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pista Multirecreativa Campoclaro</name>
+        <description>Pista Multirecreativa Campoclaro</description>
+        <LookAt>
+          <longitude>1.209947</longitude>
+          <latitude>41.117608</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.209947,41.117608,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Club Natació Tàrraco</name>
         <description>Club Natació Tàrraco</description>
         <LookAt>
@@ -19921,6 +19938,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10046,41.146756,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>World Water Flower</name>
+        <description>World Water Flower</description>
+        <LookAt>
+          <longitude>1.177299</longitude>
+          <latitude>41.066772</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.177299,41.066772,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Azulejo antiguo"ECU"</name>
@@ -32569,6 +32603,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.118437,41.074686,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Església Antiga</name>
+        <description>Església Antiga</description>
+        <LookAt>
+          <longitude>1.05163</longitude>
+          <latitude>41.075209</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.05163,41.075209,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Ulls Tancats</name>

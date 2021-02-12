@@ -1658,8 +1658,8 @@
         },
         "5d7509c9f2a34726927c1fc8ed32c837.16": {
             "guid": "5d7509c9f2a34726927c1fc8ed32c837.16",
-            "lat": 41.117882,
-            "lng": 1.209805,
+            "lat": 41.117318,
+            "lng": 1.210274,
             "name": "Plaza Mayor Campoclaro"
         },
         "5d94150531694242af2766b2f0c065a1.11": {
@@ -4730,6 +4730,12 @@
             "lng": 1.10265,
             "name": "Parc Infantil Pedrol"
         },
+        "0211393497444118aac043ffce16390a.16": {
+            "guid": "0211393497444118aac043ffce16390a.16",
+            "lat": 41.117608,
+            "lng": 1.209947,
+            "name": "Pista Multirecreativa Campoclaro"
+        },
         "022ba6bc564247118bb9f8e2e1a66be5.16": {
             "guid": "022ba6bc564247118bb9f8e2e1a66be5.16",
             "lat": 41.11966,
@@ -6727,6 +6733,12 @@
             "lat": 41.146756,
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
+        },
+        "27aefcc49abe4efa8a086274e5ab1b57.16": {
+            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
+            "lat": 41.066772,
+            "lng": 1.177299,
+            "name": "World Water Flower"
         },
         "27b8c2ce742840ae844abc0584414bea.16": {
             "guid": "27b8c2ce742840ae844abc0584414bea.16",
@@ -11191,6 +11203,12 @@
             "lat": 41.074686,
             "lng": 1.118437,
             "name": "Dona Sense Bra\u00e7os"
+        },
+        "80494a1699674c9a9ff9f9ec55e54baf.16": {
+            "guid": "80494a1699674c9a9ff9f9ec55e54baf.16",
+            "lat": 41.075209,
+            "lng": 1.05163,
+            "name": "Esgl\u00e9sia Antiga"
         },
         "8088eea6c6834f2288bd8ac14d34328a.16": {
             "guid": "8088eea6c6834f2288bd8ac14d34328a.16",
