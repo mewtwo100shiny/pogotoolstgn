@@ -26111,6 +26111,23 @@
           <coordinates>1.166599,41.061963,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Castellers De Vilafranca</name>
+        <description>Castellers De Vilafranca</description>
+        <LookAt>
+          <longitude>1.247981</longitude>
+          <latitude>41.109186</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.247981,41.109186,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Parque infantil La granja</name>
         <description>Parque infantil La granja</description>
         <LookAt>
@@ -31787,6 +31804,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.215404,41.116916,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Asociación De Vecinos Del Puerto De Tarragona</name>
+        <description>Asociación De Vecinos Del Puerto De Tarragona</description>
+        <LookAt>
+          <longitude>1.248447</longitude>
+          <latitude>41.110975</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.248447,41.110975,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Església Nova Apostòlica</name>
