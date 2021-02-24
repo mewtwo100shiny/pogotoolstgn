@@ -6802,8 +6802,8 @@
         },
         "2980d717dfc647f9b340f0efcbb8c926.16": {
             "guid": "2980d717dfc647f9b340f0efcbb8c926.16",
-            "lat": 41.119013,
-            "lng": 1.266123,
+            "lat": 41.119184,
+            "lng": 1.265971,
             "name": "Llevant Playground"
         },
         "298b2dfa57824bbf8f08201540405a6a.16": {
@@ -13705,6 +13705,12 @@
             "lat": 41.121796,
             "lng": 1.271632,
             "name": "Placa conmemorativa Tereca"
+        },
+        "b0ff110a7c464719ab37a5af1378523c.16": {
+            "guid": "b0ff110a7c464719ab37a5af1378523c.16",
+            "lat": 41.116408,
+            "lng": 1.24713,
+            "name": "Placa commemorativa Marc i Motllures Prats-2"
         },
         "b104de9ca2fa437eba25a907c6a41b44.16": {
             "guid": "b104de9ca2fa437eba25a907c6a41b44.16",
