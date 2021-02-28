@@ -39694,8 +39694,8 @@
           <coordinates>1.271632,41.121796,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Placa commemorativa Marc i Motllures Prats-2</name>
-        <description>Placa commemorativa Marc i Motllures Prats-2</description>
+        <name>Placa commemorativa Marcs i Motllures Prats-2</name>
+        <description>Placa commemorativa Marcs i Motllures Prats-2</description>
         <LookAt>
           <longitude>1.24713</longitude>
           <latitude>41.116408</latitude>
@@ -41018,23 +41018,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.056552,41.06732,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Salou</name>
-        <description>Salou</description>
-        <LookAt>
-          <longitude>1.12913</longitude>
-          <latitude>41.094043</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.12913,41.094043,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Guernica Tarragoní</name>
