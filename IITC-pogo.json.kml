@@ -29460,6 +29460,23 @@
           <coordinates>1.274554,41.145517,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Fuente de agua "Suadak"</name>
+        <description>Fuente de agua "Suadak"</description>
+        <LookAt>
+          <longitude>1.110852</longitude>
+          <latitude>41.140202</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.110852,41.140202,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>El Lleo I El Bou</name>
         <description>El Lleo I El Bou</description>
         <LookAt>
@@ -47956,8 +47973,8 @@
           <coordinates>1.255795,41.116682,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Playgtound"Saudak"</name>
-        <description>Playgtound"Saudak"</description>
+        <name>Parc infantil del carrer de la Mussara</name>
+        <description>Parc infantil del carrer de la Mussara</description>
         <LookAt>
           <longitude>1.114977</longitude>
           <latitude>41.136478</latitude>
@@ -48401,8 +48418,8 @@
         <name>Pistas de Basket</name>
         <description>Pistas de Basket</description>
         <LookAt>
-          <longitude>1.11109</longitude>
-          <latitude>41.140314</latitude>
+          <longitude>1.111161</longitude>
+          <latitude>41.140476</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -48412,7 +48429,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.11109,41.140314,0</coordinates>
+          <coordinates>1.111161,41.140476,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Gurugú</name>

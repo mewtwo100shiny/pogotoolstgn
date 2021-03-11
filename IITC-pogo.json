@@ -10094,6 +10094,12 @@
             "lng": 1.274554,
             "name": "Comella Natura"
         },
+        "6ba1212c03f74929a45b46729ce5b13f.16": {
+            "guid": "6ba1212c03f74929a45b46729ce5b13f.16",
+            "lat": 41.140202,
+            "lng": 1.110852,
+            "name": "Fuente de agua \"Suadak\""
+        },
         "6bb1265c8c814ed59ebd560c53933df6.16": {
             "guid": "6bb1265c8c814ed59ebd560c53933df6.16",
             "lat": 41.135087,
@@ -16626,7 +16632,7 @@
             "guid": "e7f8added6964228b1bde713c6b35c77.16",
             "lat": 41.136478,
             "lng": 1.114977,
-            "name": "Playgtound\"Saudak\""
+            "name": "Parc infantil del carrer de la Mussara"
         },
         "e843c59b0e1e4c0dbdd5a33773417061.16": {
             "guid": "e843c59b0e1e4c0dbdd5a33773417061.16",
@@ -16780,8 +16786,8 @@
         },
         "ebbeb356a39e4e43b1e60d8f841c7768.16": {
             "guid": "ebbeb356a39e4e43b1e60d8f841c7768.16",
-            "lat": 41.140314,
-            "lng": 1.11109,
+            "lat": 41.140476,
+            "lng": 1.111161,
             "name": "Pistas de Basket"
         },
         "ebc8f299433843e4ab583bdf48583362.16": {
