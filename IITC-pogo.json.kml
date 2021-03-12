@@ -51679,6 +51679,23 @@
           <coordinates>1.099531,41.161815,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Mosaic mitològic</name>
+        <description>Mosaic mitològic</description>
+        <LookAt>
+          <longitude>1.11045</longitude>
+          <latitude>41.160137</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.11045,41.160137,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Antiga Clínica Sta Tecla</name>
         <description>Antiga Clínica Sta Tecla</description>
         <LookAt>
