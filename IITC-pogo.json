@@ -8736,7 +8736,7 @@
             "guid": "4fec07d8ce7c4713bd6d4db4d1bd85fe.16",
             "lat": 41.073237,
             "lng": 1.129832,
-            "name": "Balise B\u00e2bord"
+            "name": "Far"
         },
         "4fee28fe79c848f4b787f0f5ef152d14.16": {
             "guid": "4fee28fe79c848f4b787f0f5ef152d14.16",
@@ -10386,7 +10386,7 @@
             "guid": "710a42ae1ce946baa321281c46bfdc14.16",
             "lat": 41.139514,
             "lng": 1.114296,
-            "name": "Fuente de H\u00b2O \"ECU\""
+            "name": "Font barri Fortuny"
         },
         "710f488262924e2299badb9be3d67d7b.16": {
             "guid": "710f488262924e2299badb9be3d67d7b.16",
@@ -15295,6 +15295,12 @@
             "lat": 41.120519,
             "lng": 1.25822,
             "name": "Font del Centenari"
+        },
+        "ceb91d5e04b74a4e937bdd377c199013.16": {
+            "guid": "ceb91d5e04b74a4e937bdd377c199013.16",
+            "lat": 41.15802,
+            "lng": 1.099974,
+            "name": "unknown"
         },
         "cebc965f10c64703994ec9b112c782ea.16": {
             "guid": "cebc965f10c64703994ec9b112c782ea.16",
