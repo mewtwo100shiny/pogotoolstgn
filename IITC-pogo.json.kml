@@ -33761,6 +33761,23 @@
           <coordinates>1.255023,41.120361,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Mas Domenech</name>
+        <description>Mas Domenech</description>
+        <LookAt>
+          <longitude>1.099243</longitude>
+          <latitude>41.152906</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.099243,41.152906,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>A Joan Virgili</name>
         <description>A Joan Virgili</description>
         <LookAt>
@@ -34813,6 +34830,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.184615,41.081613,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Bàsquet Mar Cambrils.</name>
+        <description>Bàsquet Mar Cambrils.</description>
+        <LookAt>
+          <longitude>1.032584</longitude>
+          <latitude>41.063002</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.032584,41.063002,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Monòlit de Pedra</name>
@@ -44199,8 +44233,8 @@
           <coordinates>1.25822,41.120519,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Trobada motos clàssiques</name>
+        <description>Trobada motos clàssiques</description>
         <LookAt>
           <longitude>1.099974</longitude>
           <latitude>41.15802</latitude>

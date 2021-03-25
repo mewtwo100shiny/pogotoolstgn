@@ -11612,6 +11612,12 @@
             "lng": 1.255023,
             "name": "Catsalut"
         },
+        "8886b6fbb05d4539b214492f921d3116.16": {
+            "guid": "8886b6fbb05d4539b214492f921d3116.16",
+            "lat": 41.152906,
+            "lng": 1.099243,
+            "name": "Mas Domenech"
+        },
         "88998e4c1cbd4232aa00f724c392a0fe.16": {
             "guid": "88998e4c1cbd4232aa00f724c392a0fe.16",
             "lat": 41.115553,
@@ -11983,6 +11989,12 @@
             "lat": 41.081613,
             "lng": 1.184615,
             "name": "Graffiti Pins"
+        },
+        "8fe463dfa11d44e8b584cdd5b21e7a4c.16": {
+            "guid": "8fe463dfa11d44e8b584cdd5b21e7a4c.16",
+            "lat": 41.063002,
+            "lng": 1.032584,
+            "name": "B\u00e0squet Mar Cambrils."
         },
         "900dc745f2ce40828a612a805e688475.16": {
             "guid": "900dc745f2ce40828a612a805e688475.16",
@@ -15300,7 +15312,7 @@
             "guid": "ceb91d5e04b74a4e937bdd377c199013.16",
             "lat": 41.15802,
             "lng": 1.099974,
-            "name": "unknown"
+            "name": "Trobada motos cl\u00e0ssiques"
         },
         "cebc965f10c64703994ec9b112c782ea.16": {
             "guid": "cebc965f10c64703994ec9b112c782ea.16",
