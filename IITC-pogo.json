@@ -12818,12 +12818,6 @@
             "lng": 1.103623,
             "name": "Smoke Graffiti"
         },
-        "9e61b1ff452e434f98b7b1a86bdf124a.16": {
-            "guid": "9e61b1ff452e434f98b7b1a86bdf124a.16",
-            "lat": 41.121416,
-            "lng": 1.25788,
-            "name": "Co\u0140legi Sant Pau Ap\u00f2stol"
-        },
         "9e7da9396b3c47d7a307cae2468a4b63.16": {
             "guid": "9e7da9396b3c47d7a307cae2468a4b63.16",
             "lat": 41.118135,
@@ -13855,6 +13849,12 @@
             "lat": 41.074305,
             "lng": 1.047645,
             "name": "Almacen De Agua"
+        },
+        "b2cb4e8fed9040e4b86b89eff9562682.16": {
+            "guid": "b2cb4e8fed9040e4b86b89eff9562682.16",
+            "lat": 41.111137,
+            "lng": 1.236999,
+            "name": "Alien\u00edgena dentado"
         },
         "b314bbd6e12b46998b418caae92dc18e.16": {
             "guid": "b314bbd6e12b46998b418caae92dc18e.16",
@@ -16936,8 +16936,8 @@
         },
         "ece8ecc51ae74f1c8f5888f9cfb835a4.16": {
             "guid": "ece8ecc51ae74f1c8f5888f9cfb835a4.16",
-            "lat": 41.053422,
-            "lng": 1.024435,
+            "lat": 41.053574,
+            "lng": 1.024653,
             "name": "Relieve De Buda"
         },
         "ecfb43c34f91482c97575d5a21091b3f.16": {

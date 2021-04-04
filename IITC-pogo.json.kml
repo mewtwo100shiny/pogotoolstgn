@@ -37179,23 +37179,6 @@
           <coordinates>1.103623,41.152279,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Coŀlegi Sant Pau Apòstol</name>
-        <description>Coŀlegi Sant Pau Apòstol</description>
-        <LookAt>
-          <longitude>1.25788</longitude>
-          <latitude>41.121416</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.25788,41.121416,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Sant Antoni Fountain</name>
         <description>Sant Antoni Fountain</description>
         <LookAt>
@@ -40118,6 +40101,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.047645,41.074305,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Alienígena dentado</name>
+        <description>Alienígena dentado</description>
+        <LookAt>
+          <longitude>1.236999</longitude>
+          <latitude>41.111137</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.236999,41.111137,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Font verda</name>
@@ -48844,8 +48844,8 @@
         <name>Relieve De Buda</name>
         <description>Relieve De Buda</description>
         <LookAt>
-          <longitude>1.024435</longitude>
-          <latitude>41.053422</latitude>
+          <longitude>1.024653</longitude>
+          <latitude>41.053574</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -48855,7 +48855,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.024435,41.053422,0</coordinates>
+          <coordinates>1.024653,41.053574,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Kursaal</name>
