@@ -1164,6 +1164,12 @@
             "lng": 1.262291,
             "name": "Pilons pintats"
         },
+        "3dd6e0c7d8b34114b82aac91b7f09075.16": {
+            "guid": "3dd6e0c7d8b34114b82aac91b7f09075.16",
+            "lat": 41.116451,
+            "lng": 1.217115,
+            "name": "unknown"
+        },
         "3ed5deb1cdba4e91891203b6d56e0adf.16": {
             "guid": "3ed5deb1cdba4e91891203b6d56e0adf.16",
             "lat": 41.158405,
@@ -4790,6 +4796,12 @@
             "lng": 1.100295,
             "name": "Mosaic del Peixos"
         },
+        "02cdf532ae794840a4f3146ad6adb7b8.16": {
+            "guid": "02cdf532ae794840a4f3146ad6adb7b8.16",
+            "lat": 41.123233,
+            "lng": 1.284674,
+            "name": "unknown"
+        },
         "02eb2f7769cf4c7481f8040ce9efc5db.16": {
             "guid": "02eb2f7769cf4c7481f8040ce9efc5db.16",
             "lat": 41.11802,
@@ -6746,12 +6758,6 @@
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
         },
-        "27aefcc49abe4efa8a086274e5ab1b57.16": {
-            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
-            "lat": 41.066772,
-            "lng": 1.177299,
-            "name": "World Water Flower"
-        },
         "27b8c2ce742840ae844abc0584414bea.16": {
             "guid": "27b8c2ce742840ae844abc0584414bea.16",
             "lat": 41.152166,
@@ -7825,12 +7831,6 @@
             "lat": 41.111848,
             "lng": 1.142785,
             "name": "Castel Spiderman"
-        },
-        "3dd6e0c7d8b34114b82aac91b7f09075.16": {
-            "guid": "3dd6e0c7d8b34114b82aac91b7f09075.16",
-            "lat": 41.116451,
-            "lng": 1.217115,
-            "name": "Carpa Nou Centre"
         },
         "3e15c58b409b441da72b4cc9c2470cc4.16": {
             "guid": "3e15c58b409b441da72b4cc9c2470cc4.16",
@@ -9145,6 +9145,12 @@
             "lat": 41.108683,
             "lng": 1.251316,
             "name": "Arco\u00edris de acero"
+        },
+        "56d4395c582149119c2185ff6d9bede0.16": {
+            "guid": "56d4395c582149119c2185ff6d9bede0.16",
+            "lat": 41.117726,
+            "lng": 1.218095,
+            "name": "El Gran Tibur\u00f3n"
         },
         "56d9c6378fc44243b4e8dd68d116c968.16": {
             "guid": "56d9c6378fc44243b4e8dd68d116c968.16",
@@ -17863,6 +17869,12 @@
             "lat": 41.076774,
             "lng": 1.139128,
             "name": "Setaman"
+        },
+        "fc67d5968bb8490e936736a1b5a79f21.16": {
+            "guid": "fc67d5968bb8490e936736a1b5a79f21.16",
+            "lat": 41.110502,
+            "lng": 1.237724,
+            "name": "Puente ferroviario sobre el Francol\u00ed"
         },
         "fc74ef4574dd4117842ca125951244e9.16": {
             "guid": "fc74ef4574dd4117842ca125951244e9.16",
