@@ -13643,6 +13643,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.117755</longitude>
+          <latitude>41.132531</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.117755,41.132531,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Pabello Dels Distingits</name>
         <description>Pabello Dels Distingits</description>
         <LookAt>
@@ -14451,8 +14469,8 @@
           <coordinates>1.100295,41.149941,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Platja de la Savinosa</name>
+        <description>Platja de la Savinosa</description>
         <LookAt>
           <longitude>1.284674</longitude>
           <latitude>41.123233</latitude>
@@ -20008,6 +20026,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.10046,41.146756,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>World Water Flower</name>
+        <description>World Water Flower</description>
+        <LookAt>
+          <longitude>1.177299</longitude>
+          <latitude>41.066772</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.177299,41.066772,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Azulejo antiguo"García"</name>
@@ -50948,23 +50983,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.237253,41.11991,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Pista Petanca</name>
-        <description>Pista Petanca</description>
-        <LookAt>
-          <longitude>1.117755</longitude>
-          <latitude>41.132531</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.117755,41.132531,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Jesus es sentenciat a mort</name>

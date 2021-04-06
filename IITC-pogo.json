@@ -4518,6 +4518,12 @@
             "lng": 1.130494,
             "name": "Mobile Sculpture"
         },
+        "f9300b5af20d4845835151c6b50a2d0b.16": {
+            "guid": "f9300b5af20d4845835151c6b50a2d0b.16",
+            "lat": 41.132531,
+            "lng": 1.117755,
+            "name": "unknown"
+        },
         "f9e361c98db74843bbc1a972cb981e8d.16": {
             "guid": "f9e361c98db74843bbc1a972cb981e8d.16",
             "lat": 41.16509,
@@ -4800,7 +4806,7 @@
             "guid": "02cdf532ae794840a4f3146ad6adb7b8.16",
             "lat": 41.123233,
             "lng": 1.284674,
-            "name": "unknown"
+            "name": "Platja de la Savinosa"
         },
         "02eb2f7769cf4c7481f8040ce9efc5db.16": {
             "guid": "02eb2f7769cf4c7481f8040ce9efc5db.16",
@@ -6757,6 +6763,12 @@
             "lat": 41.146756,
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
+        },
+        "27aefcc49abe4efa8a086274e5ab1b57.16": {
+            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
+            "lat": 41.066772,
+            "lng": 1.177299,
+            "name": "World Water Flower"
         },
         "27b8c2ce742840ae844abc0584414bea.16": {
             "guid": "27b8c2ce742840ae844abc0584414bea.16",
@@ -17677,12 +17689,6 @@
             "lat": 41.11991,
             "lng": 1.237253,
             "name": "Projecte Social Francoli"
-        },
-        "f9300b5af20d4845835151c6b50a2d0b.16": {
-            "guid": "f9300b5af20d4845835151c6b50a2d0b.16",
-            "lat": 41.132531,
-            "lng": 1.117755,
-            "name": "Pista Petanca"
         },
         "f93ced0f573a4bf486c5b937d9f734d2.16": {
             "guid": "f93ced0f573a4bf486c5b937d9f734d2.16",
