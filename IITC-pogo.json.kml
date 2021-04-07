@@ -3581,8 +3581,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Carpa Nou Centre</name>
+        <description>Carpa Nou Centre</description>
         <LookAt>
           <longitude>1.217115</longitude>
           <latitude>41.116451</latitude>
@@ -13643,8 +13643,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Pista Petanca</name>
+        <description>Pista Petanca</description>
         <LookAt>
           <longitude>1.117755</longitude>
           <latitude>41.132531</latitude>
@@ -14654,6 +14654,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104161,41.154463,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>La rosa</name>
+        <description>La rosa</description>
+        <LookAt>
+          <longitude>1.107284</longitude>
+          <latitude>41.147567</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.107284,41.147567,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Puente del Diablo</name>
@@ -20028,23 +20045,6 @@
           <coordinates>1.10046,41.146756,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>World Water Flower</name>
-        <description>World Water Flower</description>
-        <LookAt>
-          <longitude>1.177299</longitude>
-          <latitude>41.066772</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.177299,41.066772,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Azulejo antiguo"García"</name>
         <description>Azulejo antiguo"García"</description>
         <LookAt>
@@ -22100,6 +22100,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.144918,41.113538,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Iglesia La Luz del Mundo</name>
+        <description>Iglesia La Luz del Mundo</description>
+        <LookAt>
+          <longitude>1.120549</longitude>
+          <latitude>41.131731</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.120549,41.131731,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>La Fortaleza</name>
@@ -31520,8 +31537,8 @@
           <coordinates>1.121764,41.158667,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>playground"ECU"</name>
-        <description>playground"ECU"</description>
+        <name>Parque de juegos infantiles</name>
+        <description>Parque de juegos infantiles</description>
         <LookAt>
           <longitude>1.114422</longitude>
           <latitude>41.143058</latitude>

@@ -1168,7 +1168,7 @@
             "guid": "3dd6e0c7d8b34114b82aac91b7f09075.16",
             "lat": 41.116451,
             "lng": 1.217115,
-            "name": "unknown"
+            "name": "Carpa Nou Centre"
         },
         "3ed5deb1cdba4e91891203b6d56e0adf.16": {
             "guid": "3ed5deb1cdba4e91891203b6d56e0adf.16",
@@ -4522,7 +4522,7 @@
             "guid": "f9300b5af20d4845835151c6b50a2d0b.16",
             "lat": 41.132531,
             "lng": 1.117755,
-            "name": "unknown"
+            "name": "Pista Petanca"
         },
         "f9e361c98db74843bbc1a972cb981e8d.16": {
             "guid": "f9e361c98db74843bbc1a972cb981e8d.16",
@@ -4867,6 +4867,12 @@
             "lat": 41.154463,
             "lng": 1.104161,
             "name": "Cher Mon"
+        },
+        "0431961a1a5442829221c6c6570e6c78.16": {
+            "guid": "0431961a1a5442829221c6c6570e6c78.16",
+            "lat": 41.147567,
+            "lng": 1.107284,
+            "name": "La rosa"
         },
         "044ce446297b488eaa73451fab26ceec.16": {
             "guid": "044ce446297b488eaa73451fab26ceec.16",
@@ -6764,12 +6770,6 @@
             "lng": 1.10046,
             "name": "Torre de l'antic Mas Vilella"
         },
-        "27aefcc49abe4efa8a086274e5ab1b57.16": {
-            "guid": "27aefcc49abe4efa8a086274e5ab1b57.16",
-            "lat": 41.066772,
-            "lng": 1.177299,
-            "name": "World Water Flower"
-        },
         "27b8c2ce742840ae844abc0584414bea.16": {
             "guid": "27b8c2ce742840ae844abc0584414bea.16",
             "lat": 41.152166,
@@ -7495,6 +7495,12 @@
             "lat": 41.113538,
             "lng": 1.144918,
             "name": "Parc de Bernat Saportella"
+        },
+        "36f62b915f624a1ab74152d830cd19ce.16": {
+            "guid": "36f62b915f624a1ab74152d830cd19ce.16",
+            "lat": 41.131731,
+            "lng": 1.120549,
+            "name": "Iglesia La Luz del Mundo"
         },
         "371e281d421d4588977ba2a245c15ed9.16": {
             "guid": "371e281d421d4588977ba2a245c15ed9.16",
@@ -10824,7 +10830,7 @@
             "guid": "78f9d499c43347c2b080bacf2f47df86.16",
             "lat": 41.143058,
             "lng": 1.114422,
-            "name": "playground\"ECU\""
+            "name": "Parque de juegos infantiles"
         },
         "79123cd3e58a43c6b9f32c8250c9adea.16": {
             "guid": "79123cd3e58a43c6b9f32c8250c9adea.16",
