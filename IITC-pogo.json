@@ -1056,6 +1056,12 @@
             "lng": 1.203009,
             "name": "Le Bufalo"
         },
+        "98b16632def24059b58efa6ecd598d3a.16": {
+            "guid": "98b16632def24059b58efa6ecd598d3a.16",
+            "lat": 41.112804,
+            "lng": 1.266142,
+            "name": "unknown"
+        },
         "998c377f5be54e0db94c35f036f97e55.16": {
             "guid": "998c377f5be54e0db94c35f036f97e55.16",
             "lat": 41.114157,
@@ -6860,12 +6866,6 @@
             "lng": 1.217388,
             "name": "Fuente ludica del barrio de torreforta"
         },
-        "98b16632def24059b58efa6ecd598d3a.16": {
-            "guid": "98b16632def24059b58efa6ecd598d3a.16",
-            "lat": 41.112804,
-            "lng": 1.266142,
-            "name": "Fuente de agua potable del Fort\u00ed de la Reina"
-        },
         "99632d9e90f440cc90c719d86c221a74.16": {
             "guid": "99632d9e90f440cc90c719d86c221a74.16",
             "lat": 41.162039,
@@ -8876,6 +8876,12 @@
             "lng": 1.109388,
             "name": "Graffiti Old Reus"
         },
+        "d26de46625744cf39caf5268f5de4d41.16": {
+            "guid": "d26de46625744cf39caf5268f5de4d41.16",
+            "lat": 41.112595,
+            "lng": 1.266271,
+            "name": "Hito Punta del Miracle"
+        },
         "d277955ba9bc433d893981124146e392.16": {
             "guid": "d277955ba9bc433d893981124146e392.16",
             "lat": 41.114234,
@@ -9871,6 +9877,12 @@
             "lat": 41.154008,
             "lng": 1.108752,
             "name": "Teatre Bartrina"
+        },
+        "ee323ac5c1844b279c5970663b805c85.16": {
+            "guid": "ee323ac5c1844b279c5970663b805c85.16",
+            "lat": 41.11486,
+            "lng": 1.224678,
+            "name": "unknown"
         },
         "ee50e33afd76449eab5694ea85f71f63.16": {
             "guid": "ee50e33afd76449eab5694ea85f71f63.16",

@@ -3257,6 +3257,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.266142</longitude>
+          <latitude>41.112804</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.266142,41.112804,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Poema Joan Maragall</name>
         <description>Poema Joan Maragall</description>
         <LookAt>
@@ -19799,23 +19817,6 @@
           <coordinates>1.217388,41.120424,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Fuente de agua potable del Fortí de la Reina</name>
-        <description>Fuente de agua potable del Fortí de la Reina</description>
-        <LookAt>
-          <longitude>1.266142</longitude>
-          <latitude>41.112804</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.266142,41.112804,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Pistas de Petanca</name>
         <description>Pistas de Petanca</description>
         <LookAt>
@@ -25511,6 +25512,23 @@
           <coordinates>1.109388,41.151651,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Hito Punta del Miracle</name>
+        <description>Hito Punta del Miracle</description>
+        <LookAt>
+          <longitude>1.266271</longitude>
+          <latitude>41.112595</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.266271,41.112595,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Gerencia Territorial de Tarragona</name>
         <description>Gerencia Territorial de Tarragona</description>
         <LookAt>
@@ -28331,6 +28349,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.108752,41.154008,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.224678</longitude>
+          <latitude>41.11486</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.224678,41.11486,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Placa obsequio del ayuntamiento de Cambrils al barrio de Torreforta</name>
