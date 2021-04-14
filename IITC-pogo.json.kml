@@ -13323,6 +13323,23 @@
           <coordinates>1.109873,41.159378,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Cervecero tirolés</name>
+        <description>Cervecero tirolés</description>
+        <LookAt>
+          <longitude>1.234371</longitude>
+          <latitude>41.120243</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.234371,41.120243,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Street gym</name>
         <description>Street gym</description>
         <LookAt>
@@ -28351,8 +28368,8 @@
           <coordinates>1.108752,41.154008,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Hombre tóxico</name>
+        <description>Hombre tóxico</description>
         <LookAt>
           <longitude>1.224678</longitude>
           <latitude>41.11486</latitude>
