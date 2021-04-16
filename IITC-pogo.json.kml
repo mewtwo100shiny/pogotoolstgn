@@ -5469,6 +5469,23 @@
           <coordinates>1.092831,41.161733,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pèrgola del Parc del Miracle</name>
+        <description>Pèrgola del Parc del Miracle</description>
+        <LookAt>
+          <longitude>1.264696</longitude>
+          <latitude>41.114938</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.264696,41.114938,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Cher Mon</name>
         <description>Cher Mon</description>
         <LookAt>
@@ -7677,6 +7694,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.270885,41.113595,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Font del parc del Miracle</name>
+        <description>Font del parc del Miracle</description>
+        <LookAt>
+          <longitude>1.263311</longitude>
+          <latitude>41.115146</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.263311,41.115146,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Església Col·legi Sagrat Cor</name>
