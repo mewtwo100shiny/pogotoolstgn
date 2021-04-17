@@ -1176,6 +1176,12 @@
             "lng": 1.243009,
             "name": "Esgl\u00e9sia de Sant Pau"
         },
+        "ac35e4cc23a34f03b6a29c23a8f50be9.16": {
+            "guid": "ac35e4cc23a34f03b6a29c23a8f50be9.16",
+            "lat": 41.126021,
+            "lng": 1.272758,
+            "name": "unknown"
+        },
         "acdabc42b762473dbb8eea0f03140dae.16": {
             "guid": "acdabc42b762473dbb8eea0f03140dae.16",
             "lat": 41.154788,
@@ -5156,6 +5162,12 @@
             "lng": 1.242654,
             "name": "Escola d'Art i Disseny de Tarragona"
         },
+        "66811274e94b4be5a5c8e80766dd7153.16": {
+            "guid": "66811274e94b4be5a5c8e80766dd7153.16",
+            "lat": 41.123558,
+            "lng": 1.274209,
+            "name": "Font Josep Vicen\u00e7 Foix"
+        },
         "66aebb6fcadd41eca11b9943a9a3da7a.16": {
             "guid": "66aebb6fcadd41eca11b9943a9a3da7a.16",
             "lat": 41.118312,
@@ -7520,12 +7532,6 @@
             "lng": 1.110708,
             "name": "Museu De Reus"
         },
-        "ac35e4cc23a34f03b6a29c23a8f50be9.16": {
-            "guid": "ac35e4cc23a34f03b6a29c23a8f50be9.16",
-            "lat": 41.126021,
-            "lng": 1.272758,
-            "name": "Club Gimn\u00e0stic"
-        },
         "ac50cc5759ad4cd6b658043cad0fb1eb.16": {
             "guid": "ac50cc5759ad4cd6b658043cad0fb1eb.16",
             "lat": 41.109514,
@@ -9091,12 +9097,6 @@
             "lat": 41.14345,
             "lng": 1.112006,
             "name": "El tren de los sue\u00f1os"
-        },
-        "d8b379b6d721496ba5c99138d0515e13.16": {
-            "guid": "d8b379b6d721496ba5c99138d0515e13.16",
-            "lat": 41.11969,
-            "lng": 1.241833,
-            "name": "Camp De F\u00fatbol Orleans"
         },
         "d8d4a9e0982b4beea3887947aef32623.16": {
             "guid": "d8d4a9e0982b4beea3887947aef32623.16",

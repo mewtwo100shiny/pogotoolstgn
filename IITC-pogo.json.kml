@@ -3617,6 +3617,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.272758</longitude>
+          <latitude>41.126021</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.272758,41.126021,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Arte Urbà. Pàrquing Riera Miró</name>
         <description>Arte Urbà. Pàrquing Riera Miró</description>
         <LookAt>
@@ -14972,6 +14990,23 @@
           <coordinates>1.242654,41.13152,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Font Josep Vicenç Foix</name>
+        <description>Font Josep Vicenç Foix</description>
+        <LookAt>
+          <longitude>1.274209</longitude>
+          <latitude>41.123558</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.274209,41.123558,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Oficina d'Atenció Ciutadana</name>
         <description>Oficina d'Atenció Ciutadana</description>
         <LookAt>
@@ -21670,23 +21705,6 @@
           <coordinates>1.110708,41.156385,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Club Gimnàstic</name>
-        <description>Club Gimnàstic</description>
-        <LookAt>
-          <longitude>1.272758</longitude>
-          <latitude>41.126021</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.272758,41.126021,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Tinglado 4</name>
         <description>Tinglado 4</description>
         <LookAt>
@@ -26122,23 +26140,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.112006,41.14345,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Camp De Fútbol Orleans</name>
-        <description>Camp De Fútbol Orleans</description>
-        <LookAt>
-          <longitude>1.241833</longitude>
-          <latitude>41.11969</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.241833,41.11969,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Iglesia de Jesucristo de los Santos de los Últimos Días</name>
