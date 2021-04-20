@@ -7382,8 +7382,8 @@
         <name>Cambrils Porta De Ponent</name>
         <description>Cambrils Porta De Ponent</description>
         <LookAt>
-          <longitude>1.023354</longitude>
-          <latitude>41.052589</latitude>
+          <longitude>1.023309</longitude>
+          <latitude>41.052613</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -7393,7 +7393,7 @@
         <styleUrl>#m_ylw-pushpin</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.023354,41.052589,0</coordinates>
+          <coordinates>1.023309,41.052613,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -25934,8 +25934,8 @@
           <coordinates>1.047044,41.078738,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Graffiti Biblioteca</name>
+        <description>Graffiti Biblioteca</description>
         <LookAt>
           <longitude>1.100419</longitude>
           <latitude>41.153739</latitude>
@@ -39976,8 +39976,8 @@
           <coordinates>1.1486,41.110622,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Francesc Germa Sanz </name>
-        <description>Francesc Germa Sanz </description>
+        <name>Francesc Germà Sanz</name>
+        <description>Francesc Germà Sanz</description>
         <LookAt>
           <longitude>1.144436</longitude>
           <latitude>41.072952</latitude>
