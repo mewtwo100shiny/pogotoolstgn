@@ -29844,6 +29844,23 @@
           <coordinates>1.155625,41.089895,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Piscis</name>
+        <description>Piscis</description>
+        <LookAt>
+          <longitude>1.04746</longitude>
+          <latitude>41.064843</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.04746,41.064843,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Sol azul</name>
         <description>Sol azul</description>
         <LookAt>
