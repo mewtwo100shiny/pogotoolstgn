@@ -18794,6 +18794,23 @@
           <coordinates>1.157547,41.090032,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Font del Nàstic</name>
+        <description>Font del Nàstic</description>
+        <LookAt>
+          <longitude>1.273807</longitude>
+          <latitude>41.127307</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.273807,41.127307,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Mas Pintat</name>
         <description>Mas Pintat</description>
         <LookAt>
@@ -20341,6 +20358,23 @@
           <coordinates>1.25518,41.119762,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Centre social A.A.V.V. Carrer Goya</name>
+        <description>Centre social A.A.V.V. Carrer Goya</description>
+        <LookAt>
+          <longitude>1.240837</longitude>
+          <latitude>41.123219</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.240837,41.123219,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Normativa Ayuntamiento de Vila-seca</name>
         <description>Normativa Ayuntamiento de Vila-seca</description>
         <LookAt>
@@ -21529,6 +21563,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.251316,41.108683,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.113621</longitude>
+          <latitude>41.143584</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.113621,41.143584,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>El Gran Tiburón</name>
