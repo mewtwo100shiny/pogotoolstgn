@@ -2969,8 +2969,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Kids Graffiti</name>
+        <description>Kids Graffiti</description>
         <LookAt>
           <longitude>1.229898</longitude>
           <latitude>41.114581</latitude>
@@ -7556,24 +7556,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.104384,41.163281,0</coordinates>
-        </Point>
-      </Placemark>
-    <Placemark>
-        <name>Teresianes</name>
-        <description>Teresianes</description>
-        <LookAt>
-          <longitude>1.251439</longitude>
-          <latitude>41.116398</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#m_ylw-pushpin</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.251439,41.116398,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -35829,8 +35811,8 @@
           <coordinates>1.098471,41.16145,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Oficina Brigada Municipal Tarragona</name>
+        <description>Oficina Brigada Municipal Tarragona</description>
         <LookAt>
           <longitude>1.228884</longitude>
           <latitude>41.113931</latitude>
