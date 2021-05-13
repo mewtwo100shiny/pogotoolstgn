@@ -1007,8 +1007,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Iron Structure</name>
-        <description>Iron Structure</description>
+        <name>Estructura de Hierro</name>
+        <description>Estructura de Hierro</description>
         <LookAt>
           <longitude>1.099178</longitude>
           <latitude>41.069437</latitude>
@@ -1817,8 +1817,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Parc Dels Prefabricats </name>
-        <description>Parc Dels Prefabricats </description>
+        <name>Parc Dels Prefabricats</name>
+        <description>Parc Dels Prefabricats</description>
         <LookAt>
           <longitude>1.24041</longitude>
           <latitude>41.156273</latitude>
@@ -1997,8 +1997,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name> Parc de la Muntanyeta</name>
-        <description> Parc de la Muntanyeta</description>
+        <name>Parc de la Muntanyeta</name>
+        <description>Parc de la Muntanyeta</description>
         <LookAt>
           <longitude>1.249553</longitude>
           <latitude>41.132315</latitude>
@@ -2393,8 +2393,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Old  Gym</name>
-        <description>Old  Gym</description>
+        <name>Old Gym</name>
+        <description>Old Gym</description>
         <LookAt>
           <longitude>1.114428</longitude>
           <latitude>41.168001</latitude>
@@ -3293,8 +3293,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Mosaic </name>
-        <description>Mosaic </description>
+        <name>Mosaic</name>
+        <description>Mosaic</description>
         <LookAt>
           <longitude>1.18628</longitude>
           <latitude>41.082584</latitude>
@@ -3473,8 +3473,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Parque Sant Joan Vilafortuny </name>
-        <description>Parque Sant Joan Vilafortuny </description>
+        <name>Parque Sant Joan Vilafortuny</name>
+        <description>Parque Sant Joan Vilafortuny</description>
         <LookAt>
           <longitude>1.097673</longitude>
           <latitude>41.079916</latitude>
@@ -4013,8 +4013,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Public Gym </name>
-        <description>Public Gym </description>
+        <name>Public Gym</name>
+        <description>Public Gym</description>
         <LookAt>
           <longitude>1.1024</longitude>
           <latitude>41.16755</latitude>
@@ -4463,8 +4463,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Centre cívic Mestral </name>
-        <description>Centre cívic Mestral </description>
+        <name>Centre cívic Mestral</name>
+        <description>Centre cívic Mestral</description>
         <LookAt>
           <longitude>1.095674</longitude>
           <latitude>41.16065</latitude>
@@ -4535,8 +4535,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Torre Pacha </name>
-        <description>Torre Pacha </description>
+        <name>Torre Pacha</name>
+        <description>Torre Pacha</description>
         <LookAt>
           <longitude>1.175811</longitude>
           <latitude>41.074602</latitude>
@@ -4607,8 +4607,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Fallera Major </name>
-        <description>Fallera Major </description>
+        <name>Fallera Major</name>
+        <description>Fallera Major</description>
         <LookAt>
           <longitude>1.105099</longitude>
           <latitude>41.154917</latitude>
@@ -4823,8 +4823,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Castell del Francolí </name>
-        <description>Castell del Francolí </description>
+        <name>Castell del Francolí</name>
+        <description>Castell del Francolí</description>
         <LookAt>
           <longitude>1.234991</longitude>
           <latitude>41.12264</latitude>
@@ -6533,8 +6533,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Water Flame </name>
-        <description>Water Flame </description>
+        <name>Water Flame</name>
+        <description>Water Flame</description>
         <LookAt>
           <longitude>1.178917</longitude>
           <latitude>41.06617</latitude>
@@ -6821,8 +6821,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Viewrpoint Of La Pineda </name>
-        <description>Viewrpoint Of La Pineda </description>
+        <name>Viewrpoint Of La Pineda</name>
+        <description>Viewrpoint Of La Pineda</description>
         <LookAt>
           <longitude>1.188405</longitude>
           <latitude>41.084421</latitude>
@@ -7073,8 +7073,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Hôtel Gran Palas </name>
-        <description>Hôtel Gran Palas </description>
+        <name>Hôtel Gran Palas</name>
+        <description>Hôtel Gran Palas</description>
         <LookAt>
           <longitude>1.176318</longitude>
           <latitude>41.066324</latitude>
@@ -8189,8 +8189,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Escut Del Castell </name>
-        <description>Escut Del Castell </description>
+        <name>Escut Del Castell</name>
+        <description>Escut Del Castell</description>
         <LookAt>
           <longitude>1.140343</longitude>
           <latitude>41.074262</latitude>
@@ -8261,8 +8261,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Fuente Cascada </name>
-        <description>Fuente Cascada </description>
+        <name>Fuente Cascada</name>
+        <description>Fuente Cascada</description>
         <LookAt>
           <longitude>1.177633</longitude>
           <latitude>41.076445</latitude>
@@ -41251,6 +41251,23 @@
           <coordinates>1.06891,41.066604,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pernil salat</name>
+        <description>Pernil salat</description>
+        <LookAt>
+          <longitude>1.250186</longitude>
+          <latitude>41.120344</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.250186,41.120344,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Castillo Infantil</name>
         <description>Castillo Infantil</description>
         <LookAt>
@@ -45227,6 +45244,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.252992,41.126559,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Molí de l'Ardiaca</name>
+        <description>Molí de l'Ardiaca</description>
+        <LookAt>
+          <longitude>1.029691</longitude>
+          <latitude>41.05809</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.029691,41.05809,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Totem De Polinesia</name>
