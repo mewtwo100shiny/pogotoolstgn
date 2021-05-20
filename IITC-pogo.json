@@ -2530,7 +2530,7 @@
             "guid": "ded9678394854fe98c7126fb40dcf128.16",
             "lat": 41.074061,
             "lng": 1.138826,
-            "name": "Escudo De Aragon"
+            "name": "Escut de la regi\u00f3 d'Arag\u00f3"
         },
         "df676c176629404d85f81c6c97a0d2ae.16": {
             "guid": "df676c176629404d85f81c6c97a0d2ae.16",
@@ -5870,6 +5870,12 @@
             "lng": 1.175249,
             "name": "Plano Estival park"
         },
+        "3a360dd1f6ea3ae6856e7b7fedc7df70.16": {
+            "guid": "3a360dd1f6ea3ae6856e7b7fedc7df70.16",
+            "lat": 41.114927,
+            "lng": 1.25698,
+            "name": "Peces"
+        },
         "3a6226a3f7274641a8ba5d07ca6f5d02.16": {
             "guid": "3a6226a3f7274641a8ba5d07ca6f5d02.16",
             "lat": 41.132669,
@@ -7267,6 +7273,12 @@
             "lat": 41.134833,
             "lng": 1.118866,
             "name": "Montserrat Playground"
+        },
+        "537d2d812a943df0b8000a5390d138b3.16": {
+            "guid": "537d2d812a943df0b8000a5390d138b3.16",
+            "lat": 41.129749,
+            "lng": 1.242639,
+            "name": "Institut Catal\u00e0 d'Investigaci\u00f3 Qu\u00edmica (ICIQ)"
         },
         "53abc0cd3b4149aa810df98450a8e409.11": {
             "guid": "53abc0cd3b4149aa810df98450a8e409.11",
