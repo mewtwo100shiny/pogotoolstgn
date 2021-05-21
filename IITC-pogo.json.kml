@@ -4643,6 +4643,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.24653</longitude>
+          <latitude>41.13228</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.24653,41.13228,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Cartells de l'Ecoruta</name>
         <description>Cartells de l'Ecoruta</description>
         <LookAt>
@@ -28212,23 +28230,6 @@
           <coordinates>1.118932,41.159335,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Rètol Parc SP i SP</name>
-        <description>Rètol Parc SP i SP</description>
-        <LookAt>
-          <longitude>1.24653</longitude>
-          <latitude>41.13228</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.24653,41.13228,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Justice City Shield</name>
         <description>Justice City Shield</description>
         <LookAt>
@@ -44479,6 +44480,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.113409,41.153882,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Escultura granjeros</name>
+        <description>Escultura granjeros</description>
+        <LookAt>
+          <longitude>1.245807</longitude>
+          <latitude>41.128548</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.245807,41.128548,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>mirada ECU de la pobreza</name>

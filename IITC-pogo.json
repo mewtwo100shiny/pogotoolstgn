@@ -1518,6 +1518,12 @@
             "lng": 1.058682,
             "name": "El Nen Pescador"
         },
+        "84fc72bf8b1949139f0e4491e1c4c0ff.16": {
+            "guid": "84fc72bf8b1949139f0e4491e1c4c0ff.16",
+            "lat": 41.13228,
+            "lng": 1.24653,
+            "name": "unknown"
+        },
         "8524fdb18bb74130a6fd0f8b5ee8f718.16": {
             "guid": "8524fdb18bb74130a6fd0f8b5ee8f718.16",
             "lat": 41.146454,
@@ -9758,12 +9764,6 @@
             "lng": 1.118932,
             "name": "City skyline on the school wall"
         },
-        "84fc72bf8b1949139f0e4491e1c4c0ff.16": {
-            "guid": "84fc72bf8b1949139f0e4491e1c4c0ff.16",
-            "lat": 41.13228,
-            "lng": 1.24653,
-            "name": "R\u00e8tol Parc SP i SP"
-        },
         "850042a467b2461e9c74e43b23dc050e.16": {
             "guid": "850042a467b2461e9c74e43b23dc050e.16",
             "lat": 41.157121,
@@ -15499,6 +15499,12 @@
             "lat": 41.153882,
             "lng": 1.113409,
             "name": "Two Lions"
+        },
+        "f1131c9efaf4345882d18cb02f2f884b.16": {
+            "guid": "f1131c9efaf4345882d18cb02f2f884b.16",
+            "lat": 41.128548,
+            "lng": 1.245807,
+            "name": "Escultura granjeros"
         },
         "f12d8c00a8e84f828eced04382462661.16": {
             "guid": "f12d8c00a8e84f828eced04382462661.16",
