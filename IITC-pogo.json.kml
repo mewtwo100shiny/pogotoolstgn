@@ -32531,6 +32531,23 @@
           <coordinates>1.107105,41.154373,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Rentadora positiva</name>
+        <description>Rentadora positiva</description>
+        <LookAt>
+          <longitude>1.106086</longitude>
+          <latitude>41.16124</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.106086,41.16124,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Tower Playground</name>
         <description>Tower Playground</description>
         <LookAt>
