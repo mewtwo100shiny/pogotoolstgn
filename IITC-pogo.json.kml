@@ -21141,6 +21141,23 @@
           <coordinates>1.179223,41.079183,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Edifici ICIQ</name>
+        <description>Edifici ICIQ</description>
+        <LookAt>
+          <longitude>1.241961</longitude>
+          <latitude>41.130432</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.241961,41.130432,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Platja Llarga Infosign</name>
         <description>Platja Llarga Infosign</description>
         <LookAt>
