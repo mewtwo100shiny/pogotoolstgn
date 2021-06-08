@@ -1962,6 +1962,12 @@
             "lng": 1.064261,
             "name": "Dones Remendadores"
         },
+        "a97908bf695041998f1f79f469ebbe0d.16": {
+            "guid": "a97908bf695041998f1f79f469ebbe0d.16",
+            "lat": 41.132213,
+            "lng": 1.245262,
+            "name": "Campus Sescelades URV"
+        },
         "a99d0d50834f4dc1b8939631074f4e64.16": {
             "guid": "a99d0d50834f4dc1b8939631074f4e64.16",
             "lat": 41.072986,
@@ -6475,6 +6481,12 @@
             "lat": 41.158155,
             "lng": 1.113884,
             "name": "Spray grafitty"
+        },
+        "45610231668e38af9fe6e2abcae811ab.16": {
+            "guid": "45610231668e38af9fe6e2abcae811ab.16",
+            "lat": 41.132712,
+            "lng": 1.242917,
+            "name": "Cartell informatiu Campus de Sescelades URV"
         },
         "456c8133987041b8bc74696c2dd1156d.16": {
             "guid": "456c8133987041b8bc74696c2dd1156d.16",
@@ -11641,12 +11653,6 @@
             "lat": 41.11932,
             "lng": 1.262233,
             "name": "Ter\u00e0pies Naturals - YARKA"
-        },
-        "a97908bf695041998f1f79f469ebbe0d.16": {
-            "guid": "a97908bf695041998f1f79f469ebbe0d.16",
-            "lat": 41.132213,
-            "lng": 1.245262,
-            "name": "Campus Sescelades URV"
         },
         "a99dd12be87d4c82a0136841dfb7ec08.16": {
             "guid": "a99dd12be87d4c82a0136841dfb7ec08.16",
