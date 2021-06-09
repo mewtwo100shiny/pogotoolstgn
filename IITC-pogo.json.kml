@@ -12693,23 +12693,6 @@
           <coordinates>1.103064,41.15035,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Prat de la Riba</name>
-        <description>Prat de la Riba</description>
-        <LookAt>
-          <longitude>1.102024</longitude>
-          <latitude>41.157238</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.102024,41.157238,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Pin Up</name>
         <description>Pin Up</description>
         <LookAt>
@@ -34638,6 +34621,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.273167,41.135546,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Pilota de fútbol</name>
+        <description>Pilota de fútbol</description>
+        <LookAt>
+          <longitude>1.108828</longitude>
+          <latitude>41.146175</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.108828,41.146175,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>The Other Entrance</name>
