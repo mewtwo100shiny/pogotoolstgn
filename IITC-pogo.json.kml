@@ -13971,8 +13971,8 @@
         <name>Ave Maria</name>
         <description>Ave Maria</description>
         <LookAt>
-          <longitude>1.247157</longitude>
-          <latitude>41.119514</latitude>
+          <longitude>1.247154</longitude>
+          <latitude>41.119568</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -13982,7 +13982,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.247157,41.119514,0</coordinates>
+          <coordinates>1.247154,41.119568,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mural Us Volem A Casa</name>
