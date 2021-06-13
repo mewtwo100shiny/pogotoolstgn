@@ -26361,6 +26361,23 @@
           <coordinates>1.239182,41.155589,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Oficina atenció ciutadà DARPA - Agents Rurals Tarragona</name>
+        <description>Oficina atenció ciutadà DARPA - Agents Rurals Tarragona</description>
+        <LookAt>
+          <longitude>1.243614</longitude>
+          <latitude>41.129786</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243614,41.129786,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Parque de Ocio</name>
         <description>Parque de Ocio</description>
         <LookAt>
