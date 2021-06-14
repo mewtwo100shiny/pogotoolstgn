@@ -28520,6 +28520,23 @@
           <coordinates>1.25566,41.114026,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>La Iglesia y el Ancla</name>
+        <description>La Iglesia y el Ancla</description>
+        <LookAt>
+          <longitude>1.241497</longitude>
+          <latitude>41.110591</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.241497,41.110591,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>La Mar Patria</name>
         <description>La Mar Patria</description>
         <LookAt>
@@ -34009,6 +34026,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.107252,41.154001,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Consorci Teatre Fortuny</name>
+        <description>Consorci Teatre Fortuny</description>
+        <LookAt>
+          <longitude>1.106019</longitude>
+          <latitude>41.1568</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.106019,41.1568,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Museu De Reus</name>
@@ -44758,8 +44792,8 @@
         <name>Estàtua Nen amb Oca</name>
         <description>Estàtua Nen amb Oca</description>
         <LookAt>
-          <longitude>1.256742</longitude>
-          <latitude>41.113909</latitude>
+          <longitude>1.256758</longitude>
+          <latitude>41.113958</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -44769,7 +44803,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.256742,41.113909,0</coordinates>
+          <coordinates>1.256758,41.113958,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Escultura chimenea La Pineda</name>

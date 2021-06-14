@@ -9866,6 +9866,12 @@
             "lng": 1.25566,
             "name": "Monument al Club Gimn\u00e0stic"
         },
+        "869be8d465c6385c9223795f983c3985.16": {
+            "guid": "869be8d465c6385c9223795f983c3985.16",
+            "lat": 41.110591,
+            "lng": 1.241497,
+            "name": "La Iglesia y el Ancla"
+        },
         "86cde1280b214623b023a3631cf13051.16": {
             "guid": "86cde1280b214623b023a3631cf13051.16",
             "lat": 41.109472,
@@ -11803,6 +11809,12 @@
             "lat": 41.154001,
             "lng": 1.107252,
             "name": "Jesus Under Construction"
+        },
+        "abfcd6730e9d3191aea0a0d14f5f995c.16": {
+            "guid": "abfcd6730e9d3191aea0a0d14f5f995c.16",
+            "lat": 41.1568,
+            "lng": 1.106019,
+            "name": "Consorci Teatre Fortuny"
         },
         "ac02b8dbd0e64656aefb3eb195563901.16": {
             "guid": "ac02b8dbd0e64656aefb3eb195563901.16",
@@ -15598,8 +15610,8 @@
         },
         "f22e75c5a2c64d83a360652f7cba2d7f.12": {
             "guid": "f22e75c5a2c64d83a360652f7cba2d7f.12",
-            "lat": 41.113909,
-            "lng": 1.256742,
+            "lat": 41.113958,
+            "lng": 1.256758,
             "name": "Est\u00e0tua Nen amb Oca"
         },
         "f244e0170f5f487b97ad254b4f1af2bf.16": {
