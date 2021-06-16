@@ -2861,8 +2861,8 @@
         </Point>
       </Placemark>
     <Placemark>
-        <name>Play</name>
-        <description>Play</description>
+        <name>Parc de les Illes</name>
+        <description>Parc de les Illes</description>
         <LookAt>
           <longitude>1.147576</longitude>
           <latitude>41.105356</latitude>
@@ -16023,6 +16023,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.053301,41.072783,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Zona Esports Quinta San Rafael</name>
+        <description>Zona Esports Quinta San Rafael</description>
+        <LookAt>
+          <longitude>1.243266</longitude>
+          <latitude>41.11739</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.243266,41.11739,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Palau Arquebisbal</name>

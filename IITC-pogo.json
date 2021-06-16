@@ -928,7 +928,7 @@
             "guid": "502ab32f5eab47cfad1e8d072427a810.16",
             "lat": 41.105356,
             "lng": 1.147576,
-            "name": "Play"
+            "name": "Parc de les Illes"
         },
         "52207e7f375d4ff2b88560a38622645c.16": {
             "guid": "52207e7f375d4ff2b88560a38622645c.16",
@@ -5455,6 +5455,12 @@
             "lat": 41.072783,
             "lng": 1.053301,
             "name": "Rulo D'oli"
+        },
+        "3073e57a13e1473f9f629d7e35ea9779.16": {
+            "guid": "3073e57a13e1473f9f629d7e35ea9779.16",
+            "lat": 41.11739,
+            "lng": 1.243266,
+            "name": "Zona Esports Quinta San Rafael"
         },
         "3077263f9ab94bf9a2eb39e455c7ec50.16": {
             "guid": "3077263f9ab94bf9a2eb39e455c7ec50.16",
