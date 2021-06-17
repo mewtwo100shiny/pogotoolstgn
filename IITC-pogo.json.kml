@@ -17351,6 +17351,23 @@
           <coordinates>1.272428,41.136773,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Santa Tecla</name>
+        <description>Santa Tecla</description>
+        <LookAt>
+          <longitude>1.25849</longitude>
+          <latitude>41.119133</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.25849,41.119133,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Doble Ancla Aquamarina</name>
         <description>Doble Ancla Aquamarina</description>
         <LookAt>
@@ -25803,8 +25820,8 @@
         <name>Casa Dels Concilis</name>
         <description>Casa Dels Concilis</description>
         <LookAt>
-          <longitude>1.258501</longitude>
-          <latitude>41.118871</latitude>
+          <longitude>1.258399</longitude>
+          <latitude>41.118895</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -25814,7 +25831,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.258501,41.118871,0</coordinates>
+          <coordinates>1.258399,41.118895,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Basketball Court</name>

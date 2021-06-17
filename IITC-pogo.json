@@ -5924,6 +5924,12 @@
             "lng": 1.272428,
             "name": "La Bicifusta"
         },
+        "3ab7a4ae57fe4569a95f6751ff7f9f67.16": {
+            "guid": "3ab7a4ae57fe4569a95f6751ff7f9f67.16",
+            "lat": 41.119133,
+            "lng": 1.25849,
+            "name": "Santa Tecla"
+        },
         "3aceb5d3389445b4b2f9a964e9671682.16": {
             "guid": "3aceb5d3389445b4b2f9a964e9671682.16",
             "lat": 41.080847,
@@ -8908,8 +8914,8 @@
         },
         "73d279dbcf0b4e54aecd50e2ca39b8cd.16": {
             "guid": "73d279dbcf0b4e54aecd50e2ca39b8cd.16",
-            "lat": 41.118871,
-            "lng": 1.258501,
+            "lat": 41.118895,
+            "lng": 1.258399,
             "name": "Casa Dels Concilis"
         },
         "73f2c95e27a94a8f8b94f776e96dfa66.16": {
