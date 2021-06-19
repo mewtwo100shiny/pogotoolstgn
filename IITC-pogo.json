@@ -1522,7 +1522,7 @@
             "guid": "84fc72bf8b1949139f0e4491e1c4c0ff.16",
             "lat": 41.13228,
             "lng": 1.24653,
-            "name": "unknown"
+            "name": "R\u00e8tol Parc SP i SP"
         },
         "8524fdb18bb74130a6fd0f8b5ee8f718.16": {
             "guid": "8524fdb18bb74130a6fd0f8b5ee8f718.16",
@@ -9276,7 +9276,7 @@
             "guid": "7b38591166c349afb89361f1cb05f503.16",
             "lat": 41.144448,
             "lng": 1.273111,
-            "name": "Moli de Pedra"
+            "name": "Mol\u00ed de Pedra"
         },
         "7b715d211a5f441192e8051fa13430a7.16": {
             "guid": "7b715d211a5f441192e8051fa13430a7.16",
@@ -12146,6 +12146,12 @@
             "lng": 1.251328,
             "name": "Parque de San Pedro"
         },
+        "b1ddf6d2bfec4f7fa4c5bc8860e38d5f.16": {
+            "guid": "b1ddf6d2bfec4f7fa4c5bc8860e38d5f.16",
+            "lat": 41.119752,
+            "lng": 1.251611,
+            "name": "Sant Pau"
+        },
         "b1f105e675954bceaed34a67b94b7464.16": {
             "guid": "b1f105e675954bceaed34a67b94b7464.16",
             "lat": 41.075301,
@@ -12958,8 +12964,8 @@
         },
         "c1402bcf6c5d4c799e92ca83357c1acb.16": {
             "guid": "c1402bcf6c5d4c799e92ca83357c1acb.16",
-            "lat": 41.119678,
-            "lng": 1.25126,
+            "lat": 41.119673,
+            "lng": 1.251082,
             "name": "Anselm Clav\u00e9"
         },
         "c14ea00fe6cb456288c6f6adc4bd227f.16": {
