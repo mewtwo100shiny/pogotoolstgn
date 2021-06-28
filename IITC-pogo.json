@@ -3506,6 +3506,12 @@
             "lng": 1.097845,
             "name": "God"
         },
+        "0ab02b7748153a59b464fb796c08501e.16": {
+            "guid": "0ab02b7748153a59b464fb796c08501e.16",
+            "lat": 41.116387,
+            "lng": 1.254043,
+            "name": "Ramen"
+        },
         "0acd6aa466d5463cb0b2f8c1ef04de43.16": {
             "guid": "0acd6aa466d5463cb0b2f8c1ef04de43.16",
             "lat": 41.121229,
@@ -4994,6 +5000,12 @@
             "lng": 1.212147,
             "name": "Mural Barri Torreforta"
         },
+        "275671ee7bdc3bbdb1e5296b6689c169.16": {
+            "guid": "275671ee7bdc3bbdb1e5296b6689c169.16",
+            "lat": 41.077024,
+            "lng": 1.0949,
+            "name": "Cancha de F\u00fatbol de Vilafortuny"
+        },
         "276c7406e4754fb988fa38dceb9276f5.16": {
             "guid": "276c7406e4754fb988fa38dceb9276f5.16",
             "lat": 41.16685,
@@ -5188,8 +5200,8 @@
         },
         "2b4ba486001740018b435f532238cfc7.16": {
             "guid": "2b4ba486001740018b435f532238cfc7.16",
-            "lat": 41.111922,
-            "lng": 1.245659,
+            "lat": 41.111909,
+            "lng": 1.2458,
             "name": "Antiga f\u00e0brica Chartreuse"
         },
         "2b71a052f05648b0a5e08bebf4852ddd.16": {
@@ -8467,6 +8479,12 @@
             "lat": 41.070922,
             "lng": 1.151986,
             "name": "Joker's Attack"
+        },
+        "6bdb6a6149054226935090cf844cae0f.16": {
+            "guid": "6bdb6a6149054226935090cf844cae0f.16",
+            "lat": 41.111664,
+            "lng": 1.245647,
+            "name": "De Mvller"
         },
         "6be588874a50449384b43b6dd64ecbdc.16": {
             "guid": "6be588874a50449384b43b6dd64ecbdc.16",
