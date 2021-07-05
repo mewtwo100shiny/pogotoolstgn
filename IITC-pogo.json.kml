@@ -28266,6 +28266,23 @@
           <coordinates>1.071403,41.074257,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Pista de Frontón de Vilafortuny</name>
+        <description>Pista de Frontón de Vilafortuny</description>
+        <LookAt>
+          <longitude>1.094453</longitude>
+          <latitude>41.076881</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.094453,41.076881,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Tirolina</name>
         <description>Tirolina</description>
         <LookAt>
@@ -33791,8 +33808,8 @@
           <coordinates>1.208158,41.123465,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
+        <name>Sol Rojo</name>
+        <description>Sol Rojo</description>
         <LookAt>
           <longitude>1.245841</longitude>
           <latitude>41.113335</latitude>
