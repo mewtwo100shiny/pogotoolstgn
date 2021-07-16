@@ -834,6 +834,12 @@
             "lng": 1.060026,
             "name": "Torre del Port"
         },
+        "486def6b1c294e92ae47cd4f4f5d4d57.16": {
+            "guid": "486def6b1c294e92ae47cd4f4f5d4d57.16",
+            "lat": 41.158851,
+            "lng": 1.238875,
+            "name": "Desk Lamp"
+        },
         "48d7ff2dad4640c498e58475648cc49f.16": {
             "guid": "48d7ff2dad4640c498e58475648cc49f.16",
             "lat": 41.118356,
@@ -3304,8 +3310,8 @@
         },
         "06cc1b383c0b4330af04b36ce8e90d3c.16": {
             "guid": "06cc1b383c0b4330af04b36ce8e90d3c.16",
-            "lat": 41.11999,
-            "lng": 1.258473,
+            "lat": 41.12008,
+            "lng": 1.258613,
             "name": "Seminari Conciliar"
         },
         "06d2bb437e8240d087f94dfff512df56.16": {
@@ -4744,7 +4750,7 @@
         },
         "2218aceddb8147acafc99bb1908de43d.16": {
             "guid": "2218aceddb8147acafc99bb1908de43d.16",
-            "lat": 41.119568,
+            "lat": 41.119604,
             "lng": 1.247154,
             "name": "Ave Maria"
         },
@@ -6644,12 +6650,6 @@
             "lng": 1.23759,
             "name": "Purple Cat"
         },
-        "486def6b1c294e92ae47cd4f4f5d4d57.16": {
-            "guid": "486def6b1c294e92ae47cd4f4f5d4d57.16",
-            "lat": 41.158851,
-            "lng": 1.238875,
-            "name": "Desk Lamp"
-        },
         "4886542eedf544b987d40ddfda7cfc8f.16": {
             "guid": "4886542eedf544b987d40ddfda7cfc8f.16",
             "lat": 41.162668,
@@ -8012,12 +8012,6 @@
             "lng": 1.135429,
             "name": "A Manuel Albinyana"
         },
-        "61aa61c25a00497fa6d01b923df8e142.16": {
-            "guid": "61aa61c25a00497fa6d01b923df8e142.16",
-            "lat": 41.110445,
-            "lng": 1.242429,
-            "name": "Cal Castanyola"
-        },
         "61d35cc8d30b44b7b0f8838d59187f53.16": {
             "guid": "61d35cc8d30b44b7b0f8838d59187f53.16",
             "lat": 41.160055,
@@ -8281,6 +8275,12 @@
             "lat": 41.156462,
             "lng": 1.112731,
             "name": "American Dude"
+        },
+        "673f0e5f7c7337d98de1b8364523454a.16": {
+            "guid": "673f0e5f7c7337d98de1b8364523454a.16",
+            "lat": 41.159879,
+            "lng": 1.240726,
+            "name": "unknown"
         },
         "6753476df6ea4e76a7d1dc54b2cc99b7.16": {
             "guid": "6753476df6ea4e76a7d1dc54b2cc99b7.16",
@@ -9446,6 +9446,12 @@
             "lng": 1.181527,
             "name": "Mosaico Foca"
         },
+        "7d69868039b44140acd3ef590aa19acb.16": {
+            "guid": "7d69868039b44140acd3ef590aa19acb.16",
+            "lat": 41.120588,
+            "lng": 1.257579,
+            "name": "Capitell Roma"
+        },
         "7d8818db1a404e6284b16d7bc8fcb567.11": {
             "guid": "7d8818db1a404e6284b16d7bc8fcb567.11",
             "lat": 41.122394,
@@ -9752,12 +9758,6 @@
             "lng": 1.082048,
             "name": "unknown"
         },
-        "835222a9ca5d4df2a7c36de991914f23.16": {
-            "guid": "835222a9ca5d4df2a7c36de991914f23.16",
-            "lat": 41.120131,
-            "lng": 1.257777,
-            "name": "Arxiu Hist\u00f2ric Arquebisbat"
-        },
         "835e2e81885a457dabc75f71c7eddd00.16": {
             "guid": "835e2e81885a457dabc75f71c7eddd00.16",
             "lat": 41.06435,
@@ -10003,6 +10003,12 @@
             "lat": 41.120361,
             "lng": 1.255023,
             "name": "Catsalut"
+        },
+        "884968b04c41378e86e4cbe42fd594da.16": {
+            "guid": "884968b04c41378e86e4cbe42fd594da.16",
+            "lat": 41.162968,
+            "lng": 1.2405,
+            "name": "Pl\u00e0nol de Sant Salvador Nord"
         },
         "8886b6fbb05d4539b214492f921d3116.16": {
             "guid": "8886b6fbb05d4539b214492f921d3116.16",
@@ -10762,8 +10768,8 @@
         },
         "952b6f74deb143ed8ccaba4ae1f59898.16": {
             "guid": "952b6f74deb143ed8ccaba4ae1f59898.16",
-            "lat": 41.120309,
-            "lng": 1.256676,
+            "lat": 41.120328,
+            "lng": 1.256604,
             "name": "Ca\u00f1on De La Muralla"
         },
         "956ff62ba23d4fa3a36c14428a5549fa.16": {
@@ -11594,6 +11600,12 @@
             "lng": 1.104435,
             "name": "Sant Jordi"
         },
+        "a6b606fab71943d4a27f3a7c0c7b1ded.16": {
+            "guid": "a6b606fab71943d4a27f3a7c0c7b1ded.16",
+            "lat": 41.119562,
+            "lng": 1.258882,
+            "name": "Santa Tecla la Vella"
+        },
         "a6eadaa56dc940798b4aea359dec898b.16": {
             "guid": "a6eadaa56dc940798b4aea359dec898b.16",
             "lat": 41.119744,
@@ -12223,6 +12235,12 @@
             "lat": 41.068209,
             "lng": 1.062008,
             "name": "Parc Concordia"
+        },
+        "b252bc61a1a13af48b0d44d2ba48210d.16": {
+            "guid": "b252bc61a1a13af48b0d44d2ba48210d.16",
+            "lat": 41.060709,
+            "lng": 1.024375,
+            "name": "parque infantil"
         },
         "b296a81028d9452a99c11766382f1f59.16": {
             "guid": "b296a81028d9452a99c11766382f1f59.16",
@@ -13249,6 +13267,12 @@
             "lat": 41.151908,
             "lng": 1.093073,
             "name": "Foham Grafitti"
+        },
+        "c5eb707a85824ae8a078983309de9276.16": {
+            "guid": "c5eb707a85824ae8a078983309de9276.16",
+            "lat": 41.119157,
+            "lng": 1.24746,
+            "name": "Mural del Nou Eixample Nord"
         },
         "c61cd2078c5c4a2891ef0bc21c4e9f51.16": {
             "guid": "c61cd2078c5c4a2891ef0bc21c4e9f51.16",
@@ -14491,6 +14515,12 @@
             "lat": 41.122007,
             "lng": 1.235313,
             "name": "Font parc Francol\u00ed"
+        },
+        "dcd82a1b388239f0ba2ad974d57836d6.16": {
+            "guid": "dcd82a1b388239f0ba2ad974d57836d6.16",
+            "lat": 41.150357,
+            "lng": 1.111062,
+            "name": "Luz en el tunel"
         },
         "dce13998cb6647a9b20a2d414805b7a5.16": {
             "guid": "dce13998cb6647a9b20a2d414805b7a5.16",

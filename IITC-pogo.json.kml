@@ -2591,6 +2591,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Desk Lamp</name>
+        <description>Desk Lamp</description>
+        <LookAt>
+          <longitude>1.238875</longitude>
+          <latitude>41.158851</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.238875,41.158851,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Magna Pugna Est in Urbe</name>
         <description>Magna Pugna Est in Urbe</description>
         <LookAt>
@@ -9926,8 +9944,8 @@
         <name>Seminari Conciliar</name>
         <description>Seminari Conciliar</description>
         <LookAt>
-          <longitude>1.258473</longitude>
-          <latitude>41.11999</latitude>
+          <longitude>1.258613</longitude>
+          <latitude>41.12008</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -9937,7 +9955,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.258473,41.11999,0</coordinates>
+          <coordinates>1.258613,41.12008,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Ancla La Pineda</name>
@@ -14007,7 +14025,7 @@
         <description>Ave Maria</description>
         <LookAt>
           <longitude>1.247154</longitude>
-          <latitude>41.119568</latitude>
+          <latitude>41.119604</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -14017,7 +14035,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.247154,41.119568,0</coordinates>
+          <coordinates>1.247154,41.119604,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mural Us Volem A Casa</name>
@@ -19392,23 +19410,6 @@
           <coordinates>1.23759,41.114338,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Desk Lamp</name>
-        <description>Desk Lamp</description>
-        <LookAt>
-          <longitude>1.238875</longitude>
-          <latitude>41.158851</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.238875,41.158851,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Arte Culinario</name>
         <description>Arte Culinario</description>
         <LookAt>
@@ -23268,23 +23269,6 @@
           <coordinates>1.135429,41.083217,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Cal Castanyola</name>
-        <description>Cal Castanyola</description>
-        <LookAt>
-          <longitude>1.242429</longitude>
-          <latitude>41.110445</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.242429,41.110445,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Plaça Institut Pere Mata</name>
         <description>Plaça Institut Pere Mata</description>
         <LookAt>
@@ -24031,6 +24015,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.112731,41.156462,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.240726</longitude>
+          <latitude>41.159879</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.240726,41.159879,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Inscripcio Mariano Puig Y Valls</name>
@@ -27331,6 +27332,23 @@
           <coordinates>1.181527,41.082277,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Capitell Roma</name>
+        <description>Capitell Roma</description>
+        <LookAt>
+          <longitude>1.257579</longitude>
+          <latitude>41.120588</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.257579,41.120588,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Old Historical Tree</name>
         <description>Old Historical Tree</description>
         <LookAt>
@@ -28198,23 +28216,6 @@
           <coordinates>1.082048,41.145639,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Arxiu Històric Arquebisbat</name>
-        <description>Arxiu Històric Arquebisbat</description>
-        <LookAt>
-          <longitude>1.257777</longitude>
-          <latitude>41.120131</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.257777,41.120131,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Rieres del baix camp</name>
         <description>Rieres del baix camp</description>
         <LookAt>
@@ -28910,6 +28911,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.255023,41.120361,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Plànol de Sant Salvador Nord</name>
+        <description>Plànol de Sant Salvador Nord</description>
+        <LookAt>
+          <longitude>1.2405</longitude>
+          <latitude>41.162968</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.2405,41.162968,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mas Domenech</name>
@@ -31057,8 +31075,8 @@
         <name>Cañon De La Muralla</name>
         <description>Cañon De La Muralla</description>
         <LookAt>
-          <longitude>1.256676</longitude>
-          <latitude>41.120309</latitude>
+          <longitude>1.256604</longitude>
+          <latitude>41.120328</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -31068,7 +31086,7 @@
         <styleUrl>#msn_placemark_circle</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.256676,41.120309,0</coordinates>
+          <coordinates>1.256604,41.120328,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Espais de Memòria</name>
@@ -33417,6 +33435,23 @@
           <coordinates>1.104435,41.164553,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Santa Tecla la Vella</name>
+        <description>Santa Tecla la Vella</description>
+        <LookAt>
+          <longitude>1.258882</longitude>
+          <latitude>41.119562</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.258882,41.119562,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Espai Petanca: Sant Benilde</name>
         <description>Espai Petanca: Sant Benilde</description>
         <LookAt>
@@ -35200,6 +35235,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.062008,41.068209,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>parque infantil</name>
+        <description>parque infantil</description>
+        <LookAt>
+          <longitude>1.024375</longitude>
+          <latitude>41.060709</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.024375,41.060709,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Plaza Antoni Sarda</name>
@@ -38107,6 +38159,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.093073,41.151908,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Mural del Nou Eixample Nord</name>
+        <description>Mural del Nou Eixample Nord</description>
+        <LookAt>
+          <longitude>1.24746</longitude>
+          <latitude>41.119157</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.24746,41.119157,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Casa Francesc Vendrell</name>
@@ -41626,6 +41695,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.235313,41.122007,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Luz en el tunel</name>
+        <description>Luz en el tunel</description>
+        <LookAt>
+          <longitude>1.111062</longitude>
+          <latitude>41.150357</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.111062,41.150357,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Molino</name>
