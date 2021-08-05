@@ -2886,6 +2886,12 @@
             "lng": 1.047095,
             "name": "Pista basket parc Pinaret"
         },
+        "ff59589d75174ef7bd4e9f747a97a43c.16": {
+            "guid": "ff59589d75174ef7bd4e9f747a97a43c.16",
+            "lat": 41.077744,
+            "lng": 1.094497,
+            "name": "Estructura Arco-Iris"
+        },
         "fff55eecfd1d49ba87029426de947d60.16": {
             "guid": "fff55eecfd1d49ba87029426de947d60.16",
             "lat": 41.113254,
@@ -3014,6 +3020,12 @@
             "lng": 1.106293,
             "name": "One Legged Art"
         },
+        "02806fb4a30b3c9ea31aed8c678a469c.16": {
+            "guid": "02806fb4a30b3c9ea31aed8c678a469c.16",
+            "lat": 41.077158,
+            "lng": 1.094443,
+            "name": "Pista de Tenis de Vilafortuny"
+        },
         "0286b310b21b476dbc102adab3af1d52.16": {
             "guid": "0286b310b21b476dbc102adab3af1d52.16",
             "lat": 41.163469,
@@ -3043,6 +3055,12 @@
             "lat": 41.11802,
             "lng": 1.256511,
             "name": "Gronxadors"
+        },
+        "030481e773d64f90833da9676e2397fe.16": {
+            "guid": "030481e773d64f90833da9676e2397fe.16",
+            "lat": 41.120892,
+            "lng": 1.216839,
+            "name": "Placa obsequio del ayuntamiento de Tortosa al barrio de torreforta."
         },
         "032628e899904d5da7eea0dc0d8d3037.16": {
             "guid": "032628e899904d5da7eea0dc0d8d3037.16",
@@ -3391,12 +3409,6 @@
             "lat": 41.130095,
             "lng": 1.129553,
             "name": "Campo de futbol sala"
-        },
-        "07ebaead045f4ae8a577abceeb1ea6c3.16": {
-            "guid": "07ebaead045f4ae8a577abceeb1ea6c3.16",
-            "lat": 41.117592,
-            "lng": 1.252156,
-            "name": "Placa Ferro Ministeri De Treball"
         },
         "082821391861472dbd773b1f32e16878.16": {
             "guid": "082821391861472dbd773b1f32e16878.16",
@@ -3952,8 +3964,8 @@
         },
         "1312008fe82b42919fcd809376714063.16": {
             "guid": "1312008fe82b42919fcd809376714063.16",
-            "lat": 41.12098,
-            "lng": 1.216403,
+            "lat": 41.120934,
+            "lng": 1.216323,
             "name": "Institut Municipal de Serveis Socials"
         },
         "13215c07044849b381be5bf75cb7649d.16": {
@@ -5612,6 +5624,12 @@
             "lng": 1.253876,
             "name": "Representacio De Sant Pere I Sant Pau"
         },
+        "340e05dbbd0d3c199dad800581f9c2b1.16": {
+            "guid": "340e05dbbd0d3c199dad800581f9c2b1.16",
+            "lat": 41.161299,
+            "lng": 1.103991,
+            "name": "Oficina Liquidadora de Reus"
+        },
         "343944d36309409abe9f68d5b49fbad1.16": {
             "guid": "343944d36309409abe9f68d5b49fbad1.16",
             "lat": 41.151732,
@@ -7016,6 +7034,12 @@
             "lng": 1.107568,
             "name": "Instal\u00b7lacions d'Estiu Reus Deportiu"
         },
+        "4f026ebe4d7c408297fee1970c62c81d.16": {
+            "guid": "4f026ebe4d7c408297fee1970c62c81d.16",
+            "lat": 41.119066,
+            "lng": 1.256681,
+            "name": "A Palau i Quer"
+        },
         "4f0e82ad1a1846c3a45971de5a9e4730.16": {
             "guid": "4f0e82ad1a1846c3a45971de5a9e4730.16",
             "lat": 41.120363,
@@ -7111,6 +7135,12 @@
             "lat": 41.147144,
             "lng": 1.102971,
             "name": "Mas Vilanova Playground"
+        },
+        "50d75daadf97391cba725132d3dd133a.16": {
+            "guid": "50d75daadf97391cba725132d3dd133a.16",
+            "lat": 41.115068,
+            "lng": 1.267907,
+            "name": "Cementiri dels Jans"
         },
         "50d89a8611cf4ccdba8f2b4bc8df54c6.16": {
             "guid": "50d89a8611cf4ccdba8f2b4bc8df54c6.16",
@@ -8280,7 +8310,7 @@
             "guid": "673f0e5f7c7337d98de1b8364523454a.16",
             "lat": 41.159879,
             "lng": 1.240726,
-            "name": "unknown"
+            "name": "Pl\u00e0nol Sant Salvador Centre"
         },
         "6753476df6ea4e76a7d1dc54b2cc99b7.16": {
             "guid": "6753476df6ea4e76a7d1dc54b2cc99b7.16",
@@ -8791,6 +8821,12 @@
             "lat": 41.069457,
             "lng": 1.155625,
             "name": "volcano"
+        },
+        "723c796207a330769f5abc224c0e9d39.16": {
+            "guid": "723c796207a330769f5abc224c0e9d39.16",
+            "lat": 41.074791,
+            "lng": 1.122223,
+            "name": "Columpio con red"
         },
         "723e4efe62c948f3acb8ea13cf5cf15f.16": {
             "guid": "723e4efe62c948f3acb8ea13cf5cf15f.16",
@@ -10892,6 +10928,12 @@
             "lng": 1.058708,
             "name": "Confraria de pescadors Cambrils"
         },
+        "99371afae57d3ad09e8ef04c24b1ceb8.16": {
+            "guid": "99371afae57d3ad09e8ef04c24b1ceb8.16",
+            "lat": 41.121793,
+            "lng": 1.238424,
+            "name": "Antiga Pista de Tennis"
+        },
         "99500b465d47433dbd30ae05bf85a447.16": {
             "guid": "99500b465d47433dbd30ae05bf85a447.16",
             "lat": 41.06959,
@@ -12950,12 +12992,6 @@
             "lng": 1.050764,
             "name": "Torre del Llimo"
         },
-        "bfb2a29ac4c0449bb3151ac46ff98630.16": {
-            "guid": "bfb2a29ac4c0449bb3151ac46ff98630.16",
-            "lat": 41.119003,
-            "lng": 1.257183,
-            "name": "Enginyers Industrials Tarragona"
-        },
         "bfbb25b6999043479a466a345e607bfb.16": {
             "guid": "bfbb25b6999043479a466a345e607bfb.16",
             "lat": 41.114169,
@@ -13772,6 +13808,12 @@
             "lng": 1.25822,
             "name": "Font del Centenari"
         },
+        "ce8d2689327e4be587f11218523f73d0.16": {
+            "guid": "ce8d2689327e4be587f11218523f73d0.16",
+            "lat": 41.117613,
+            "lng": 1.251835,
+            "name": "Madolina"
+        },
         "ceb91d5e04b74a4e937bdd377c199013.16": {
             "guid": "ceb91d5e04b74a4e937bdd377c199013.16",
             "lat": 41.15802,
@@ -13807,6 +13849,12 @@
             "lat": 41.109984,
             "lng": 1.243025,
             "name": "Port Tarragona"
+        },
+        "cf28de341be031788fa0efcc970be94d.16": {
+            "guid": "cf28de341be031788fa0efcc970be94d.16",
+            "lat": 41.162448,
+            "lng": 1.104808,
+            "name": "El fantasma hum\u00e0"
         },
         "cf3cc6050c354892b06ff558b668c1d1.16": {
             "guid": "cf3cc6050c354892b06ff558b668c1d1.16",
@@ -15152,6 +15200,12 @@
             "lng": 1.275074,
             "name": "Escultura Cinc Continents"
         },
+        "e8f6d2d9682131daba7a9589c3978e2d.16": {
+            "guid": "e8f6d2d9682131daba7a9589c3978e2d.16",
+            "lat": 41.119608,
+            "lng": 1.236674,
+            "name": "Tobog\u00e1n met\u00e1lico"
+        },
         "e956338c19934c62b48a4854000ccb73.16": {
             "guid": "e956338c19934c62b48a4854000ccb73.16",
             "lat": 41.065865,
@@ -16489,12 +16543,6 @@
             "lat": 41.167269,
             "lng": 1.122543,
             "name": "Pante\u00f3 Boule"
-        },
-        "ff59589d75174ef7bd4e9f747a97a43c.16": {
-            "guid": "ff59589d75174ef7bd4e9f747a97a43c.16",
-            "lat": 41.077744,
-            "lng": 1.094497,
-            "name": "Estructura Arco-Iris"
         },
         "ff73de3ed9fe4c78a9fe2fa6f3711c96.16": {
             "guid": "ff73de3ed9fe4c78a9fe2fa6f3711c96.16",
