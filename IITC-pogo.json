@@ -66,6 +66,12 @@
             "lng": 1.266783,
             "name": "Mol\u00ed de Llevant"
         },
+        "0555cf44fbf34bfd99fdbbb1c8c3f522.16": {
+            "guid": "0555cf44fbf34bfd99fdbbb1c8c3f522.16",
+            "lat": 41.070947,
+            "lng": 1.104474,
+            "name": "Beach Playground Oasis"
+        },
         "05cc602bf34247c599cdc84f192ecafc.16": {
             "guid": "05cc602bf34247c599cdc84f192ecafc.16",
             "lat": 41.071383,
@@ -178,7 +184,7 @@
             "guid": "0e9a9813393d4620a04d575eea4eec86.16",
             "lat": 41.080887,
             "lng": 1.136301,
-            "name": "\u0410\u0440\u043a\u0430"
+            "name": "Escultura del TAS"
         },
         "0ec2ef39c7214ea4a7c86f84576cb33b.11": {
             "guid": "0ec2ef39c7214ea4a7c86f84576cb33b.11",
@@ -422,7 +428,7 @@
         },
         "2374dba5eafd4945a43e7a873ae4884b.16": {
             "guid": "2374dba5eafd4945a43e7a873ae4884b.16",
-            "lat": 41.116441,
+            "lat": 41.11644,
             "lng": 1.213094,
             "name": "Pilarica Font Virgin"
         },
@@ -540,6 +546,12 @@
             "lng": 1.085559,
             "name": "Parroquia De L'Assumpci\u00f3 "
         },
+        "29fc1d040309413fac9629f3e3e49b6b.16": {
+            "guid": "29fc1d040309413fac9629f3e3e49b6b.16",
+            "lat": 41.123082,
+            "lng": 1.198135,
+            "name": "Animals Playground"
+        },
         "2a16dc5f5c6c4cdfa3bf909b9b55c9cc.16": {
             "guid": "2a16dc5f5c6c4cdfa3bf909b9b55c9cc.16",
             "lat": 41.156894,
@@ -641,6 +653,12 @@
             "lat": 41.132315,
             "lng": 1.249553,
             "name": "Parc de la Muntanyeta"
+        },
+        "361045907da3453e808b1c32a70f7675.12": {
+            "guid": "361045907da3453e808b1c32a70f7675.12",
+            "lat": 41.132011,
+            "lng": 1.31896,
+            "name": "Torre dels Escipions"
         },
         "36acd6e7a7834032b0d650d7f16a3245.16": {
             "guid": "36acd6e7a7834032b0d650d7f16a3245.16",
@@ -767,6 +785,12 @@
             "lat": 41.080037,
             "lng": 1.178392,
             "name": "Fuente de agua"
+        },
+        "4084faa73ce345988df745563cc92045.16": {
+            "guid": "4084faa73ce345988df745563cc92045.16",
+            "lat": 41.089828,
+            "lng": 1.15951,
+            "name": "Templo del Fuego"
         },
         "40e7c0ee86814a7d8b986babb3fedfab.16": {
             "guid": "40e7c0ee86814a7d8b986babb3fedfab.16",
@@ -972,6 +996,12 @@
             "lng": 1.229898,
             "name": "Kids Graffiti"
         },
+        "54723d24e28049a6bb2873dbcbf06d14.16": {
+            "guid": "54723d24e28049a6bb2873dbcbf06d14.16",
+            "lat": 41.09899,
+            "lng": 1.159913,
+            "name": "unknown"
+        },
         "55230ed3ab3d455fbc234d6e357aa330.16": {
             "guid": "55230ed3ab3d455fbc234d6e357aa330.16",
             "lat": 41.154398,
@@ -983,6 +1013,12 @@
             "lat": 41.065577,
             "lng": 1.075061,
             "name": "Fuente zona picnic"
+        },
+        "55ee32db38d14ea0ad71301b03a463b2.16": {
+            "guid": "55ee32db38d14ea0ad71301b03a463b2.16",
+            "lat": 41.06584,
+            "lng": 1.15503,
+            "name": "Kinderparadise"
         },
         "566c237b160f48f7aa117a312fcbcb2b.16": {
             "guid": "566c237b160f48f7aa117a312fcbcb2b.16",
@@ -1170,6 +1206,12 @@
             "lng": 1.0937,
             "name": "Cancha de Basquet \u201cJosep Maria Subirachs\u201d"
         },
+        "659acd24dce731a083257e221c3b6b5f.16": {
+            "guid": "659acd24dce731a083257e221c3b6b5f.16",
+            "lat": 41.132008,
+            "lng": 1.267593,
+            "name": "unknown"
+        },
         "66cecfc2cfe34a86ac0bbbe2431ab820.16": {
             "guid": "66cecfc2cfe34a86ac0bbbe2431ab820.16",
             "lat": 41.138725,
@@ -1242,6 +1284,12 @@
             "lng": 1.204718,
             "name": "Casal C\u00edvic"
         },
+        "6a0654ced4854ad49c92d1a63f648cf0.16": {
+            "guid": "6a0654ced4854ad49c92d1a63f648cf0.16",
+            "lat": 41.14449,
+            "lng": 1.111303,
+            "name": "Cap Mari\u00e0 Fortuny"
+        },
         "6c7c34fe653241099e55192b9b940718.16": {
             "guid": "6c7c34fe653241099e55192b9b940718.16",
             "lat": 41.135383,
@@ -1265,6 +1313,12 @@
             "lat": 41.057471,
             "lng": 1.03133,
             "name": "Ondas P\u00e9treas"
+        },
+        "6d9e44b627404762adfe5c9b027d59f6.16": {
+            "guid": "6d9e44b627404762adfe5c9b027d59f6.16",
+            "lat": 41.122086,
+            "lng": 1.205355,
+            "name": "Palau d'Esports de Tarragona"
         },
         "6dc6965f80f44cbfb7b33ab0e6a491d4.16": {
             "guid": "6dc6965f80f44cbfb7b33ab0e6a491d4.16",
@@ -1307,6 +1361,12 @@
             "lat": 41.134823,
             "lng": 1.112674,
             "name": "Parque de Ocio Sur"
+        },
+        "723c796207a330769f5abc224c0e9d39.16": {
+            "guid": "723c796207a330769f5abc224c0e9d39.16",
+            "lat": 41.074791,
+            "lng": 1.122223,
+            "name": "Columpio con red"
         },
         "72533dd478264e4282b9d963fe18f3ca.16": {
             "guid": "72533dd478264e4282b9d963fe18f3ca.16",
@@ -2154,6 +2214,12 @@
             "lng": 1.255373,
             "name": "Casa Maria Salas"
         },
+        "b9f7a579049948209c2e5e830dcdf594.16": {
+            "guid": "b9f7a579049948209c2e5e830dcdf594.16",
+            "lat": 41.080145,
+            "lng": 1.09693,
+            "name": "Mosaico \"Jarr\u00f3n con Flores\""
+        },
         "ba5fdc2e7eaa4cd490a1d01842b399f1.16": {
             "guid": "ba5fdc2e7eaa4cd490a1d01842b399f1.16",
             "lat": 41.066088,
@@ -2627,12 +2693,6 @@
             "lat": 41.175289,
             "lng": 1.102978,
             "name": "Pista de Basket"
-        },
-        "e4cb2f13fffd4c7bb4489b9dc9bdaad1.16": {
-            "guid": "e4cb2f13fffd4c7bb4489b9dc9bdaad1.16",
-            "lat": 41.118991,
-            "lng": 1.206652,
-            "name": "Homenaje A La Escuela Del Ponent"
         },
         "e4fb0c52aa6e4c6db6b7d26a297c691a.16": {
             "guid": "e4fb0c52aa6e4c6db6b7d26a297c691a.16",
@@ -3110,6 +3170,12 @@
             "lng": 1.092831,
             "name": "Sa Font Mallorquina"
         },
+        "0408b5ec245e3997ac70578f4f18671f.16": {
+            "guid": "0408b5ec245e3997ac70578f4f18671f.16",
+            "lat": 41.074799,
+            "lng": 1.098417,
+            "name": "Pista de Tenis de Vilafortuny II"
+        },
         "041e7ac8aa154faa9913ff52ce95fb1b.16": {
             "guid": "041e7ac8aa154faa9913ff52ce95fb1b.16",
             "lat": 41.114938,
@@ -3211,12 +3277,6 @@
             "lat": 41.166206,
             "lng": 1.126499,
             "name": "Ouchies"
-        },
-        "0555cf44fbf34bfd99fdbbb1c8c3f522.16": {
-            "guid": "0555cf44fbf34bfd99fdbbb1c8c3f522.16",
-            "lat": 41.070947,
-            "lng": 1.104474,
-            "name": "Beach Playground Oasis"
         },
         "055cd37877c14c639c1eca7bf77ebc28.16": {
             "guid": "055cd37877c14c639c1eca7bf77ebc28.16",
@@ -3458,11 +3518,23 @@
             "lng": 1.123983,
             "name": "Asociaci\u00f3n Cultural de Catalanes y Andaluces"
         },
+        "091038aa33dd39d499fd4025dc4c4f69.16": {
+            "guid": "091038aa33dd39d499fd4025dc4c4f69.16",
+            "lat": 41.085398,
+            "lng": 1.156917,
+            "name": "barco indicador de Mediterr\u00e1nea"
+        },
         "091eae68ec6d4d71b18c00d877ee2531.16": {
             "guid": "091eae68ec6d4d71b18c00d877ee2531.16",
             "lat": 41.129534,
             "lng": 1.130029,
             "name": "Playground Plana"
+        },
+        "09461c59365c3befbde6afab3011d5f1.16": {
+            "guid": "09461c59365c3befbde6afab3011d5f1.16",
+            "lat": 41.081884,
+            "lng": 1.100314,
+            "name": "Querub\u00edn pensativo"
         },
         "094989be02e54e9f9dc1434e2d9ed9f6.16": {
             "guid": "094989be02e54e9f9dc1434e2d9ed9f6.16",
@@ -4094,6 +4166,12 @@
             "lng": 1.034076,
             "name": "Tortugues Marines"
         },
+        "15026c3c69f93417b6ade877a8e58e76.16": {
+            "guid": "15026c3c69f93417b6ade877a8e58e76.16",
+            "lat": 41.136988,
+            "lng": 1.266076,
+            "name": "Cam\u00ed de les coves del Llorito"
+        },
         "15053f193656458cb0cfb2fffa408d63.16": {
             "guid": "15053f193656458cb0cfb2fffa408d63.16",
             "lat": 41.16673,
@@ -4387,6 +4465,12 @@
             "lat": 41.149749,
             "lng": 1.097491,
             "name": "Campos de Petanca"
+        },
+        "19fa8873546b35eb824eb9af8d6aa9a9.16": {
+            "guid": "19fa8873546b35eb824eb9af8d6aa9a9.16",
+            "lat": 41.106974,
+            "lng": 1.24902,
+            "name": "Junta del Port - Local Social"
         },
         "1a050813b1ce49328eba0e22abead618.16": {
             "guid": "1a050813b1ce49328eba0e22abead618.16",
@@ -5060,6 +5144,12 @@
             "lng": 1.109552,
             "name": "Esgl\u00e9sia Evang\u00e8lica del Salvador"
         },
+        "27d14859aa7e31609e82f919cb7ab7d0.16": {
+            "guid": "27d14859aa7e31609e82f919cb7ab7d0.16",
+            "lat": 41.125988,
+            "lng": 1.242046,
+            "name": "Tarragona Patrimoni Mundial"
+        },
         "2844ad04fabb4c3495afd76a9cc448cb.16": {
             "guid": "2844ad04fabb4c3495afd76a9cc448cb.16",
             "lat": 41.111586,
@@ -5143,12 +5233,6 @@
             "lat": 41.110723,
             "lng": 1.249107,
             "name": "Graffiti Animaladas"
-        },
-        "29fc1d040309413fac9629f3e3e49b6b.16": {
-            "guid": "29fc1d040309413fac9629f3e3e49b6b.16",
-            "lat": 41.123082,
-            "lng": 1.198135,
-            "name": "Animals Playground"
         },
         "2a2133f3993a4dcc976d2866d758eb2e.16": {
             "guid": "2a2133f3993a4dcc976d2866d758eb2e.16",
@@ -5239,6 +5323,12 @@
             "lat": 41.07447,
             "lng": 1.137128,
             "name": "Motos Playground"
+        },
+        "2bae7278bcfe339283611b4e39185da5.16": {
+            "guid": "2bae7278bcfe339283611b4e39185da5.16",
+            "lat": 41.166996,
+            "lng": 1.104555,
+            "name": "Indicador Antic cam\u00ed de Castellvell"
         },
         "2bafaf78bc194393b6ec02c20784b4ec.16": {
             "guid": "2bafaf78bc194393b6ec02c20784b4ec.16",
@@ -5636,6 +5726,12 @@
             "lng": 1.114029,
             "name": "Parc Infantil de La Fumera"
         },
+        "346076c55cea3b00935f56d2af507f07.16": {
+            "guid": "346076c55cea3b00935f56d2af507f07.16",
+            "lat": 41.080758,
+            "lng": 1.1242,
+            "name": "Parc Infantil \"Pla\u00e7a Andalusia\""
+        },
         "34749f7dbaa44968bc2c29f0c0c971ea.16": {
             "guid": "34749f7dbaa44968bc2c29f0c0c971ea.16",
             "lat": 41.078358,
@@ -5720,12 +5816,6 @@
             "lng": 1.12238,
             "name": "Column of Angels"
         },
-        "361045907da3453e808b1c32a70f7675.12": {
-            "guid": "361045907da3453e808b1c32a70f7675.12",
-            "lat": 41.132011,
-            "lng": 1.31896,
-            "name": "Torre dels Escipions"
-        },
         "361372c5be3545c3a01811845df0d5c9.16": {
             "guid": "361372c5be3545c3a01811845df0d5c9.16",
             "lat": 41.164076,
@@ -5779,6 +5869,12 @@
             "lat": 41.083805,
             "lng": 1.18135,
             "name": "El Cirineu ajuda a Jesus"
+        },
+        "36dd08a3b1d73b28a6443bc4e2719d84.16": {
+            "guid": "36dd08a3b1d73b28a6443bc4e2719d84.16",
+            "lat": 41.121897,
+            "lng": 1.275521,
+            "name": "Centre Comercial Vall de l'Arrabassada"
         },
         "36e00a84db1444d2a5edada5071fe9e5.16": {
             "guid": "36e00a84db1444d2a5edada5071fe9e5.16",
@@ -5929,6 +6025,12 @@
             "lat": 41.114927,
             "lng": 1.25698,
             "name": "Peces"
+        },
+        "3a5c8318f42e3934bb6d5e48b7376078.16": {
+            "guid": "3a5c8318f42e3934bb6d5e48b7376078.16",
+            "lat": 41.070352,
+            "lng": 1.101922,
+            "name": "Voley Platja \"Vilafortuny Est\""
         },
         "3a6226a3f7274641a8ba5d07ca6f5d02.16": {
             "guid": "3a6226a3f7274641a8ba5d07ca6f5d02.16",
@@ -6266,12 +6368,6 @@
             "lng": 1.255915,
             "name": "Mapa tur\u00edstico de Tarragona"
         },
-        "4084faa73ce345988df745563cc92045.16": {
-            "guid": "4084faa73ce345988df745563cc92045.16",
-            "lat": 41.089828,
-            "lng": 1.15951,
-            "name": "Templo del Fuego"
-        },
         "408e43181e944bc1b3646db71cd39405.16": {
             "guid": "408e43181e944bc1b3646db71cd39405.16",
             "lat": 41.137709,
@@ -6337,6 +6433,12 @@
             "lat": 41.068061,
             "lng": 1.058656,
             "name": "Fuente Passeig Francesc Maci\u00e0"
+        },
+        "421ddcad25aa3423b768d91c24a1e7c5.16": {
+            "guid": "421ddcad25aa3423b768d91c24a1e7c5.16",
+            "lat": 41.075123,
+            "lng": 1.124927,
+            "name": "Castillo de colores"
         },
         "42363703dbb54672a20ae3921f04b48a.16": {
             "guid": "42363703dbb54672a20ae3921f04b48a.16",
@@ -6470,6 +6572,12 @@
             "lng": 1.253847,
             "name": "A Eduardo Saavedra"
         },
+        "447e337a637c3a8784fdbe1e9c44034d.16": {
+            "guid": "447e337a637c3a8784fdbe1e9c44034d.16",
+            "lat": 41.150242,
+            "lng": 1.097913,
+            "name": "Gos i gat"
+        },
         "4489cf696ab44e818aab2468b73a5273.16": {
             "guid": "4489cf696ab44e818aab2468b73a5273.16",
             "lat": 41.082755,
@@ -6505,6 +6613,12 @@
             "lat": 41.090032,
             "lng": 1.157547,
             "name": "Fuente De La Hacienda"
+        },
+        "44ef3e998f4e3767b0f8666ac5e8278e.16": {
+            "guid": "44ef3e998f4e3767b0f8666ac5e8278e.16",
+            "lat": 41.122065,
+            "lng": 1.201477,
+            "name": "El bosc mediterrani"
         },
         "44f49f06bba94bbb94cca9ab5467fefa.16": {
             "guid": "44f49f06bba94bbb94cca9ab5467fefa.16",
@@ -6571,6 +6685,12 @@
             "lat": 41.118494,
             "lng": 1.259939,
             "name": "Pla\u00e7a Carles Llorach"
+        },
+        "45f3d75b427b3e62a2887b6491a68c50.16": {
+            "guid": "45f3d75b427b3e62a2887b6491a68c50.16",
+            "lat": 41.083673,
+            "lng": 1.123126,
+            "name": "Jardins de Clara Campoamor"
         },
         "45fe54c2251f4351a45c32eacbcc9841.16": {
             "guid": "45fe54c2251f4351a45c32eacbcc9841.16",
@@ -6728,6 +6848,12 @@
             "lng": 1.271559,
             "name": "Els Tres Reis"
         },
+        "49d22e7fc1673509938e1e685e741dd4.16": {
+            "guid": "49d22e7fc1673509938e1e685e741dd4.16",
+            "lat": 41.098719,
+            "lng": 1.158312,
+            "name": "unknown"
+        },
         "4a5437024761423cbd6685a7cc837bc9.16": {
             "guid": "4a5437024761423cbd6685a7cc837bc9.16",
             "lat": 41.115473,
@@ -6805,6 +6931,12 @@
             "lat": 41.156037,
             "lng": 1.110036,
             "name": "Restaurants Museo Del Vermut"
+        },
+        "4becb7fc819f3feb87e1042f53215eb7.16": {
+            "guid": "4becb7fc819f3feb87e1042f53215eb7.16",
+            "lat": 41.085796,
+            "lng": 1.098781,
+            "name": "Ermita del Mas d'En Bosch"
         },
         "4c09e7c193df42849663ad867c55d31d.16": {
             "guid": "4c09e7c193df42849663ad867c55d31d.16",
@@ -6913,6 +7045,12 @@
             "lat": 41.066306,
             "lng": 1.179338,
             "name": "Placa conmemorativa"
+        },
+        "4da516ca0dd23b049af9c12690370de6.16": {
+            "guid": "4da516ca0dd23b049af9c12690370de6.16",
+            "lat": 41.07992,
+            "lng": 1.096068,
+            "name": "Mapa \"Jardins de Vilafortuny\""
         },
         "4da7369f437a4e0d9c7145f1f9addb81.16": {
             "guid": "4da7369f437a4e0d9c7145f1f9addb81.16",
@@ -7093,6 +7231,12 @@
             "lat": 41.081206,
             "lng": 1.046215,
             "name": "Estaci\u00f3 de Cambrils-Salou"
+        },
+        "50050b9fa00c399696e25911f64bf58c.16": {
+            "guid": "50050b9fa00c399696e25911f64bf58c.16",
+            "lat": 41.083837,
+            "lng": 1.093542,
+            "name": "Juego y aventura"
         },
         "501740065c39448780a16010fb617316.16": {
             "guid": "501740065c39448780a16010fb617316.16",
@@ -7430,12 +7574,6 @@
             "lng": 1.213053,
             "name": "Fuente noustrial Tarragona"
         },
-        "54723d24e28049a6bb2873dbcbf06d14.16": {
-            "guid": "54723d24e28049a6bb2873dbcbf06d14.16",
-            "lat": 41.09899,
-            "lng": 1.159913,
-            "name": "Torre d'en Dol\u00e7a"
-        },
         "54a43a0b68654ce0ae17c00c1ca2a167.16": {
             "guid": "54a43a0b68654ce0ae17c00c1ca2a167.16",
             "lat": 41.109032,
@@ -7472,12 +7610,6 @@
             "lng": 1.249937,
             "name": "Comandancia Naval Y Ancla Negra"
         },
-        "55ee32db38d14ea0ad71301b03a463b2.16": {
-            "guid": "55ee32db38d14ea0ad71301b03a463b2.16",
-            "lat": 41.06584,
-            "lng": 1.15503,
-            "name": "Kinderparadise"
-        },
         "56018e037cb74970a419ac469a88e1e2.16": {
             "guid": "56018e037cb74970a419ac469a88e1e2.16",
             "lat": 41.078252,
@@ -7489,6 +7621,12 @@
             "lat": 41.078828,
             "lng": 1.183991,
             "name": "Mirador De La Pineda"
+        },
+        "564651469b1839b3baec8e47a4b4d529.16": {
+            "guid": "564651469b1839b3baec8e47a4b4d529.16",
+            "lat": 41.131793,
+            "lng": 1.31894,
+            "name": "Placa Torre dels Escipions"
         },
         "56621b8f82b04d44939f58c4901895e6.16": {
             "guid": "56621b8f82b04d44939f58c4901895e6.16",
@@ -7603,6 +7741,12 @@
             "lat": 41.075446,
             "lng": 1.132222,
             "name": "Arbol Decorado"
+        },
+        "5875407c543d3f5aa232e303f808ddff.16": {
+            "guid": "5875407c543d3f5aa232e303f808ddff.16",
+            "lat": 41.08661,
+            "lng": 1.1428,
+            "name": "unknown"
         },
         "587547343cbf4ed0ae8098f612093644.16": {
             "guid": "587547343cbf4ed0ae8098f612093644.16",
@@ -8108,6 +8252,12 @@
             "lng": 1.104285,
             "name": "Col.legi D'arquitectes"
         },
+        "62f8f2eacbf533d0a9bfa11304d76ff6.16": {
+            "guid": "62f8f2eacbf533d0a9bfa11304d76ff6.16",
+            "lat": 41.077936,
+            "lng": 1.133967,
+            "name": "Zona infantil"
+        },
         "63272a505642430980c3b9142d17a215.16": {
             "guid": "63272a505642430980c3b9142d17a215.16",
             "lat": 41.073982,
@@ -8245,6 +8395,12 @@
             "lat": 41.1172,
             "lng": 1.256325,
             "name": "Mural Angelical"
+        },
+        "654dc4622db13a3888de90fedb5a34d9.16": {
+            "guid": "654dc4622db13a3888de90fedb5a34d9.16",
+            "lat": 41.08274,
+            "lng": 1.093567,
+            "name": "Pistas de Tenis \"Josep Maria Subirachs\""
         },
         "6563470757db40e187e3e2250aed976d.16": {
             "guid": "6563470757db40e187e3e2250aed976d.16",
@@ -8396,6 +8552,12 @@
             "lng": 1.17442,
             "name": "Escultura Estival Park"
         },
+        "687b8c5cba483255bd70e8bee6742d2b.16": {
+            "guid": "687b8c5cba483255bd70e8bee6742d2b.16",
+            "lat": 41.138705,
+            "lng": 1.271143,
+            "name": "Ed, Edd y Eddy"
+        },
         "68a98fcd0ddf481cb205bf7f33c58a16.16": {
             "guid": "68a98fcd0ddf481cb205bf7f33c58a16.16",
             "lat": 41.145051,
@@ -8438,6 +8600,12 @@
             "lng": 1.10636,
             "name": "Mulassa Al Vent"
         },
+        "697c9ead685e3da3a0c43f6b83ae44e5.16": {
+            "guid": "697c9ead685e3da3a0c43f6b83ae44e5.16",
+            "lat": 41.074864,
+            "lng": 1.122725,
+            "name": "Lliri de Mar"
+        },
         "6989b7d4a81136148a371a26f3b3ddd9.16": {
             "guid": "6989b7d4a81136148a371a26f3b3ddd9.16",
             "lat": 41.131626,
@@ -8461,12 +8629,6 @@
             "lat": 41.153929,
             "lng": 1.100644,
             "name": "Mapa Reus Biblio"
-        },
-        "6a0654ced4854ad49c92d1a63f648cf0.16": {
-            "guid": "6a0654ced4854ad49c92d1a63f648cf0.16",
-            "lat": 41.14449,
-            "lng": 1.111303,
-            "name": "Cap Mari\u00e0 Fortuny"
         },
         "6a629608f9e04500afdc96e80cb65c6f.16": {
             "guid": "6a629608f9e04500afdc96e80cb65c6f.16",
@@ -8521,6 +8683,12 @@
             "lat": 41.157832,
             "lng": 1.102113,
             "name": "Little Cars Playground"
+        },
+        "6be844da1fd934a0bfcba778cb577243.16": {
+            "guid": "6be844da1fd934a0bfcba778cb577243.16",
+            "lat": 41.072432,
+            "lng": 1.113362,
+            "name": "Abdominals al Cap de Sant Pere"
         },
         "6be86ca7e1cc48de9858b9ba5f224ce0.16": {
             "guid": "6be86ca7e1cc48de9858b9ba5f224ce0.16",
@@ -8617,12 +8785,6 @@
             "lat": 41.148199,
             "lng": 1.110711,
             "name": "Feminicidi"
-        },
-        "6d9e44b627404762adfe5c9b027d59f6.16": {
-            "guid": "6d9e44b627404762adfe5c9b027d59f6.16",
-            "lat": 41.122086,
-            "lng": 1.205355,
-            "name": "Palau d'Esports de Tarragona"
         },
         "6db43f6051ea488caebca8c77e0f2d6d.16": {
             "guid": "6db43f6051ea488caebca8c77e0f2d6d.16",
@@ -8822,11 +8984,11 @@
             "lng": 1.155625,
             "name": "volcano"
         },
-        "723c796207a330769f5abc224c0e9d39.16": {
-            "guid": "723c796207a330769f5abc224c0e9d39.16",
-            "lat": 41.074791,
-            "lng": 1.122223,
-            "name": "Columpio con red"
+        "71dc470225c9365ba3edbe6fbcffdc60.16": {
+            "guid": "71dc470225c9365ba3edbe6fbcffdc60.16",
+            "lat": 41.130807,
+            "lng": 1.26537,
+            "name": "Pablito el elfito"
         },
         "723e4efe62c948f3acb8ea13cf5cf15f.16": {
             "guid": "723e4efe62c948f3acb8ea13cf5cf15f.16",
@@ -9290,6 +9452,12 @@
             "lng": 1.25366,
             "name": "Mural Dels Castellers"
         },
+        "79f397a6e698407297f5b84e53c50081.16": {
+            "guid": "79f397a6e698407297f5b84e53c50081.16",
+            "lat": 41.150768,
+            "lng": 1.105274,
+            "name": "Sardana Playground"
+        },
         "7a00198691f1470695f81ae15d42a4fe.16": {
             "guid": "7a00198691f1470695f81ae15d42a4fe.16",
             "lat": 41.118063,
@@ -9505,6 +9673,12 @@
             "lat": 41.120924,
             "lng": 1.252463,
             "name": "Mural del \u00e1rbol"
+        },
+        "7dee4311b68934bdb147c25707518567.16": {
+            "guid": "7dee4311b68934bdb147c25707518567.16",
+            "lat": 41.142303,
+            "lng": 1.108901,
+            "name": "Asamblea Reus"
         },
         "7dfdb92d29274b8991958a941f6446a9.16": {
             "guid": "7dfdb92d29274b8991958a941f6446a9.16",
@@ -9752,6 +9926,12 @@
             "lng": 1.143525,
             "name": "Mussol Graffitti Vilaseca"
         },
+        "827e645f777c3bd09ea4945f885bb1bb.16": {
+            "guid": "827e645f777c3bd09ea4945f885bb1bb.16",
+            "lat": 41.133049,
+            "lng": 1.266756,
+            "name": "Arco hist\u00f3rico"
+        },
         "82849756df804d18b59743d9ae2471f2.16": {
             "guid": "82849756df804d18b59743d9ae2471f2.16",
             "lat": 41.159387,
@@ -9943,6 +10123,12 @@
             "lat": 41.135641,
             "lng": 1.305799,
             "name": "Ca Madr\u00f3 de Monnars"
+        },
+        "866f08cce4ee3104b0811e6e3df005ec.16": {
+            "guid": "866f08cce4ee3104b0811e6e3df005ec.16",
+            "lat": 41.064278,
+            "lng": 1.050678,
+            "name": "Pista de v\u00f2lei platja"
         },
         "867f74fcb343455cbb842d18171fa4ca.11": {
             "guid": "867f74fcb343455cbb842d18171fa4ca.11",
@@ -10291,6 +10477,12 @@
             "lat": 41.11467,
             "lng": 1.255528,
             "name": "Reial Germandat de Jes\u00fas Natzar\u00e8"
+        },
+        "8dae58ed59e53cd296349d1e1e957509.16": {
+            "guid": "8dae58ed59e53cd296349d1e1e957509.16",
+            "lat": 41.114688,
+            "lng": 1.261913,
+            "name": "Mural Platja Miracle"
         },
         "8db13408ae49456b907540eb22ba8eb2.16": {
             "guid": "8db13408ae49456b907540eb22ba8eb2.16",
@@ -10928,11 +11120,23 @@
             "lng": 1.058708,
             "name": "Confraria de pescadors Cambrils"
         },
+        "99280b80897130558fcf1f7996c3f44b.16": {
+            "guid": "99280b80897130558fcf1f7996c3f44b.16",
+            "lat": 41.077208,
+            "lng": 1.140392,
+            "name": "Jigglypuff"
+        },
         "99371afae57d3ad09e8ef04c24b1ceb8.16": {
             "guid": "99371afae57d3ad09e8ef04c24b1ceb8.16",
             "lat": 41.121793,
             "lng": 1.238424,
             "name": "Antiga Pista de Tennis"
+        },
+        "994ac37b2ffb3caf8193a80126ec130d.16": {
+            "guid": "994ac37b2ffb3caf8193a80126ec130d.16",
+            "lat": 41.077082,
+            "lng": 1.134531,
+            "name": "Mapa mundi"
         },
         "99500b465d47433dbd30ae05bf85a447.16": {
             "guid": "99500b465d47433dbd30ae05bf85a447.16",
@@ -11054,6 +11258,12 @@
             "lng": 1.051216,
             "name": "Creu 1848"
         },
+        "9ba033ae6b6b35688cb535f1271799ca.16": {
+            "guid": "9ba033ae6b6b35688cb535f1271799ca.16",
+            "lat": 41.075718,
+            "lng": 1.10078,
+            "name": "Pista de Petanca \"Mas de Clariana\""
+        },
         "9ba7ca32e5e646c39236d854ce127643.16": {
             "guid": "9ba7ca32e5e646c39236d854ce127643.16",
             "lat": 41.065337,
@@ -11071,6 +11281,12 @@
             "lat": 41.066942,
             "lng": 1.173899,
             "name": "\u00c1nforas de Cer\u00e1mica"
+        },
+        "9bda82b280943010b0abff7caf7f7c4f.16": {
+            "guid": "9bda82b280943010b0abff7caf7f7c4f.16",
+            "lat": 41.096031,
+            "lng": 1.160275,
+            "name": "unknown"
         },
         "9be1a8e16902349ab1f004b9056b3125.16": {
             "guid": "9be1a8e16902349ab1f004b9056b3125.16",
@@ -11516,6 +11732,12 @@
             "lng": 1.249423,
             "name": "Estudi de Musica"
         },
+        "a38d4ab1d3f0367cb0803b6b8c02fcf0.16": {
+            "guid": "a38d4ab1d3f0367cb0803b6b8c02fcf0.16",
+            "lat": 41.154127,
+            "lng": 1.102998,
+            "name": "Cal Sendra"
+        },
         "a395094c653f4c459d4d1d6bf636c8ed.16": {
             "guid": "a395094c653f4c459d4d1d6bf636c8ed.16",
             "lat": 41.079679,
@@ -11900,12 +12122,6 @@
             "lng": 1.153325,
             "name": "Playground \u201cAlf\u201d"
         },
-        "ab6f1988254c4c72a0f7bb6bf98159e2.16": {
-            "guid": "ab6f1988254c4c72a0f7bb6bf98159e2.16",
-            "lat": 41.085671,
-            "lng": 1.154896,
-            "name": "Carretilla Antigua"
-        },
         "ab8e03c707c1470e801ad642b4b7685d.16": {
             "guid": "ab8e03c707c1470e801ad642b4b7685d.16",
             "lat": 41.15914,
@@ -12127,6 +12343,12 @@
             "lat": 41.115081,
             "lng": 1.240392,
             "name": "Mur Tapial"
+        },
+        "b01bd1ab1f5937d2a0b2052e2273838e.16": {
+            "guid": "b01bd1ab1f5937d2a0b2052e2273838e.16",
+            "lat": 41.065731,
+            "lng": 1.155022,
+            "name": "Cartel V\u00eda Brava Salou. Llarga-Cala Font"
         },
         "b0222b0e5b6b460196f2de0827ebc603.16": {
             "guid": "b0222b0e5b6b460196f2de0827ebc603.16",
@@ -12728,12 +12950,6 @@
             "lng": 1.241766,
             "name": "Mural Merkel"
         },
-        "b9f7a579049948209c2e5e830dcdf594.16": {
-            "guid": "b9f7a579049948209c2e5e830dcdf594.16",
-            "lat": 41.080145,
-            "lng": 1.09693,
-            "name": "Mosaico \"Jarr\u00f3n con Flores\""
-        },
         "ba127ae541a54f3b86f09291f2c6afca.16": {
             "guid": "ba127ae541a54f3b86f09291f2c6afca.16",
             "lat": 41.162698,
@@ -12884,6 +13100,12 @@
             "lng": 1.27205,
             "name": "Trobada Anual"
         },
+        "bd2b1fc0b19c34a0a010ed565e2d7d0a.16": {
+            "guid": "bd2b1fc0b19c34a0a010ed565e2d7d0a.16",
+            "lat": 41.089414,
+            "lng": 1.159443,
+            "name": "Gran Teatro Maya"
+        },
         "bd56970d8aa541269da761c05f9e5fba.16": {
             "guid": "bd56970d8aa541269da761c05f9e5fba.16",
             "lat": 41.117505,
@@ -12955,6 +13177,12 @@
             "lat": 41.153297,
             "lng": 1.093876,
             "name": "Ceramic Detail"
+        },
+        "befce9ba34883de2ad6b5eedb5175454.16": {
+            "guid": "befce9ba34883de2ad6b5eedb5175454.16",
+            "lat": 41.079052,
+            "lng": 1.121691,
+            "name": "Antic Camp de F\u00fatbol de Salou"
         },
         "bf07021f55c84e01b2a90b23ce6aa37d.16": {
             "guid": "bf07021f55c84e01b2a90b23ce6aa37d.16",
@@ -13429,6 +13657,12 @@
             "lat": 41.113299,
             "lng": 1.237885,
             "name": "Burbujas alien\u00edgenas"
+        },
+        "c76194bf1d3f399ca45a5321a54de997.16": {
+            "guid": "c76194bf1d3f399ca45a5321a54de997.16",
+            "lat": 41.057842,
+            "lng": 1.020983,
+            "name": "Jard\u00edn Br\u00fajula"
         },
         "c76d4c96b9fe412c88291168a1f6b0f7.16": {
             "guid": "c76d4c96b9fe412c88291168a1f6b0f7.16",
@@ -14642,6 +14876,12 @@
             "lng": 1.256177,
             "name": "Casa Antoni Rossell"
         },
+        "de6380da604f3164aff638797ffbfaed.16": {
+            "guid": "de6380da604f3164aff638797ffbfaed.16",
+            "lat": 41.156624,
+            "lng": 1.101509,
+            "name": "La Paz"
+        },
         "de847a12b83244ae9d21e7004b571c75.16": {
             "guid": "de847a12b83244ae9d21e7004b571c75.16",
             "lat": 41.120802,
@@ -15350,6 +15590,12 @@
             "lng": 1.179298,
             "name": "placa conmemorativa de palmiers"
         },
+        "ebbb19242bc43b83b7c7fc22ba7f5a69.16": {
+            "guid": "ebbb19242bc43b83b7c7fc22ba7f5a69.16",
+            "lat": 41.134348,
+            "lng": 1.271734,
+            "name": "II Fiesta del arbol"
+        },
         "ebbeb356a39e4e43b1e60d8f841c7768.16": {
             "guid": "ebbeb356a39e4e43b1e60d8f841c7768.16",
             "lat": 41.140476,
@@ -15974,6 +16220,12 @@
             "lng": 1.182426,
             "name": "Parque Infantil El Castillo"
         },
+        "f5e455246d903214b5f112f6f4436c32.16": {
+            "guid": "f5e455246d903214b5f112f6f4436c32.16",
+            "lat": 41.141062,
+            "lng": 1.268197,
+            "name": "Cam\u00ed de Sant Jaume a Santes Creus"
+        },
         "f6326f9bdcc14b06b84f0ad4110be379.16": {
             "guid": "f6326f9bdcc14b06b84f0ad4110be379.16",
             "lat": 41.12477,
@@ -16394,6 +16646,12 @@
             "lng": 1.152887,
             "name": "Cementiri"
         },
+        "fc99d10ec2eb3d8aa02982b283214c6b.16": {
+            "guid": "fc99d10ec2eb3d8aa02982b283214c6b.16",
+            "lat": 41.111761,
+            "lng": 1.244091,
+            "name": "Grafiti KRAKEN FITNESS"
+        },
         "fcd9f69e83ef4b1eab40bde105cc72ec.16": {
             "guid": "fcd9f69e83ef4b1eab40bde105cc72ec.16",
             "lat": 41.084387,
@@ -16417,6 +16675,12 @@
             "lat": 41.151587,
             "lng": 1.102165,
             "name": "Relaxing Graffiti"
+        },
+        "fd2445f17afc3878bb340938d278fc54.16": {
+            "guid": "fd2445f17afc3878bb340938d278fc54.16",
+            "lat": 41.075681,
+            "lng": 1.12513,
+            "name": "Salauris"
         },
         "fd2d9206509e4d9e918e72403eca12c6.16": {
             "guid": "fd2d9206509e4d9e918e72403eca12c6.16",
