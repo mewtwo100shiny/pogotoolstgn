@@ -66,6 +66,12 @@
             "lng": 1.266783,
             "name": "Mol\u00ed de Llevant"
         },
+        "054d95b9889f4ff7b32b7b19c1457bcb.16": {
+            "guid": "054d95b9889f4ff7b32b7b19c1457bcb.16",
+            "lat": 41.164072,
+            "lng": 1.111522,
+            "name": "Mas Miarnau"
+        },
         "0555cf44fbf34bfd99fdbbb1c8c3f522.16": {
             "guid": "0555cf44fbf34bfd99fdbbb1c8c3f522.16",
             "lat": 41.070947,
@@ -413,6 +419,12 @@
             "lat": 41.12406,
             "lng": 1.238246,
             "name": "Los Frutos del Ayer"
+        },
+        "21717c4634014523a92b0c6a194f3649.16": {
+            "guid": "21717c4634014523a92b0c6a194f3649.16",
+            "lat": 41.155614,
+            "lng": 1.08516,
+            "name": "Mural De Futbol 1"
         },
         "225229aa497444a386d2c0be3a246741.16": {
             "guid": "225229aa497444a386d2c0be3a246741.16",
@@ -828,6 +840,12 @@
             "lng": 1.136842,
             "name": "Water Laberint"
         },
+        "440def04101d464dba36c7c8bd4654dc.16": {
+            "guid": "440def04101d464dba36c7c8bd4654dc.16",
+            "lat": 41.154153,
+            "lng": 1.117802,
+            "name": "Pista patinatge i hockey ploms"
+        },
         "446a2e0b225040f38f36eeb52e10831e.16": {
             "guid": "446a2e0b225040f38f36eeb52e10831e.16",
             "lat": 41.07176,
@@ -1055,6 +1073,12 @@
             "lat": 41.148746,
             "lng": 1.118851,
             "name": "San Jos\u00e9 Obrero Playground"
+        },
+        "5875407c543d3f5aa232e303f808ddff.16": {
+            "guid": "5875407c543d3f5aa232e303f808ddff.16",
+            "lat": 41.08661,
+            "lng": 1.1428,
+            "name": "unknown"
         },
         "58e1b319a0a7496fb9771cfcb1040d7e.16": {
             "guid": "58e1b319a0a7496fb9771cfcb1040d7e.16",
@@ -1392,6 +1416,12 @@
             "lng": 1.275542,
             "name": "Platja Arrabassada"
         },
+        "734d8618eed64295a069491a0fed5a4f.16": {
+            "guid": "734d8618eed64295a069491a0fed5a4f.16",
+            "lat": 41.066525,
+            "lng": 1.179288,
+            "name": "Ferro"
+        },
         "73725c9c829140eeba987276feb74a9a.16": {
             "guid": "73725c9c829140eeba987276feb74a9a.16",
             "lat": 41.06409,
@@ -1451,6 +1481,12 @@
             "lat": 41.069444,
             "lng": 1.098597,
             "name": "Circuito de entrenamiento playa de Vilafortuny"
+        },
+        "782a34e6444447e08bf4eba3763713b0.16": {
+            "guid": "782a34e6444447e08bf4eba3763713b0.16",
+            "lat": 41.155589,
+            "lng": 1.239182,
+            "name": "Urban Art BYG"
         },
         "78328d8d49f8487a977779b2582b7ea4.16": {
             "guid": "78328d8d49f8487a977779b2582b7ea4.16",
@@ -1559,6 +1595,12 @@
             "lat": 41.056062,
             "lng": 1.16075,
             "name": "B\u00fanker "
+        },
+        "822decbaa853445aa032b2d6b6d00a24.16": {
+            "guid": "822decbaa853445aa032b2d6b6d00a24.16",
+            "lat": 41.167695,
+            "lng": 1.102053,
+            "name": "Pipican"
         },
         "83ec4dc1dfc844468771bb2e09f0890a.16": {
             "guid": "83ec4dc1dfc844468771bb2e09f0890a.16",
@@ -1956,6 +1998,12 @@
             "lng": 1.115214,
             "name": "Parc De Jocs Infantils"
         },
+        "a3996d029f34408a8d06027dfe6767eb.16": {
+            "guid": "a3996d029f34408a8d06027dfe6767eb.16",
+            "lat": 41.120985,
+            "lng": 1.23617,
+            "name": "Zona De Jocs Infantil"
+        },
         "a3f9f45e2ba344a8b28df921b954bf66.16": {
             "guid": "a3f9f45e2ba344a8b28df921b954bf66.16",
             "lat": 41.124639,
@@ -2069,6 +2117,12 @@
             "lat": 41.119871,
             "lng": 1.243009,
             "name": "Esgl\u00e9sia de Sant Pau"
+        },
+        "ab39d8934c7d4aa59afc79c143491c2d.16": {
+            "guid": "ab39d8934c7d4aa59afc79c143491c2d.16",
+            "lat": 41.154199,
+            "lng": 1.106039,
+            "name": "Cubs De Reciclatge"
         },
         "ac35e4cc23a34f03b6a29c23a8f50be9.16": {
             "guid": "ac35e4cc23a34f03b6a29c23a8f50be9.16",
@@ -2556,6 +2610,12 @@
             "lng": 1.260797,
             "name": "Columpios P\u00fablicos"
         },
+        "d4070cbc5abb49e6b869a93036bfd602.16": {
+            "guid": "d4070cbc5abb49e6b869a93036bfd602.16",
+            "lat": 41.077175,
+            "lng": 1.124777,
+            "name": "Cotxet"
+        },
         "d486ab40558d4ddfbb133036b0dd0f5e.16": {
             "guid": "d486ab40558d4ddfbb133036b0dd0f5e.16",
             "lat": 41.081441,
@@ -2609,6 +2669,12 @@
             "lat": 41.077463,
             "lng": 1.178985,
             "name": "Ancla Sagrada"
+        },
+        "ddd8e4e0f5514ff8a7549179561970c2.16": {
+            "guid": "ddd8e4e0f5514ff8a7549179561970c2.16",
+            "lat": 41.074101,
+            "lng": 1.141214,
+            "name": "Escut De Copes"
         },
         "decbeea84cb14c0f9c101d8d25079ca6.16": {
             "guid": "decbeea84cb14c0f9c101d8d25079ca6.16",
@@ -3266,12 +3332,6 @@
             "lng": 1.098815,
             "name": "columpio y balancines"
         },
-        "054d95b9889f4ff7b32b7b19c1457bcb.16": {
-            "guid": "054d95b9889f4ff7b32b7b19c1457bcb.16",
-            "lat": 41.164072,
-            "lng": 1.111522,
-            "name": "Mas Miarnau"
-        },
         "054fcd526afe42c38c905bec9224d5eb.16": {
             "guid": "054fcd526afe42c38c905bec9224d5eb.16",
             "lat": 41.166206,
@@ -3793,6 +3853,12 @@
             "lat": 41.157622,
             "lng": 1.105536,
             "name": "La deessa Just\u00edcia"
+        },
+        "0e0375407be743dfa9e21b94b7ab4276.16": {
+            "guid": "0e0375407be743dfa9e21b94b7ab4276.16",
+            "lat": 41.156096,
+            "lng": 1.109594,
+            "name": "Sant Manuel"
         },
         "0e080a8f5a114ab0ab0e85e69142b8c9.16": {
             "guid": "0e080a8f5a114ab0ab0e85e69142b8c9.16",
@@ -4388,6 +4454,12 @@
             "lng": 1.103064,
             "name": "Croissant Grafitti"
         },
+        "185411ebb56740ceb22c7e4d36d10927.16": {
+            "guid": "185411ebb56740ceb22c7e4d36d10927.16",
+            "lat": 41.154503,
+            "lng": 1.104987,
+            "name": "Centre C\u00edvic Del Carme"
+        },
         "1870416191674992a8761cb8940d47c2.16": {
             "guid": "1870416191674992a8761cb8940d47c2.16",
             "lat": 41.153777,
@@ -4813,12 +4885,6 @@
             "lat": 41.119286,
             "lng": 1.245587,
             "name": "Parc de la Imperial"
-        },
-        "21717c4634014523a92b0c6a194f3649.16": {
-            "guid": "21717c4634014523a92b0c6a194f3649.16",
-            "lat": 41.155614,
-            "lng": 1.08516,
-            "name": "Mural De Futbol 1"
         },
         "218563f182ff4589b8bea1dc50a2e791.16": {
             "guid": "218563f182ff4589b8bea1dc50a2e791.16",
@@ -5347,6 +5413,12 @@
             "lat": 41.111456,
             "lng": 1.149872,
             "name": "Centre Civic i Cultural el Colom\u00ed"
+        },
+        "2c0318b27dcc4abd800ee893973a6672.16": {
+            "guid": "2c0318b27dcc4abd800ee893973a6672.16",
+            "lat": 41.153271,
+            "lng": 1.102913,
+            "name": "Cadillac"
         },
         "2c47fad935d641f182f5714cdf5732d3.16": {
             "guid": "2c47fad935d641f182f5714cdf5732d3.16",
@@ -6523,12 +6595,6 @@
             "lat": 41.07501,
             "lng": 1.134531,
             "name": "Escudo Pi\u00f1as"
-        },
-        "440def04101d464dba36c7c8bd4654dc.16": {
-            "guid": "440def04101d464dba36c7c8bd4654dc.16",
-            "lat": 41.154153,
-            "lng": 1.117802,
-            "name": "Pista patinatge i hockey ploms"
         },
         "440df27028a24eeabaa869f18188c880.16": {
             "guid": "440df27028a24eeabaa869f18188c880.16",
@@ -7742,12 +7808,6 @@
             "lng": 1.132222,
             "name": "Arbol Decorado"
         },
-        "5875407c543d3f5aa232e303f808ddff.16": {
-            "guid": "5875407c543d3f5aa232e303f808ddff.16",
-            "lat": 41.08661,
-            "lng": 1.1428,
-            "name": "unknown"
-        },
         "587547343cbf4ed0ae8098f612093644.16": {
             "guid": "587547343cbf4ed0ae8098f612093644.16",
             "lat": 41.068661,
@@ -8444,6 +8504,12 @@
             "lng": 1.238767,
             "name": "Oficina d'Atenci\u00f3 Ciutadana"
         },
+        "66b3652d1f0d4055a5a33ce0df0dae7c.16": {
+            "guid": "66b3652d1f0d4055a5a33ce0df0dae7c.16",
+            "lat": 41.135455,
+            "lng": 1.249683,
+            "name": "Zona de ejercicios"
+        },
         "66b660fed8754e1884afcc7288c336b7.16": {
             "guid": "66b660fed8754e1884afcc7288c336b7.16",
             "lat": 41.118409,
@@ -9086,12 +9152,6 @@
             "lng": 1.101335,
             "name": "Fuente de H2O \"ECU\""
         },
-        "734d8618eed64295a069491a0fed5a4f.16": {
-            "guid": "734d8618eed64295a069491a0fed5a4f.16",
-            "lat": 41.066525,
-            "lng": 1.179288,
-            "name": "Ferro"
-        },
         "737678f7521d4f938dca6af860a4cfde.16": {
             "guid": "737678f7521d4f938dca6af860a4cfde.16",
             "lat": 41.08479,
@@ -9337,12 +9397,6 @@
             "lat": 41.115944,
             "lng": 1.194763,
             "name": "Bonavista - Parque Infantil"
-        },
-        "782a34e6444447e08bf4eba3763713b0.16": {
-            "guid": "782a34e6444447e08bf4eba3763713b0.16",
-            "lat": 41.155589,
-            "lng": 1.239182,
-            "name": "Urban Art BYG"
         },
         "7835867858c439e6a01ef1f2487d2a5a.16": {
             "guid": "7835867858c439e6a01ef1f2487d2a5a.16",
@@ -9644,6 +9698,12 @@
             "lng": 1.251063,
             "name": "Esgl\u00e9sia de Sant Nicolau de Bari"
         },
+        "7d28b986f3a745e38a4ffbc8794ef6d3.16": {
+            "guid": "7d28b986f3a745e38a4ffbc8794ef6d3.16",
+            "lat": 41.088331,
+            "lng": 1.158479,
+            "name": "Chinese Tea Cups"
+        },
         "7d496c9885504506b4b95501458f5fae.16": {
             "guid": "7d496c9885504506b4b95501458f5fae.16",
             "lat": 41.082277,
@@ -9914,12 +9974,6 @@
             "lng": 1.104797,
             "name": "Totem Kram"
         },
-        "822decbaa853445aa032b2d6b6d00a24.16": {
-            "guid": "822decbaa853445aa032b2d6b6d00a24.16",
-            "lat": 41.167695,
-            "lng": 1.102053,
-            "name": "Pipican"
-        },
         "8253192be44a49a2a4f2d8b8f2d03ed7.16": {
             "guid": "8253192be44a49a2a4f2d8b8f2d03ed7.16",
             "lat": 41.111151,
@@ -10057,6 +10111,12 @@
             "lat": 41.157121,
             "lng": 1.111827,
             "name": "Justice City Shield"
+        },
+        "850aca485e654cca89480343458a895d.16": {
+            "guid": "850aca485e654cca89480343458a895d.16",
+            "lat": 41.160009,
+            "lng": 1.113979,
+            "name": "Spaceman xori\u00e7o grafitty"
         },
         "85193112c3ba43d5a219686bbc88c707.16": {
             "guid": "85193112c3ba43d5a219686bbc88c707.16",
@@ -10519,6 +10579,12 @@
             "lat": 41.157919,
             "lng": 1.098927,
             "name": "Edifici Elefant"
+        },
+        "8e5c2259ee754b10b1b6c2aae2f83d08.16": {
+            "guid": "8e5c2259ee754b10b1b6c2aae2f83d08.16",
+            "lat": 41.150065,
+            "lng": 1.118393,
+            "name": "Classic playground"
         },
         "8e6c7200a1314d5788858ad66d005442.16": {
             "guid": "8e6c7200a1314d5788858ad66d005442.16",
@@ -11035,6 +11101,12 @@
             "lat": 41.086265,
             "lng": 1.159991,
             "name": "Caracoles Del Chiquipark"
+        },
+        "966f8a49370749248702426486c18382.11": {
+            "guid": "966f8a49370749248702426486c18382.11",
+            "lat": 41.077936,
+            "lng": 1.128816,
+            "name": "Torre Vella"
         },
         "96a7c002f028418393332202f4e04331.16": {
             "guid": "96a7c002f028418393332202f4e04331.16",
@@ -11744,12 +11816,6 @@
             "lng": 1.147454,
             "name": "Hidden Play"
         },
-        "a3996d029f34408a8d06027dfe6767eb.16": {
-            "guid": "a3996d029f34408a8d06027dfe6767eb.16",
-            "lat": 41.120985,
-            "lng": 1.23617,
-            "name": "Zona De Jocs Infantil"
-        },
         "a3bb216752e14607a3e0058c524bfd9e.16": {
             "guid": "a3bb216752e14607a3e0058c524bfd9e.16",
             "lat": 41.159179,
@@ -11809,6 +11875,12 @@
             "lat": 41.157582,
             "lng": 1.118529,
             "name": "Bulls court"
+        },
+        "a4d18edba8d3381ca18b5cad805b0774.16": {
+            "guid": "a4d18edba8d3381ca18b5cad805b0774.16",
+            "lat": 41.065772,
+            "lng": 1.055557,
+            "name": "Pont de la riera"
         },
         "a51adf8cb4454d74be590bd958bd398c.16": {
             "guid": "a51adf8cb4454d74be590bd958bd398c.16",
@@ -12097,12 +12169,6 @@
             "lat": 41.132905,
             "lng": 1.24372,
             "name": "CRAI Biblioteca Sescelades URV"
-        },
-        "ab39d8934c7d4aa59afc79c143491c2d.16": {
-            "guid": "ab39d8934c7d4aa59afc79c143491c2d.16",
-            "lat": 41.154199,
-            "lng": 1.106039,
-            "name": "Cubs De Reciclatge"
         },
         "ab3c31f51c3d474eb58c82090be0fc8e.16": {
             "guid": "ab3c31f51c3d474eb58c82090be0fc8e.16",
@@ -13093,6 +13159,12 @@
             "lat": 41.144427,
             "lng": 1.272066,
             "name": "Reliquiari"
+        },
+        "bd260572a03d4f699b9ffebece560cd0.16": {
+            "guid": "bd260572a03d4f699b9ffebece560cd0.16",
+            "lat": 41.155364,
+            "lng": 1.106169,
+            "name": "Ceramica De Flores"
         },
         "bd2822522cd047e88ec17f237aafaa70.16": {
             "guid": "bd2822522cd047e88ec17f237aafaa70.16",
@@ -14330,12 +14402,6 @@
             "lng": 1.176153,
             "name": "Estatua jarron"
         },
-        "d4070cbc5abb49e6b869a93036bfd602.16": {
-            "guid": "d4070cbc5abb49e6b869a93036bfd602.16",
-            "lat": 41.077175,
-            "lng": 1.124777,
-            "name": "Cotxet"
-        },
         "d409d12c90684f9a9d71f90bb962c218.16": {
             "guid": "d409d12c90684f9a9d71f90bb962c218.16",
             "lat": 41.111481,
@@ -14587,6 +14653,12 @@
             "lat": 41.114204,
             "lng": 1.147942,
             "name": "Fuente del Castillo"
+        },
+        "d951ae8d9b614d5b92ad249d34274338.16": {
+            "guid": "d951ae8d9b614d5b92ad249d34274338.16",
+            "lat": 41.156494,
+            "lng": 1.111816,
+            "name": "Dry Fountain"
         },
         "d95b11aeac1e4c65bf33b885437962e5.16": {
             "guid": "d95b11aeac1e4c65bf33b885437962e5.16",
@@ -14840,12 +14912,6 @@
             "lng": 1.32348,
             "name": "Punta de la Mora"
         },
-        "ddd8e4e0f5514ff8a7549179561970c2.16": {
-            "guid": "ddd8e4e0f5514ff8a7549179561970c2.16",
-            "lat": 41.074101,
-            "lng": 1.141214,
-            "name": "Escut De Copes"
-        },
         "dddddf13b95245a1828d295682e91356.16": {
             "guid": "dddddf13b95245a1828d295682e91356.16",
             "lat": 41.080163,
@@ -15073,6 +15139,12 @@
             "lat": 41.161573,
             "lng": 1.241162,
             "name": "Post Office"
+        },
+        "e175fed5bd1630a1870146057f23eaa6.16": {
+            "guid": "e175fed5bd1630a1870146057f23eaa6.16",
+            "lat": 41.161482,
+            "lng": 1.113314,
+            "name": "Federaci\u00f3 Catalana de Patinatge"
         },
         "e1885a8e35aa4cfb96caf572051c0c42.16": {
             "guid": "e1885a8e35aa4cfb96caf572051c0c42.16",
@@ -16033,6 +16105,12 @@
             "lat": 41.11034,
             "lng": 1.243544,
             "name": "Els Xiquets del Serrallo fan pinya"
+        },
+        "f31998ec904f4f5e9aa4cf9f566434d7.16": {
+            "guid": "f31998ec904f4f5e9aa4cf9f566434d7.16",
+            "lat": 41.154789,
+            "lng": 1.110506,
+            "name": "Wild Orange"
         },
         "f3254c22a98f4e7fa449c3355c9a70d4.16": {
             "guid": "f3254c22a98f4e7fa449c3355c9a70d4.16",

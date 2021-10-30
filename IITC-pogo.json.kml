@@ -287,6 +287,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Mas Miarnau</name>
+        <description>Mas Miarnau</description>
+        <LookAt>
+          <longitude>1.111522</longitude>
+          <latitude>41.164072</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.111522,41.164072,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Beach Playground Oasis</name>
         <description>Beach Playground Oasis</description>
         <LookAt>
@@ -1328,6 +1346,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.238246,41.12406,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Mural De Futbol 1</name>
+        <description>Mural De Futbol 1</description>
+        <LookAt>
+          <longitude>1.08516</longitude>
+          <latitude>41.155614</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.08516,41.155614,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -2573,6 +2609,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Pista patinatge i hockey ploms</name>
+        <description>Pista patinatge i hockey ploms</description>
+        <LookAt>
+          <longitude>1.117802</longitude>
+          <latitude>41.154153</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.117802,41.154153,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Mapa Informacion Turística </name>
         <description>Mapa Informacion Turística </description>
         <LookAt>
@@ -3254,6 +3308,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.118851,41.148746,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>unknown</name>
+        <description>unknown</description>
+        <LookAt>
+          <longitude>1.1428</longitude>
+          <latitude>41.08661</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.1428,41.08661,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -4265,6 +4337,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Ferro</name>
+        <description>Ferro</description>
+        <LookAt>
+          <longitude>1.179288</longitude>
+          <latitude>41.066525</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.179288,41.066525,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Aiguamolls Riera de Riudoms</name>
         <description>Aiguamolls Riera de Riudoms</description>
         <LookAt>
@@ -4442,6 +4532,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.098597,41.069444,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Urban Art BYG</name>
+        <description>Urban Art BYG</description>
+        <LookAt>
+          <longitude>1.239182</longitude>
+          <latitude>41.155589</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.239182,41.155589,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -4766,6 +4874,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.16075,41.056062,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Pipican</name>
+        <description>Pipican</description>
+        <LookAt>
+          <longitude>1.102053</longitude>
+          <latitude>41.167695</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.102053,41.167695,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -5957,6 +6083,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Zona De Jocs Infantil</name>
+        <description>Zona De Jocs Infantil</description>
+        <LookAt>
+          <longitude>1.23617</longitude>
+          <latitude>41.120985</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.23617,41.120985,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Les Fonts del Cementiri</name>
         <description>Les Fonts del Cementiri</description>
         <LookAt>
@@ -6296,6 +6440,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.243009,41.119871,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Cubs De Reciclatge</name>
+        <description>Cubs De Reciclatge</description>
+        <LookAt>
+          <longitude>1.106039</longitude>
+          <latitude>41.154199</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.106039,41.154199,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -7757,6 +7919,24 @@
         </Point>
       </Placemark>
     <Placemark>
+        <name>Cotxet</name>
+        <description>Cotxet</description>
+        <LookAt>
+          <longitude>1.124777</longitude>
+          <latitude>41.077175</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.124777,41.077175,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
         <name>Auditori Tas</name>
         <description>Auditori Tas</description>
         <LookAt>
@@ -7916,6 +8096,24 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.178985,41.077463,0</coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+        <name>Escut De Copes</name>
+        <description>Escut De Copes</description>
+        <LookAt>
+          <longitude>1.141214</longitude>
+          <latitude>41.074101</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#m_ylw-pushpin</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.141214,41.074101,0</coordinates>
         </Point>
       </Placemark>
     <Placemark>
@@ -9833,23 +10031,6 @@
           <coordinates>1.098815,41.083782,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Mas Miarnau</name>
-        <description>Mas Miarnau</description>
-        <LookAt>
-          <longitude>1.111522</longitude>
-          <latitude>41.164072</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.111522,41.164072,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Ouchies</name>
         <description>Ouchies</description>
         <LookAt>
@@ -11327,6 +11508,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.105536,41.157622,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Sant Manuel</name>
+        <description>Sant Manuel</description>
+        <LookAt>
+          <longitude>1.109594</longitude>
+          <latitude>41.156096</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.109594,41.156096,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Karate Kid</name>
@@ -13012,6 +13210,23 @@
           <coordinates>1.103064,41.15035,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Centre Cívic Del Carme</name>
+        <description>Centre Cívic Del Carme</description>
+        <LookAt>
+          <longitude>1.104987</longitude>
+          <latitude>41.154503</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.104987,41.154503,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Pin Up</name>
         <description>Pin Up</description>
         <LookAt>
@@ -14217,23 +14432,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.245587,41.119286,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Mural De Futbol 1</name>
-        <description>Mural De Futbol 1</description>
-        <LookAt>
-          <longitude>1.08516</longitude>
-          <latitude>41.155614</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.08516,41.155614,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Tower</name>
@@ -15730,6 +15928,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.149872,41.111456,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Cadillac</name>
+        <description>Cadillac</description>
+        <LookAt>
+          <longitude>1.102913</longitude>
+          <latitude>41.153271</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.102913,41.153271,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Entrada sud</name>
@@ -19062,23 +19277,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.134531,41.07501,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Pista patinatge i hockey ploms</name>
-        <description>Pista patinatge i hockey ploms</description>
-        <LookAt>
-          <longitude>1.117802</longitude>
-          <latitude>41.154153</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.117802,41.154153,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Salou Als Donants De Sang</name>
@@ -22515,23 +22713,6 @@
           <coordinates>1.132222,41.075446,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>unknown</name>
-        <description>unknown</description>
-        <LookAt>
-          <longitude>1.1428</longitude>
-          <latitude>41.08661</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.1428,41.08661,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>mini pista de patinaje</name>
         <description>mini pista de patinaje</description>
         <LookAt>
@@ -24504,6 +24685,23 @@
           <coordinates>1.238767,41.118312,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Zona de ejercicios</name>
+        <description>Zona de ejercicios</description>
+        <LookAt>
+          <longitude>1.249683</longitude>
+          <latitude>41.135455</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.249683,41.135455,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Recolectores</name>
         <description>Recolectores</description>
         <LookAt>
@@ -26323,23 +26521,6 @@
           <coordinates>1.101335,41.143592,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Ferro</name>
-        <description>Ferro</description>
-        <LookAt>
-          <longitude>1.179288</longitude>
-          <latitude>41.066525</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.179288,41.066525,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Tiki Monkeys</name>
         <description>Tiki Monkeys</description>
         <LookAt>
@@ -27035,23 +27216,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.194763,41.115944,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Urban Art BYG</name>
-        <description>Urban Art BYG</description>
-        <LookAt>
-          <longitude>1.239182</longitude>
-          <latitude>41.155589</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.239182,41.155589,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Oficina atenció ciutadà DARPA - Agents Rurals Tarragona</name>
@@ -27904,6 +28068,23 @@
           <coordinates>1.251063,41.111273,0</coordinates>
         </Point>
       </Placemark><Placemark>
+        <name>Chinese Tea Cups</name>
+        <description>Chinese Tea Cups</description>
+        <LookAt>
+          <longitude>1.158479</longitude>
+          <latitude>41.088331</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.158479,41.088331,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
         <name>Mosaico Foca</name>
         <description>Mosaico Foca</description>
         <LookAt>
@@ -28669,23 +28850,6 @@
           <coordinates>1.104797,41.078206,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Pipican</name>
-        <description>Pipican</description>
-        <LookAt>
-          <longitude>1.102053</longitude>
-          <latitude>41.167695</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.102053,41.167695,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Mussol Graffitti Vilaseca</name>
         <description>Mussol Graffitti Vilaseca</description>
         <LookAt>
@@ -29075,6 +29239,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.111827,41.157121,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Spaceman xoriço grafitty</name>
+        <description>Spaceman xoriço grafitty</description>
+        <LookAt>
+          <longitude>1.113979</longitude>
+          <latitude>41.160009</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.113979,41.160009,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Grafiti herramientas</name>
@@ -30384,6 +30565,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.098927,41.157919,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Classic playground</name>
+        <description>Classic playground</description>
+        <LookAt>
+          <longitude>1.118393</longitude>
+          <latitude>41.150065</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.118393,41.150065,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Parque infantil el Pinar de Perrquet</name>
@@ -31846,6 +32044,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.159991,41.086265,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Torre Vella</name>
+        <description>Torre Vella</description>
+        <LookAt>
+          <longitude>1.128816</longitude>
+          <latitude>41.077936</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.128816,41.077936,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Woody Statue</name>
@@ -33854,23 +34069,6 @@
           <coordinates>1.147454,41.079679,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Zona De Jocs Infantil</name>
-        <description>Zona De Jocs Infantil</description>
-        <LookAt>
-          <longitude>1.23617</longitude>
-          <latitude>41.120985</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.23617,41.120985,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Correos</name>
         <description>Correos</description>
         <LookAt>
@@ -34039,6 +34237,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.118529,41.157582,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Pont de la riera</name>
+        <description>Pont de la riera</description>
+        <LookAt>
+          <longitude>1.055557</longitude>
+          <latitude>41.065772</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.055557,41.065772,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Moulin</name>
@@ -34855,23 +35070,6 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.24372,41.132905,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
-        <name>Cubs De Reciclatge</name>
-        <description>Cubs De Reciclatge</description>
-        <LookAt>
-          <longitude>1.106039</longitude>
-          <latitude>41.154199</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.106039,41.154199,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Columna Puig I Valls</name>
@@ -37677,6 +37875,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.272066,41.144427,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Ceramica De Flores</name>
+        <description>Ceramica De Flores</description>
+        <LookAt>
+          <longitude>1.106169</longitude>
+          <latitude>41.155364</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.106169,41.155364,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Trobada Anual</name>
@@ -41181,23 +41396,6 @@
           <coordinates>1.176153,41.068019,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Cotxet</name>
-        <description>Cotxet</description>
-        <LookAt>
-          <longitude>1.124777</longitude>
-          <latitude>41.077175</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.124777,41.077175,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Area de jocs de l’ALF</name>
         <description>Area de jocs de l’ALF</description>
         <LookAt>
@@ -41910,6 +42108,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.147942,41.114204,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Dry Fountain</name>
+        <description>Dry Fountain</description>
+        <LookAt>
+          <longitude>1.111816</longitude>
+          <latitude>41.156494</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.111816,41.156494,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Escut Víking</name>
@@ -42626,23 +42841,6 @@
           <coordinates>1.32348,41.128948,0</coordinates>
         </Point>
       </Placemark><Placemark>
-        <name>Escut De Copes</name>
-        <description>Escut De Copes</description>
-        <LookAt>
-          <longitude>1.141214</longitude>
-          <latitude>41.074101</latitude>
-          <altitude>0</altitude>
-          <heading>0</heading>
-          <tilt>0</tilt>
-          <range>500</range>
-          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-        </LookAt>
-        <styleUrl>#msn_placemark_circle</styleUrl>
-        <Point>
-          <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>1.141214,41.074101,0</coordinates>
-        </Point>
-      </Placemark><Placemark>
         <name>Parque Infantil Cal•lipolis</name>
         <description>Parque Infantil Cal•lipolis</description>
         <LookAt>
@@ -43287,6 +43485,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.241162,41.161573,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Federació Catalana de Patinatge</name>
+        <description>Federació Catalana de Patinatge</description>
+        <LookAt>
+          <longitude>1.113314</longitude>
+          <latitude>41.161482</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.113314,41.161482,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Playground "ECU" area de escalada</name>
@@ -46007,6 +46222,23 @@
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>1.243544,41.11034,0</coordinates>
+        </Point>
+      </Placemark><Placemark>
+        <name>Wild Orange</name>
+        <description>Wild Orange</description>
+        <LookAt>
+          <longitude>1.110506</longitude>
+          <latitude>41.154789</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>500</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#msn_placemark_circle</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>1.110506,41.154789,0</coordinates>
         </Point>
       </Placemark><Placemark>
         <name>Mural de los Caballitos</name>
